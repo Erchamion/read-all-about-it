@@ -16,6 +16,12 @@
       <select id="date-picker" aria-label="Digest date"></select>
     </label>
   </header>
+  <nav id="filter" aria-label="Category filter">
+    <button data-filter="all" aria-pressed="true">All</button>
+    <button data-filter="announcements" aria-pressed="false">📣 Announcements <span class="count"></span></button>
+    <button data-filter="github" aria-pressed="false">🐙 GitHub <span class="count"></span></button>
+    <button data-filter="research" aria-pressed="false">📄 Research <span class="count"></span></button>
+  </nav>
   <main>
     <div id="notices"></div>
     <section id="announcements">

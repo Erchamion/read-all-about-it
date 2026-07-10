@@ -13,6 +13,25 @@ function el(tag, className, text) {
   return node;
 }
 
+function currentFilter() {
+  const name = location.hash.slice(1);
+  return SECTIONS.includes(name) ? name : "all";
+}
+
+function applyFilter(name) {
+  for (const button of document.querySelectorAll("#filter button")) {
+    const active = button.dataset.filter === name;
+    button.classList.toggle("active", active);
+    button.setAttribute("aria-pressed", String(active));
+  }
+  for (const section of SECTIONS) {
+    const hidden = name !== "all" && name !== section;
+    document.getElementById(section).classList.toggle("hidden", hidden);
+  }
+  const url = name === "all" ? location.pathname + location.search : `#${name}`;
+  history.replaceState(null, "", url);
+}
+
 function itemCard(item) {
   const card = el("article", "card");
 
@@ -49,6 +68,10 @@ function itemCard(item) {
 }
 
 function render(digest) {
+  for (const name of SECTIONS) {
+    const count = (digest.categories[name] || []).length;
+    document.querySelector(`#filter button[data-filter="${name}"] .count`).textContent = String(count);
+  }
   const notices = document.getElementById("notices");
   notices.replaceChildren();
   for (const error of digest.errors || []) {
@@ -64,6 +87,10 @@ function render(digest) {
 }
 
 async function init() {
+  for (const button of document.querySelectorAll("#filter button")) {
+    button.addEventListener("click", () => applyFilter(button.dataset.filter));
+  }
+  applyFilter(currentFilter());
   const notices = document.getElementById("notices");
   try {
     const dates = await loadJSON("data/index.json");
