@@ -1,6 +1,6 @@
 {
   "date": "2026-07-10",
-  "generated_at": "2026-07-10T18:35:30+00:00",
+  "generated_at": "2026-07-10T19:04:30+00:00",
   "errors": [],
   "categories": {
     "announcements": [
@@ -1467,7 +1467,7 @@
         "title": "DietrichGebert/ponytail",
         "url": "https://github.com/DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "stars": 80014,
+        "stars": 80032,
         "language": "JavaScript",
         "topics": [
           "agent-skills",
@@ -1492,7 +1492,7 @@
         "title": "alibaba/open-code-review",
         "url": "https://github.com/alibaba/open-code-review",
         "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-        "stars": 10356,
+        "stars": 10357,
         "language": "Go",
         "topics": [
           "agent",
@@ -1516,7 +1516,7 @@
         "title": "omnigent-ai/omnigent",
         "url": "https://github.com/omnigent-ai/omnigent",
         "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-        "stars": 6985,
+        "stars": 6988,
         "language": "Python",
         "topics": [
           "agent-framework",
@@ -1542,7 +1542,7 @@
         "title": "nexu-io/html-anything",
         "url": "https://github.com/nexu-io/html-anything",
         "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / ",
-        "stars": 7675,
+        "stars": 7676,
         "language": "HTML",
         "topics": [
           "agent-skills",
@@ -1631,7 +1631,7 @@
         "title": "datawhalechina/Agent-Learning-Hub",
         "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "description": "AI Agent 学习路线与资料库收集",
-        "stars": 5116,
+        "stars": 5117,
         "language": "HTML",
         "topics": [],
         "created_at": "2026-05-17T06:41:12Z",
@@ -1686,7 +1686,7 @@
         "title": "isjiamu/gzh-design-skill",
         "url": "https://github.com/isjiamu/gzh-design-skill",
         "description": "把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.",
-        "stars": 1826,
+        "stars": 1827,
         "language": "HTML",
         "topics": [
           "agent-skill",
@@ -1787,7 +1787,7 @@
         "title": "oomol-lab/open-connector",
         "url": "https://github.com/oomol-lab/open-connector",
         "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
-        "stars": 1233,
+        "stars": 1234,
         "language": "TypeScript",
         "topics": [
           "agent-tools",
@@ -1891,7 +1891,7 @@
         "title": "Dong90/oh-my-taiyiforge",
         "url": "https://github.com/Dong90/oh-my-taiyiforge",
         "description": "AI workflow automation plugin for intelligent code generation with Claude/Codex",
-        "stars": 992,
+        "stars": 993,
         "language": "TypeScript",
         "topics": [
           "ai",
@@ -2092,7 +2092,7 @@
         "title": "microsoft/flint-chart",
         "url": "https://github.com/microsoft/flint-chart",
         "description": "🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs.",
-        "stars": 1195,
+        "stars": 1199,
         "language": "TypeScript",
         "topics": [
           "ai-agents",
@@ -2101,7 +2101,7 @@
           "mcp-server"
         ],
         "created_at": "2026-05-13T00:00:28Z",
-        "score": 11.22,
+        "score": 11.23,
         "signals": [
           "rising",
           "keyword:mcp"
@@ -2777,7 +2777,7 @@
         "title": "kerlenton/mcpsnoop",
         "url": "https://github.com/kerlenton/mcpsnoop",
         "description": "Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.",
-        "stars": 240,
+        "stars": 241,
         "language": "Go",
         "topics": [
           "bubbletea",
@@ -2790,7 +2790,7 @@
           "golang"
         ],
         "created_at": "2026-06-27T10:25:09Z",
-        "score": 8.91,
+        "score": 8.92,
         "signals": [
           "rising",
           "keyword:mcp"
