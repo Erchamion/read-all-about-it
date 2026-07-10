@@ -20,14 +20,21 @@ def test_seen_roundtrip_and_filtering(tmp_path):
     assert seen == {}
 
     items = [item("a"), item("b")]
-    assert filter_new(items, seen) == items
+    assert filter_new(items, seen, "2026-07-10") == items
 
     mark_seen(items, seen, "2026-07-10")
     save_seen(seen, path)
 
     reloaded = load_seen(path)
     assert reloaded == {"a": "2026-07-10", "b": "2026-07-10"}
-    assert filter_new([item("a"), item("c")], reloaded) == [item("c")]
+    # a later-day run dedupes items already seen on an earlier date
+    assert filter_new([item("a"), item("c")], reloaded, "2026-07-11") == [item("c")]
+
+
+def test_filter_new_keeps_items_seen_earlier_today(tmp_path):
+    seen = {"a": "2026-07-10"}
+    # a same-day rerun must not drop items already marked seen today
+    assert filter_new([item("a"), item("b")], seen, "2026-07-10") == [item("a"), item("b")]
 
 
 def test_build_digest_ranks_each_category_by_score():

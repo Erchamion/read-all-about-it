@@ -11,8 +11,10 @@ def load_seen(path):
     return json.loads(path.read_text())
 
 
-def filter_new(items, seen):
-    return [item for item in items if item["id"] not in seen]
+def filter_new(items, seen, date_str):
+    return [
+        item for item in items if item["id"] not in seen or seen[item["id"]] == date_str
+    ]
 
 
 def mark_seen(items, seen, date_str):

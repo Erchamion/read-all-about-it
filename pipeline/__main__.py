@@ -33,9 +33,9 @@ def main(argv=None):
     errors = news_errors + github_errors + arxiv_errors
 
     seen = aggregate.load_seen(args.seen_path)
-    announcements = aggregate.filter_new(announcements, seen)
-    repos = aggregate.filter_new(repos, seen)
-    papers = aggregate.filter_new(papers, seen)
+    announcements = aggregate.filter_new(announcements, seen, date_str)
+    repos = aggregate.filter_new(repos, seen, date_str)
+    papers = aggregate.filter_new(papers, seen, date_str)
 
     total = len(announcements) + len(repos) + len(papers)
     if total == 0 and errors:

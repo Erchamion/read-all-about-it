@@ -62,11 +62,28 @@ def test_main_dedupes_on_second_run(tmp_path, monkeypatch):
     monkeypatch.setattr(fetch_arxiv, "fetch_arxiv", lambda *a, **k: ([], []))
 
     assert run(tmp_path) == 0
-    assert run(tmp_path) == 0  # same item again: deduped, still succeeds
+    assert run(tmp_path) == 0  # same-day rerun: same item again, still succeeds
 
     day_files = [p for p in (tmp_path / "data").glob("*-*-*.json")]
     digest = json.loads(day_files[0].read_text())
-    assert digest["categories"]["announcements"] == []  # second run rewrote today
+    # same-day reruns must be idempotent: the announcement is still there
+    assert digest["categories"]["announcements"][0]["id"] == ANNOUNCEMENT["id"]
+
+
+def test_main_dedupes_items_seen_on_an_earlier_day(tmp_path, monkeypatch):
+    monkeypatch.setattr(fetch_news, "fetch_news", lambda *a, **k: ([ANNOUNCEMENT], []))
+    monkeypatch.setattr(fetch_github, "fetch_github", lambda *a, **k: ([], []))
+    monkeypatch.setattr(fetch_arxiv, "fetch_arxiv", lambda *a, **k: ([], []))
+
+    seen_path = tmp_path / "seen.json"
+    seen_path.write_text(json.dumps({ANNOUNCEMENT["id"]: "2026-07-09"}))
+
+    assert run(tmp_path) == 0
+
+    day_files = [p for p in (tmp_path / "data").glob("*-*-*.json")]
+    digest = json.loads(day_files[0].read_text())
+    # an item already seen on an earlier day is deduped, not republished
+    assert digest["categories"]["announcements"] == []
 
 
 def test_main_fails_when_all_sources_error(tmp_path, monkeypatch):
