@@ -4,8 +4,7 @@ import os
 import time
 from datetime import timedelta
 
-import requests
-
+from .http import get_with_retry
 from .vetting import keyword_matches, score_repo
 
 API_URL = "https://api.github.com/search/repositories"
@@ -20,8 +19,7 @@ def default_fetcher(params):
     token = os.environ.get("GITHUB_TOKEN")
     if token:
         headers["Authorization"] = f"Bearer {token}"
-    response = requests.get(API_URL, params=params, headers=headers, timeout=30)
-    response.raise_for_status()
+    response = get_with_retry(API_URL, params=params, headers=headers, timeout=30)
     time.sleep(2)  # stay under the search API rate limit
     return response.json()
 

@@ -1,14 +1,13 @@
 """Fetch company announcements from RSS/Atom feeds and scraped news pages."""
 
 import calendar
-import time
 from datetime import datetime, timedelta, timezone
 from urllib.parse import urljoin
 
 import feedparser
-import requests
 from bs4 import BeautifulSoup
 
+from .http import get_with_retry
 from .vetting import keyword_matches
 
 USER_AGENT = "read-all-about-it/1.0 (+https://github.com/jonstaten/read-all-about-it)"
@@ -16,16 +15,8 @@ MIN_TITLE_LENGTH = 8
 
 
 def default_fetcher(url):
-    last_error = None
-    for attempt in range(3):
-        try:
-            response = requests.get(url, timeout=30, headers={"User-Agent": USER_AGENT})
-            response.raise_for_status()
-            return response.text
-        except requests.RequestException as error:
-            last_error = error
-            time.sleep(2**attempt)
-    raise last_error
+    response = get_with_retry(url, headers={"User-Agent": USER_AGENT})
+    return response.text
 
 
 def entry_published(entry):

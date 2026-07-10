@@ -3,9 +3,9 @@
 from datetime import timedelta
 
 import feedparser
-import requests
 
 from .fetch_news import USER_AGENT, entry_published
+from .http import get_with_retry
 from .vetting import keyword_matches, score_paper
 
 API_URL = "https://export.arxiv.org/api/query"
@@ -13,10 +13,9 @@ FETCH_WINDOW = 200  # newest submissions to scan per run
 
 
 def default_fetcher(params):
-    response = requests.get(
+    response = get_with_retry(
         API_URL, params=params, timeout=60, headers={"User-Agent": USER_AGENT}
     )
-    response.raise_for_status()
     return response.text
 
 
