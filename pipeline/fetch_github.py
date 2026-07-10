@@ -67,8 +67,12 @@ def fetch_github(config, now, fetcher=default_fetcher):
                 errors.append({"source": f"github:{mode}:{term}", "message": str(error)})
                 continue
             for raw in data.get("items", []):
-                if raw["full_name"] in seen_names:
+                try:
+                    if raw["full_name"] in seen_names:
+                        continue
+                    seen_names.add(raw["full_name"])
+                    items.append(_repo_item(raw, mode, config["repo_keywords"]))
+                except Exception as error:
+                    errors.append({"source": f"github:{mode}:{term}", "message": str(error)})
                     continue
-                seen_names.add(raw["full_name"])
-                items.append(_repo_item(raw, mode, config["repo_keywords"]))
     return items, errors

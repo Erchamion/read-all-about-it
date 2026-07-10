@@ -62,3 +62,29 @@ def test_fetch_github_records_query_failures_and_continues():
     assert len(items) == 1
     assert len(errors) == 2  # one per mode for the failing term
     assert errors[0]["source"] == "github:new:mcp server"
+
+
+def test_fetch_github_records_malformed_items_and_continues():
+    call_count = [0]
+
+    def fetcher(params):
+        call_count[0] += 1
+        # First call has malformed item (missing full_name), valid item
+        if call_count[0] == 1:
+            return {
+                "items": [
+                    {"bad": "data"},  # missing full_name
+                    REPO,  # valid
+                ]
+            }
+        # Other calls return just valid items
+        return {"items": [REPO] if call_count[0] == 2 else []}
+
+    items, errors = fetch_github(CONFIG, NOW, fetcher=fetcher)
+    # Should return the valid item from first query, no items from others (dedupe)
+    assert len(items) == 1
+    assert items[0]["id"] == "acme/agent-kit"
+    # Should record error for malformed item in first query
+    assert len(errors) == 1
+    assert errors[0]["source"] == "github:new:ai agent"
+    assert "full_name" in errors[0]["message"]
