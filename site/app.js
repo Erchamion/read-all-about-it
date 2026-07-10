@@ -71,7 +71,12 @@ async function init() {
       picker.appendChild(option);
     }
     picker.addEventListener("change", async () => {
-      render(await loadJSON(`data/${picker.value}.json`));
+      try {
+        render(await loadJSON(`data/${picker.value}.json`));
+      } catch (error) {
+        notices.replaceChildren();
+        notices.appendChild(el("p", "notice", `Failed to load digest: ${error.message}`));
+      }
     });
     if (dates.length) {
       render(await loadJSON(`data/${dates[0]}.json`));
