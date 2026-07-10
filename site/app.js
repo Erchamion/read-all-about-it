@@ -17,11 +17,15 @@ function itemCard(item) {
   const card = el("article", "card");
 
   const title = el("h3");
-  const link = el("a", null, item.title);
-  link.href = item.url;
-  link.target = "_blank";
-  link.rel = "noopener";
-  title.appendChild(link);
+  if (/^https?:\/\//i.test(item.url)) {
+    const link = el("a", null, item.title);
+    link.href = item.url;
+    link.target = "_blank";
+    link.rel = "noopener";
+    title.appendChild(link);
+  } else {
+    title.textContent = item.title;
+  }
   card.appendChild(title);
 
   const bits = [
