@@ -1,16 +1,7 @@
 {
   "date": "2026-07-10",
-  "generated_at": "2026-07-10T17:45:05+00:00",
-  "errors": [
-    {
-      "source": "github:rising:agent framework",
-      "message": "403 Client Error: rate limit exceeded for url: https://api.github.com/search/repositories?q=%22agent+framework%22+created%3A%3E%3D2026-05-11+stars%3A%3E%3D200&sort=stars&order=desc&per_page=30"
-    },
-    {
-      "source": "github:rising:ai workflow",
-      "message": "403 Client Error: rate limit exceeded for url: https://api.github.com/search/repositories?q=%22ai+workflow%22+created%3A%3E%3D2026-05-11+stars%3A%3E%3D200&sort=stars&order=desc&per_page=30"
-    }
-  ],
+  "generated_at": "2026-07-10T18:35:30+00:00",
+  "errors": [],
   "categories": {
     "announcements": [
       {
@@ -1476,7 +1467,7 @@
         "title": "DietrichGebert/ponytail",
         "url": "https://github.com/DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "stars": 79981,
+        "stars": 80014,
         "language": "JavaScript",
         "topics": [
           "agent-skills",
@@ -1501,7 +1492,7 @@
         "title": "alibaba/open-code-review",
         "url": "https://github.com/alibaba/open-code-review",
         "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-        "stars": 10352,
+        "stars": 10356,
         "language": "Go",
         "topics": [
           "agent",
@@ -1525,7 +1516,7 @@
         "title": "omnigent-ai/omnigent",
         "url": "https://github.com/omnigent-ai/omnigent",
         "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-        "stars": 6983,
+        "stars": 6985,
         "language": "Python",
         "topics": [
           "agent-framework",
@@ -1576,7 +1567,7 @@
         "title": "Forward-Future/loopy",
         "url": "https://github.com/Forward-Future/loopy",
         "description": "A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows.",
-        "stars": 2627,
+        "stars": 2628,
         "language": "JavaScript",
         "topics": [
           "agent-skills",
@@ -1655,7 +1646,7 @@
         "title": "chuspeeism/dashiAI-ppt-skill",
         "url": "https://github.com/chuspeeism/dashiAI-ppt-skill",
         "description": "An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.",
-        "stars": 2270,
+        "stars": 2276,
         "language": "JavaScript",
         "topics": [
           "agent-skill",
@@ -1695,7 +1686,7 @@
         "title": "isjiamu/gzh-design-skill",
         "url": "https://github.com/isjiamu/gzh-design-skill",
         "description": "把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.",
-        "stars": 1825,
+        "stars": 1826,
         "language": "HTML",
         "topics": [
           "agent-skill",
@@ -1708,7 +1699,7 @@
           "markdown"
         ],
         "created_at": "2026-07-01T04:28:03Z",
-        "score": 12.83,
+        "score": 12.84,
         "signals": [
           "rising",
           "keyword:agent",
@@ -1720,7 +1711,7 @@
         "title": "fancyboi999/ai-engineering-from-scratch-zh",
         "url": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
         "description": "Agent工程师最全学习路径 · 从零精通 AI 工程 · 20 阶段 503 课 · 中文全量翻译 + 配套站点 + 动画讲解视频 · 如何成为 AI Agent 工程师的修成指南",
-        "stars": 800,
+        "stars": 801,
         "language": "Python",
         "topics": [
           "agents",
@@ -1739,6 +1730,33 @@
           "keyword:agent",
           "keyword:llm",
           "keyword:mcp"
+        ]
+      },
+      {
+        "id": "Light0305/Light-skills",
+        "title": "Light0305/Light-skills",
+        "url": "https://github.com/Light0305/Light-skills",
+        "description": "An AI workflow skill pack for research, competitions, and innovation projects.",
+        "stars": 399,
+        "language": "Python",
+        "topics": [
+          "academic-writing",
+          "agent-skills",
+          "ai-agent",
+          "ai-skills",
+          "claude-code",
+          "codex",
+          "latex",
+          "literature-review"
+        ],
+        "created_at": "2026-06-07T04:23:54Z",
+        "score": 12.64,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:workflow",
+          "keyword:skill"
         ]
       },
       {
@@ -1769,7 +1787,7 @@
         "title": "oomol-lab/open-connector",
         "url": "https://github.com/oomol-lab/open-connector",
         "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
-        "stars": 1230,
+        "stars": 1233,
         "language": "TypeScript",
         "topics": [
           "agent-tools",
@@ -1794,7 +1812,7 @@
         "title": "dongshuyan/compass-skills",
         "url": "https://github.com/dongshuyan/compass-skills",
         "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
-        "stars": 596,
+        "stars": 597,
         "language": "Python",
         "topics": [
           "agent-memory",
@@ -1839,6 +1857,58 @@
           "keyword:agent",
           "keyword:mcp",
           "keyword:skill"
+        ]
+      },
+      {
+        "id": "modelstudioai/cli",
+        "title": "modelstudioai/cli",
+        "url": "https://github.com/modelstudioai/cli",
+        "description": "Official Model Studio CLI（阿里云百炼 CLI）built for AI Agent frameworks, exposing models, search, multimodal, and workflow capabilities as structured tool calls.",
+        "stars": 267,
+        "language": "TypeScript",
+        "topics": [
+          "ai-agent",
+          "ai-cli",
+          "aliyun",
+          "bailian",
+          "cli",
+          "command-line-tool",
+          "dashscope",
+          "llm-tools"
+        ],
+        "created_at": "2026-05-28T01:46:10Z",
+        "score": 12.07,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp",
+          "keyword:workflow"
+        ]
+      },
+      {
+        "id": "Dong90/oh-my-taiyiforge",
+        "title": "Dong90/oh-my-taiyiforge",
+        "url": "https://github.com/Dong90/oh-my-taiyiforge",
+        "description": "AI workflow automation plugin for intelligent code generation with Claude/Codex",
+        "stars": 992,
+        "language": "TypeScript",
+        "topics": [
+          "ai",
+          "automation",
+          "claude",
+          "code-generation",
+          "codex",
+          "developer-tools",
+          "harness",
+          "harness-engineering"
+        ],
+        "created_at": "2026-06-05T02:25:33Z",
+        "score": 11.96,
+        "signals": [
+          "rising",
+          "keyword:llm",
+          "keyword:workflow"
         ]
       },
       {
@@ -1972,7 +2042,7 @@
         "title": "benchflow-ai/awesome-evals",
         "url": "https://github.com/benchflow-ai/awesome-evals",
         "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
-        "stars": 701,
+        "stars": 702,
         "language": null,
         "topics": [
           "agent-evaluation",
@@ -2022,7 +2092,7 @@
         "title": "microsoft/flint-chart",
         "url": "https://github.com/microsoft/flint-chart",
         "description": "🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs.",
-        "stars": 1191,
+        "stars": 1195,
         "language": "TypeScript",
         "topics": [
           "ai-agents",
@@ -2169,11 +2239,11 @@
         "title": "lingbol088-spec/reverse-flow-skill",
         "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
         "description": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
-        "stars": 488,
+        "stars": 489,
         "language": "Python",
         "topics": [],
         "created_at": "2026-06-30T22:08:31Z",
-        "score": 10.93,
+        "score": 10.94,
         "signals": [
           "rising",
           "keyword:agent",
@@ -2185,7 +2255,7 @@
         "title": "yb2460/harness-anything",
         "url": "https://github.com/yb2460/harness-anything",
         "description": "Harness Anything - AI agent control hub: WPS, MS Office, Zotero, Photoshop, 47 CLI commands, 27 academic skills, SVG-to-PPTX",
-        "stars": 920,
+        "stars": 921,
         "language": "Python",
         "topics": [
           "ai-agent",
@@ -2251,7 +2321,7 @@
         "title": "shenmintao/marginalia",
         "url": "https://github.com/shenmintao/marginalia",
         "description": "A library-science-inspired personal knowledge management system with LLM agents",
-        "stars": 210,
+        "stars": 211,
         "language": "Python",
         "topics": [
           "apple-silicon",
@@ -2264,7 +2334,7 @@
           "information-retrieval"
         ],
         "created_at": "2026-05-23T14:23:38Z",
-        "score": 10.72,
+        "score": 10.73,
         "signals": [
           "rising",
           "keyword:agent",
@@ -2277,7 +2347,7 @@
         "title": "lycorp-jp/sim-use",
         "url": "https://github.com/lycorp-jp/sim-use",
         "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
-        "stars": 771,
+        "stars": 772,
         "language": "Swift",
         "topics": [
           "accessibility",
@@ -2347,7 +2417,7 @@
         "title": "oxbshw/watch-skill",
         "url": "https://github.com/oxbshw/watch-skill",
         "description": "Give any AI agent the ability to watch video — and to watch its own work and fix it. MCP + CLI + REST; scene-aware frames, OCR, local-first transcription, persistent index, and THE LOOP.",
-        "stars": 142,
+        "stars": 143,
         "language": "Python",
         "topics": [
           "agent-tools",
@@ -2360,7 +2430,7 @@
           "multimodal"
         ],
         "created_at": "2026-07-05T23:25:30Z",
-        "score": 10.16,
+        "score": 10.17,
         "signals": [
           "new",
           "keyword:agent",
@@ -2678,7 +2748,7 @@
         "title": "ComputeRoyale/Compute-Royale",
         "url": "https://github.com/ComputeRoyale/Compute-Royale",
         "description": "Bet on AI agents racing real GPUs. They rent compute, do hash-verified work, earn and you stake Solana on the best. Live on Solana.",
-        "stars": 499,
+        "stars": 500,
         "language": "TypeScript",
         "topics": [],
         "created_at": "2026-06-30T01:04:13Z",
@@ -2724,6 +2794,30 @@
         "signals": [
           "rising",
           "keyword:mcp"
+        ]
+      },
+      {
+        "id": "2417467487-hub/Trend2Video-Pro",
+        "title": "2417467487-hub/Trend2Video-Pro",
+        "url": "https://github.com/2417467487-hub/Trend2Video-Pro",
+        "description": "Trend-to-Video Agent Framework for publish-ready short video packages",
+        "stars": 212,
+        "language": "Python",
+        "topics": [
+          "agent-framework",
+          "ai-agents",
+          "ai-video",
+          "chrome-extension",
+          "content-automation",
+          "content-execution",
+          "creator-tools",
+          "edge-tts"
+        ],
+        "created_at": "2026-06-08T08:50:25Z",
+        "score": 8.73,
+        "signals": [
+          "rising",
+          "keyword:agent"
         ]
       },
       {
@@ -2981,11 +3075,11 @@
         "title": "Moh4696/build-ai-agents-free",
         "url": "https://github.com/Moh4696/build-ai-agents-free",
         "description": "",
-        "stars": 92,
+        "stars": 95,
         "language": "Python",
         "topics": [],
         "created_at": "2026-07-08T17:19:29Z",
-        "score": 6.54,
+        "score": 6.58,
         "signals": [
           "new"
         ]
@@ -3061,6 +3155,31 @@
         "signals": [
           "new",
           "keyword:rag"
+        ]
+      },
+      {
+        "id": "cobusgreyling/llm-wiki",
+        "title": "cobusgreyling/llm-wiki",
+        "url": "https://github.com/cobusgreyling/llm-wiki",
+        "description": "A compounding knowledge base maintained by LLM agents — inspired by Karpathy's LLM Wiki pattern",
+        "stars": 15,
+        "language": "Python",
+        "topics": [
+          "agents",
+          "ai-agents",
+          "blog",
+          "documentation",
+          "index",
+          "karpathy",
+          "knowledge-base",
+          "llm"
+        ],
+        "created_at": "2026-07-03T09:21:40Z",
+        "score": 6.0,
+        "signals": [
+          "new",
+          "keyword:llm",
+          "keyword:mcp"
         ]
       },
       {
@@ -3251,6 +3370,29 @@
         "signals": [
           "new",
           "keyword:agent"
+        ]
+      },
+      {
+        "id": "amitshekhariitbhu/100-days-of-ai",
+        "title": "amitshekhariitbhu/100-days-of-ai",
+        "url": "https://github.com/amitshekhariitbhu/100-days-of-ai",
+        "description": "Take the 100 Days of AI challenge - learn one AI concept a day, from machine learning basics to AI agents in production, in 100 days.",
+        "stars": 16,
+        "language": null,
+        "topics": [
+          "100daysofai",
+          "ai",
+          "ai-agents",
+          "large-language-models",
+          "llm",
+          "llms",
+          "machine-learning"
+        ],
+        "created_at": "2026-07-10T02:23:30Z",
+        "score": 5.09,
+        "signals": [
+          "new",
+          "keyword:llm"
         ]
       },
       {
