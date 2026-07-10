@@ -64,6 +64,23 @@ def test_fetch_github_records_query_failures_and_continues():
     assert errors[0]["source"] == "github:new:mcp server"
 
 
+def test_fetch_github_records_non_dict_responses_and_continues():
+    call_count = [0]
+
+    def fetcher(params):
+        call_count[0] += 1
+        # First query returns a non-dict payload; the rest are valid
+        if call_count[0] == 1:
+            return None
+        return {"items": [REPO] if call_count[0] == 2 else []}
+
+    items, errors = fetch_github(CONFIG, NOW, fetcher=fetcher)
+    assert len(items) == 1
+    assert items[0]["id"] == "acme/agent-kit"
+    assert len(errors) == 1
+    assert errors[0]["source"] == "github:new:ai agent"
+
+
 def test_fetch_github_records_malformed_items_and_continues():
     call_count = [0]
 

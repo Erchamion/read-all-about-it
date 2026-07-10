@@ -66,6 +66,10 @@ def fetch_github(config, now, fetcher=default_fetcher):
             except Exception as error:
                 errors.append({"source": f"github:{mode}:{term}", "message": str(error)})
                 continue
+            if not isinstance(data, dict):
+                message = f"expected dict response, got {type(data).__name__}"
+                errors.append({"source": f"github:{mode}:{term}", "message": message})
+                continue
             for raw in data.get("items", []):
                 try:
                     if raw["full_name"] in seen_names:
