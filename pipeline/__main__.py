@@ -31,18 +31,18 @@ def main(argv=None):
         config["arxiv"], config["research_keywords"], now
     )
     errors = news_errors + github_errors + arxiv_errors
+    raw_total = len(announcements) + len(repos) + len(papers)
+
+    if raw_total == 0 and errors:
+        print("All sources failed; not publishing an empty digest.", file=sys.stderr)
+        for error in errors:
+            print(f"  {error['source']}: {error['message']}", file=sys.stderr)
+        return 1
 
     seen = aggregate.load_seen(args.seen_path)
     announcements = aggregate.filter_new(announcements, seen, date_str)
     repos = aggregate.filter_new(repos, seen, date_str)
     papers = aggregate.filter_new(papers, seen, date_str)
-
-    total = len(announcements) + len(repos) + len(papers)
-    if total == 0 and errors:
-        print("All sources failed; not publishing an empty digest.", file=sys.stderr)
-        for error in errors:
-            print(f"  {error['source']}: {error['message']}", file=sys.stderr)
-        return 1
 
     for group in (announcements, repos, papers):
         aggregate.mark_seen(group, seen, date_str)

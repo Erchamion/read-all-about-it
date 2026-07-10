@@ -94,3 +94,24 @@ def test_main_fails_when_all_sources_error(tmp_path, monkeypatch):
 
     assert run(tmp_path) == 1
     assert not (tmp_path / "data").exists()  # nothing published
+
+
+def test_main_succeeds_when_fully_deduped_even_with_a_source_error(tmp_path, monkeypatch):
+    # A quiet day where every fetched item was already published on an earlier
+    # day (fully deduped) plus one unrelated source error must NOT be treated
+    # as "all sources failed" -- raw items were fetched, so we still publish.
+    monkeypatch.setattr(fetch_news, "fetch_news", lambda *a, **k: ([ANNOUNCEMENT], []))
+    monkeypatch.setattr(fetch_github, "fetch_github", lambda *a, **k: ([], []))
+    error = [{"source": "arxiv", "message": "boom"}]
+    monkeypatch.setattr(fetch_arxiv, "fetch_arxiv", lambda *a, **k: ([], error))
+
+    seen_path = tmp_path / "seen.json"
+    seen_path.write_text(json.dumps({ANNOUNCEMENT["id"]: "2026-07-09"}))
+
+    assert run(tmp_path) == 0
+
+    day_files = [p for p in (tmp_path / "data").glob("*-*-*.json")]
+    assert len(day_files) == 1
+    digest = json.loads(day_files[0].read_text())
+    assert digest["categories"]["announcements"] == []
+    assert digest["errors"] == error
