@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Read All About It — Daily AI Digest</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div>
+      <h1>Read All About It</h1>
+      <p class="tagline">Daily AI digest — announcements, projects, research</p>
+    </div>
+    <label class="picker">Day
+      <select id="date-picker" aria-label="Digest date"></select>
+    </label>
+  </header>
+  <main>
+    <div id="notices"></div>
+    <section id="announcements">
+      <h2>📣 Announcements</h2>
+      <div class="items"></div>
+    </section>
+    <section id="github">
+      <h2>🐙 GitHub Projects</h2>
+      <div class="items"></div>
+    </section>
+    <section id="research">
+      <h2>📄 Research</h2>
+      <div class="items"></div>
+    </section>
+  </main>
+  <footer><p>Generated daily by the read-all-about-it pipeline.</p></footer>
+  <script src="app.js"></script>
+</body>
+</html>

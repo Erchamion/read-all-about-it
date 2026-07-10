@@ -1,0 +1,5 @@
+feedparser>=6.0
+requests>=2.31
+PyYAML>=6.0
+beautifulsoup4>=4.12
+pytest>=8.0

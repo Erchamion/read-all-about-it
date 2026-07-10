@@ -1,0 +1,97 @@
+:root {
+  --bg: #fafaf7;
+  --fg: #1a1a1a;
+  --muted: #666;
+  --card: #ffffff;
+  --border: #e2e0da;
+  --accent: #0b6bcb;
+  --notice-bg: #fff3cd;
+  --notice-fg: #664d03;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #14161a;
+    --fg: #e8e6e3;
+    --muted: #9a9a9a;
+    --card: #1d2126;
+    --border: #2c2f36;
+    --accent: #6cb2ff;
+    --notice-bg: #3a3320;
+    --notice-fg: #ffd97a;
+  }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0 auto;
+  max-width: 60rem;
+  padding: 1.5rem 1rem 3rem;
+  background: var(--bg);
+  color: var(--fg);
+  font: 16px/1.55 system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 1rem;
+  flex-wrap: wrap;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 1rem;
+}
+
+h1 { margin: 0; font-size: 1.6rem; }
+.tagline { margin: 0.2rem 0 0; color: var(--muted); }
+.picker { color: var(--muted); font-size: 0.9rem; }
+
+select {
+  margin-left: 0.4rem;
+  padding: 0.3rem 0.5rem;
+  background: var(--card);
+  color: var(--fg);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+}
+
+h2 { margin: 2rem 0 0.8rem; font-size: 1.2rem; }
+
+.card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 0.8rem 1rem;
+  margin-bottom: 0.7rem;
+}
+
+.card h3 { margin: 0; font-size: 1.02rem; }
+.card a { color: var(--accent); text-decoration: none; }
+.card a:hover { text-decoration: underline; }
+
+.meta { margin: 0.25rem 0 0; color: var(--muted); font-size: 0.85rem; }
+.snippet { margin: 0.45rem 0 0; font-size: 0.92rem; }
+.signals { margin: 0.5rem 0 0; }
+
+.signal {
+  display: inline-block;
+  margin: 0 0.35rem 0.25rem 0;
+  padding: 0.1rem 0.5rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  color: var(--muted);
+  font-size: 0.75rem;
+}
+
+.notice {
+  background: var(--notice-bg);
+  color: var(--notice-fg);
+  border-radius: 6px;
+  padding: 0.6rem 0.9rem;
+  margin: 1rem 0 0;
+}
+
+.empty { color: var(--muted); font-style: italic; }
+
+footer { margin-top: 3rem; color: var(--muted); font-size: 0.85rem; }

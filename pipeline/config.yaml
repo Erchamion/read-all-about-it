@@ -1,0 +1,136 @@
+# All pipeline tuning lives here.
+
+news_lookback_days: 3
+
+# Used to filter broad company blogs (sources with filter: true) to AI posts.
+ai_keywords:
+  - ai
+  - llm
+  - gpt
+  - claude
+  - gemini
+  - copilot
+  - model
+  - agent
+  - machine learning
+  - neural
+  - anthropic
+  - openai
+  - transformer
+  - chatbot
+  - generative
+
+research_keywords:
+  - llm
+  - large language model
+  - agent
+  - agentic
+  - reasoning
+  - benchmark
+  - fine-tuning
+  - rlhf
+  - multimodal
+  - retrieval
+  - transformer
+  - alignment
+  - prompt
+  - instruction tuning
+  - tool use
+  - code generation
+
+github:
+  new:
+    created_within_days: 7
+    min_stars: 15
+  rising:
+    created_within_days: 60
+    min_stars: 200
+  search_terms:
+    - ai agent
+    - llm agent
+    - mcp server
+    - claude skill
+    - agent framework
+    - ai workflow
+  per_query_limit: 30
+  repo_keywords:
+    - agent
+    - llm
+    - mcp
+    - workflow
+    - autonomous
+    - copilot
+    - assistant
+    - skill
+    - orchestration
+    - rag
+
+arxiv:
+  categories: [cs.AI, cs.CL, cs.LG]
+  # Spec says "last 1 day"; 2 covers arxiv's batched announcement gaps.
+  # seen.json dedupe guarantees a paper still appears at most once.
+  lookback_days: 2
+  max_papers: 30
+  min_score: 1.0
+
+# type: rss (feedparser) or scrape (CSS selector over HTML).
+# filter: true means keyword-filter posts with ai_keywords.
+# URLs are verified/fixed in Task 8 against the live sites.
+news_sources:
+  - name: openai
+    type: rss
+    url: https://openai.com/news/rss.xml
+    filter: false
+  - name: google-ai
+    type: rss
+    url: https://blog.google/technology/ai/rss/
+    filter: false
+  - name: deepmind
+    type: rss
+    url: https://deepmind.google/blog/rss.xml
+    filter: false
+  # RSS feed (blogs.microsoft.com/ai/feed/) returns 410 Gone; the /ai/ index
+  # itself now redirects into the news.microsoft.com "AI" tag archive, which
+  # is a server-rendered WordPress listing. Scraping that instead.
+  - name: microsoft-ai
+    type: scrape
+    url: https://news.microsoft.com/source/tag/ai/
+    item_selector: 'div.fwpl-item.h2 a'
+    base_url: https://news.microsoft.com
+  # RSS feed (ai.meta.com/blog/rss/) 404s and has no advertised alternate;
+  # the blog index page is server-rendered though, so scrape it instead.
+  # Selector excludes the "_amcz" thumbnail-image links and "_8xc5" pager/CTA
+  # links, which share hrefs with the real titled links and would otherwise
+  # win the dedupe race with empty/junk titles ("FEATURED", "Learn More").
+  - name: meta-ai
+    type: scrape
+    url: https://ai.meta.com/blog/
+    item_selector: 'a[href*="ai.meta.com/blog/"]:not(._amcz):not(._8xc5)'
+    base_url: https://ai.meta.com
+  - name: apple-ml
+    type: rss
+    url: https://machinelearning.apple.com/rss.xml
+    filter: false
+  - name: huggingface
+    type: rss
+    url: https://huggingface.co/blog/feed.xml
+    filter: false
+  - name: mistral
+    type: scrape
+    url: https://mistral.ai/news
+    item_selector: 'a[href*="/news/"]'
+    base_url: https://mistral.ai
+  # Dropped: x.ai sits fully behind a Cloudflare bot-challenge (403 "Attention
+  # Required" HTML on every path tried, including /news, /sitemap.xml, and a
+  # plain requests.get vs a real-browser UA) -- there is no server-rendered
+  # markup a non-browser client can reach, so this isn't a selector problem.
+  # - name: xai
+  #   type: scrape
+  #   url: https://x.ai/news
+  #   item_selector: 'a[href*="/news/"]'
+  #   base_url: https://x.ai
+  - name: anthropic
+    type: scrape
+    url: https://www.anthropic.com/news
+    item_selector: 'a[href^="/news/"]'
+    base_url: https://www.anthropic.com

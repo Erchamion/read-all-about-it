@@ -1,0 +1,4027 @@
+{
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T17:45:05+00:00",
+  "errors": [
+    {
+      "source": "github:rising:agent framework",
+      "message": "403 Client Error: rate limit exceeded for url: https://api.github.com/search/repositories?q=%22agent+framework%22+created%3A%3E%3D2026-05-11+stars%3A%3E%3D200&sort=stars&order=desc&per_page=30"
+    },
+    {
+      "source": "github:rising:ai workflow",
+      "message": "403 Client Error: rate limit exceeded for url: https://api.github.com/search/repositories?q=%22ai+workflow%22+created%3A%3E%3D2026-05-11+stars%3A%3E%3D200&sort=stars&order=desc&per_page=30"
+    }
+  ],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/index/deutsche-telekom",
+        "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+        "url": "https://openai.com/index/deutsche-telekom",
+        "source": "openai",
+        "published": "2026-07-10T07:00:00+00:00",
+        "snippet": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+        "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+        "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+        "source": "openai",
+        "published": "2026-07-09T13:00:00+00:00",
+        "snippet": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/gpt-5-6",
+        "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+        "url": "https://openai.com/index/gpt-5-6",
+        "source": "openai",
+        "published": "2026-07-09T10:00:00+00:00",
+        "snippet": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+        "title": "ChatGPT is now a partner for your most ambitious work",
+        "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+        "source": "openai",
+        "published": "2026-07-09T10:00:00+00:00",
+        "snippet": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/bio-bug-bounty",
+        "title": "GPT-5.5 Bio Bug Bounty",
+        "url": "https://openai.com/index/bio-bug-bounty",
+        "source": "openai",
+        "published": "2026-07-09T10:00:00+00:00",
+        "snippet": "Details about the OpenAI Bio Bounty program",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/government-national-security-partnerships",
+        "title": "Our approach to government and national security partnerships",
+        "url": "https://openai.com/index/government-national-security-partnerships",
+        "source": "openai",
+        "published": "2026-07-08T13:30:00+00:00",
+        "snippet": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+        "title": "Separating signal from noise in coding evaluations",
+        "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+        "source": "openai",
+        "published": "2026-07-08T13:00:00+00:00",
+        "snippet": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/k-12-educators-practical-skills",
+        "title": "Helping K–12 educators build practical AI skills",
+        "url": "https://openai.com/index/k-12-educators-practical-skills",
+        "source": "openai",
+        "published": "2026-07-08T10:00:00+00:00",
+        "snippet": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/introducing-gpt-live",
+        "title": "Introducing GPT-Live",
+        "url": "https://openai.com/index/introducing-gpt-live",
+        "source": "openai",
+        "published": "2026-07-08T00:00:00+00:00",
+        "snippet": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/07/07/moving-sales-and-service-organizations-forward-with-agentic-cx-and-microsoft-365-copilot/",
+        "title": "New agentic capabilities in Microsoft 365 Copilot and Dynamics 365 boost customer service",
+        "url": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/07/07/moving-sales-and-service-organizations-forward-with-agentic-cx-and-microsoft-365-copilot/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/",
+        "title": "Aurora 1.5 makes weather forecasts smarter",
+        "url": "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://blogs.microsoft.com/on-the-issues/2026/07/09/responsibly-building-the-ai-future/",
+        "title": "Responsibly building the AI future",
+        "url": "https://blogs.microsoft.com/on-the-issues/2026/07/09/responsibly-building-the-ai-future/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://microsoft.ai/news/ode-poetry-mai/",
+        "title": "Bringing Ode Poetry to life with MAI’s audio models",
+        "url": "https://microsoft.ai/news/ode-poetry-mai/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://news.microsoft.com/source/asia/features/how-commonwealth-bank-and-microsoft-are-reimagining-the-future-of-customer-service/",
+        "title": "How Commonwealth Bank and Microsoft are reimagining the future of customer service",
+        "url": "https://news.microsoft.com/source/asia/features/how-commonwealth-bank-and-microsoft-are-reimagining-the-future-of-customer-service/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://www.microsoft.com/en-us/education/blog/2026/07/6-key-takeaways-from-iste-2026-how-educators-are-applying-ai-in-the-classroom/",
+        "title": "6 key takeaways from ISTE 2026: How educators are applying AI",
+        "url": "https://www.microsoft.com/en-us/education/blog/2026/07/6-key-takeaways-from-iste-2026-how-educators-are-applying-ai-in-the-classroom/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://blogs.microsoft.com/on-the-issues/2026/07/07/new-cohort-of-ai-economy-institute-fellows-to-examine-frontier-ai-firms-and-the-transformation-of-work/",
+        "title": "New Fellows study AI’s workplace impact",
+        "url": "https://blogs.microsoft.com/on-the-issues/2026/07/07/new-cohort-of-ai-economy-institute-fellows-to-examine-frontier-ai-firms-and-the-transformation-of-work/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/",
+        "title": "Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence",
+        "url": "https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
+        "title": "How AI agents can train their own skills",
+        "url": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://news.microsoft.com/signal/articles/ai-theodore-roosevelt-presidential-library/",
+        "title": "New AI-powered library lets people meet Theodore Roosevelt in a whole new way",
+        "url": "https://news.microsoft.com/signal/articles/ai-theodore-roosevelt-presidential-library/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://www.microsoft.com/en-us/security/blog/2026/06/30/securing-ai-agents-ai-tools-move-from-reading-acting/",
+        "title": "Securing AI agents: When AI tools move from reading to acting",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/06/30/securing-ai-agents-ai-tools-move-from-reading-acting/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/small-and-medium-businesses-arent-waiting-for-an-ai-invitation-theyre-already-leading/",
+        "title": "Small and medium businesses aren’t waiting for an AI invitation — they’re already leading",
+        "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/small-and-medium-businesses-arent-waiting-for-an-ai-invitation-theyre-already-leading/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+        "title": "Introducing Muse Spark 1.1",
+        "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+        "source": "meta-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/",
+        "title": "Introducing Muse Image and Muse Video",
+        "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/",
+        "source": "meta-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/",
+        "title": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery",
+        "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/",
+        "source": "meta-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://ai.meta.com/blog/scaling-how-we-build-test-advanced-ai/",
+        "title": "Scaling How We Build and Test Our Most Advanced AI",
+        "url": "https://ai.meta.com/blog/scaling-how-we-build-test-advanced-ai/",
+        "source": "meta-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://ai.meta.com/blog/introducing-muse-spark-msl/",
+        "title": "Introducing Muse Spark: Scaling Towards Personal Superintelligence",
+        "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/",
+        "source": "meta-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://machinelearning.apple.com/research/incentivizing-temporal-awareness-egocentric",
+        "title": "Incentivizing Temporal-Awareness in Egocentric Video Understanding Models",
+        "url": "https://machinelearning.apple.com/research/incentivizing-temporal-awareness-egocentric",
+        "source": "apple-ml",
+        "published": "2026-07-09T00:00:00+00:00",
+        "snippet": "Multimodal large language models (MLLMs) have recently shown strong performance in visual understanding, yet they often lack temporal awareness, particularly in egocentric settings where reasoning depends on the correct ordering and evolution of events. This deficiency stems in part from training ob",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://machinelearning.apple.com/research/self-reflective-program-search",
+        "title": "Recursive Language Models Meet Uncertainty: The Surprising Effectiveness of Self-Reflective Program Search for Long Context",
+        "url": "https://machinelearning.apple.com/research/self-reflective-program-search",
+        "source": "apple-ml",
+        "published": "2026-07-09T00:00:00+00:00",
+        "snippet": "Long-context handling remains a core challenge for language models: even with extended context windows, models often fail to reliably extract, reason over, and use the information across long contexts. Recent works like Recursive Language Models (RLMs) have approached this challenge by agentic way o",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://machinelearning.apple.com/research/unmasking-on-policy-distillation",
+        "title": "Unmasking On-Policy Distillation: Where It Helps, Where It Hurts, and Why",
+        "url": "https://machinelearning.apple.com/research/unmasking-on-policy-distillation",
+        "source": "apple-ml",
+        "published": "2026-07-09T00:00:00+00:00",
+        "snippet": "On-policy distillation offers dense, per-token supervision for training reasoning models; however, it remains unclear under which conditions this signal is beneficial and under which it is detrimental. Which teacher model should be used, and in the case of self-distillation, which specific context s",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/torch-attention-profile",
+        "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+        "url": "https://huggingface.co/blog/torch-attention-profile",
+        "source": "huggingface",
+        "published": "2026-07-10T00:00:00+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+        "title": "Data for Agents",
+        "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+        "source": "huggingface",
+        "published": "2026-07-08T17:16:05+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+        "title": "Native-speed vLLM transformers modeling backend",
+        "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+        "source": "huggingface",
+        "published": "2026-07-08T00:00:00+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+        "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+        "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+        "source": "huggingface",
+        "published": "2026-07-07T21:15:33+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://mistral.ai/news/ocr-4/",
+        "title": "Mistral OCR 4",
+        "url": "https://mistral.ai/news/ocr-4/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5/",
+        "title": "Mistral Medium 3.5",
+        "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/mistral-small-4/",
+        "title": "Mistral Small 4",
+        "url": "https://mistral.ai/news/mistral-small-4/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/voxtral-tts/",
+        "title": "Voxtral TTS",
+        "url": "https://mistral.ai/news/voxtral-tts/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/manage-prompts-and-skills-in-studio",
+        "title": "Your Prompts and Skills need a system of record.",
+        "url": "https://mistral.ai/news/manage-prompts-and-skills-in-studio",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/robostral-navigate",
+        "title": "Introducing Robostral Navigate",
+        "url": "https://mistral.ai/news/robostral-navigate",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/leanstral-1-5",
+        "title": "Leanstral 1.5: Proof Abundance for All",
+        "url": "https://mistral.ai/news/leanstral-1-5",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/robostral-navigate/",
+        "title": "Research Introducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026 By Mistral AI",
+        "url": "https://mistral.ai/news/robostral-navigate/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/manage-prompts-and-skills-in-studio/",
+        "title": "Product Your Prompts and Skills need a system of record. Studio gives AI prompts & skills a system of record—versioned, owned, and traceable. July 9, 2026 By Mistral",
+        "url": "https://mistral.ai/news/manage-prompts-and-skills-in-studio/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/leanstral-1-5/",
+        "title": "Research Leanstral 1.5: Proof Abundance for All July 2, 2026 By Leanstral Team at Mistral AI",
+        "url": "https://mistral.ai/news/leanstral-1-5/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/more-control-over-connectors/",
+        "title": "Engineering Bringing more control over your connectors June 24, 2026 By Mistral AI",
+        "url": "https://mistral.ai/news/more-control-over-connectors/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/ai-now-summit-2026/",
+        "title": "Company AI Now Summit 2026 Innovations for global enterprises solving the world’s hardest problems. May 28, 2026 By Mistral",
+        "url": "https://mistral.ai/news/ai-now-summit-2026/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/vibe-agent/",
+        "title": "Product Vibe gets to work. The unified agent for long-horizon productivity and coding, launching with Work and Code modes. Plus, a new Vibe VS Code extension. May 28, 2026 By Mistral",
+        "url": "https://mistral.ai/news/vibe-agent/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/search-toolkit/",
+        "title": "Product Introducing Search Toolkit Production search pipelines, anywhere. May 28, 2026 By Mistral",
+        "url": "https://mistral.ai/news/search-toolkit/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/introducing-physics-ai-at-mistral/",
+        "title": "Solutions Introducing physics AI at Mistral: the foundation for engineering acceleration. A new class of AI models that predict the behavior of physical systems, powering the engineers and hardware products of tomorrow. May 27, 2026 By Mistral",
+        "url": "https://mistral.ai/news/introducing-physics-ai-at-mistral/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/physics-ai-research/",
+        "title": "Research Physics AI research that’s shaping the industry. Published breakthroughs pushing the state of the art. May 27, 2026 By Mistral",
+        "url": "https://mistral.ai/news/physics-ai-research/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/accelerate-ai-native-industry/",
+        "title": "Company Emmi joins Mistral to accelerate the AI-native industry May 23, 2026 By Mistral AI",
+        "url": "https://mistral.ai/news/accelerate-ai-native-industry/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/connectors/",
+        "title": "Product Connect the dots: Build with built-in and custom MCPs in Studio Connect enterprise data to your AI applications with reusable connectors, direct tool calling, and human-in-the-loop approval controls. May 22, 2026 By Mistral AI",
+        "url": "https://mistral.ai/news/connectors/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/workflows/",
+        "title": "Product Workflows for work that runs the business Workflows is now in public preview. April 27, 2026 By Mistral AI",
+        "url": "https://mistral.ai/news/workflows/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/forge/",
+        "title": "Product Introducing Forge Today, we’re introducing Forge, a system for enterprises to build frontier-grade AI models grounded in their proprietary knowledge. March 17, 2026 By Mistral AI",
+        "url": "https://mistral.ai/news/forge/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models/",
+        "title": "Company Mistral AI partners with NVIDIA to accelerate open frontier models March 16, 2026 By Mistral AI",
+        "url": "https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/leanstral/",
+        "title": "Research Leanstral: Open-Source foundation for trustworthy vibe-coding March 16, 2026 By Mistral AI",
+        "url": "https://mistral.ai/news/leanstral/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/rails-testing-on-autopilot-building-an-agent-that-writes-what-developers-wont/",
+        "title": "Solutions Rails testing on autopilot: Building an agent that writes what developers won't March 11, 2026 By By Maxime Langelier & Mathis Grosmaitre - Applied AI - Proto team",
+        "url": "https://mistral.ai/news/rails-testing-on-autopilot-building-an-agent-that-writes-what-developers-wont/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/voxtral-transcribe-2/",
+        "title": "Research Voxtral transcribes at the speed of sound. February 4, 2026 By Mistral AI",
+        "url": "https://mistral.ai/news/voxtral-transcribe-2/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/mistral-vibe-2-0/",
+        "title": "Product Terminally online Mistral Vibe. January 27, 2026 By Mistral AI",
+        "url": "https://mistral.ai/news/mistral-vibe-2-0/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/debugging-memory-leak-in-vllm/",
+        "title": "Engineering Heaps do lie: debugging a memory leak in vLLM. January 21, 2026 By By Mathis Felardos",
+        "url": "https://mistral.ai/news/debugging-memory-leak-in-vllm/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/mistral-ocr-3/",
+        "title": "Research Introducing Mistral OCR 3 December 17, 2025 By Mistral AI",
+        "url": "https://mistral.ai/news/mistral-ocr-3/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/devstral-2-vibe-cli/",
+        "title": "Research Introducing: Devstral 2 and Mistral Vibe CLI. December 9, 2025 By Mistral AI",
+        "url": "https://mistral.ai/news/devstral-2-vibe-cli/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/mistral-3/",
+        "title": "Research Introducing Mistral 3 December 2, 2025 By Mistral AI",
+        "url": "https://mistral.ai/news/mistral-3/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/ki-fur-deutschland/",
+        "title": "Company Mistral AI - KI für Deutschland November 19, 2025 By Mistral AI",
+        "url": "https://mistral.ai/news/ki-fur-deutschland/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/ai-studio/",
+        "title": "Product Introducing Mistral AI Studio. October 24, 2025 By Mistral AI",
+        "url": "https://mistral.ai/news/ai-studio/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai/",
+        "title": "Company Mistral AI raises 1.7B€ to accelerate technological progress with AI September 9, 2025 By Mistral AI",
+        "url": "https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/memory/",
+        "title": "Product Make Memory work for you. September 2, 2025 By Mistral AI",
+        "url": "https://mistral.ai/news/memory/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/le-chat-mcp-connectors-memories/",
+        "title": "Product Le Chat. Custom MCP connectors. Memories. September 2, 2025 By Mistral AI",
+        "url": "https://mistral.ai/news/le-chat-mcp-connectors-memories/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/unlocking-potential-vision-language-models-satellite-imagery-fine-tuning/",
+        "title": "Solutions Unlocking the potential of vision language models on satellite imagery through fine-tuning August 1, 2025 By Mistral AI",
+        "url": "https://mistral.ai/news/unlocking-potential-vision-language-models-satellite-imagery-fine-tuning/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/codestral-25-08/",
+        "title": "Research Announcing Codestral 25.08 and the Complete Mistral Coding Stack for Enterprise July 30, 2025 By Mistral AI",
+        "url": "https://mistral.ai/news/codestral-25-08/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/our-contribution-to-a-global-environmental-standard-for-ai/",
+        "title": "Company Our contribution to a global environmental standard for AI July 22, 2025 By Mistral AI",
+        "url": "https://mistral.ai/news/our-contribution-to-a-global-environmental-standard-for-ai/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/le-chat-dives-deep/",
+        "title": "Product Le Chat dives deep. July 17, 2025 By Mistral AI",
+        "url": "https://mistral.ai/news/le-chat-dives-deep/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/voxtral/",
+        "title": "Research Voxtral July 15, 2025 By Mistral AI",
+        "url": "https://mistral.ai/news/voxtral/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/devstral-2507/",
+        "title": "Research Upgrading agentic coding capabilities with the new Devstral models July 10, 2025 By Mistral AI",
+        "url": "https://mistral.ai/news/devstral-2507/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/ai-for-citizens/",
+        "title": "Solutions Announcing AI for Citizens July 3, 2025 By Mistral AI",
+        "url": "https://mistral.ai/news/ai-for-citizens/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/mistral-compute/",
+        "title": "Company Mistral Compute June 11, 2025 By Mistral AI",
+        "url": "https://mistral.ai/news/mistral-compute/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/magistral/",
+        "title": "Research Magistral June 10, 2025 By Mistral AI",
+        "url": "https://mistral.ai/news/magistral/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/mistral-code/",
+        "title": "Product Introducing Mistral Code June 4, 2025 By Mistral AI",
+        "url": "https://mistral.ai/news/mistral-code/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/codestral-embed/",
+        "title": "Research Codestral Embed May 28, 2025 By Mistral AI",
+        "url": "https://mistral.ai/news/codestral-embed/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/agents-api/",
+        "title": "Product Build AI agents with the Mistral Agents API May 27, 2025 By Mistral AI",
+        "url": "https://mistral.ai/news/agents-api/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/devstral/",
+        "title": "Research Devstral May 21, 2025 By Mistral AI",
+        "url": "https://mistral.ai/news/devstral/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/le-chat-enterprise/",
+        "title": "Product Introducing Le Chat Enterprise May 7, 2025 By Mistral AI",
+        "url": "https://mistral.ai/news/le-chat-enterprise/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/mistral-medium-3/",
+        "title": "Research Medium is the new large. May 7, 2025 By Mistral AI",
+        "url": "https://mistral.ai/news/mistral-medium-3/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/llm-as-rag-judge/",
+        "title": "Solutions Evaluating RAG with LLM as a Judge April 9, 2025 By Mistral AI Team",
+        "url": "https://mistral.ai/news/llm-as-rag-judge/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/mistral-small-3-1/",
+        "title": "Research Mistral Small 3.1 March 17, 2025 By Mistral AI",
+        "url": "https://mistral.ai/news/mistral-small-3-1/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/mistral-ocr/",
+        "title": "Research Mistral OCR March 6, 2025 By Mistral AI Team",
+        "url": "https://mistral.ai/news/mistral-ocr/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/agentic-workflows-from-meetings-to-dev-tickets/",
+        "title": "Solutions Empowering product development with an agentic workflow March 4, 2025 By Mistral AI team",
+        "url": "https://mistral.ai/news/agentic-workflows-from-meetings-to-dev-tickets/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/mistral-saba/",
+        "title": "Research Mistral Saba February 17, 2025 By Mistral AI Team",
+        "url": "https://mistral.ai/news/mistral-saba/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/all-new-le-chat/",
+        "title": "Product The all new le Chat: Your AI assistant for life and work February 6, 2025 By Mistral AI Team",
+        "url": "https://mistral.ai/news/all-new-le-chat/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/mistral-small-3/",
+        "title": "Research Mistral Small 3 January 30, 2025 By Mistral AI Team",
+        "url": "https://mistral.ai/news/mistral-small-3/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/mistral-afp/",
+        "title": "Product Purr-fectly informed January 16, 2025 By Mistral AI team",
+        "url": "https://mistral.ai/news/mistral-afp/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/codestral-2501/",
+        "title": "Research Codestral 25.01 January 13, 2025 By Mistral AI team",
+        "url": "https://mistral.ai/news/codestral-2501/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/mistral-chat/",
+        "title": "Product Mistral has entered the chat November 18, 2024 By Mistral AI team",
+        "url": "https://mistral.ai/news/mistral-chat/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/pixtral-large/",
+        "title": "Research Pixtral Large November 18, 2024 By Mistral AI team",
+        "url": "https://mistral.ai/news/pixtral-large/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/batch-api/",
+        "title": "Product Mistral Batch API November 7, 2024 By Mistral AI team",
+        "url": "https://mistral.ai/news/batch-api/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/mistral-moderation/",
+        "title": "Research Mistral Moderation API November 7, 2024 By Mistral AI team",
+        "url": "https://mistral.ai/news/mistral-moderation/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/ministraux/",
+        "title": "Research Un Ministral, des Ministraux October 16, 2024 By Mistral AI team",
+        "url": "https://mistral.ai/news/ministraux/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/september-24-release/",
+        "title": "Product AI in abundance September 17, 2024 By Mistral AI team",
+        "url": "https://mistral.ai/news/september-24-release/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/pixtral-12b/",
+        "title": "Research Announcing Pixtral 12B September 17, 2024 By Mistral AI team",
+        "url": "https://mistral.ai/news/pixtral-12b/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/build-tweak-repeat/",
+        "title": "Research Build, tweak, repeat August 7, 2024 By Mistral AI team",
+        "url": "https://mistral.ai/news/build-tweak-repeat/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/mistral-large-2407/",
+        "title": "Research Large Enough July 24, 2024 By Mistral AI team",
+        "url": "https://mistral.ai/news/mistral-large-2407/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/mistral-nemo/",
+        "title": "Research Mistral NeMo July 18, 2024 By Mistral AI team",
+        "url": "https://mistral.ai/news/mistral-nemo/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/mathstral/",
+        "title": "Research MathΣtral July 16, 2024 By Mistral AI team",
+        "url": "https://mistral.ai/news/mathstral/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/codestral-mamba/",
+        "title": "Research Codestral Mamba July 16, 2024 By Mistral AI team",
+        "url": "https://mistral.ai/news/codestral-mamba/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/customization/",
+        "title": "Research My Tailor is Mistral June 5, 2024 By Mistral AI team",
+        "url": "https://mistral.ai/news/customization/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/2024-ft-hackathon/",
+        "title": "Company Mistral AI Fine-tuning Hackathon June 5, 2024 By Mistral AI team",
+        "url": "https://mistral.ai/news/2024-ft-hackathon/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/codestral/",
+        "title": "Research Codestral May 29, 2024 By Mistral AI team",
+        "url": "https://mistral.ai/news/codestral/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/mistral-ai-non-production-license-mnpl/",
+        "title": "Research The Mistral AI Non-Production License May 29, 2024 By Mistral AI team",
+        "url": "https://mistral.ai/news/mistral-ai-non-production-license-mnpl/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/mixtral-8x22b/",
+        "title": "Research Cheaper, Better, Faster, Stronger April 17, 2024 By Mistral AI team",
+        "url": "https://mistral.ai/news/mixtral-8x22b/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/mistral-large/",
+        "title": "Research Au Large February 26, 2024 By Mistral AI team",
+        "url": "https://mistral.ai/news/mistral-large/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/le-chat-mistral/",
+        "title": "Product Le Chat February 26, 2024 By Mistral AI team",
+        "url": "https://mistral.ai/news/le-chat-mistral/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/mixtral-of-experts/",
+        "title": "Research Mixtral of experts December 11, 2023 By Mistral AI team",
+        "url": "https://mistral.ai/news/mixtral-of-experts/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/la-plateforme/",
+        "title": "Product La Plateforme December 11, 2023 By Mistral AI team",
+        "url": "https://mistral.ai/news/la-plateforme/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/announcing-mistral-7b/",
+        "title": "Research Mistral 7B September 27, 2023 By Mistral AI team",
+        "url": "https://mistral.ai/news/announcing-mistral-7b/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/about-mistral-ai/",
+        "title": "Company Bringing open AI models to the frontier September 27, 2023 By Mistral AI team",
+        "url": "https://mistral.ai/news/about-mistral-ai/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://www.anthropic.com/news/hard-questions",
+        "title": "Inviting hard questions Announcements Jul 9, 2026 We’re asking the public for their hardest questions about AI, and committing to show our work as we address them.",
+        "url": "https://www.anthropic.com/news/hard-questions",
+        "source": "anthropic",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://www.anthropic.com/news/redeploying-fable-5",
+        "title": "Announcements Jun 30, 2026 Redeploying Fable 5 Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
+        "url": "https://www.anthropic.com/news/redeploying-fable-5",
+        "source": "anthropic",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://www.anthropic.com/news/claude-sonnet-5",
+        "title": "Product Jun 30, 2026 Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
+        "url": "https://www.anthropic.com/news/claude-sonnet-5",
+        "source": "anthropic",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://www.anthropic.com/news/claude-science-ai-workbench",
+        "title": "Announcements Jun 30, 2026 Claude Science, an AI workbench for scientists, is now available Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
+        "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+        "source": "anthropic",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://www.anthropic.com/news/ust-claude",
+        "title": "Jul 9, 2026 Case Study UST is bringing Claude to physical AI",
+        "url": "https://www.anthropic.com/news/ust-claude",
+        "source": "anthropic",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://www.anthropic.com/news/ben-bernanke",
+        "title": "Jul 9, 2026 Announcements Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+        "url": "https://www.anthropic.com/news/ben-bernanke",
+        "source": "anthropic",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://www.anthropic.com/news/reflect-with-claude",
+        "title": "Jul 9, 2026 Announcements Introducing a way to reflect on how you use Claude",
+        "url": "https://www.anthropic.com/news/reflect-with-claude",
+        "source": "anthropic",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
+        "title": "Jul 6, 2026 Case Study Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+        "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
+        "source": "anthropic",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
+        "title": "Jul 2, 2026 Announcements More details on Fable 5’s cyber safeguards and our jailbreak framework",
+        "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
+        "source": "anthropic",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://www.anthropic.com/news/introducing-claude-tag",
+        "title": "Jun 23, 2026 Product Introducing Claude Tag",
+        "url": "https://www.anthropic.com/news/introducing-claude-tag",
+        "source": "anthropic",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      }
+    ],
+    "github": [
+      {
+        "id": "DietrichGebert/ponytail",
+        "title": "DietrichGebert/ponytail",
+        "url": "https://github.com/DietrichGebert/ponytail",
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "stars": 79981,
+        "language": "JavaScript",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "claude",
+          "claude-code",
+          "claude-code-plugin",
+          "cursor-rules",
+          "developer-tools",
+          "llm"
+        ],
+        "created_at": "2026-06-12T00:52:37Z",
+        "score": 18.29,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "alibaba/open-code-review",
+        "title": "alibaba/open-code-review",
+        "url": "https://github.com/alibaba/open-code-review",
+        "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "stars": 10352,
+        "language": "Go",
+        "topics": [
+          "agent",
+          "agent-skills",
+          "code-review",
+          "code-review-assistant",
+          "harness",
+          "repository-level-context"
+        ],
+        "created_at": "2026-05-18T02:16:36Z",
+        "score": 16.34,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:assistant"
+        ]
+      },
+      {
+        "id": "omnigent-ai/omnigent",
+        "title": "omnigent-ai/omnigent",
+        "url": "https://github.com/omnigent-ai/omnigent",
+        "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+        "stars": 6983,
+        "language": "Python",
+        "topics": [
+          "agent-framework",
+          "agent-governance",
+          "agent-orchestration",
+          "agents",
+          "ai",
+          "ai-agent",
+          "ai-agents",
+          "claude-code"
+        ],
+        "created_at": "2026-06-11T12:18:13Z",
+        "score": 15.77,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:orchestration"
+        ]
+      },
+      {
+        "id": "nexu-io/html-anything",
+        "title": "nexu-io/html-anything",
+        "url": "https://github.com/nexu-io/html-anything",
+        "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / ",
+        "stars": 7675,
+        "language": "HTML",
+        "topics": [
+          "agent-skills",
+          "agentic",
+          "ai-agents",
+          "ai-design",
+          "ai-editor",
+          "byok",
+          "claude",
+          "claude-code"
+        ],
+        "created_at": "2026-05-11T09:40:38Z",
+        "score": 14.91,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:copilot"
+        ]
+      },
+      {
+        "id": "Forward-Future/loopy",
+        "title": "Forward-Future/loopy",
+        "url": "https://github.com/Forward-Future/loopy",
+        "description": "A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows.",
+        "stars": 2627,
+        "language": "JavaScript",
+        "topics": [
+          "agent-skills",
+          "agentic-workflows",
+          "ai-agents",
+          "automation",
+          "codex",
+          "prompt-engineering"
+        ],
+        "created_at": "2026-06-12T14:44:22Z",
+        "score": 13.36,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "Forsy-AI/agent-apprenticeship",
+        "title": "Forsy-AI/agent-apprenticeship",
+        "url": "https://github.com/Forsy-AI/agent-apprenticeship",
+        "description": "The living ecosystem where AI agents complete tasks through workflow loops, improve through iterative execution, are evaluated by mentor agents or humans in the loop, and turn completed work into reusable work experience and data to improve future agents.",
+        "stars": 1311,
+        "language": "Python",
+        "topics": [
+          "agent-apprenticeship",
+          "agent-economy",
+          "agent-experience",
+          "agent-learning",
+          "agent-traces",
+          "agentic-ai",
+          "ai-agents",
+          "autonomous-agents"
+        ],
+        "created_at": "2026-06-19T16:19:37Z",
+        "score": 13.36,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:workflow",
+          "keyword:autonomous"
+        ]
+      },
+      {
+        "id": "KunAgent/Kun",
+        "title": "KunAgent/Kun",
+        "url": "https://github.com/KunAgent/Kun",
+        "description": "AI agent workspace with Code Write and Design modes built into your application.",
+        "stars": 5229,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-05-21T13:22:06Z",
+        "score": 13.35,
+        "signals": [
+          "rising",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "datawhalechina/Agent-Learning-Hub",
+        "title": "datawhalechina/Agent-Learning-Hub",
+        "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
+        "description": "AI Agent 学习路线与资料库收集",
+        "stars": 5116,
+        "language": "HTML",
+        "topics": [],
+        "created_at": "2026-05-17T06:41:12Z",
+        "score": 13.32,
+        "signals": [
+          "rising",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "chuspeeism/dashiAI-ppt-skill",
+        "title": "chuspeeism/dashiAI-ppt-skill",
+        "url": "https://github.com/chuspeeism/dashiAI-ppt-skill",
+        "description": "An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.",
+        "stars": 2270,
+        "language": "JavaScript",
+        "topics": [
+          "agent-skill",
+          "ai-agent",
+          "ai-ppt",
+          "claude",
+          "claude-code",
+          "html-presentation",
+          "ppt",
+          "pptx"
+        ],
+        "created_at": "2026-06-10T07:46:43Z",
+        "score": 13.15,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "OpenBMB/PilotDeck",
+        "title": "OpenBMB/PilotDeck",
+        "url": "https://github.com/OpenBMB/PilotDeck",
+        "description": "Task-oriented AI Agent productivity platform",
+        "stars": 3798,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-05-22T06:50:28Z",
+        "score": 12.89,
+        "signals": [
+          "rising",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "isjiamu/gzh-design-skill",
+        "title": "isjiamu/gzh-design-skill",
+        "url": "https://github.com/isjiamu/gzh-design-skill",
+        "description": "把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.",
+        "stars": 1825,
+        "language": "HTML",
+        "topics": [
+          "agent-skill",
+          "ai-agent",
+          "claude-code",
+          "codex",
+          "cursor",
+          "gongzhonghao",
+          "html",
+          "markdown"
+        ],
+        "created_at": "2026-07-01T04:28:03Z",
+        "score": 12.83,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "fancyboi999/ai-engineering-from-scratch-zh",
+        "title": "fancyboi999/ai-engineering-from-scratch-zh",
+        "url": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
+        "description": "Agent工程师最全学习路径 · 从零精通 AI 工程 · 20 阶段 503 课 · 中文全量翻译 + 配套站点 + 动画讲解视频 · 如何成为 AI Agent 工程师的修成指南",
+        "stars": 800,
+        "language": "Python",
+        "topics": [
+          "agents",
+          "ai",
+          "ai-agents",
+          "ai-engineering",
+          "chinese",
+          "chinese-translation",
+          "computer-vision",
+          "course"
+        ],
+        "created_at": "2026-05-26T12:45:07Z",
+        "score": 12.65,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "deeplethe/forkd",
+        "title": "deeplethe/forkd",
+        "url": "https://github.com/deeplethe/forkd",
+        "description": "Fork() for AI agent microVMs. Spawn 100 children in ~100ms from a warm parent; BRANCH a live VM in ~150ms. KVM-isolated, snapshot CoW.",
+        "stars": 2714,
+        "language": "Rust",
+        "topics": [
+          "ai-agents",
+          "copy-on-write",
+          "kvm",
+          "microvm",
+          "rust",
+          "sandbox",
+          "snapshot"
+        ],
+        "created_at": "2026-05-11T17:42:24Z",
+        "score": 12.41,
+        "signals": [
+          "rising",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "oomol-lab/open-connector",
+        "title": "oomol-lab/open-connector",
+        "url": "https://github.com/oomol-lab/open-connector",
+        "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
+        "stars": 1230,
+        "language": "TypeScript",
+        "topics": [
+          "agent-tools",
+          "ai-agents",
+          "api-gateway",
+          "automation",
+          "cli",
+          "cloudflare-workers",
+          "connectors",
+          "integration-platform"
+        ],
+        "created_at": "2026-06-29T10:49:36Z",
+        "score": 12.27,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "dongshuyan/compass-skills",
+        "title": "dongshuyan/compass-skills",
+        "url": "https://github.com/dongshuyan/compass-skills",
+        "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+        "stars": 596,
+        "language": "Python",
+        "topics": [
+          "agent-memory",
+          "agent-skill",
+          "agent-skills",
+          "ai-agents",
+          "ai-coding-agent",
+          "ai-skills",
+          "claude-code",
+          "claude-skills"
+        ],
+        "created_at": "2026-06-15T06:28:04Z",
+        "score": 12.22,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:workflow",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "chubbyguan/chubbyskills",
+        "title": "chubbyguan/chubbyskills",
+        "url": "https://github.com/chubbyguan/chubbyskills",
+        "description": "把中文全渠道内容（抖音 / B站 / 小红书 / 公众号 / X / 播客）采集进个人知识库的 13 个 AI Skill：图文存图、视频转文字稿、字幕优先免 GPU，附带知识库 MCP server。 ｜ Ingest Chinese content into your personal knowledge base — image/video routing, subtitle-first transcription, and a KB MCP server.",
+        "stars": 535,
+        "language": "Python",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "chinese",
+          "claude-code",
+          "knowledge-base",
+          "mcp",
+          "obsidian",
+          "second-brain"
+        ],
+        "created_at": "2026-06-08T09:22:13Z",
+        "score": 12.07,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:mcp",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "VILA-Lab/FigMirror",
+        "title": "VILA-Lab/FigMirror",
+        "url": "https://github.com/VILA-Lab/FigMirror",
+        "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
+        "stars": 493,
+        "language": "Python",
+        "topics": [
+          "agent",
+          "agent-skills",
+          "claude-code",
+          "codex",
+          "data-visualization",
+          "llm-agents",
+          "matplotlib",
+          "paper-figures"
+        ],
+        "created_at": "2026-05-22T13:37:03Z",
+        "score": 11.95,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "orange2ai/renwei-writing",
+        "title": "orange2ai/renwei-writing",
+        "url": "https://github.com/orange2ai/renwei-writing",
+        "description": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
+        "stars": 919,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-06-12T21:45:48Z",
+        "score": 11.85,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "ruvnet/metaharness",
+        "title": "ruvnet/metaharness",
+        "url": "https://github.com/ruvnet/metaharness",
+        "description": "🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex, pi.dev, Hermes, OpenClaw, and RVM (hardware-isolated sandbox).",
+        "stars": 456,
+        "language": "TypeScript",
+        "topics": [
+          "agent-harness",
+          "agent-harness-generator",
+          "agent-scaffolding",
+          "agentic-ai",
+          "agentic-framework",
+          "autonomous-agents",
+          "claude-code",
+          "codex"
+        ],
+        "created_at": "2026-06-13T18:29:11Z",
+        "score": 11.84,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:mcp",
+          "keyword:autonomous"
+        ]
+      },
+      {
+        "id": "atomicstrata/atomicmemory",
+        "title": "atomicstrata/atomicmemory",
+        "url": "https://github.com/atomicstrata/atomicmemory",
+        "description": "Portable semantic memory for AI agents: core engine, TypeScript SDK, framework adapters, MCP server, CLI, and host plugins.",
+        "stars": 439,
+        "language": "TypeScript",
+        "topics": [
+          "agent-infrastructure",
+          "agent-memory",
+          "ai-agents",
+          "ai-memory",
+          "cli",
+          "context-engineering",
+          "developer-tools",
+          "llm"
+        ],
+        "created_at": "2026-05-18T06:00:20Z",
+        "score": 11.78,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "mrtooher/fable-mode",
+        "title": "mrtooher/fable-mode",
+        "url": "https://github.com/mrtooher/fable-mode",
+        "description": "A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
+        "stars": 735,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-06-13T05:33:14Z",
+        "score": 11.52,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "sandiiarov/skill-creator",
+        "title": "sandiiarov/skill-creator",
+        "url": "https://github.com/sandiiarov/skill-creator",
+        "description": "Turn any MCP server, OpenAPI spec, or GraphQL endpoint into a CLI at runtime.",
+        "stars": 716,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-05-21T05:45:40Z",
+        "score": 11.49,
+        "signals": [
+          "rising",
+          "keyword:mcp",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "benchflow-ai/awesome-evals",
+        "title": "benchflow-ai/awesome-evals",
+        "url": "https://github.com/benchflow-ai/awesome-evals",
+        "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+        "stars": 701,
+        "language": null,
+        "topics": [
+          "agent-evaluation",
+          "ai-agents",
+          "awesome",
+          "awesome-list",
+          "benchmarks",
+          "evals",
+          "llm",
+          "llm-evaluation"
+        ],
+        "created_at": "2026-06-24T08:10:33Z",
+        "score": 11.46,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "qinshihu/itops-agent-platform",
+        "title": "qinshihu/itops-agent-platform",
+        "url": "https://github.com/qinshihu/itops-agent-platform",
+        "description": "国内首个企业级 IT 运维多 Agent 自动化平台 — 基于大语言模型的智能运维解决方案。ITOps Agent Platform通过可视化工作流编排，将多个AI Agent组合成智能运维自动化流水线，实现服务器管理、告警处理、故障诊断、日志分析、脚本管理、定时运维任务的自动化执行， 支持国内外主流大模型，旨在 Zabbix/Prometheus 告警自动修复闭环，Docker 一键部署，多平台兼容。",
+        "stars": 629,
+        "language": "TypeScript",
+        "topics": [
+          "agentic-ai",
+          "aiops",
+          "devops",
+          "docker",
+          "incident-management",
+          "it-operations",
+          "llm-ops",
+          "multi-agent"
+        ],
+        "created_at": "2026-05-20T18:29:31Z",
+        "score": 11.3,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "microsoft/flint-chart",
+        "title": "microsoft/flint-chart",
+        "url": "https://github.com/microsoft/flint-chart",
+        "description": "🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs.",
+        "stars": 1191,
+        "language": "TypeScript",
+        "topics": [
+          "ai-agents",
+          "charting-library",
+          "data-visualization",
+          "mcp-server"
+        ],
+        "created_at": "2026-05-13T00:00:28Z",
+        "score": 11.22,
+        "signals": [
+          "rising",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "ronak-create/FableCut",
+        "title": "ronak-create/FableCut",
+        "url": "https://github.com/ronak-create/FableCut",
+        "description": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
+        "stars": 292,
+        "language": "JavaScript",
+        "topics": [
+          "ai-agent",
+          "canvas",
+          "claude",
+          "ffmpeg",
+          "javascript",
+          "llm",
+          "mcp",
+          "nle"
+        ],
+        "created_at": "2026-07-06T16:18:57Z",
+        "score": 11.19,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "agentic-in/elephant-agent",
+        "title": "agentic-in/elephant-agent",
+        "url": "https://github.com/agentic-in/elephant-agent",
+        "description": "Personal-Model First Self Evolving AI Agent 🐘",
+        "stars": 574,
+        "language": "Python",
+        "topics": [
+          "agent",
+          "agentic",
+          "agentic-ai",
+          "context",
+          "llm",
+          "memory",
+          "models",
+          "personal-ai"
+        ],
+        "created_at": "2026-05-15T07:08:17Z",
+        "score": 11.17,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "eli-labz/Cognitive-Core-Skills",
+        "title": "eli-labz/Cognitive-Core-Skills",
+        "url": "https://github.com/eli-labz/Cognitive-Core-Skills",
+        "description": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models — with schemas, 159 skill cards, benchmarks, and CI.",
+        "stars": 273,
+        "language": "Python",
+        "topics": [
+          "agent-skills",
+          "agentic-ai",
+          "ai-agents",
+          "ai-safety",
+          "artificial-intelligence",
+          "benchmarks",
+          "cognitive-architecture",
+          "json-schema"
+        ],
+        "created_at": "2026-07-05T21:25:55Z",
+        "score": 11.1,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "wanghuan9/skill-manager",
+        "title": "wanghuan9/skill-manager",
+        "url": "https://github.com/wanghuan9/skill-manager",
+        "description": "SkillDock is a skill manager and MCP manager for installing, viewing, updating, and syncing AI skills and MCP servers, with Git-aware updates to track upstream changes and local modifications. SkillDock 是一个用于安装、查看、更新和同步 AI skills 与 MCP servers 的 skill 管理工具和 MCP 管理工具，并支持 Git-aware 更新，用于跟踪上游变更和本地修改。",
+        "stars": 265,
+        "language": null,
+        "topics": [
+          "ai-coding-agents",
+          "ai-skills",
+          "claude-code",
+          "codex",
+          "cursor",
+          "desktop-app",
+          "developer-tools",
+          "gemini-cli"
+        ],
+        "created_at": "2026-05-13T08:37:42Z",
+        "score": 11.06,
+        "signals": [
+          "rising",
+          "keyword:mcp",
+          "keyword:copilot",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "superloglabs/superlog",
+        "title": "superloglabs/superlog",
+        "url": "https://github.com/superloglabs/superlog",
+        "description": "Open-source observability tool that uses AI agents to self-heal your software",
+        "stars": 1008,
+        "language": "TypeScript",
+        "topics": [
+          "ai",
+          "llm",
+          "memory",
+          "observability",
+          "opentelemetry",
+          "react",
+          "self-hosted",
+          "skills"
+        ],
+        "created_at": "2026-06-02T19:13:48Z",
+        "score": 10.98,
+        "signals": [
+          "rising",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "lingbol088-spec/reverse-flow-skill",
+        "title": "lingbol088-spec/reverse-flow-skill",
+        "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
+        "description": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
+        "stars": 488,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-06-30T22:08:31Z",
+        "score": 10.93,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "yb2460/harness-anything",
+        "title": "yb2460/harness-anything",
+        "url": "https://github.com/yb2460/harness-anything",
+        "description": "Harness Anything - AI agent control hub: WPS, MS Office, Zotero, Photoshop, 47 CLI commands, 27 academic skills, SVG-to-PPTX",
+        "stars": 920,
+        "language": "Python",
+        "topics": [
+          "ai-agent",
+          "automation",
+          "cli",
+          "cli-anything",
+          "com",
+          "office",
+          "python",
+          "windows"
+        ],
+        "created_at": "2026-05-27T08:25:28Z",
+        "score": 10.85,
+        "signals": [
+          "rising",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "caezium/Burrow",
+        "title": "caezium/Burrow",
+        "url": "https://github.com/caezium/Burrow",
+        "description": "🐹 A free, open-source, native macOS GUI for the Mole CLI (mo): clean, uninstall, optimize, analyze disk, and watch live status. Plus long-range history + an MCP server for AI agents. Coming to Windows",
+        "stars": 905,
+        "language": "Swift",
+        "topics": [
+          "cleaner",
+          "disk-usage",
+          "macos",
+          "mcp",
+          "menubar",
+          "mole",
+          "open-source",
+          "swift"
+        ],
+        "created_at": "2026-05-31T08:37:49Z",
+        "score": 10.82,
+        "signals": [
+          "rising",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "husu/loom",
+        "title": "husu/loom",
+        "url": "https://github.com/husu/loom",
+        "description": "一个写接口文档的AI Agent。支持使用Vibe coding 的方式，编写接口文档，同时自带友好的文档查看工具与接口Mock工具",
+        "stars": 876,
+        "language": null,
+        "topics": [
+          "ai-agent",
+          "sdd"
+        ],
+        "created_at": "2026-05-15T09:19:02Z",
+        "score": 10.78,
+        "signals": [
+          "rising",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "shenmintao/marginalia",
+        "title": "shenmintao/marginalia",
+        "url": "https://github.com/shenmintao/marginalia",
+        "description": "A library-science-inspired personal knowledge management system with LLM agents",
+        "stars": 210,
+        "language": "Python",
+        "topics": [
+          "apple-silicon",
+          "arm64",
+          "desktop-app",
+          "docker",
+          "document-management",
+          "document-search",
+          "fastapi",
+          "information-retrieval"
+        ],
+        "created_at": "2026-05-23T14:23:38Z",
+        "score": 10.72,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:rag"
+        ]
+      },
+      {
+        "id": "lycorp-jp/sim-use",
+        "title": "lycorp-jp/sim-use",
+        "url": "https://github.com/lycorp-jp/sim-use",
+        "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
+        "stars": 771,
+        "language": "Swift",
+        "topics": [
+          "accessibility",
+          "ai-agents",
+          "ai-development",
+          "android-emulator",
+          "ios-simulator",
+          "mobile-automation"
+        ],
+        "created_at": "2026-06-26T05:59:56Z",
+        "score": 10.59,
+        "signals": [
+          "rising",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "Env-Kit/envkit-releases",
+        "title": "Env-Kit/envkit-releases",
+        "url": "https://github.com/Env-Kit/envkit-releases",
+        "description": "EnvKit — free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
+        "stars": 337,
+        "language": "Shell",
+        "topics": [
+          "apache",
+          "development-environment",
+          "herd-alternative",
+          "laragon-alternative",
+          "laravel",
+          "local-development",
+          "mailpit",
+          "mariadb"
+        ],
+        "created_at": "2026-06-20T15:20:52Z",
+        "score": 10.4,
+        "signals": [
+          "rising",
+          "keyword:mcp",
+          "keyword:assistant"
+        ]
+      },
+      {
+        "id": "Jane-xiaoer/claude-skill-web-clone",
+        "title": "Jane-xiaoer/claude-skill-web-clone",
+        "url": "https://github.com/Jane-xiaoer/claude-skill-web-clone",
+        "description": "Methodology for faithfully cloning any website (static / React / WebGL) — without copying AI-hallucinated code. Real source first.",
+        "stars": 595,
+        "language": "JavaScript",
+        "topics": [
+          "claude-code",
+          "claude-code-skill",
+          "methodology",
+          "reverse-engineering",
+          "skill",
+          "web-cloning",
+          "webgl"
+        ],
+        "created_at": "2026-05-28T09:31:24Z",
+        "score": 10.22,
+        "signals": [
+          "rising",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "oxbshw/watch-skill",
+        "title": "oxbshw/watch-skill",
+        "url": "https://github.com/oxbshw/watch-skill",
+        "description": "Give any AI agent the ability to watch video — and to watch its own work and fix it. MCP + CLI + REST; scene-aware frames, OCR, local-first transcription, persistent index, and THE LOOP.",
+        "stars": 142,
+        "language": "Python",
+        "topics": [
+          "agent-tools",
+          "ai-agents",
+          "claude",
+          "claude-code",
+          "computer-vision",
+          "ffmpeg",
+          "mcp",
+          "multimodal"
+        ],
+        "created_at": "2026-07-05T23:25:30Z",
+        "score": 10.16,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "taisly/agent",
+        "title": "taisly/agent",
+        "url": "https://github.com/taisly/agent",
+        "description": "Taisly Agent Kit: MCP server, CLI, SDK, and agent docs for publishing videos to TikTok, Reels, Shorts, X, and Facebook.",
+        "stars": 286,
+        "language": "JavaScript",
+        "topics": [
+          "agent-kit",
+          "agentic-workflows",
+          "ai-agent-tools",
+          "ai-agents",
+          "claude-code",
+          "codex",
+          "codex-cli",
+          "codex-plugin"
+        ],
+        "created_at": "2026-06-11T04:33:30Z",
+        "score": 10.16,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "pillar-labs/sail-skill",
+        "title": "pillar-labs/sail-skill",
+        "url": "https://github.com/pillar-labs/sail-skill",
+        "description": "SAIL V2 (Secure AI Lifecycle) as an agent skill — the full 91-risk catalog for AI/agent gap assessments, security roadmaps, and compliance checklists. Installs on Claude Code, Codex, ChatGPT, Antigravity, and any SKILL.md-compatible agent.",
+        "stars": 132,
+        "language": null,
+        "topics": [
+          "agent-skills",
+          "agentic-ai",
+          "ai-security",
+          "claude-code",
+          "claude-code-plugin",
+          "compliance",
+          "llm-security",
+          "security-framework"
+        ],
+        "created_at": "2026-07-06T11:52:10Z",
+        "score": 10.06,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "FerroxLabs/wayland",
+        "title": "FerroxLabs/wayland",
+        "url": "https://github.com/FerroxLabs/wayland",
+        "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
+        "stars": 530,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-06-05T17:38:22Z",
+        "score": 10.05,
+        "signals": [
+          "rising",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "handsomejustin/easy_tdx",
+        "title": "handsomejustin/easy_tdx",
+        "url": "https://github.com/handsomejustin/easy_tdx",
+        "description": "免费Python量化SDK:通达信协议直连 A股/港股/美股数据,内置技术指标、缠论分析、回测引擎与 Web 可视化,JSON 输出适配 AI Agent",
+        "stars": 500,
+        "language": "Python",
+        "topics": [
+          "a-share-tdx",
+          "chinese-stock-market",
+          "financial-data",
+          "mootdx",
+          "pytdx",
+          "stock-analysis",
+          "stock-data",
+          "stock-trading"
+        ],
+        "created_at": "2026-05-21T04:20:17Z",
+        "score": 9.97,
+        "signals": [
+          "rising",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "cha0upup/LeoAI",
+        "title": "cha0upup/LeoAI",
+        "url": "https://github.com/cha0upup/LeoAI",
+        "description": "AI 驱动的后渗透综合管理平台，深度集成 LLM Agent，开箱即用。",
+        "stars": 240,
+        "language": "Java",
+        "topics": [],
+        "created_at": "2026-06-12T06:48:10Z",
+        "score": 9.91,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "aapersh/strategy-skills-for-claude",
+        "title": "aapersh/strategy-skills-for-claude",
+        "url": "https://github.com/aapersh/strategy-skills-for-claude",
+        "description": "21 standalone Claude skills for strategy work, grouped into six practical consulting domains. Each skill is a small, uploadable workflow that teaches Claude how to perform one high-value consulting task with a repeatable strategy-consulting method.",
+        "stars": 239,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-05-26T23:06:24Z",
+        "score": 9.91,
+        "signals": [
+          "rising",
+          "keyword:workflow",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "alfredxw/denova",
+        "title": "alfredxw/denova",
+        "url": "https://github.com/alfredxw/denova",
+        "description": "An AI creative platform for novel writing and AI generated RPG, with built-in support for AI agents, Skills, subagent workflows, automations, image generation, and version control. 一个面向小说创作与 AI 角色扮演游戏的 AI 创作平台，内置支持 AI Agents、Skills、Subagent Workflows、Automations、图像自动生成与项目版本管理等核心能力",
+        "stars": 468,
+        "language": "Go",
+        "topics": [
+          "agent",
+          "ai-agents",
+          "ai-tools",
+          "ide",
+          "novel"
+        ],
+        "created_at": "2026-05-19T09:56:12Z",
+        "score": 9.87,
+        "signals": [
+          "rising",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "aldegad/sprite-gen",
+        "title": "aldegad/sprite-gen",
+        "url": "https://github.com/aldegad/sprite-gen",
+        "description": "Generate clean 2D game sprites & animation atlases — component-row pipeline: state rows, alpha cleanup, frame extraction, runtime atlases. Codex/Claude skill.",
+        "stars": 462,
+        "language": "Python",
+        "topics": [
+          "2d-game",
+          "ai-tools",
+          "claude-code",
+          "codex",
+          "game-dev",
+          "gamedev",
+          "pixel-art",
+          "sprite-generation"
+        ],
+        "created_at": "2026-05-12T06:49:09Z",
+        "score": 9.85,
+        "signals": [
+          "rising",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "yolfinance/yolfi-agent",
+        "title": "yolfinance/yolfi-agent",
+        "url": "https://github.com/yolfinance/yolfi-agent",
+        "description": "Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
+        "stars": 213,
+        "language": "JavaScript",
+        "topics": [
+          "ai-agents",
+          "checkout",
+          "crypto-payments",
+          "mcp",
+          "payments",
+          "stablecoin-payments",
+          "webhooks"
+        ],
+        "created_at": "2026-06-16T15:43:27Z",
+        "score": 9.74,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "shlokkhemani/rabbithole",
+        "title": "shlokkhemani/rabbithole",
+        "url": "https://github.com/shlokkhemani/rabbithole",
+        "description": "An infinite canvas for learning — select text, ask, and answers branch out as documents. MCP server for Claude Code, Codex, and any agent.",
+        "stars": 210,
+        "language": "JavaScript",
+        "topics": [],
+        "created_at": "2026-07-06T06:03:00Z",
+        "score": 9.72,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "Pluviobyte/rnskill",
+        "title": "Pluviobyte/rnskill",
+        "url": "https://github.com/Pluviobyte/rnskill",
+        "description": "雪踏乌云的 AI Agent Skills 集合",
+        "stars": 394,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-07-04T18:43:42Z",
+        "score": 9.63,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "iKora128/stop-ai-slop-jp",
+        "title": "iKora128/stop-ai-slop-jp",
+        "url": "https://github.com/iKora128/stop-ai-slop-jp",
+        "description": "日本語の文章からAI臭を取り除く Claude Skill",
+        "stars": 337,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-06-09T14:48:56Z",
+        "score": 9.4,
+        "signals": [
+          "rising",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "jwangkun/claude-for-financial-services-cn",
+        "title": "jwangkun/claude-for-financial-services-cn",
+        "url": "https://github.com/jwangkun/claude-for-financial-services-cn",
+        "description": " 63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。",
+        "stars": 617,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-06-07T15:45:23Z",
+        "score": 9.27,
+        "signals": [
+          "rising"
+        ]
+      },
+      {
+        "id": "cclank/lanshu-awesome-ai-video-kit",
+        "title": "cclank/lanshu-awesome-ai-video-kit",
+        "url": "https://github.com/cclank/lanshu-awesome-ai-video-kit",
+        "description": "做企业 AI 视频项目逼出来的工具包 · 411 prompt · 15 模型 · 7 Claude Skill · 14 篇方法论",
+        "stars": 304,
+        "language": "HTML",
+        "topics": [
+          "ai-video",
+          "awesome",
+          "awesome-list",
+          "claude",
+          "claude-code",
+          "claude-skills",
+          "cogvideox",
+          "higgsfield"
+        ],
+        "created_at": "2026-05-25T22:55:46Z",
+        "score": 9.25,
+        "signals": [
+          "rising",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "aref-vc/tufte-claude-skill",
+        "title": "aref-vc/tufte-claude-skill",
+        "url": "https://github.com/aref-vc/tufte-claude-skill",
+        "description": "Claude Code skill that turns 'make me a chart' into a Tufte-compliant chart. Distilled from Edward Tufte's three foundational books.",
+        "stars": 277,
+        "language": "HTML",
+        "topics": [],
+        "created_at": "2026-05-23T07:18:34Z",
+        "score": 9.12,
+        "signals": [
+          "rising",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "Episkey-G/GrokSearch-rs",
+        "title": "Episkey-G/GrokSearch-rs",
+        "url": "https://github.com/Episkey-G/GrokSearch-rs",
+        "description": "Rust MCP server for Grok web search and Tavily-backed source retrieval",
+        "stars": 268,
+        "language": "Rust",
+        "topics": [],
+        "created_at": "2026-05-14T16:06:59Z",
+        "score": 9.07,
+        "signals": [
+          "rising",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "ComputeRoyale/Compute-Royale",
+        "title": "ComputeRoyale/Compute-Royale",
+        "url": "https://github.com/ComputeRoyale/Compute-Royale",
+        "description": "Bet on AI agents racing real GPUs. They rent compute, do hash-verified work, earn and you stake Solana on the best. Live on Solana.",
+        "stars": 499,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-06-30T01:04:13Z",
+        "score": 8.97,
+        "signals": [
+          "rising"
+        ]
+      },
+      {
+        "id": "Mrjie7205/serenity-bottleneck-hunter",
+        "title": "Mrjie7205/serenity-bottleneck-hunter",
+        "url": "https://github.com/Mrjie7205/serenity-bottleneck-hunter",
+        "description": "A Claude skill: reverse-map a supply chain to find overlooked upstream bottleneck stocks. Distilled from trader Serenity (@aleabitoreddit)'s public methodology. Not financial advice.",
+        "stars": 249,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-05-27T06:53:49Z",
+        "score": 8.97,
+        "signals": [
+          "rising",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "kerlenton/mcpsnoop",
+        "title": "kerlenton/mcpsnoop",
+        "url": "https://github.com/kerlenton/mcpsnoop",
+        "description": "Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.",
+        "stars": 240,
+        "language": "Go",
+        "topics": [
+          "bubbletea",
+          "claude",
+          "cli",
+          "codex",
+          "cursor",
+          "debugging",
+          "devtools",
+          "golang"
+        ],
+        "created_at": "2026-06-27T10:25:09Z",
+        "score": 8.91,
+        "signals": [
+          "rising",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "xinhuangcs/agentmaker",
+        "title": "xinhuangcs/agentmaker",
+        "url": "https://github.com/xinhuangcs/agentmaker",
+        "description": "A general-purpose Python framework for building LLM agents and multi-agent systems, with tools, memory, RAG, context engineering, guardrails, HITL, and observability.",
+        "stars": 23,
+        "language": "Python",
+        "topics": [
+          "agent",
+          "agent-framework",
+          "ai-agents",
+          "anthropic",
+          "function-calling",
+          "gemini",
+          "hitl",
+          "llm"
+        ],
+        "created_at": "2026-07-08T19:28:03Z",
+        "score": 8.58,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp",
+          "keyword:rag"
+        ]
+      },
+      {
+        "id": "Reina-Agent/Reina",
+        "title": "Reina-Agent/Reina",
+        "url": "https://github.com/Reina-Agent/Reina",
+        "description": "开源桌面 AI Agent：多智能体协作、MCP 与 Skills 市场、自带模型 | Open-source desktop AI agent — multi-agent teams, MCP & Skills marketplace, bring your own models. Electron + React + TypeScript.",
+        "stars": 21,
+        "language": "TypeScript",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "ai-assistant",
+          "coding-agent",
+          "desktop-app",
+          "electron",
+          "llm",
+          "llm-agent"
+        ],
+        "created_at": "2026-07-03T10:30:35Z",
+        "score": 8.46,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp",
+          "keyword:assistant"
+        ]
+      },
+      {
+        "id": "RightNow-AI/auto",
+        "title": "RightNow-AI/auto",
+        "url": "https://github.com/RightNow-AI/auto",
+        "description": "the agi compiler: records llm agent behavior, proves what repeats, and compiles it into verified, sandboxed wasm binaries that run for microdollars. nothing figured out twice, paper: https://arxiv.org/abs/2607.04542",
+        "stars": 69,
+        "language": "Rust",
+        "topics": [
+          "agent",
+          "ai-infrastructure",
+          "compiler",
+          "conformal-prediction",
+          "distillation",
+          "inference-optimization",
+          "llm",
+          "program-synthesis"
+        ],
+        "created_at": "2026-07-05T15:20:57Z",
+        "score": 8.13,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "bolivestilo/Homekit",
+        "title": "bolivestilo/Homekit",
+        "url": "https://github.com/bolivestilo/Homekit",
+        "description": "Homekit gives any AI agent direct, physical control over Apple Home. Flip lights. Lock doors. Read sensors. Through a single open interface.",
+        "stars": 66,
+        "language": "TypeScript",
+        "topics": [
+          "ai-agent",
+          "apple-home",
+          "automation",
+          "claude",
+          "cli",
+          "cursor",
+          "homekit",
+          "iot"
+        ],
+        "created_at": "2026-07-08T04:34:17Z",
+        "score": 8.07,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "nossa-y/activity-frames",
+        "title": "nossa-y/activity-frames",
+        "url": "https://github.com/nossa-y/activity-frames",
+        "description": "Episodic memory for AI agents. Records your screen locally, compiles it into structured activity frames, serves them over MCP. No cloud, no LLM in the loop.",
+        "stars": 30,
+        "language": "Python",
+        "topics": [
+          "agent-memory",
+          "ai-agents",
+          "computer-use",
+          "context-engineering",
+          "episodic-memory",
+          "llm",
+          "mcp"
+        ],
+        "created_at": "2026-07-04T23:24:02Z",
+        "score": 7.95,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "vaaya-ai/vaaya-mcp",
+        "title": "vaaya-ai/vaaya-mcp",
+        "url": "https://github.com/vaaya-ai/vaaya-mcp",
+        "description": "Vaaya MCP server — pay-per-call agent superpowers: media & video generation, product demo videos, web search & scraping, deep/market research, GTM & sales enrichment, code sandboxes, browser automation, email, memory. No API keys.",
+        "stars": 25,
+        "language": null,
+        "topics": [
+          "agent-payments",
+          "agent-skills",
+          "ai-agents",
+          "browser-automation",
+          "claude-skill",
+          "claude-skills",
+          "cli",
+          "code-sandbox"
+        ],
+        "created_at": "2026-07-03T22:16:05Z",
+        "score": 7.7,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "NateBJones-Projects/ringer",
+        "title": "NateBJones-Projects/ringer",
+        "url": "https://github.com/NateBJones-Projects/ringer",
+        "description": "Ringer — parallel AI-agent swarm orchestrator. Ringside — its native mission-control HUD. Fable-quality output without Fable-level burn.",
+        "stars": 71,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-07-03T00:39:20Z",
+        "score": 7.17,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "speechlab0210/video-production-skill",
+        "title": "speechlab0210/video-production-skill",
+        "url": "https://github.com/speechlab0210/video-production-skill",
+        "description": "The complete video-production skill behind the 蝦說 AI channel — lets an AI agent autonomously produce narrated educational videos (slides + TTS + ASR verification + subtitles).",
+        "stars": 30,
+        "language": "JavaScript",
+        "topics": [],
+        "created_at": "2026-07-03T09:26:41Z",
+        "score": 6.95,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "Gixsy95/abap_wiki",
+        "title": "Gixsy95/abap_wiki",
+        "url": "https://github.com/Gixsy95/abap_wiki",
+        "description": "Agent-driven SAP/ABAP knowledge base engine that turns S/4HANA custom objects into citable Markdown/Obsidian context for humans and AI agents.",
+        "stars": 28,
+        "language": "Python",
+        "topics": [
+          "abap",
+          "agentic-ai",
+          "documentation",
+          "knowledge-base",
+          "llm",
+          "markdown",
+          "s4hana",
+          "sap"
+        ],
+        "created_at": "2026-07-06T10:26:29Z",
+        "score": 6.86,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "verisworks-ai/prompt-ops-maker",
+        "title": "verisworks-ai/prompt-ops-maker",
+        "url": "https://github.com/verisworks-ai/prompt-ops-maker",
+        "description": "Generate verification-focused operating prompts for AI agents.",
+        "stars": 27,
+        "language": "Python",
+        "topics": [
+          "agent-ops",
+          "ai-agents",
+          "claude",
+          "codex",
+          "mcp",
+          "prompt-engineering"
+        ],
+        "created_at": "2026-07-03T04:07:26Z",
+        "score": 6.81,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "Kris77z/web-experience-cloner",
+        "title": "Kris77z/web-experience-cloner",
+        "url": "https://github.com/Kris77z/web-experience-cloner",
+        "description": "Reusable AI agent skill for cloning, mirroring, offline-validating, and rewriting complex web experiences.",
+        "stars": 25,
+        "language": "JavaScript",
+        "topics": [],
+        "created_at": "2026-07-09T05:25:11Z",
+        "score": 6.7,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "Moh4696/build-ai-agents-free",
+        "title": "Moh4696/build-ai-agents-free",
+        "url": "https://github.com/Moh4696/build-ai-agents-free",
+        "description": "",
+        "stars": 92,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-07-08T17:19:29Z",
+        "score": 6.54,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "animaios/anima-use-google",
+        "title": "animaios/anima-use-google",
+        "url": "https://github.com/animaios/anima-use-google",
+        "description": "MCP server + browser sidecar extension that lets AI agents run Google AI Mode searches using your own logged-in browser session",
+        "stars": 20,
+        "language": "JavaScript",
+        "topics": [
+          "agent-search",
+          "ai",
+          "ai-agents",
+          "ai-search",
+          "mcp-search",
+          "mcp-server",
+          "parser",
+          "search"
+        ],
+        "created_at": "2026-07-05T00:35:01Z",
+        "score": 6.39,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "srelens/srelens",
+        "title": "srelens/srelens",
+        "url": "https://github.com/srelens/srelens",
+        "description": "The Kubernetes control room—built in Rust, ready for engineers and AI agents.",
+        "stars": 40,
+        "language": "TypeScript",
+        "topics": [
+          "desktop-app",
+          "devops",
+          "ide",
+          "kubernetes",
+          "mcp",
+          "rust",
+          "sre",
+          "tauri"
+        ],
+        "created_at": "2026-07-06T14:15:14Z",
+        "score": 6.36,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "ComPDF/docslight",
+        "title": "ComPDF/docslight",
+        "url": "https://github.com/ComPDF/docslight",
+        "description": "Part of the KDAN ecosystem, DocSlight offers document parsing, OCR, and data extraction that turn PDFs, scans, images, and Office files into structured outputs for RAG pipelines, AI agents, and enterprise document automation.",
+        "stars": 36,
+        "language": "Vue",
+        "topics": [
+          "document-data-extraction",
+          "document-information-extraction",
+          "document-parser",
+          "document-parsing",
+          "docx-to-json",
+          "image-parser",
+          "image-to-json",
+          "intelligent-document-processing-open-source"
+        ],
+        "created_at": "2026-07-09T05:23:28Z",
+        "score": 6.21,
+        "signals": [
+          "new",
+          "keyword:rag"
+        ]
+      },
+      {
+        "id": "mahmoudilyan/marmoui",
+        "title": "mahmoudilyan/marmoui",
+        "url": "https://github.com/mahmoudilyan/marmoui",
+        "description": "The AI agentic designer — open-source React design system + MCP that lets Claude, Codex, Cursor & Gemini build production UI in minutes. No AI slop.",
+        "stars": 28,
+        "language": "TypeScript",
+        "topics": [
+          "ai-agents",
+          "claude",
+          "components",
+          "design-system",
+          "mcp",
+          "react"
+        ],
+        "created_at": "2026-07-05T14:36:16Z",
+        "score": 5.86,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "kakunin-ai/kakunin-sdk-typescript",
+        "title": "kakunin-ai/kakunin-sdk-typescript",
+        "url": "https://github.com/kakunin-ai/kakunin-sdk-typescript",
+        "description": "TypeScript SDK for AI agent identity & compliance — issue X.509 certificates, verify scope, and enforce them with drop-in middleware. Apache-2.0.",
+        "stars": 27,
+        "language": "TypeScript",
+        "topics": [
+          "agent-security",
+          "ai-agent-identity",
+          "ai-agents",
+          "certificate-authority",
+          "compliance",
+          "eu-ai-act",
+          "kyc",
+          "mica"
+        ],
+        "created_at": "2026-07-07T10:00:20Z",
+        "score": 5.81,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "kakunin-ai/kakunin-core",
+        "title": "kakunin-ai/kakunin-core",
+        "url": "https://github.com/kakunin-ai/kakunin-core",
+        "description": "Open-source AI agent identity & compliance platform — X.509 certificates via AWS KMS, behavioral risk scoring, auto-revocation, and MiCA / EU AI Act audit trails.",
+        "stars": 24,
+        "language": "TypeScript",
+        "topics": [
+          "agent-security",
+          "ai-agents",
+          "ai-governance",
+          "audit-log",
+          "aws-kms",
+          "behavioral-monitoring",
+          "certificate-authority",
+          "compliance"
+        ],
+        "created_at": "2026-07-07T16:11:26Z",
+        "score": 5.64,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "echo-of-machines/fable-advisor",
+        "title": "echo-of-machines/fable-advisor",
+        "url": "https://github.com/echo-of-machines/fable-advisor",
+        "description": "Claude skill: consult a stronger Fable 5 advisor subagent at decision points (Opus orchestrates, Sonnet workers, Fable advises).",
+        "stars": 24,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-07-08T05:35:07Z",
+        "score": 5.64,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "InternRobotics/Cortex",
+        "title": "InternRobotics/Cortex",
+        "url": "https://github.com/InternRobotics/Cortex",
+        "description": "Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation",
+        "stars": 24,
+        "language": "Python",
+        "topics": [
+          "dual-system",
+          "long-horizon-agents",
+          "manipulation",
+          "memory-agent",
+          "vla"
+        ],
+        "created_at": "2026-07-06T12:54:32Z",
+        "score": 5.64,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "suyash-lyzr/scout-agent",
+        "title": "suyash-lyzr/scout-agent",
+        "url": "https://github.com/suyash-lyzr/scout-agent",
+        "description": "Scout — the entire internet in one governed AI agent. Reads Twitter, Reddit, YouTube, GitHub & more via your local browser sessions. Read-only, free, git-native. A port of Agent Reach with a built-in globe/galaxy UI.",
+        "stars": 23,
+        "language": "HTML",
+        "topics": [],
+        "created_at": "2026-07-03T22:53:38Z",
+        "score": 5.58,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "wsbm393/Fable-Skill",
+        "title": "wsbm393/Fable-Skill",
+        "url": "https://github.com/wsbm393/Fable-Skill",
+        "description": "Pressure-tested Claude skill: decompose hard tasks risk-first, verify with pasteable evidence, decide what to do next. Built with skill-TDD against observed frontier-model failure modes.",
+        "stars": 22,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-07-06T21:12:30Z",
+        "score": 5.52,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "fikstt2/hh-ai-agent",
+        "title": "fikstt2/hh-ai-agent",
+        "url": "https://github.com/fikstt2/hh-ai-agent",
+        "description": "hh.ru аи бот для откликов",
+        "stars": 21,
+        "language": "Python",
+        "topics": [
+          "ai-agent",
+          "anti-captcha",
+          "automation",
+          "hh-ru",
+          "hh-ru-scraper",
+          "job-search",
+          "llama3",
+          "ollama"
+        ],
+        "created_at": "2026-07-04T11:20:32Z",
+        "score": 5.46,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "Chester-2026/Gov-Stat-MCP-Server",
+        "title": "Chester-2026/Gov-Stat-MCP-Server",
+        "url": "https://github.com/Chester-2026/Gov-Stat-MCP-Server",
+        "description": "A Centralized MCP Server for Fetching Data from Many Countries' Govs",
+        "stars": 21,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-07-06T06:43:12Z",
+        "score": 5.46,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "browser-memory/bmem",
+        "title": "browser-memory/bmem",
+        "url": "https://github.com/browser-memory/bmem",
+        "description": "Open catalog of web skills for AI agents — search, add, and run reusable browser recipes with whatever browser your agent already has.",
+        "stars": 19,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-07-05T00:50:01Z",
+        "score": 5.32,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "NUX-Design/claude-skills-fable-opus",
+        "title": "NUX-Design/claude-skills-fable-opus",
+        "url": "https://github.com/NUX-Design/claude-skills-fable-opus",
+        "description": "",
+        "stars": 23,
+        "language": "Shell",
+        "topics": [],
+        "created_at": "2026-07-07T05:11:17Z",
+        "score": 4.58,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "ElliotRoe/lit-bucket",
+        "title": "ElliotRoe/lit-bucket",
+        "url": "https://github.com/ElliotRoe/lit-bucket",
+        "description": "Infinitely scalable research library storage & search for AI agents, backed by S3.",
+        "stars": 19,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-07-03T12:47:39Z",
+        "score": 4.32,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "agentdraw/agentdraw",
+        "title": "agentdraw/agentdraw",
+        "url": "https://github.com/agentdraw/agentdraw",
+        "description": "Local-first editable whiteboard for AI agents. Generate polished diagrams with 44 built-in   design themes, open them in a browser for manual editing, and export to SVG or PNG for   docs, reports, and presentations.",
+        "stars": 15,
+        "language": "JavaScript",
+        "topics": [],
+        "created_at": "2026-07-04T01:16:48Z",
+        "score": 4.0,
+        "signals": [
+          "new"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "id": "2607.08497v1",
+        "title": "Cognitive-structured Multimodal Agent for Multimodal Understanding, Generation, and Editing",
+        "url": "https://arxiv.org/abs/2607.08497v1",
+        "authors": [
+          "Feng Wang",
+          "Canmiao Fu",
+          "Zhipeng Huang",
+          "Chen Li",
+          "Jing Lyu",
+          "Ge Li"
+        ],
+        "snippet": "Recent unified multimodal models show a single architecture can jointly perform vision/language understanding and image generation/editing. However, they repeatedly feed all historical visual and textual inputs into a shared context window, limiting long-horizon multimodal dialogue due to visual token explosion and unreliable cross-turn referencing. We propose a Cognitive-structured Multimodal Age",
+        "categories": [
+          "cs.CV",
+          "cs.AI",
+          "cs.CL",
+          "cs.LG"
+        ],
+        "published": "2026-07-09T13:55:55+00:00",
+        "score": 5.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:multimodal",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2607.08375v1",
+        "title": "WCog-VLA: A Dual-Level World-Cognitive Vision-Language-Action Model for End-to-End Autonomous Driving",
+        "url": "https://arxiv.org/abs/2607.08375v1",
+        "authors": [
+          "Xuerun Yan",
+          "Zhexi Lian",
+          "Nuoheng Zhang",
+          "Shiyu Fang",
+          "Haoran Wang",
+          "Chen Lv"
+        ],
+        "snippet": "Vision-Language-Action (VLA) models have advanced end-to-end autonomous driving. However, existing methods either lack comprehensive world cognition or suffer from fragmented world foresight, inherently confining these models to reactive driving. To address this limitation, we propose WCog-VLA, a novel dual-level World-Cognitive VLA framework that successfully bridges semantic world forecasting wi",
+        "categories": [
+          "cs.CV",
+          "cs.AI"
+        ],
+        "published": "2026-07-09T11:49:57+00:00",
+        "score": 5.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:transformer",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2607.08028v1",
+        "title": "From Prompts to Contracts: Harness Engineering for Auditable Enterprise LLM Agents",
+        "url": "https://arxiv.org/abs/2607.08028v1",
+        "authors": [
+          "Joongho Ahn",
+          "Moonsoo Kim"
+        ],
+        "snippet": "Enterprise large language model (LLM) applications often begin as prototypes whose behavior is carried by prompts and retrieval context. Productization adds requirements for source boundaries, entity routing, answer contracts, and reproducible traces. We present a harness-engineering approach that reconstructs this pattern into a traceable, auditable LLM-agent architecture: deterministic behavior ",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "cs.SE"
+        ],
+        "published": "2026-07-09T01:08:33+00:00",
+        "score": 5.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:agent",
+          "keyword:retrieval",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2607.08768v1",
+        "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
+        "url": "https://arxiv.org/abs/2607.08768v1",
+        "authors": [
+          "Zhekai Chen",
+          "Chengqi Duan",
+          "Kaiyue Sun",
+          "Bohao Li",
+          "Yuqing Wang",
+          "Manyuan Zhang"
+        ],
+        "snippet": "The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-world environments. However, existing benchmarks struggle to evaluate such agents effectively, as they often rely on sandboxed environments and single-turn evaluation paradigms. Moreover, their scenario",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-07-09T17:59:32+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2607.08740v1",
+        "title": "Workflow as Knowledge: Semantic Persistence for LLM-Mediated Workflows",
+        "url": "https://arxiv.org/abs/2607.08740v1",
+        "authors": [
+          "Emanuele Quinto",
+          "Carlo Andrea Rozzi",
+          "Francesco Zanitti"
+        ],
+        "snippet": "Large language model (LLM) applications increasingly use explicit workflows for tool use, retrieval, branching, checkpointing, and human approval. Existing workflow systems already address many execution concerns. This paper proposes a Lisp-inspired but language-independent conceptual model: symbolic forms, object identity, and live-image thinking are used as explanatory lenses, not implementation",
+        "categories": [
+          "cs.AI",
+          "cs.PL",
+          "cs.SE"
+        ],
+        "published": "2026-07-09T17:40:46+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:retrieval",
+          "keyword:tool use"
+        ]
+      },
+      {
+        "id": "2607.08691v1",
+        "title": "ProjAgent: Procedural Similarity Retrieval for Repository-Level Code Generation",
+        "url": "https://arxiv.org/abs/2607.08691v1",
+        "authors": [
+          "QiHong Chen",
+          "Aaron Imani",
+          "Iftekhar Ahmed"
+        ],
+        "snippet": "Repository-level code generation requires implementing target functions while accounting for complex cross-file dependencies and project-specific conventions. Existing retrieval methods predominantly rely on lexical, structural, or semantic similarity, often overlooking repository functions that implement similar procedural logic despite differing in identifiers or application domains. We propose ",
+        "categories": [
+          "cs.SE",
+          "cs.AI",
+          "cs.IR"
+        ],
+        "published": "2026-07-09T16:50:54+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:agentic",
+          "keyword:reasoning",
+          "keyword:retrieval",
+          "keyword:code generation"
+        ]
+      },
+      {
+        "id": "2607.08662v1",
+        "title": "WebSwarm: Recursive Multi-Agent Orchestration for Deep-and-Wide Web Search",
+        "url": "https://arxiv.org/abs/2607.08662v1",
+        "authors": [
+          "Xiaoshuai Song",
+          "Liancheng Zhang",
+          "Kangzhi Zhao",
+          "Yutao Zhu",
+          "Zhongyuan Wang",
+          "Guanting Dong"
+        ],
+        "snippet": "Large language model (LLM)-based web search agents are transforming information seeking from simple factoid question answering into complex, deep-and-wide search and research-oriented tasks. A single ReAct-style agent is constrained by one long trajectory and limited context, making it difficult to handle depth and coverage simultaneously. Existing multi-agent systems improve search coverage throu",
+        "categories": [
+          "cs.CL",
+          "cs.AI",
+          "cs.MA"
+        ],
+        "published": "2026-07-09T16:28:49+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:agent",
+          "keyword:agentic"
+        ]
+      },
+      {
+        "id": "2607.08602v1",
+        "title": "Towards Precision Therapy in Hepatocellular Carcinoma: A Clinical-Reasoning LLM for Risk Stratification and Treatment Guidance",
+        "url": "https://arxiv.org/abs/2607.08602v1",
+        "authors": [
+          "Peng Cui",
+          "Jitao Wang",
+          "Siyan Xue",
+          "Yao Huang",
+          "Haoming Xia",
+          "Dong Li"
+        ],
+        "snippet": "Hepatocellular carcinoma (HCC) is a common malignancy and a leading cause of cancer-related mortality. Current guidelines and staging systems provide coarse categories, but often miss within-stage heterogeneity and the clinical context in electronic medical records (EMRs). We present HCC-STAR (Hepatocellular Carcinoma Staging, Treatment And pRognosis), a clinically aligned large language model tha",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-07-09T15:33:08+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:reasoning",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2607.08288v1",
+        "title": "From Legacy Documentation to OSCAL: An MCP-Based Agent Pipeline for Threat-Informed Continuous Compliance in Critical Infrastructure",
+        "url": "https://arxiv.org/abs/2607.08288v1",
+        "authors": [
+          "Lea Roxanne Muth",
+          "Marian Margraf"
+        ],
+        "snippet": "In critical infrastructure, operational technology environments often cannot be actively scanned, and yet active system feedback is needed for risk assessment and compliance. This paper presents a non-invasive, MCP-grounded multi-agent pipeline that converts natural-language system descriptions into source-verified knowledge graph and audit-ready artifacts in the NIST OSCAL format for continuous a",
+        "categories": [
+          "cs.CR",
+          "cs.AI"
+        ],
+        "published": "2026-07-09T09:32:03+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:reasoning",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2607.08269v1",
+        "title": "PolyUQuest: Verifiable Structure-Aware Web RAG over Heterogeneous Graphs",
+        "url": "https://arxiv.org/abs/2607.08269v1",
+        "authors": [
+          "Ying Liu",
+          "Yi Ye",
+          "Quanyu Feng",
+          "Mingxi Ye",
+          "Mingtao Zhang",
+          "Haoyang Li"
+        ],
+        "snippet": "Existing retrieval-augmented generation (RAG) systems treat web pages as flat text, losing the structural and semantic signals encoded in HTML. We present PolyUQuest, a verifiable, structure-aware web RAG framework built on a heterogeneous graph that unifies hyperlink topology between pages, DOM hierarchy within pages, and entity-relation knowledge across pages. A two-tier router dispatches each q",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-07-09T09:10:52+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2607.08180v1",
+        "title": "Out of Sight: Compression-Aware Content Protection against Agentic Crawlers",
+        "url": "https://arxiv.org/abs/2607.08180v1",
+        "authors": [
+          "Xuefei Wang"
+        ],
+        "snippet": "The rise of LLM-based agents with reasoning, summarization, and memory capabilities has created a new threat surface for online content that conventional defenses fail to address. Existing defenses like access controls can be circumvented by agents mimicking ordinary browsers, and injection-based defenses often degrade human readability. In this paper, we revisit the agent pipeline and identify co",
+        "categories": [
+          "cs.CR",
+          "cs.AI"
+        ],
+        "published": "2026-07-09T07:27:48+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2607.08093v1",
+        "title": "CausalDS: Benchmarking Causal Reasoning in Data-Science Agents",
+        "url": "https://arxiv.org/abs/2607.08093v1",
+        "authors": [
+          "Andrej Leban",
+          "Yuekai Sun"
+        ],
+        "snippet": "Large language models (LLMs) increasingly act as integrated data-science agents, combining abstract reasoning with advanced tool use. Yet the relevant benchmark landscape largely divides into symbolic causal reasoning benchmarks without realistic data analysis or data analysis benchmarks without a principled causal data-generating structure. Furthermore, existing causal evaluation datasets are oft",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "cs.LG"
+        ],
+        "published": "2026-07-09T04:03:26+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:agentic",
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:tool use"
+        ]
+      },
+      {
+        "id": "2607.08056v1",
+        "title": "Reinforcing the Generation Order of Multimodal Masked Diffusion Models",
+        "url": "https://arxiv.org/abs/2607.08056v1",
+        "authors": [
+          "Yidong Ouyang",
+          "Zhe Wang",
+          "Sourav Bhabesh",
+          "Dmitriy Bespalov"
+        ],
+        "snippet": "Diffusion Language Models (DLMs) have recently achieved substantial progress in natural language generation tasks. Recent research demonstrates that adaptive token generation ordering can significantly improve performance in mathematical reasoning and code synthesis applications. In this work, we investigate the optimization of generation order for both text-to-image synthesis and multimodal under",
+        "categories": [
+          "cs.LG",
+          "cs.AI",
+          "stat.ML"
+        ],
+        "published": "2026-07-09T02:07:30+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:multimodal",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2607.08038v1",
+        "title": "A safety-oriented hypothetico-deductive framework for AI-assisted differential diagnosis",
+        "url": "https://arxiv.org/abs/2607.08038v1",
+        "authors": [
+          "Fan Ma",
+          "Mauro Giuffrè",
+          "Donald Wright",
+          "Kent McCann",
+          "Mark Iscoe",
+          "Lingfei Qian"
+        ],
+        "snippet": "Diagnostic error is a major threat to patient safety, yet current large language model (LLM) systems often treat diagnosis as a one-shot prediction task, lacking safeguards against missed high-risk alternatives or rigorous verification of their reasoning. Here, we present AegisDx, a safety-oriented framework for hypothetico-deductive clinical reasoning. AegisDx coordinates specialized LLM componen",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-07-09T01:30:24+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:reasoning",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2607.08010v1",
+        "title": "Tool-Making and Self-Evolving LLM Agents in Low-Latency Systems",
+        "url": "https://arxiv.org/abs/2607.08010v1",
+        "authors": [
+          "Kalle Kujanpää",
+          "Ning Liu",
+          "Shahnawaz Alam",
+          "Yeshwanth Reddy Sura",
+          "Tianyu Yang",
+          "Kristina Klinkner"
+        ],
+        "snippet": "Production LLM agents often waste latency and reliability by regenerating code for the same procedural steps on every request. We replace this inference-time coding loop with an agentic tool-making pipeline that compiles repeated SOP steps into validated, versioned tools before deployment. The tool-maker grounds synthesis in the live environment as it collects execution traces, observes backend sc",
+        "categories": [
+          "cs.CL",
+          "cs.LG",
+          "cs.SE"
+        ],
+        "published": "2026-07-09T00:27:13+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:code generation"
+        ]
+      },
+      {
+        "id": "2607.08758v1",
+        "title": "Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation",
+        "url": "https://arxiv.org/abs/2607.08758v1",
+        "authors": [
+          "Yifan Zhou",
+          "Qihao Yang",
+          "Yan Li",
+          "Donggang Li",
+          "Xiru Hu",
+          "Hokin Deng"
+        ],
+        "snippet": "Scientific ideas rarely start from a blank page. They inherit mechanisms, repair known limitations, and recombine pieces of earlier work, much like biological genomes. Current benchmarks still say little about whether AI systems can follow this inheritance structure. We present IdeaGene-Bench (IG-Bench), a benchmark for scientific lineage reasoning and lineage-grounded idea generation. IG-Bench is",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-07-09T17:55:53+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:reasoning",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2607.08745v1",
+        "title": "AUTOPILOT VQA: Benchmarking Vision-Language Models for Incident-Centric Dashcam Understanding",
+        "url": "https://arxiv.org/abs/2607.08745v1",
+        "authors": [
+          "Siddharth Damodharan",
+          "Radhika Gupta",
+          "Ali Alshami",
+          "Ryan Rabinowitz",
+          "Jugal Kalita"
+        ],
+        "snippet": "Recent advances in Vision-Language Models, Large Language Models, and Multimodal Large Language Models have improved autonomous driving tasks such as scene understanding, decision making, trajectory prediction, and visual question answering. However, evaluating whether these models can reliably reason about safety-critical incidents remains challenging. To address this gap, we present AUTOPILOT-VQ",
+        "categories": [
+          "cs.AI",
+          "cs.CV"
+        ],
+        "published": "2026-07-09T17:46:24+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2607.08731v1",
+        "title": "Validity of LLMs as data annotators: AMALIA on authority",
+        "url": "https://arxiv.org/abs/2607.08731v1",
+        "authors": [
+          "Manuel Pita"
+        ],
+        "snippet": "A national language model offers a linguistic community its own instrument for measuring what its citizens say and value. Portugal's AMALIA, a publicly funded 9B-parameter model for European Portuguese, appears competitive on agreement alone: asked to code the moral foundation of authority, it agrees with trained human coders to within six F1 points of open models eight to thirteen times its size.",
+        "categories": [
+          "cs.CL",
+          "cs.AI",
+          "cs.CY"
+        ],
+        "published": "2026-07-09T17:34:25+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:benchmark",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2607.08681v1",
+        "title": "SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets",
+        "url": "https://arxiv.org/abs/2607.08681v1",
+        "authors": [
+          "Shilin Ou",
+          "Yifan Xu",
+          "Luyao Zhang"
+        ],
+        "snippet": "As agentic AI systems are increasingly applied to cyber-physical environments, their evaluation requires assessment of both task performance and trustworthiness. In decentralized energy markets, autonomous agents may improve market utility, but may also exploit invalid physical data, create artificial liquidity, and produce unstable governance decisions. Therefore, we propose SolarChain-Eval, a ph",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-07-09T16:43:42+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agentic",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2607.08652v1",
+        "title": "Formal Mechanisms for Market Stability in Self-Interested Agent Societies: A Marketplace Simulation Study",
+        "url": "https://arxiv.org/abs/2607.08652v1",
+        "authors": [
+          "Eugene Ng Yi Sheng",
+          "Bingquan Shen"
+        ],
+        "snippet": "Self-interested agents, left unconstrained, tend toward defection in repeated social dilemmas, causing cooperative gains from trade to collapse. This paper investigates what formal mechanisms, layered on top of unrestricted communication, are sufficient for a society of such agents to maintain market stability, and how resilient those mechanisms are to adversarial attack. We instantiate the resear",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-07-09T16:21:16+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2607.08646v1",
+        "title": "UltraX: Refining Pre-Training Data at Scale with Adaptive Programmatic Editing",
+        "url": "https://arxiv.org/abs/2607.08646v1",
+        "authors": [
+          "Xinlong Zhao",
+          "Dongsheng Liu",
+          "Hengyu Zhao",
+          "Zixuan Fu",
+          "Zheng Wang",
+          "Jie Cai"
+        ],
+        "snippet": "As available training data approaches its physical limit, gains from Scaling Laws have begun to diminish. Consequently, improving Large Language Models (LLMs) now depends less on data expansion and more on higher-quality data utilization. However, in the context of large-scale corpora, existing refinement methodologies face significant limitations in quality, efficiency, and reliability: Rule-base",
+        "categories": [
+          "cs.CL",
+          "cs.AI"
+        ],
+        "published": "2026-07-09T16:18:07+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:alignment",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2607.08643v1",
+        "title": "BiSCo-LLM: Lookup-Free Binary Spherical Coding for Extreme Low-Bit Large Language Model Compression",
+        "url": "https://arxiv.org/abs/2607.08643v1",
+        "authors": [
+          "Yuantian Shao",
+          "Peisong Wang",
+          "Zhilei Liu",
+          "Chuangyi Li",
+          "Yuanteng Chen",
+          "Pengcheng Xie"
+        ],
+        "snippet": "Large language models (LLMs) are increasingly constrained by memory capacity, weight bandwidth, and checkpoint storage during deployment. Existing low-bit compression methods mainly follow two directions. Scalar or group-wise quantization is simple and compatible with efficient low-precision kernels, but its representation capacity becomes limited when the target budget approaches 2 bits per weigh",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-07-09T16:17:10+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:transformer"
+        ]
+      },
+      {
+        "id": "2607.08605v1",
+        "title": "When Structured Sparse Autoencoders Learn Consistent Concepts Across Modalities",
+        "url": "https://arxiv.org/abs/2607.08605v1",
+        "authors": [
+          "Weiduo Liao",
+          "Yunqiao Yang",
+          "Ying Wei"
+        ],
+        "snippet": "Sparse autoencoders (SAEs) have emerged as a promising technique for mechanistic interpretability by learning a set of sparse latent features in large models, each of which encodes a distinct concept. However, in vision-language models (VLMs), vanilla SAEs struggle to learn modality-consistent concepts, with concepts often exhibiting fragmented coverage (i.e., disjoint regions) in the visual modal",
+        "categories": [
+          "cs.CV",
+          "cs.AI",
+          "cs.LG"
+        ],
+        "published": "2026-07-09T15:35:08+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:multimodal",
+          "keyword:transformer",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2607.08565v1",
+        "title": "SMetric: Rethink LLM Scheduling for Serving Agents with Balanced Session-centric Scheduling",
+        "url": "https://arxiv.org/abs/2607.08565v1",
+        "authors": [
+          "Jiahao Wang",
+          "Kaizhan Lin",
+          "Kaixi Zhang",
+          "Jinbo Han",
+          "Xingda Wei",
+          "Sijie Shen"
+        ],
+        "snippet": "LLM scheduling is critical to serving, yet it remains unclear how well existing designs fit agentic serving--with LLM requests issued by agents instead of humans. This shifts the workload in two ways: (1) agents act only on complete responses, making the cluster's tokens per second (TPS) the primary goal and relaxing--not eliminating--per-token latency requirements; and (2) requests share much of ",
+        "categories": [
+          "cs.DC",
+          "cs.AI"
+        ],
+        "published": "2026-07-09T14:55:02+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:agentic"
+        ]
+      },
+      {
+        "id": "2607.08495v1",
+        "title": "The Context Access Divide: Interaction-Level Architecture as a Complementary Dimension of Agentic Inequality",
+        "url": "https://arxiv.org/abs/2607.08495v1",
+        "authors": [
+          "Masahiro Fujita"
+        ],
+        "snippet": "Sharp et al. (2025) introduce \"agentic inequality\" as a framework for analyzing disparities in access to AI agents across three dimensions: availability, quality, and quantity. These person- and organization-level dimensions characterize who can access agents and at what capability, but do not address a structurally important divide operating at a finer level: the individual interaction. Two users",
+        "categories": [
+          "cs.CY",
+          "cs.AI"
+        ],
+        "published": "2026-07-09T13:53:40+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2607.08470v1",
+        "title": "MatBind: A Shared Embedding Space for Multimodal Materials Characterization",
+        "url": "https://arxiv.org/abs/2607.08470v1",
+        "authors": [
+          "Le Yang",
+          "Anoop K. Chandran",
+          "Jona Östreicher",
+          "Evgenii Sovetkin",
+          "Adrian Mirza",
+          "Sebastien Bompas"
+        ],
+        "snippet": "Fully characterizing a crystalline material requires integrating heterogeneous data sources -- atomic structures, diffraction patterns, electronic density of states, and natural language -- each of which captures a different facet of the same physical object. In practice, however, these modalities are stored and analyzed in isolation, making it difficult to relate or query materials across represe",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-07-09T13:28:14+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:multimodal",
+          "keyword:retrieval",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2607.08409v1",
+        "title": "When Synthetic Speech Is All You Have: Better Call GRPO",
+        "url": "https://arxiv.org/abs/2607.08409v1",
+        "authors": [
+          "Shashi Kumar",
+          "Yanis Labrak",
+          "Hasindri Watawana",
+          "Sergio Burdisso",
+          "Esaú Villatoro-Tello",
+          "Kadri Hacioğlu"
+        ],
+        "snippet": "LLM-based ASR adapted to regulated domains such as banking is bottlenecked by privacy: real speech is costly and legally constrained to collect, making synthetic text-to-speech (TTS) an attractive substitute. Yet synthetic speech stays acoustically mismatched with real recordings, and work on this gap has stayed within supervised fine-tuning (SFT). We instead turn to reinforcement learning, and sh",
+        "categories": [
+          "cs.CL",
+          "cs.AI"
+        ],
+        "published": "2026-07-09T12:34:56+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:fine-tuning",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2607.08400v1",
+        "title": "TRACE: A Two-Channel Robust Attribution Watermark via Complementary Embeddings for LLM-Agent Trajectories",
+        "url": "https://arxiv.org/abs/2607.08400v1",
+        "authors": [
+          "Zheng Gao",
+          "Xiaoyu Li",
+          "Xiaoyan Feng",
+          "Jiaojiao Jiang",
+          "Yang Song",
+          "Yulei Sui"
+        ],
+        "snippet": "LLM agents reach users through resellers, who may rebrand a developer's agent or substitute a cheaper model. When provenance is disputed, attribution rests on the trajectory log (the record of tool calls, observations, and executed actions, not the model's reasoning), which the reseller stores and processes to meter usage. A watermark must therefore survive an adversary with full read/write access",
+        "categories": [
+          "cs.CR",
+          "cs.AI",
+          "cs.LG"
+        ],
+        "published": "2026-07-09T12:25:22+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2607.08393v1",
+        "title": "Towards Mechanistically Understanding Why Memorized Knowledge Fails to Generalize in Large Language Model Finetuning",
+        "url": "https://arxiv.org/abs/2607.08393v1",
+        "authors": [
+          "Lu Dai",
+          "Ziyang Rao",
+          "Yili Wang",
+          "Hanqing Wang",
+          "Hao Liu",
+          "Hui Xiong"
+        ],
+        "snippet": "Fine-tuning LLMs to inject new knowledge faces a critical challenge: LLMs can quickly memorize new facts, yet fail to use them for downstream reasoning tasks. We formalize this failure as the \\textit{\\textbf{Knowing--Using Gap}}, characterized by an accuracy gap and a temporal lag between memorization and generalization. To understand this phenomenon, we fine-tune LLMs with unseen knowledge and mo",
+        "categories": [
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-07-09T12:17:28+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:large language model",
+          "keyword:reasoning",
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2607.08359v1",
+        "title": "FSD-VLN: Fast-Slow Dual-System Modeling for Aerial Long-Horizon Vision-Language Navigation",
+        "url": "https://arxiv.org/abs/2607.08359v1",
+        "authors": [
+          "Xueke Zhu",
+          "Qingyan Meng",
+          "Liutao Yu",
+          "Wei Zhang",
+          "Zhengyu Ma",
+          "Huihui Zhou"
+        ],
+        "snippet": "Vision-Language Navigation (VLN) enables UAV autonomous navigation in unknown environments by mapping language instructions to real-time visual inputs. Compared with GPS-dependent or pre-programmed navigation, VLN supports intuitive human-machine interaction and stronger environmental adaptability, requiring tight integration of high-level semantic reasoning and low-latency flight control.Existing",
+        "categories": [
+          "cs.RO",
+          "cs.AI"
+        ],
+        "published": "2026-07-09T11:17:04+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:multimodal",
+          "keyword:transformer"
+        ]
+      }
+    ]
+  }
+}
