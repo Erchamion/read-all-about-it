@@ -79,3 +79,14 @@ def test_fetch_arxiv_reports_fetch_failure():
     papers, errors = fetch_arxiv(CONFIG, KEYWORDS, NOW, fetcher=fetcher)
     assert papers == []
     assert errors == [{"source": "arxiv", "message": "timeout"}]
+
+
+def test_fetch_arxiv_records_error_for_invalid_feed_response():
+    # A 200 response that isn't a valid Atom feed (e.g. an HTML error page)
+    # must not silently produce an empty, seemingly-quiet digest.
+    html_garbage = "<html><body><h1>503 Service Unavailable</h1></body></html>"
+
+    papers, errors = fetch_arxiv(CONFIG, KEYWORDS, NOW, fetcher=lambda params: html_garbage)
+    assert papers == []
+    assert len(errors) == 1
+    assert errors[0]["source"] == "arxiv"

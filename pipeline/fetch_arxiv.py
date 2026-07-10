@@ -36,9 +36,17 @@ def fetch_arxiv(config, keywords, now, fetcher=default_fetcher):
     except Exception as error:
         return [], [{"source": "arxiv", "message": str(error)}]
 
+    parsed = feedparser.parse(content)
+    if parsed.bozo or not parsed.entries:
+        message = (
+            f"arxiv response was not a valid Atom feed "
+            f"(bozo={bool(parsed.bozo)}, entries={len(parsed.entries)})"
+        )
+        return [], [{"source": "arxiv", "message": message}]
+
     cutoff = now - timedelta(days=config["lookback_days"])
     papers = []
-    for entry in feedparser.parse(content).entries:
+    for entry in parsed.entries:
         published = entry_published(entry)
         if published is None or published < cutoff:
             continue
