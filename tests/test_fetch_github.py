@@ -1,5 +1,7 @@
 from datetime import datetime, timezone
 
+import pytest
+
 from pipeline.fetch_github import fetch_github
 
 NOW = datetime(2026, 7, 10, 12, 0, tzinfo=timezone.utc)
@@ -64,14 +66,15 @@ def test_fetch_github_records_query_failures_and_continues():
     assert errors[0]["source"] == "github:new:mcp server"
 
 
-def test_fetch_github_records_non_dict_responses_and_continues():
+@pytest.mark.parametrize("payload", [None, [], {"items": None}, {"items": 42}])
+def test_fetch_github_records_malformed_payloads_and_continues(payload):
     call_count = [0]
 
     def fetcher(params):
         call_count[0] += 1
-        # First query returns a non-dict payload; the rest are valid
+        # First query returns a malformed payload; the rest are valid
         if call_count[0] == 1:
-            return None
+            return payload
         return {"items": [REPO] if call_count[0] == 2 else []}
 
     items, errors = fetch_github(CONFIG, NOW, fetcher=fetcher)

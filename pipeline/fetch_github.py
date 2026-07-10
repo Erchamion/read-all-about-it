@@ -66,11 +66,12 @@ def fetch_github(config, now, fetcher=default_fetcher):
             except Exception as error:
                 errors.append({"source": f"github:{mode}:{term}", "message": str(error)})
                 continue
-            if not isinstance(data, dict):
-                message = f"expected dict response, got {type(data).__name__}"
+            raw_items = data.get("items") if isinstance(data, dict) else None
+            if not isinstance(raw_items, list):
+                message = f"unexpected payload shape: {type(data).__name__}"
                 errors.append({"source": f"github:{mode}:{term}", "message": message})
                 continue
-            for raw in data.get("items", []):
+            for raw in raw_items:
                 try:
                     if raw["full_name"] in seen_names:
                         continue
