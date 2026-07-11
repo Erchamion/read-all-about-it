@@ -1,0 +1,526 @@
+{
+  "date": "2026-07-11",
+  "generated_at": "2026-07-11T13:31:29+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://machinelearning.apple.com/research/behavioral-privacy-agentic-negotiation",
+        "title": "Behavioral Privacy Leakage in Agentic Negotiation: Formalizing and Mitigating Inference Attacks via Randomized Policies",
+        "url": "https://machinelearning.apple.com/research/behavioral-privacy-agentic-negotiation",
+        "source": "apple-ml",
+        "published": "2026-07-10T00:00:00+00:00",
+        "snippet": "This paper was accepted at the AI4TCI (Workshop on AI for Secure and Trustworthy Critical Infrastructure Systems) Workshop at the International Conference on Availability, Reliability and Security (ARES) 2026.\nAutonomous negotiation agents are increasingly deployed in high-stakes settings such as in",
+        "score": 1.0,
+        "signals": []
+      }
+    ],
+    "github": [
+      {
+        "id": "bryanyzhu/agentic-ai-system-course",
+        "title": "bryanyzhu/agentic-ai-system-course",
+        "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
+        "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
+        "stars": 468,
+        "language": "JavaScript",
+        "topics": [
+          "agentic-ai",
+          "agentic-workflow",
+          "ai-agents",
+          "course",
+          "system-design",
+          "tutorial"
+        ],
+        "created_at": "2026-05-23T03:59:52Z",
+        "score": 10.87,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:workflow"
+        ]
+      },
+      {
+        "id": "badchars/darknet-mcp-server",
+        "title": "badchars/darknet-mcp-server",
+        "url": "https://github.com/badchars/darknet-mcp-server",
+        "description": "66-tool MCP server for dark web intelligence — breach data, ransomware tracking, Tor .onion access, malware analysis, blockchain intel, exploit search, stealer logs",
+        "stars": 203,
+        "language": "TypeScript",
+        "topics": [
+          "ai-agent",
+          "breach",
+          "claude",
+          "cybersecurity",
+          "dark-web",
+          "darknet",
+          "exploit",
+          "malware"
+        ],
+        "created_at": "2026-06-23T18:45:38Z",
+        "score": 9.67,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "ScrapeCreators/social-media-research-skills",
+        "title": "ScrapeCreators/social-media-research-skills",
+        "url": "https://github.com/ScrapeCreators/social-media-research-skills",
+        "description": "Social media research skills for AI agents powered by ScrapeCreators",
+        "stars": 480,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-06-06T21:47:43Z",
+        "score": 8.91,
+        "signals": [
+          "rising"
+        ]
+      },
+      {
+        "id": "wikidjon/ai-openclaw-cli",
+        "title": "wikidjon/ai-openclaw-cli",
+        "url": "https://github.com/wikidjon/ai-openclaw-cli",
+        "description": "openfinclaw cli | ai openclaw mcp cli which works in claude code, cursor, and 20+ ai agents via mcp",
+        "stars": 52,
+        "language": "TypeScript",
+        "topics": [
+          "ai",
+          "cli",
+          "mcp-cli",
+          "openclaw",
+          "openclaw-mcp",
+          "openfinclaw",
+          "openfinclaw-mcp"
+        ],
+        "created_at": "2026-07-09T07:30:49Z",
+        "score": 6.73,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "1304674612/agentbench",
+        "title": "1304674612/agentbench",
+        "url": "https://github.com/1304674612/agentbench",
+        "description": "The Regression Testing Framework for AI Agents. Replay · Evaluate · Assert · Catch Regressions — in CI. Like Jest for your AI layer.",
+        "stars": 22,
+        "language": "TypeScript",
+        "topics": [
+          "agent-testing",
+          "agentops",
+          "ai-agent",
+          "ai-agents",
+          "ai-testing",
+          "assertions",
+          "ci-cd",
+          "coverage"
+        ],
+        "created_at": "2026-07-09T11:49:47Z",
+        "score": 6.52,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "coleam00/redis-iris-agent",
+        "title": "coleam00/redis-iris-agent",
+        "url": "https://github.com/coleam00/redis-iris-agent",
+        "description": "Pydantic AI agent with a Redis Iris context layer: Context Retriever (live data via MCP) + Agent Memory, with a reproducible support-desk demo",
+        "stars": 17,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-07-04T13:17:27Z",
+        "score": 6.17,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "swytchcodehq/agent-install-monitor",
+        "title": "swytchcodehq/agent-install-monitor",
+        "url": "https://github.com/swytchcodehq/agent-install-monitor",
+        "description": "Monitor everything your AI agent installs on your system",
+        "stars": 16,
+        "language": "Python",
+        "topics": [
+          "hermes",
+          "hermes-agent"
+        ],
+        "created_at": "2026-07-10T11:41:44Z",
+        "score": 5.09,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "opitaru-sys/deck-dna",
+        "title": "opitaru-sys/deck-dna",
+        "url": "https://github.com/opitaru-sys/deck-dna",
+        "description": "A Claude skill that builds PPTX decks matching your real designer decks: extracted design DNA, measured word budget, render-QA loop.",
+        "stars": 16,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-07-10T18:24:43Z",
+        "score": 5.09,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "treygoff24/papercuts",
+        "title": "treygoff24/papercuts",
+        "url": "https://github.com/treygoff24/papercuts",
+        "description": "A tiny CLI that gives AI agents a complaint box — log the papercuts they hit during work",
+        "stars": 18,
+        "language": "Rust",
+        "topics": [],
+        "created_at": "2026-07-10T03:08:33Z",
+        "score": 4.25,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "awslabs/loom",
+        "title": "awslabs/loom",
+        "url": "https://github.com/awslabs/loom",
+        "description": "Loom for AWS is an enterprise-grade platform for building, deploying, and operating AI agents on Amazon Bedrock AgentCore Runtime and AWS Strands Agents.",
+        "stars": 18,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-07-07T18:28:07Z",
+        "score": 4.25,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "SkyeShark/eidoverse-video",
+        "title": "SkyeShark/eidoverse-video",
+        "url": "https://github.com/SkyeShark/eidoverse-video",
+        "description": "Video-production toolkit for AI agents: Deno + WebGPU + three.js/TSL render engine with VRM character locomotion, simulations, effects, and a full audio pipeline — real-time GPU rendering with minimal CPU",
+        "stars": 16,
+        "language": "JavaScript",
+        "topics": [],
+        "created_at": "2026-07-06T09:41:27Z",
+        "score": 4.09,
+        "signals": [
+          "new"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "id": "2607.08741v1",
+        "title": "ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation",
+        "url": "https://arxiv.org/abs/2607.08741v1",
+        "authors": [
+          "Kaifeng Zhao",
+          "Mathis Petrovich",
+          "Haotian Zhang",
+          "Tingwu Wang",
+          "Siyu Tang",
+          "Davis Rempe"
+        ],
+        "snippet": "Generating realistic 3D human motions in real-time within interactive applications is key for animation, simulation, and humanoid robotics. While recent offline motion generation approaches offer precise control via text and kinematic constraints, they lack the inference speed required for interactive settings. Conversely, existing online methods enable real-time synthesis but often sacrifice cont",
+        "categories": [
+          "cs.GR",
+          "cs.CV",
+          "cs.LG",
+          "cs.RO"
+        ],
+        "published": "2026-07-09T17:41:49+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:benchmark",
+          "keyword:transformer"
+        ]
+      },
+      {
+        "id": "2607.08725v1",
+        "title": "Pose-to-Biomechanics: Bridging 3D Human Pose Estimation and Biomechanical Attribute Prediction",
+        "url": "https://arxiv.org/abs/2607.08725v1",
+        "authors": [
+          "Ayda Eghbalian",
+          "Kevin Desai"
+        ],
+        "snippet": "Recent progress in 3D human pose estimation has made markerless recovery of skeletal motion increasingly accurate and scalable. However, most pose estimators remain optimized for geometric keypoint accuracy, while many real-world applications in rehabilitation, sports science, ergonomics, and clinical movement analysis require biomechanical quantities that describe how the body moves, loads, and a",
+        "categories": [
+          "cs.CV",
+          "cs.AI",
+          "cs.LG"
+        ],
+        "published": "2026-07-09T17:31:16+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:benchmark",
+          "keyword:transformer"
+        ]
+      },
+      {
+        "id": "2607.08724v1",
+        "title": "Latent Memory Palace: Reasoning for Control as Autoregressive Variational Inference",
+        "url": "https://arxiv.org/abs/2607.08724v1",
+        "authors": [
+          "Chuning Zhu",
+          "Eva Xu",
+          "Jose Barreiros",
+          "Krishnan Srinivasan",
+          "Paarth Shah",
+          "Abhishek Gupta"
+        ],
+        "snippet": "Human decision-making is highly flexible -- some actions are taken immediately; others require longer deliberation. Language models have exhibited a similar capacity for adaptive \"reasoning.\" However, transferring this capability to continuous control policies has been challenging, as directly reasoning in language space may lack the granularity for spatial understanding and precise motions. In th",
+        "categories": [
+          "cs.LG",
+          "cs.RO"
+        ],
+        "published": "2026-07-09T17:30:49+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2607.08716v1",
+        "title": "Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents",
+        "url": "https://arxiv.org/abs/2607.08716v1",
+        "authors": [
+          "Yifan Wu",
+          "Lizhu Zhang",
+          "Yuhang Zhou",
+          "Mingyi Wang",
+          "Bo Peng",
+          "Serena Li"
+        ],
+        "snippet": "In long-horizon tasks, decision-relevant state is often scattered across an expanding trajectory, while the action agent must surface it and act. As trajectories grow, task requirements, environment facts, prior attempts, diagnoses, and open subgoals can be buried in the context window or pushed beyond it, failing to influence decisions when needed. We call this failure mode \"behavioral state deca",
+        "categories": [
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-07-09T17:26:28+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2607.08700v1",
+        "title": "Do You Need a Frontier Model as a Citation Verifier? Benchmarking Rubric LLMs for Deep-Research Source Attribution",
+        "url": "https://arxiv.org/abs/2607.08700v1",
+        "authors": [
+          "Ethan Leung",
+          "Elias Lumer",
+          "Corey Feld",
+          "Austin Huber",
+          "Vamse Kumar Subbiah",
+          "Kevin Paul"
+        ],
+        "snippet": "Reinforcement learning increasingly relies on an LLM judge to score each rubric criterion, and that judge acts as the reward model during training. Before such a signal can be trusted, we need to know how capable the judge must be and how biased it is. We study this calibration question for citation quality in deep-research systems, where a search-grounded LLM must support each claim it writes wit",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-07-09T17:01:40+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2607.08690v1",
+        "title": "A Practical Investigation of Training-free Relaxed Speculative Decoding",
+        "url": "https://arxiv.org/abs/2607.08690v1",
+        "authors": [
+          "Guoxuan Xia",
+          "Luka Ribar",
+          "Paul Balanca"
+        ],
+        "snippet": "Speculative decoding accelerates sampling from an autoregressive LLM by using a faster auxiliary model to draft tokens which are then verified in parallel by the LLM. Standard speculative decoding is lossless: its rejection and resampling steps exactly preserve the LLM's sampling distribution. Recent work argues that relaxing this strict guarantee can yield further speed-ups, controlled capability",
+        "categories": [
+          "cs.LG",
+          "cs.AI"
+        ],
+        "published": "2026-07-09T16:50:41+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2607.08573v1",
+        "title": "SHAP-Weighted Cross-Modal Expert Fusion for Emotion and Sentiment Recognition: Evidence and Limits",
+        "url": "https://arxiv.org/abs/2607.08573v1",
+        "authors": [
+          "Adis Alihodzic",
+          "Selma Skopljakovic Hubljar"
+        ],
+        "snippet": "Multimodal emotion and sentiment recognition is commonly addressed by early fusion, which concatenates modalities before classification, or late fusion, which combines independently trained unimodal predictors. Early fusion can be accurate but monolithic, while late fusion is modular but may lose cross-modal interactions. This paper revisits XAI-guided adaptive fusion (\\xgaf), a tree-based mixture",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-07-09T15:06:28+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:multimodal",
+          "keyword:transformer"
+        ]
+      },
+      {
+        "id": "2607.08540v1",
+        "title": "Improving Ad-hoc Search Effectiveness for Conversational Information Retrieval via Model Merging",
+        "url": "https://arxiv.org/abs/2607.08540v1",
+        "authors": [
+          "Ahmed Rayane Kebir",
+          "Jose G. Moreno",
+          "Lynda Tamine"
+        ],
+        "snippet": "Conversational information retrieval is challenging since it requires the consideration of the conversation history which potentially gives rise to topic shifts and coreference resolution across previous turns. To address these challenges, previous work mainly rely on traditional fine-tuning of ad-hoc retrievers on conversational datasets or extrapolates their generalizability through multi-taskin",
+        "categories": [
+          "cs.IR",
+          "cs.CL"
+        ],
+        "published": "2026-07-09T14:35:14+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:fine-tuning",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2607.08499v1",
+        "title": "Cross-seed explainability using Procrustes-conditioned Joint End-to-end Top-K Sparse Autoencoders",
+        "url": "https://arxiv.org/abs/2607.08499v1",
+        "authors": [
+          "Bendegúz Váradi",
+          "Zoltán Kmetty"
+        ],
+        "snippet": "We present a Procrustes-conditioned Joint End-to-end Top-K Sparse Autoencoder (SAE) for extracting cross-seed universal features from independently trained BERT models. Cross-seed feature universality is a fundamental challenge in mechanistic interpretability: because dictionary learning is non-convex, independently trained networks learn misaligned feature spaces, so apparently identical features",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-07-09T13:59:08+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:benchmark",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2607.08763v1",
+        "title": "OpenCoF: Learning to Reason Through Video Generation",
+        "url": "https://arxiv.org/abs/2607.08763v1",
+        "authors": [
+          "Xinyan Chen",
+          "Ziyu Guo",
+          "Renrui Zhang",
+          "Dongzhi Jiang",
+          "Hongsheng Li"
+        ],
+        "snippet": "Reasoning has become a core capability for large models, especially when reliable decisions require understanding logical consequences. Recent video generation models offer a reasoning path distinct from previous Chain-of-Thought (CoT): reasoning can unfold through temporally connected frames, known as Chain-of-Frame (CoF) reasoning. However, existing video generators are primarily trained on gene",
+        "categories": [
+          "cs.CV",
+          "cs.AI"
+        ],
+        "published": "2026-07-09T17:58:29+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2607.08754v1",
+        "title": "SLORR: Simple and Efficient In-Training Low-Rank Regularization",
+        "url": "https://arxiv.org/abs/2607.08754v1",
+        "authors": [
+          "David González-Martínez",
+          "Shiwei Liu"
+        ],
+        "snippet": "Low-rank factorization is widely used to compress neural networks, but modern models are often not naturally amenable to aggressive factorization without significant accuracy loss. Existing training-time low-rank regularizers can improve compressibility, but they often require SVDs of large weight matrices, modify the model architecture (introducing additional trainable parameters), or rely on sta",
+        "categories": [
+          "cs.LG",
+          "cs.AI"
+        ],
+        "published": "2026-07-09T17:51:50+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "2607.08733v1",
+        "title": "Super Weights in LLMs and the Failure of Selective Training",
+        "url": "https://arxiv.org/abs/2607.08733v1",
+        "authors": [
+          "Shreyas Subramanian",
+          "Adewale Akinfaderin",
+          "Akarsha Sehwag"
+        ],
+        "snippet": "Recent work identified Super Weights, individual parameters whose removal degrades model performance by orders of magnitude. We show that this degradation due to pruning Super Weights does not universally apply to all LLMs. Furthermore, if these parameters are so important, Super Weight-aware training should be effective. We show the opposite. Training Super Weights in isolation (100 to 8,192 para",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-07-09T17:35:00+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2607.08711v1",
+        "title": "LTM: Large-scale Terrain Model for Wildfire-prone Landscapes",
+        "url": "https://arxiv.org/abs/2607.08711v1",
+        "authors": [
+          "Xiao Fu",
+          "Yue Hu",
+          "Meida Chen",
+          "Peter Anthony Beerel",
+          "Barath Raghavan"
+        ],
+        "snippet": "Accurate 3D terrain maps are essential for emergency response when assessing wildfire hazards. However, wildfire-prone regions often span vast areas where conventional reconstruction methods underperform. Airborne LiDAR systems provide high-resolution terrain data, but they are expensive and infrequently updated. Image-based methods offer a lower-cost alternative, but struggle due to sparse visual",
+        "categories": [
+          "cs.CV",
+          "cs.LG"
+        ],
+        "published": "2026-07-09T17:22:35+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2607.08703v1",
+        "title": "MPFlow: Learning Budgeted Max-Flow Optimization on the Lightning Network with Deep Graph Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2607.08703v1",
+        "authors": [
+          "Harrison Rush",
+          "Vincent Davis",
+          "Simone Antonelli",
+          "Vikash Singh",
+          "Jesse Shrader",
+          "Emanuele Rossi"
+        ],
+        "snippet": "We address liquidity placement in the Bitcoin Lightning Network (LN): given a fixed budget, which channels should a node open to maximize its routing capacity? We cast this as a budget-constrained combinatorial optimization problem on graphs, selecting $k$ edge additions that maximize $s$--$t$ max-flow, a theory-grounded measure of routing capacity, and solve it with graph reinforcement learning. ",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-07-09T17:09:20+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:agent"
+        ]
+      }
+    ]
+  }
+}
