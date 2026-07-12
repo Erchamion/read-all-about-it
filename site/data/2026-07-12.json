@@ -1,0 +1,145 @@
+{
+  "date": "2026-07-12",
+  "generated_at": "2026-07-12T13:31:41+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [],
+    "github": [
+      {
+        "id": "js-lee-AI/awesome-llm-agent-papers",
+        "title": "js-lee-AI/awesome-llm-agent-papers",
+        "url": "https://github.com/js-lee-AI/awesome-llm-agent-papers",
+        "description": "A curated, continuously updated reading list of 200+ papers on LLM agents: planning, memory, tool use, multi-agent, evaluation & safety. Companion to the survey 'LLM Agents: A Survey'.",
+        "stars": 17,
+        "language": null,
+        "topics": [
+          "agent-benchmark",
+          "agent-survey",
+          "agents",
+          "ai-agents",
+          "ai-safety",
+          "autonomous-agents",
+          "awesome",
+          "awesome-list"
+        ],
+        "created_at": "2026-07-08T02:31:10Z",
+        "score": 7.17,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:autonomous"
+        ]
+      },
+      {
+        "id": "max-ramas/rms-memory-mcp",
+        "title": "max-ramas/rms-memory-mcp",
+        "url": "https://github.com/max-ramas/rms-memory-mcp",
+        "description": "Persistent, local, cross-IDE memory for AI agents — markdown source of truth, LanceDB-powered semantic search, zero cloud dependency",
+        "stars": 16,
+        "language": "Rust",
+        "topics": [
+          "ai-tools",
+          "context-management",
+          "context-management-system",
+          "lancedb",
+          "local-first",
+          "mcp-server",
+          "mcp-tools",
+          "memory"
+        ],
+        "created_at": "2026-07-05T14:35:08Z",
+        "score": 6.09,
+        "signals": [
+          "new",
+          "keyword:mcp",
+          "keyword:rag"
+        ]
+      },
+      {
+        "id": "jamiebeach/lisp-agent",
+        "title": "jamiebeach/lisp-agent",
+        "url": "https://github.com/jamiebeach/lisp-agent",
+        "description": "Creating an AI agent with LISP - the 2026 version of what made LISP \"the language for AI\" in the first place",
+        "stars": 32,
+        "language": "Common Lisp",
+        "topics": [],
+        "created_at": "2026-07-07T19:20:11Z",
+        "score": 6.04,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "TetiAI/memraw",
+        "title": "TetiAI/memraw",
+        "url": "https://github.com/TetiAI/memraw",
+        "description": "An open experiment in memory for AI agents — the whole memory, always in the prompt.",
+        "stars": 46,
+        "language": "TypeScript",
+        "topics": [
+          "ai",
+          "memory"
+        ],
+        "created_at": "2026-07-10T15:18:09Z",
+        "score": 5.55,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "nile-squad/delta-agents",
+        "title": "nile-squad/delta-agents",
+        "url": "https://github.com/nile-squad/delta-agents",
+        "description": "The AI agent framework with built-in governance.",
+        "stars": 15,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-07-05T02:20:37Z",
+        "score": 5.0,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "Blotato-Inc/blotato-skills",
+        "title": "Blotato-Inc/blotato-skills",
+        "url": "https://github.com/Blotato-Inc/blotato-skills",
+        "description": "Free Blotato Claude skills — plugin marketplace. Install: /plugin marketplace add Blotato-Inc/blotato-skills",
+        "stars": 19,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-07-08T16:37:51Z",
+        "score": 4.32,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "ZethRise/ZethCode",
+        "title": "ZethRise/ZethCode",
+        "url": "https://github.com/ZethRise/ZethCode",
+        "description": "a CLI tool to talk with Ai Agents",
+        "stars": 15,
+        "language": "TypeScript",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "chatgpt",
+          "cli",
+          "mimo",
+          "mimocode",
+          "opencode"
+        ],
+        "created_at": "2026-07-07T10:04:14Z",
+        "score": 4.0,
+        "signals": [
+          "new"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
