@@ -1,0 +1,269 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T13:42:19+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [],
+    "github": [
+      {
+        "id": "chuspeeism/dashi-ppt-skill",
+        "title": "chuspeeism/dashi-ppt-skill",
+        "url": "https://github.com/chuspeeism/dashi-ppt-skill",
+        "description": "An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.",
+        "stars": 2678,
+        "language": "JavaScript",
+        "topics": [
+          "agent-skill",
+          "ai-agent",
+          "ai-ppt",
+          "claude",
+          "claude-code",
+          "dashial",
+          "html-presentation",
+          "ppt"
+        ],
+        "created_at": "2026-06-10T07:46:43Z",
+        "score": 13.39,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "twhsi/skills",
+        "title": "twhsi/skills",
+        "url": "https://github.com/twhsi/skills",
+        "description": "AI Agent Skills for Chinese Knowledge Workers: iMandalArt, FIRE, planning, and publishing workflows for Claude Code, Codex, and LLM agents.",
+        "stars": 210,
+        "language": "Python",
+        "topics": [
+          "agent-skills",
+          "ai-agent",
+          "claude-code",
+          "codex",
+          "knowledge-management",
+          "mandalart",
+          "markdown",
+          "productivity"
+        ],
+        "created_at": "2026-06-16T03:46:53Z",
+        "score": 9.72,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "MentionNetwork/awesome-agentic-commerce",
+        "title": "MentionNetwork/awesome-agentic-commerce",
+        "url": "https://github.com/MentionNetwork/awesome-agentic-commerce",
+        "description": "A curated list of awesome agentic commerce resources — protocols, MCP servers, tools, apps, APIs and services for AI agents that shop, sell and transact. For store owners, developers, agencies and marketers.",
+        "stars": 64,
+        "language": null,
+        "topics": [
+          "acp",
+          "agentic-ai",
+          "agentic-commerce",
+          "ai-agents",
+          "ai-commerce",
+          "ai-search",
+          "awesome",
+          "awesome-list"
+        ],
+        "created_at": "2026-07-07T06:43:17Z",
+        "score": 8.02,
+        "signals": [
+          "new",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "thecodacus/understory",
+        "title": "thecodacus/understory",
+        "url": "https://github.com/thecodacus/understory",
+        "description": "understory — memory that grows. Self-wiring, plain-markdown memory for AI agents (MCP + local models + a living graph).",
+        "stars": 75,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-07-09T15:35:41Z",
+        "score": 7.25,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "yung13yubabie/line-summary",
+        "title": "yung13yubabie/line-summary",
+        "url": "https://github.com/yung13yubabie/line-summary",
+        "description": "在 Windows 上用 Claude Code 讀本機 LINE 電腦版聊天記錄、產生每日摘要的 MCP server（wxSQLite3/aes128cbc 解密）",
+        "stars": 69,
+        "language": "Python",
+        "topics": [
+          "chat-summary",
+          "claude-code",
+          "line",
+          "mcp",
+          "mcp-server",
+          "python",
+          "sqlite",
+          "windows"
+        ],
+        "created_at": "2026-07-12T07:24:24Z",
+        "score": 7.13,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "sher1096/klinepic-agent-api-examples",
+        "title": "sher1096/klinepic-agent-api-examples",
+        "url": "https://github.com/sher1096/klinepic-agent-api-examples",
+        "description": "MCP server and OpenAPI examples for AI agents that turn broker and exchange fills into annotated KLinePic trade-review charts",
+        "stars": 20,
+        "language": "JavaScript",
+        "topics": [
+          "agent-tools",
+          "ai-agents",
+          "api",
+          "candlestick-chart",
+          "crypto-trading",
+          "data-visualization",
+          "developer-tools",
+          "financial-data"
+        ],
+        "created_at": "2026-07-12T21:14:24Z",
+        "score": 6.39,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "JustVugg/mnem",
+        "title": "JustVugg/mnem",
+        "url": "https://github.com/JustVugg/mnem",
+        "description": "Memory as state, not search — deterministic, dependency-free memory for AI agents. The memory lives in a Markdown file.",
+        "stars": 19,
+        "language": "Python",
+        "topics": [
+          "agent-memory",
+          "ai-agents",
+          "llm",
+          "markdown",
+          "memory",
+          "python",
+          "state-management",
+          "zero-dependencies"
+        ],
+        "created_at": "2026-07-06T06:36:13Z",
+        "score": 6.32,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "OthmanAdi/plandeck",
+        "title": "OthmanAdi/plandeck",
+        "url": "https://github.com/OthmanAdi/plandeck",
+        "description": "The visual Kanban for long-running AI agents. Watch your agent's plan organize itself: dependencies unlock into Ready, the critical path lights up, the one next move is obvious. Nobody wants to read a markdown plan.",
+        "stars": 19,
+        "language": "JavaScript",
+        "topics": [
+          "agent-skill",
+          "agentic",
+          "ai-agents",
+          "claude-code",
+          "codex",
+          "crash-proof",
+          "critical-path",
+          "cursor"
+        ],
+        "created_at": "2026-07-12T12:10:05Z",
+        "score": 6.32,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "alchaincyf/doubao-search-mcp",
+        "title": "alchaincyf/doubao-search-mcp",
+        "url": "https://github.com/alchaincyf/doubao-search-mcp",
+        "description": "豆包搜索 MCP server — 给换了国产模型的 Claude Code 补上联网能力。字节系信源、千字正文、每月500次免费 | Agent-first web search MCP",
+        "stars": 17,
+        "language": "JavaScript",
+        "topics": [],
+        "created_at": "2026-07-11T02:53:09Z",
+        "score": 6.17,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "solenovex/rust-ai-agent",
+        "title": "solenovex/rust-ai-agent",
+        "url": "https://github.com/solenovex/rust-ai-agent",
+        "description": "",
+        "stars": 20,
+        "language": "Rust",
+        "topics": [],
+        "created_at": "2026-07-13T05:46:47Z",
+        "score": 5.39,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "Kaseban/baton",
+        "title": "Kaseban/baton",
+        "url": "https://github.com/Kaseban/baton",
+        "description": "Convert AI coding sessions between Claude Code, Codex, OpenCode, Zed, Aider, Gemini CLI, Cursor, Cline & more — lossless, round-trip tested. MCP server + CLI.",
+        "stars": 15,
+        "language": "Rust",
+        "topics": [
+          "ai-agents",
+          "claude-code",
+          "cli",
+          "codex",
+          "developer-tools",
+          "gemini-cli",
+          "mcp",
+          "model-context-protocol"
+        ],
+        "created_at": "2026-07-06T04:48:50Z",
+        "score": 5.0,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "AI-Nate/miaosuan",
+        "title": "AI-Nate/miaosuan",
+        "url": "https://github.com/AI-Nate/miaosuan",
+        "description": "庙算 miaosuan — open-source daily strategy-review harness for AI agents. The Seven Military Classics (武经七书) ship as the first doctrine pack.",
+        "stars": 16,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-07-09T23:45:03Z",
+        "score": 4.09,
+        "signals": [
+          "new"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
