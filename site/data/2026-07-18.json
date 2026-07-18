@@ -1,0 +1,613 @@
+{
+  "date": "2026-07-18",
+  "generated_at": "2026-07-18T13:30:46+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://news.microsoft.com/source/asia/2026/07/14/tiket-com-and-microsoft-bring-seamless-travel-services-to-life-with-ai/",
+        "title": "tiket.com and Microsoft Bring Seamless Travel Services to Life with AI",
+        "url": "https://news.microsoft.com/source/asia/2026/07/14/tiket-com-and-microsoft-bring-seamless-travel-services-to-life-with-ai/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://machinelearning.apple.com/research/unlearning-free-low-influence",
+        "title": "When Unlearning Is Free: Leveraging Low Influence Points to Reduce Computational Costs",
+        "url": "https://machinelearning.apple.com/research/unlearning-free-low-influence",
+        "source": "apple-ml",
+        "published": "2026-07-17T00:00:00+00:00",
+        "snippet": "As concerns around data privacy in machine learning grow, the ability to unlearn—or remove—specific data points from trained models becomes increasingly important. While state-of-the-art unlearning methods have emerged in response, they typically treat all points in the forget set equally. In this w",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://machinelearning.apple.com/research/visual-concept-inference",
+        "title": "Show Me Examples: Inferring Visual Concepts from Image Sets",
+        "url": "https://machinelearning.apple.com/research/visual-concept-inference",
+        "source": "apple-ml",
+        "published": "2026-07-17T00:00:00+00:00",
+        "snippet": "Vision-language models (VLMs) can follow complex textual instructions, yet they struggle to reason from purely visual context. In particular, current models fail to infer shared concepts from sets of example images and apply them to new inputs. We introduce Visual Concept Inference from Sets (VICIS)",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+        "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+        "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+        "source": "huggingface",
+        "published": "2026-07-17T15:57:54+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      }
+    ],
+    "github": [
+      {
+        "id": "ray-r-ren/agent-apprenticeship",
+        "title": "ray-r-ren/agent-apprenticeship",
+        "url": "https://github.com/ray-r-ren/agent-apprenticeship",
+        "description": "The living ecosystem where AI agents complete tasks through workflow loops, improve through iterative execution, are evaluated by mentor agents or humans in the loop, and turn completed work into reusable work experience and data to improve future agents.",
+        "stars": 1317,
+        "language": "Python",
+        "topics": [
+          "agent-apprenticeship",
+          "agent-economy",
+          "agent-experience",
+          "agent-learning",
+          "agent-traces",
+          "agentic-ai",
+          "ai-agents",
+          "autonomous-agents"
+        ],
+        "created_at": "2026-06-19T16:19:37Z",
+        "score": 13.36,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:workflow",
+          "keyword:autonomous"
+        ]
+      },
+      {
+        "id": "PromptPartner/agentsmith",
+        "title": "PromptPartner/agentsmith",
+        "url": "https://github.com/PromptPartner/agentsmith",
+        "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
+        "stars": 307,
+        "language": "Shell",
+        "topics": [
+          "agentic-ai",
+          "agentic-coding",
+          "ai-agents",
+          "ai-tools",
+          "automation",
+          "claude",
+          "claude-code",
+          "codex"
+        ],
+        "created_at": "2026-07-16T11:37:15Z",
+        "score": 10.27,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "DannyMac180/skills",
+        "title": "DannyMac180/skills",
+        "url": "https://github.com/DannyMac180/skills",
+        "description": "AI agent skills created by me: Dan McAteer",
+        "stars": 485,
+        "language": "JavaScript",
+        "topics": [],
+        "created_at": "2026-05-29T14:54:55Z",
+        "score": 9.92,
+        "signals": [
+          "rising",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "rollingSirius/equity-research-skill",
+        "title": "rollingSirius/equity-research-skill",
+        "url": "https://github.com/rollingSirius/equity-research-skill",
+        "description": "机构级个股投研报告 Agent Skill（九章结构 + 多方法估值交叉验证），适用于 Claude Code / Cowork / Codex 等 AI Agent 工具",
+        "stars": 89,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-07-14T02:49:07Z",
+        "score": 8.49,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "yixiangshijie/ai-agents-in-action-2nd-edition-cn",
+        "title": "yixiangshijie/ai-agents-in-action-2nd-edition-cn",
+        "url": "https://github.com/yixiangshijie/ai-agents-in-action-2nd-edition-cn",
+        "description": "本项目是《AI Agents in Action》第二版的中文译本，是一本智能体系统构建与应用的实战指南——目标不止于打造自主实体，更在于开发能够切实应对并解决现实问题的智能体。  全书从大语言模型（LLM）的基础应用出发，逐步深入到智能助手、多智能体系统与自主智能体的构建，系统讲解智能体系统的关键组成部分：角色、工具与行动、知识与记忆、检索与增强、推理与规划、评估与反馈。第二版将五个功能层作为组织原则，并新增 MCP 协议、测试驱动的智能体开发（TDAD）、智能体循环、认知与元认知等前沿主题，帮助开发者构建生产级智能体系统。",
+        "stars": 17,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-07-12T09:54:46Z",
+        "score": 6.17,
+        "signals": [
+          "new",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "tester-army/scout",
+        "title": "tester-army/scout",
+        "url": "https://github.com/tester-army/scout",
+        "description": "Tools for testing APIs with AI agents",
+        "stars": 29,
+        "language": "TypeScript",
+        "topics": [
+          "agent",
+          "ai",
+          "cli",
+          "harness"
+        ],
+        "created_at": "2026-07-14T14:10:46Z",
+        "score": 5.91,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "keros68/metrik",
+        "title": "keros68/metrik",
+        "url": "https://github.com/keros68/metrik",
+        "description": "本地优先的 AI Agent 用量统计桌面应用：官方配额、本地 Token、估算成本三类事实分开呈现，读不到就说不可用",
+        "stars": 15,
+        "language": "Rust",
+        "topics": [
+          "ai-agent",
+          "claude-code",
+          "codex",
+          "desktop-widget",
+          "local-first",
+          "react",
+          "rust",
+          "tauri"
+        ],
+        "created_at": "2026-07-14T03:28:09Z",
+        "score": 5.0,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "bergside/awesome-eve-agents",
+        "title": "bergside/awesome-eve-agents",
+        "url": "https://github.com/bergside/awesome-eve-agents",
+        "description": "Awesome AI agents based on Eve",
+        "stars": 16,
+        "language": "JavaScript",
+        "topics": [
+          "agents",
+          "ai",
+          "eve",
+          "mit",
+          "open-source",
+          "vercel"
+        ],
+        "created_at": "2026-07-16T09:55:39Z",
+        "score": 4.09,
+        "signals": [
+          "new"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "id": "2607.15277v1",
+        "title": "Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models",
+        "url": "https://arxiv.org/abs/2607.15277v1",
+        "authors": [
+          "Patrik Wolf",
+          "Thomas Kleine Buening",
+          "Andreas Krause",
+          "Celestine Mendler-Dünner"
+        ],
+        "snippet": "In-context learning is commonly interpreted as a form of conditional inference, in which the prompt specifies a context and the model's output is treated as an estimate of the corresponding conditional distribution. If this interpretation holds, then LLM estimates should satisfy basic probabilistic identities. In particular, the law of total probability asserts that prior-weighted conditional dist",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-07-16T17:59:31+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2607.15265v1",
+        "title": "SceneBind: Binding What and Where Across Vision, Audio and Language",
+        "url": "https://arxiv.org/abs/2607.15265v1",
+        "authors": [
+          "Mingfei Chen",
+          "Zijun Cui",
+          "Ruoke Zhang",
+          "Hyeonggon Ryu",
+          "Eli Shlizerman"
+        ],
+        "snippet": "We present SceneBind, an omni-modal representation of realistic scenes with joint semantic and 3D spatial understanding across vision, audio and language. Existing omni-modal encoders excel at instance-level semantics (i.e., what is present), but often lack explicit spatial structure (i.e., where it is). SceneBind addresses this gap by representing each scene as a semantic-spatial entity, combinin",
+        "categories": [
+          "cs.CV",
+          "cs.AI",
+          "cs.MM",
+          "cs.SD"
+        ],
+        "published": "2026-07-16T17:55:15+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:retrieval",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2607.15254v1",
+        "title": "teLLMe Why (Ain't Nothing but a Jam): Exploratory Causal Analysis of Urban Driving Data",
+        "url": "https://arxiv.org/abs/2607.15254v1",
+        "authors": [
+          "Qiwei Li",
+          "Jorge Ortiz"
+        ],
+        "snippet": "Traffic agencies now have access to large volumes of video-derived data for studying safety and congestion. Most of these data are observational and collected without interventions, which makes causal questions such as \"How would rain change traffic density?\" difficult to answer. We present teLLMe, a system for exploratory causal analysis of urban driving datasets. The system starts from a structu",
+        "categories": [
+          "cs.AI",
+          "cs.HC"
+        ],
+        "published": "2026-07-16T17:49:28+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2607.15247v1",
+        "title": "AutoSynthesis: An agentic system for automated meta-analysis",
+        "url": "https://arxiv.org/abs/2607.15247v1",
+        "authors": [
+          "Moein Taherinezhad",
+          "Sebastian Maier",
+          "Gerardo Vitagliano",
+          "Francesco Pierri",
+          "Stefan Feuerriegel"
+        ],
+        "snippet": "Evidence synthesis is crucial for turning primary research into reliable knowledge for science, medicine, education, and policy. Yet, quantitative evidence synthesis remains largely manual and difficult to scale. Here, we introduce AutoSynthesis, an end-to-end multi-agent system for automated meta-analysis. Given a research question in natural language, AutoSynthesis formulates a search strategy, ",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-07-16T17:45:27+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:agentic"
+        ]
+      },
+      {
+        "id": "2607.15241v1",
+        "title": "Beyond the Leaderboard: Design Lessons for Trustworthy Multimodal VQA",
+        "url": "https://arxiv.org/abs/2607.15241v1",
+        "authors": [
+          "Sushant Gautam",
+          "Vajira Thambawita",
+          "Michael A. Riegler",
+          "Pål Halvorsen",
+          "Steven A. Hicks"
+        ],
+        "snippet": "Healthcare multimodal AI must combine visual and textual evidence while remaining reliable and interpretable. Using MediaEval Medico 2025 as a retrospective GI endoscopy case study, we analyze design choices across nine documented systems for question answering and explanation quality. Parameter-efficient adaptation of pretrained backbones provides strong challenge performance, but answer-level ga",
+        "categories": [
+          "cs.CL",
+          "cs.CV"
+        ],
+        "published": "2026-07-16T17:38:19+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2607.15218v1",
+        "title": "When Words Are Safe But Actions Kill: Probing Physical Danger Beyond Text Safety in Hidden-State Risk Space",
+        "url": "https://arxiv.org/abs/2607.15218v1",
+        "authors": [
+          "Weimeng Wang",
+          "Ziqiang Wang",
+          "Zihang Zhan",
+          "Chuanpu Fu",
+          "Qi Li",
+          "Ke Xu"
+        ],
+        "snippet": "Large language models (LLMs) increasingly serve as high-level planners for embodied agents, where linguistically benign instructions can become unsafe once grounded in the physical world. We study whether this physically grounded danger is the same safety problem as ordinary text-level content danger. Through hidden-state direction analysis and random-split null tests, we show that content danger ",
+        "categories": [
+          "cs.AI",
+          "cs.CR"
+        ],
+        "published": "2026-07-16T17:20:38+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2607.15216v1",
+        "title": "Symbal: Detecting Systematic Misalignments in Model-Generated Captions",
+        "url": "https://arxiv.org/abs/2607.15216v1",
+        "authors": [
+          "Maya Varma",
+          "Jean-Benoit Delbrouck",
+          "Sophie Ostmeier",
+          "Akshay Chaudhari",
+          "Curtis Langlotz"
+        ],
+        "snippet": "Multimodal large language models (MLLMs) often introduce errors when generating image captions, resulting in misaligned image-text pairs. Our work focuses on a class of captioning errors that we refer to as systematic misalignments, where a recurring error in MLLM-generated captions is closely associated with the presence of a specific visual feature in the paired image. Given a vision-language da",
+        "categories": [
+          "cs.CV",
+          "cs.AI"
+        ],
+        "published": "2026-07-16T17:18:37+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:benchmark",
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2607.15178v1",
+        "title": "T^2MLR: Transformer with Temporal Middle-Layer Recurrence",
+        "url": "https://arxiv.org/abs/2607.15178v1",
+        "authors": [
+          "Ziyang Cai",
+          "Xingyu Zhu",
+          "Yihe Dong",
+          "Yinghui He",
+          "Sanjeev Arora"
+        ],
+        "snippet": "Transformer reasoning is limited by autoregressive decoding, which repeat edly compresses rich hidden computation through token space and makes it difficult for intermediate reasoning states to persist across time. We in troduce Transformers with Temporal Middle-Layer Recurrence (T2MLR), a transformers-based latent reasoning architecture that fuses a cached middle layer representation from the pre",
+        "categories": [
+          "cs.CL",
+          "cs.AI"
+        ],
+        "published": "2026-07-16T16:33:59+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:transformer"
+        ]
+      },
+      {
+        "id": "2607.15176v1",
+        "title": "Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy",
+        "url": "https://arxiv.org/abs/2607.15176v1",
+        "authors": [
+          "Patrick Phuoc Do",
+          "Chau M. Ta",
+          "Chaoli Wang"
+        ],
+        "snippet": "Multimodal large language models (MLLMs) are increasingly used to interpret visualizations, yet current evaluations remain largely chart-centric and provide limited evidence of understanding of scientific visualization (SciVis). We benchmark six MLLMs on the scientific visualization literacy assessment test, a standardized SciVis literacy assessment comprising 49 items based on 18 scientific visua",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "cs.HC"
+        ],
+        "published": "2026-07-16T16:29:34+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:benchmark",
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2607.15161v1",
+        "title": "On-Policy Delta Distillation",
+        "url": "https://arxiv.org/abs/2607.15161v1",
+        "authors": [
+          "Byeongho Heo",
+          "Jaehui Hwang",
+          "Sangdoo Yun",
+          "Dongyoon Han"
+        ],
+        "snippet": "On-policy distillation is an alternative post-training method in reinforcement learning that alleviates the constraints imposed by reward models by providing token-level supervision from a teacher model. Although on-policy distillation has been studied and applied across various settings, its fundamental design remains underexplored. In this paper, we introduce a new distillation reward, termed th",
+        "categories": [
+          "cs.LG",
+          "cs.CL"
+        ],
+        "published": "2026-07-16T16:07:19+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:instruction tuning"
+        ]
+      },
+      {
+        "id": "2607.15105v1",
+        "title": "Long-Context Fine-Tuning with Limited VRAM",
+        "url": "https://arxiv.org/abs/2607.15105v1",
+        "authors": [
+          "Vladimir Fedosov",
+          "Aleksandr Sazhin",
+          "Artemiy Grinenko",
+          "Frank Woernle"
+        ],
+        "snippet": "Parameter-efficient fine-tuning reduces model and optimizer memory, but dense attention still makes long training sequences expensive. We combine Hierarchical Global Attention (HGA) with segment-wise backpropagation and tiered KV storage. Only the active segment remains differentiable in VRAM; older KV is detached into RAM or NVMe, and HGA loads a bounded set of exact historical tokens for each qu",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-07-16T15:16:06+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:fine-tuning",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2607.15082v1",
+        "title": "Towards Hierarchical Structure Understanding of Newspaper Images",
+        "url": "https://arxiv.org/abs/2607.15082v1",
+        "authors": [
+          "William Mocaër",
+          "Solène Tarride",
+          "Thomas Constum",
+          "Merveilles Agbeti-Messan",
+          "Tom Simon",
+          "Clément Chatelain"
+        ],
+        "snippet": "Understanding newspaper images remains a challenging task due to their complex, nested hierarchical structures and dense, heterogeneous layouts. In this paper, we explore two complementary approaches for newspaper structure understanding. First, we present a modular bottom-up pipeline that combines state-of-the-art open-source models: YOLO for layout detection, LayoutReader for reading order predi",
+        "categories": [
+          "cs.CV",
+          "cs.AI",
+          "cs.IR"
+        ],
+        "published": "2026-07-16T14:52:08+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:retrieval",
+          "keyword:transformer"
+        ]
+      },
+      {
+        "id": "2607.15257v1",
+        "title": "SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration",
+        "url": "https://arxiv.org/abs/2607.15257v1",
+        "authors": [
+          "Yuyao Zhang",
+          "Junjie Gao",
+          "Zhengxian Wu",
+          "Jiaming Fan",
+          "Jin Zhang",
+          "Shihan Ma"
+        ],
+        "snippet": "Recent advances in Tool-Integrated Large Language Models have made web search a core capability of information-seeking agents. However, as interaction histories grow, agents increasingly struggle to track task progress. When search attempts fail to yield useful evidence, current single- and multi-agent systems can become trapped in repetitive loops, wasting search budgets and ultimately compromisi",
+        "categories": [
+          "cs.AI",
+          "cs.IR"
+        ],
+        "published": "2026-07-16T17:51:23+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "2607.15240v1",
+        "title": "TikStance: A Multimodal and Hierarchical Dataset for Multi-target Stance Analysis in TikTok Political Conversations",
+        "url": "https://arxiv.org/abs/2607.15240v1",
+        "authors": [
+          "Yazhi Zhang",
+          "Fuqiang Niu",
+          "Bowen Zhang"
+        ],
+        "snippet": "Political discourse has increasingly moved to short-video platforms, yet computational analysis of such content remains constrained by the scarcity of datasets that jointly preserve audiovisual information and hierarchical conversations. Here we present TikStance, a multimodal and context-aware dataset comprising 161 videos and 13,876 comments from TikTok, designed for stance detection in politica",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-07-16T17:37:19+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2607.15229v1",
+        "title": "Data Driven Block Replacement Scheduling",
+        "url": "https://arxiv.org/abs/2607.15229v1",
+        "authors": [
+          "Aniruddhan Ganesaraman",
+          "VIdyadhar Kulkarni"
+        ],
+        "snippet": "We develop data-driven algorithms for maintaining $N$ independent identical machines under a \\textit{block replacement policy}, in which each machine is replaced upon failure and all machines are jointly replaced at regular intervals of length $k$. The goal is to learn the cost-minimizing interval $k^*$ from operational data when the lifetime distribution is unknown. At each decision epoch, the op",
+        "categories": [
+          "cs.LG",
+          "math.OC",
+          "stat.AP",
+          "stat.ML"
+        ],
+        "published": "2026-07-16T17:31:15+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2607.15209v1",
+        "title": "Expanding the Lexicon of Ge'ez Based African Languages: A Comparative Study of Amharic and Tigrinya",
+        "url": "https://arxiv.org/abs/2607.15209v1",
+        "authors": [
+          "Hailay Kidu Teklehaymanot",
+          "Debela Desalegn Yadeta",
+          "Wolfgang Nejdl"
+        ],
+        "snippet": "Multilingual pre-trained language models (PLMs) exhibit degraded performance on low-resource, non-Latin-script languages, driven by high out-of-vocabulary (OOV) rates and excessive subword fragmentation that result from Latin-script-centric tokenizer training. We introduce VEXMLM, a vocabulary-extended variant of XLM-R targeting the two highest-resource Ge'ez-script languages, Amharic and Tigrinya",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-07-16T17:08:28+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2607.15207v1",
+        "title": "BadWAM: When World-Action Models Dream Right but Act Wrong",
+        "url": "https://arxiv.org/abs/2607.15207v1",
+        "authors": [
+          "Qi Li",
+          "Xingyi Yang",
+          "Xinchao Wang"
+        ],
+        "snippet": "World-action models (WAMs) are emerging as a promising foundation for embodied control: rather than predicting actions alone, they learn representations that couple action generation with future world prediction. This coupling is often viewed as a source of robustness, interpretability, and safety, as a robot's action can in principle be checked against its imagined future. In this paper, we show ",
+        "categories": [
+          "cs.LG",
+          "cs.RO"
+        ],
+        "published": "2026-07-16T17:04:15+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2607.15200v1",
+        "title": "Mask-Aware Policy Gradients for Diffusion Language Models",
+        "url": "https://arxiv.org/abs/2607.15200v1",
+        "authors": [
+          "Haran Raajesh",
+          "Kulin Shah",
+          "Adam Klivans",
+          "Philipp Krähenbühl"
+        ],
+        "snippet": "Reinforcement learning has proven effective for improving reasoning in large language models, but extending it to Masked Diffusion Language Models (MDLMs) remains challenging due to the intractability of the log-likelihood estimation. Existing approaches approximate this log-likelihood by modeling only the token predictions, ignoring the order in which positions are unmasked during generation. We ",
+        "categories": [
+          "cs.CL",
+          "cs.AI",
+          "cs.LG"
+        ],
+        "published": "2026-07-16T16:57:34+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:reasoning"
+        ]
+      }
+    ]
+  }
+}
