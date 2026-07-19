@@ -1,0 +1,145 @@
+{
+  "date": "2026-07-19",
+  "generated_at": "2026-07-19T13:30:57+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [],
+    "github": [
+      {
+        "id": "RinDig/icm-architect",
+        "title": "RinDig/icm-architect",
+        "url": "https://github.com/RinDig/icm-architect",
+        "description": "Claude skill: design any process, idea, or problem into an ICM workspace (folder structure as agent architecture), or restructure an existing folder into one",
+        "stars": 107,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-07-18T14:11:04Z",
+        "score": 8.75,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "Drobiazkin/ai-agent-architecture",
+        "title": "Drobiazkin/ai-agent-architecture",
+        "url": "https://github.com/Drobiazkin/ai-agent-architecture",
+        "description": "Build LLM systems you actually control. A free, open engineering book + course — from tokenization to serving your own models. Mechanisms, trade-offs, and numbers, not prompt tips",
+        "stars": 18,
+        "language": "HTML",
+        "topics": [
+          "a2a-protocol",
+          "ai",
+          "ai-agents",
+          "context-engineering",
+          "distributed-systems",
+          "harness-engineering",
+          "llm",
+          "loop-engineering"
+        ],
+        "created_at": "2026-07-17T17:57:55Z",
+        "score": 8.25,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp",
+          "keyword:rag"
+        ]
+      },
+      {
+        "id": "KinetiNode/claude-fable-5-system-prompt-clean",
+        "title": "KinetiNode/claude-fable-5-system-prompt-clean",
+        "url": "https://github.com/KinetiNode/claude-fable-5-system-prompt-clean",
+        "description": "he optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents.",
+        "stars": 87,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-07-19T06:09:52Z",
+        "score": 7.46,
+        "signals": [
+          "new",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "yc-duan/fastctx",
+        "title": "yc-duan/fastctx",
+        "url": "https://github.com/yc-duan/fastctx",
+        "description": "Fast, context-efficient repository tools for AI agents (MCP)",
+        "stars": 49,
+        "language": "Rust",
+        "topics": [],
+        "created_at": "2026-07-17T03:05:57Z",
+        "score": 6.64,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "aka-kika/hig-mcp",
+        "title": "aka-kika/hig-mcp",
+        "url": "https://github.com/aka-kika/hig-mcp",
+        "description": "MCP server serving Apple Human Interface Guidelines as structured design tokens for AI coding agents — post-WWDC25 system colors, Liquid Glass constraints, SwiftUI mappings.",
+        "stars": 22,
+        "language": "Python",
+        "topics": [
+          "ai-agents",
+          "apple",
+          "claude-code",
+          "cursor",
+          "design-tokens",
+          "hig",
+          "human-interface-guidelines",
+          "ios"
+        ],
+        "created_at": "2026-07-17T19:47:58Z",
+        "score": 5.52,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "EndymionLee/PilotBrowseMCP",
+        "title": "EndymionLee/PilotBrowseMCP",
+        "url": "https://github.com/EndymionLee/PilotBrowseMCP",
+        "description": "A browser runtime that lets AI agents control your real Chrome browser via MCP. Agents can explore websites, generate operation manuals, and reuse them to save tokens.  AI操控你的真实浏览器。",
+        "stars": 20,
+        "language": "TypeScript",
+        "topics": [
+          "ai-agents-automation",
+          "browser-automation",
+          "browser-extension",
+          "chrome-extension",
+          "mcp-server",
+          "web-scraping"
+        ],
+        "created_at": "2026-07-18T18:20:50Z",
+        "score": 5.39,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "adamlyttleapps/claude-skill-game-assets-enhancer",
+        "title": "adamlyttleapps/claude-skill-game-assets-enhancer",
+        "url": "https://github.com/adamlyttleapps/claude-skill-game-assets-enhancer",
+        "description": "",
+        "stars": 15,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-07-16T22:07:15Z",
+        "score": 5.0,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
