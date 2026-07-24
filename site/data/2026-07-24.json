@@ -1,0 +1,142 @@
+{
+  "date": "2026-07-24",
+  "generated_at": "2026-07-24T13:32:30+00:00",
+  "errors": [
+    {
+      "source": "arxiv",
+      "message": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat%3Acs.AI+OR+cat%3Acs.CL+OR+cat%3Acs.LG&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/index/health-in-chatgpt",
+        "title": "Launching Health in ChatGPT",
+        "url": "https://openai.com/index/health-in-chatgpt",
+        "source": "openai",
+        "published": "2026-07-23T00:00:00+00:00",
+        "snippet": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://microsoft.ai/news/introducing-mai-image-2-5-pro-and-mai-voice-2-flash/",
+        "title": "Introducing MAI-Image-2.5-Pro and MAI-Voice-2-Flash",
+        "url": "https://microsoft.ai/news/introducing-mai-image-2-5-pro-and-mai-voice-2-flash/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://news.microsoft.com/microsoft-signal/magazine/issue/issue-05/#growth-industries",
+        "title": "From Signal magazine: Meet the team at Land O’Lakes who are seeking to use AI to help farmers protect their crops, optimize yield potentials and respond quickly to threats",
+        "url": "https://news.microsoft.com/microsoft-signal/magazine/issue/issue-05/#growth-industries",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/07/23/ai-appreciation-day-impact-through-action/",
+        "title": "Inside nonprofits using AI to extend their impact",
+        "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/07/23/ai-appreciation-day-impact-through-action/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      }
+    ],
+    "github": [
+      {
+        "id": "codejunkie99/graph-engineering",
+        "title": "codejunkie99/graph-engineering",
+        "url": "https://github.com/codejunkie99/graph-engineering",
+        "description": "Graph engineering for AI agents: the 9-stage knowledge-graph pipeline (translated from SEU's graduate course) + task-graph orchestration patterns, as a Claude skill with teaching mode and paste-ready workflows",
+        "stars": 48,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-07-23T14:10:49Z",
+        "score": 7.61,
+        "signals": [
+          "new",
+          "keyword:skill",
+          "keyword:orchestration"
+        ]
+      },
+      {
+        "id": "Invaro/opentax-engine",
+        "title": "Invaro/opentax-engine",
+        "url": "https://github.com/Invaro/opentax-engine",
+        "description": "The deterministic tax engine for AI agents. Highest score ever recorded on TaxCalcBench (96% exact returns)",
+        "stars": 75,
+        "language": "JavaScript",
+        "topics": [],
+        "created_at": "2026-07-22T07:31:23Z",
+        "score": 6.25,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "24KaratAu/openhub",
+        "title": "24KaratAu/openhub",
+        "url": "https://github.com/24KaratAu/openhub",
+        "description": "Terminal discovery hub and package manager for AI coding tools, MCP servers, and agent skills. Built with Python & Textual",
+        "stars": 18,
+        "language": "Python",
+        "topics": [
+          "agent-skills",
+          "ai-agent",
+          "claude-code",
+          "cli",
+          "cursor",
+          "developer-tools",
+          "mcp-server",
+          "opencode"
+        ],
+        "created_at": "2026-07-23T09:49:33Z",
+        "score": 6.25,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "m1ng-li/mac-thermalright-ai-monitor",
+        "title": "m1ng-li/mac-thermalright-ai-monitor",
+        "url": "https://github.com/m1ng-li/mac-thermalright-ai-monitor",
+        "description": "AI agent (Claude Code + Codex) & system monitor for the Thermalright 9.16 LCD — native macOS",
+        "stars": 33,
+        "language": "Swift",
+        "topics": [
+          "ai-agents",
+          "claude-code",
+          "codex",
+          "lcd",
+          "macos",
+          "swift",
+          "system-monitor",
+          "thermalright"
+        ],
+        "created_at": "2026-07-23T10:31:04Z",
+        "score": 6.09,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
