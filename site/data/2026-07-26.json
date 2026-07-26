@@ -1,0 +1,138 @@
+{
+  "date": "2026-07-26",
+  "generated_at": "2026-07-26T13:31:19+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [],
+    "github": [
+      {
+        "id": "makecindy/cindy",
+        "title": "makecindy/cindy",
+        "url": "https://github.com/makecindy/cindy",
+        "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+        "stars": 273,
+        "language": "TypeScript",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "ai-assistant",
+          "android",
+          "claude-code",
+          "codex",
+          "electron",
+          "ios"
+        ],
+        "created_at": "2026-07-22T17:49:34Z",
+        "score": 11.1,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:assistant"
+        ]
+      },
+      {
+        "id": "asdecided/core",
+        "title": "asdecided/core",
+        "url": "https://github.com/asdecided/core",
+        "description": "Native deterministic requirements-as-code engine and read-only MCP server.",
+        "stars": 283,
+        "language": "Rust",
+        "topics": [
+          "cli",
+          "cli-tool",
+          "cli-tooling",
+          "documentation",
+          "markdown",
+          "product-development",
+          "product-management",
+          "product-management-tools"
+        ],
+        "created_at": "2026-06-01T08:42:02Z",
+        "score": 9.15,
+        "signals": [
+          "rising",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "sunblaze-ucb/exploitgym",
+        "title": "sunblaze-ucb/exploitgym",
+        "url": "https://github.com/sunblaze-ucb/exploitgym",
+        "description": "ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to evaluate AI agents' ability to develop exploits.",
+        "stars": 474,
+        "language": "C",
+        "topics": [],
+        "created_at": "2026-06-02T00:11:00Z",
+        "score": 8.89,
+        "signals": [
+          "rising"
+        ]
+      },
+      {
+        "id": "realchendahuang/pi-config",
+        "title": "realchendahuang/pi-config",
+        "url": "https://github.com/realchendahuang/pi-config",
+        "description": "My Pi coding agent setup: 17 plugins + 18 global skills + 2 MCP servers, with a one-line installer and tutorial README.",
+        "stars": 83,
+        "language": "Shell",
+        "topics": [],
+        "created_at": "2026-07-25T09:35:04Z",
+        "score": 8.39,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "jiminelee/agent-harness-course",
+        "title": "jiminelee/agent-harness-course",
+        "url": "https://github.com/jiminelee/agent-harness-course",
+        "description": "A hands-on course for building an AI agent harness from scratch — grows one project from a single LLM call to tool calling, memory management, planning, guardrails, tracing, and multi-agent orchestration. No frameworks.",
+        "stars": 18,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-07-19T13:43:06Z",
+        "score": 7.25,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:orchestration"
+        ]
+      },
+      {
+        "id": "sm18lr88/STT-MCP",
+        "title": "sm18lr88/STT-MCP",
+        "url": "https://github.com/sm18lr88/STT-MCP",
+        "description": "Fast, local speech-to-text MCP server",
+        "stars": 55,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-07-23T06:46:12Z",
+        "score": 6.81,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "3150214587/niehaixia",
+        "title": "3150214587/niehaixia",
+        "url": "https://github.com/3150214587/niehaixia",
+        "description": "倪海厦skill · 经方中医AI 将经方大师倪海厦的完整中医思维体系注入 AI Agent",
+        "stars": 15,
+        "language": "HTML",
+        "topics": [],
+        "created_at": "2026-07-19T07:23:40Z",
+        "score": 5.0,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
