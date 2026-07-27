@@ -1,0 +1,190 @@
+{
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T13:49:15+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+        "title": "How AI is expanding what people do at work",
+        "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+        "source": "openai",
+        "published": "2026-07-27T03:30:00+00:00",
+        "snippet": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://ai.meta.com/blog/assistive-robotics-university-of-pittsburgh-sam-dino/",
+        "title": "Reimagining Independence: How Meta’s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics",
+        "url": "https://ai.meta.com/blog/assistive-robotics-university-of-pittsburgh-sam-dino/",
+        "source": "meta-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+        "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+        "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+        "source": "huggingface",
+        "published": "2026-07-27T09:32:20+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      }
+    ],
+    "github": [
+      {
+        "id": "VictorTaelin/OptMem",
+        "title": "VictorTaelin/OptMem",
+        "url": "https://github.com/VictorTaelin/OptMem",
+        "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+        "stars": 547,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-07-25T16:58:43Z",
+        "score": 9.1,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "krishagarwal314/autodev-studio",
+        "title": "krishagarwal314/autodev-studio",
+        "url": "https://github.com/krishagarwal314/autodev-studio",
+        "description": "Autonomous multi-agent SDLC harness: describe a feature in plain English and AI agents scope, code, test, review, and open a PR — grounded in a one-time knowledge base of your repo.",
+        "stars": 25,
+        "language": "Python",
+        "topics": [
+          "agentic-ai",
+          "ai-agents",
+          "autonomous-agents",
+          "claude",
+          "code-generation",
+          "developer-tools",
+          "fastapi",
+          "groq"
+        ],
+        "created_at": "2026-07-24T09:55:46Z",
+        "score": 8.7,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:autonomous",
+          "keyword:rag"
+        ]
+      },
+      {
+        "id": "flankerhqd/cyvisguard",
+        "title": "flankerhqd/cyvisguard",
+        "url": "https://github.com/flankerhqd/cyvisguard",
+        "description": "Security control plane for AI agents — identity and delegation, capability policy, data-flow taint and a live audit trail, enforced over MCP. Guards a real Claude Code end to end.",
+        "stars": 25,
+        "language": "TypeScript",
+        "topics": [
+          "agent-security",
+          "ai-agents",
+          "ai-security",
+          "claude-code",
+          "llm-security",
+          "mcp",
+          "model-context-protocol",
+          "prompt-injection"
+        ],
+        "created_at": "2026-07-22T12:44:45Z",
+        "score": 7.7,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "OneInterface/stormy-cookbook",
+        "title": "OneInterface/stormy-cookbook",
+        "url": "https://github.com/OneInterface/stormy-cookbook",
+        "description": "Open-source cookbook for the Stormy Social Data API and MCP server (Model Context Protocol) — one REST API for the TikTok API, YouTube API, Instagram API, LinkedIn API, X (Twitter) API and Reddit API. Search creators, resolve profiles, read posts and find verified emails from Claude, Cursor, Codex, ",
+        "stars": 72,
+        "language": null,
+        "topics": [
+          "ai-agents",
+          "claude",
+          "claude-desktop",
+          "creator-economy",
+          "cursor",
+          "email-finder",
+          "influencer-marketing",
+          "instagram-api"
+        ],
+        "created_at": "2026-07-27T00:57:50Z",
+        "score": 7.19,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "regiellis/godot-mcp-go",
+        "title": "regiellis/godot-mcp-go",
+        "url": "https://github.com/regiellis/godot-mcp-go",
+        "description": "Drive a running Godot 4.7 editor — and the running game — from the terminal or an AI agent. Go CLI + editor addon, 312 commands, MCP server with live-built tool schemas.",
+        "stars": 21,
+        "language": "GDScript",
+        "topics": [
+          "ai-agents",
+          "claude",
+          "cli",
+          "gamedev",
+          "go",
+          "godot",
+          "godot-addon",
+          "godot-engine"
+        ],
+        "created_at": "2026-07-23T02:04:06Z",
+        "score": 6.46,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "Lucas1479/Amadeus",
+        "title": "Lucas1479/Amadeus",
+        "url": "https://github.com/Lucas1479/Amadeus",
+        "description": "Real-Time Multimodal AI Agent for Desktop Interaction",
+        "stars": 24,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-07-26T04:14:18Z",
+        "score": 5.64,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "SiweiPro/RAPO",
+        "title": "SiweiPro/RAPO",
+        "url": "https://github.com/SiweiPro/RAPO",
+        "description": "[KDD 2026] Implementation for the paper \"RAPO: Expanding Exploration for LLM Agents via Retrieval-Augmented Policy Optimization\"",
+        "stars": 15,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-07-23T14:35:05Z",
+        "score": 5.0,
+        "signals": [
+          "new",
+          "keyword:llm"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
