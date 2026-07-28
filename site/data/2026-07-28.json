@@ -1,0 +1,997 @@
+{
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T13:34:37+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+        "title": "5 ways AI Mode in Search helps you enjoy the real world",
+        "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+        "source": "google-ai",
+        "published": "2026-07-28T13:00:00+00:00",
+        "snippet": "Illustration of a black magnifying glass in a white circle on green grass surrounded by items related to fun activities like tennis and games",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+        "title": "5 ways to host the ultimate dinner party with Google Search",
+        "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+        "source": "google-ai",
+        "published": "2026-07-28T13:00:00+00:00",
+        "snippet": "An illustrated black magnifying glass with a sparkle in a white circle surrounded by a dinner party tablescape",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/",
+        "title": "Rethinking security for the age of AI",
+        "url": "https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://news.microsoft.com/source/emea/features/fantasy-premier-league-companion-gives-managers-a-new-tool-for-success/",
+        "title": "Fantasy Premier League Companion gives managers a new tool for success",
+        "url": "https://news.microsoft.com/source/emea/features/fantasy-premier-league-companion-gives-managers-a-new-tool-for-success/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://machinelearning.apple.com/research/gh-esd",
+        "title": "GH-ESD: Grounded Hypothesis-Driven Error Slice Discovery for Instance-Level Vision Tasks",
+        "url": "https://machinelearning.apple.com/research/gh-esd",
+        "source": "apple-ml",
+        "published": "2026-07-27T00:00:00+00:00",
+        "snippet": "Systematic failures of vision models on semantically coherent subsets, known as error slices, reveal limitations in robustness and evaluation. Existing slice discovery approaches largely model slices as clusters in representation space or combinations of predefined attributes. While effective for im",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://www.anthropic.com/news/position-open-weights-models",
+        "title": "Jul 27, 2026 Announcements Our position on open-weights models",
+        "url": "https://www.anthropic.com/news/position-open-weights-models",
+        "source": "anthropic",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://www.anthropic.com/news/cognizant-anthropic",
+        "title": "Jul 27, 2026 Announcements Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+        "url": "https://www.anthropic.com/news/cognizant-anthropic",
+        "source": "anthropic",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      }
+    ],
+    "github": [
+      {
+        "id": "Pinvou/pinvou-agent",
+        "title": "Pinvou/pinvou-agent",
+        "url": "https://github.com/Pinvou/pinvou-agent",
+        "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
+        "stars": 33,
+        "language": "JavaScript",
+        "topics": [
+          "ai-agent",
+          "automation",
+          "desktop-app",
+          "llm",
+          "local-first",
+          "mcp",
+          "open-source",
+          "react"
+        ],
+        "created_at": "2026-07-24T07:28:41Z",
+        "score": 8.09,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "umr-xiaomai/SeekClaw",
+        "title": "umr-xiaomai/SeekClaw",
+        "url": "https://github.com/umr-xiaomai/SeekClaw",
+        "description": "一个基于 .NET 10 构建的现代化 AI Agent CLI，采用 Runtime First、Plugin First 架构，支持多模型、MCP、Skill、Tool、流式终端交互和可扩展插件系统。",
+        "stars": 22,
+        "language": "C#",
+        "topics": [],
+        "created_at": "2026-07-26T14:24:48Z",
+        "score": 7.52,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "bestdeejay-design/awesome-ai-handbook",
+        "title": "bestdeejay-design/awesome-ai-handbook",
+        "url": "https://github.com/bestdeejay-design/awesome-ai-handbook",
+        "description": "A practical guide to AI: from running your first local model to building your own agents. 52 files covering LLMs, Ollama, RAG, prompt engineering, machine learning, AI agents, and local AI tools.",
+        "stars": 22,
+        "language": "HTML",
+        "topics": [
+          "ai",
+          "ai-agent",
+          "ai-agents",
+          "ai-coding",
+          "ai-model",
+          "ai-tools",
+          "awesome-list",
+          "embeddings"
+        ],
+        "created_at": "2026-07-23T17:32:32Z",
+        "score": 7.52,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:rag"
+        ]
+      },
+      {
+        "id": "torrischen/goat",
+        "title": "torrischen/goat",
+        "url": "https://github.com/torrischen/goat",
+        "description": "goat is a package provides agent framework written in golang",
+        "stars": 40,
+        "language": "Go",
+        "topics": [],
+        "created_at": "2026-07-26T07:11:14Z",
+        "score": 6.36,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "chemark/ai-agent-book",
+        "title": "chemark/ai-agent-book",
+        "url": "https://github.com/chemark/ai-agent-book",
+        "description": "深入理解 AI Agent：设计原理与工程实践（学习副本，upstream: bojieli/ai-agent-book）",
+        "stars": 16,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-07-23T19:41:41Z",
+        "score": 5.09,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "QwenAudio/qwen-audio-agent",
+        "title": "QwenAudio/qwen-audio-agent",
+        "url": "https://github.com/QwenAudio/qwen-audio-agent",
+        "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+        "stars": 16,
+        "language": "JavaScript",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "voice-agent",
+          "voice-ai",
+          "voice-chat"
+        ],
+        "created_at": "2026-07-27T05:04:26Z",
+        "score": 5.09,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "thebigasif/google-leak-patents-seo",
+        "title": "thebigasif/google-leak-patents-seo",
+        "url": "https://github.com/thebigasif/google-leak-patents-seo",
+        "description": "The 2024 Google Content Warehouse API leak cross-referenced against 5,456 Google search patents. 848 classified ranking signals, 77,663 extracted patent claims, a 12-stage pipeline, and 26 decision playbooks. Installable as a Claude skill.",
+        "stars": 16,
+        "language": "Python",
+        "topics": [
+          "claude-skill",
+          "content-warehouse",
+          "google-api-leak",
+          "google-search",
+          "patents",
+          "ranking-signals",
+          "search-engine",
+          "seo"
+        ],
+        "created_at": "2026-07-26T04:16:48Z",
+        "score": 5.09,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "yauyauyauhen/agent-notify",
+        "title": "yauyauyauhen/agent-notify",
+        "url": "https://github.com/yauyauyauhen/agent-notify",
+        "description": "Self-cleaning notification attention queue for parallel Claude Code / AI-agent terminal sessions on macOS",
+        "stars": 15,
+        "language": "Swift",
+        "topics": [
+          "ai-agents",
+          "claude",
+          "claude-code",
+          "macos",
+          "notifications",
+          "swift"
+        ],
+        "created_at": "2026-07-23T00:22:32Z",
+        "score": 5.0,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "axelfreeman/blog",
+        "title": "axelfreeman/blog",
+        "url": "https://github.com/axelfreeman/blog",
+        "description": "🔥 AI marketing without bullshit. Articles on AI agents, AEO, OSINT profiling, and marketing for solo devs.",
+        "stars": 22,
+        "language": null,
+        "topics": [
+          "ai-agents",
+          "ai-marketing",
+          "bootstrap",
+          "content-marketing",
+          "marketing",
+          "osint",
+          "saas",
+          "seo"
+        ],
+        "created_at": "2026-07-21T12:21:19Z",
+        "score": 4.52,
+        "signals": [
+          "new"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "id": "2607.24625v1",
+        "title": "Agentic Permissions Policy Algebra for Taint Confinement in LLM Agents",
+        "url": "https://arxiv.org/abs/2607.24625v1",
+        "authors": [
+          "Arseny Kravchenko",
+          "Vadim Liventsev",
+          "Innokentii Konstantinov",
+          "Ildar Iskhakov",
+          "Matvey Kukuy"
+        ],
+        "snippet": "Autonomous LLM agents processing mixed-confidentiality data face severe security risks from prompt injection attacks and reasoning errors. While dynamic Information Flow Control (IFC) provides structural security guarantees, traditional taint tracking permanently taints an agent's context upon reading unvetted data, severely restricting downstream utility. We present APPA (Agentic Permissions Poli",
+        "categories": [
+          "cs.CR",
+          "cs.AI"
+        ],
+        "published": "2026-07-27T16:19:45+00:00",
+        "score": 6.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2607.24588v1",
+        "title": "SIREN: Towards End-to-End Extreme-Weather Early Warning with Experience-Grounded LLM Agents",
+        "url": "https://arxiv.org/abs/2607.24588v1",
+        "authors": [
+          "Hang Ni",
+          "Weijia Zhang",
+          "Fan Liu",
+          "Mengqian Lu",
+          "Hao Liu"
+        ],
+        "snippet": "Early warning of extreme weather is essential for mitigating the societal, economic, and environmental risks posed by hazardous weather events. However, expert-centered warning workflows are costly, labor-intensive, and difficult to scale throughout the warning-to-action process. Although recent advances in Large Language Model (LLM) agents have enabled the automation of weather-related tasks, exi",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-07-27T15:53:19+00:00",
+        "score": 6.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:benchmark",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2607.24241v1",
+        "title": "FilmBench: A Film-Grade Benchmark for Cinematic Video Generation",
+        "url": "https://arxiv.org/abs/2607.24241v1",
+        "authors": [
+          "Shengyi Wang",
+          "Niantong Li",
+          "Guangzheng Hu",
+          "Hong Qi",
+          "Fei Ding",
+          "Weixu Qiao"
+        ],
+        "snippet": "Progress in video generation keeps narrowing the visual gap between AI-generated and professionally produced footage, yet most benchmarks still draw prompts from web sources or LLM templates and score them with untrained, generic multimodal models. More fundamentally, their evaluation taxonomies remain rudimentary (overall visual quality, coarse text alignment and temporal smoothness) rather than ",
+        "categories": [
+          "cs.CV",
+          "cs.AI"
+        ],
+        "published": "2026-07-27T10:20:31+00:00",
+        "score": 6.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:benchmark",
+          "keyword:multimodal",
+          "keyword:alignment",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2607.24743v1",
+        "title": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",
+        "url": "https://arxiv.org/abs/2607.24743v1",
+        "authors": [
+          "Hangjie Yuan",
+          "Yichen Qian",
+          "Zhiwei Tang",
+          "Xianzhe Xu",
+          "Lirong Wu",
+          "Sicheng Yang"
+        ],
+        "snippet": "Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, yet deploying them in the medical domain is fundamentally a vision-centric challenge: models must absorb knowledge from heterogeneous 2D and 3D medical images, and evaluation protocols must align with radiologists' clinical practice and provide an accurate, fine-grained and factualness-driven assess",
+        "categories": [
+          "cs.CV",
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-07-27T17:59:49+00:00",
+        "score": 5.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agentic",
+          "keyword:multimodal",
+          "keyword:retrieval",
+          "keyword:tool use"
+        ]
+      },
+      {
+        "id": "2607.24260v1",
+        "title": "KAP: Bridging the Knowledge Selection-Runtime Consumption Gap in LLM Systems",
+        "url": "https://arxiv.org/abs/2607.24260v1",
+        "authors": [
+          "Shuo Wang",
+          "Fang Xi",
+          "Wenyuan Huang",
+          "Qing Wang",
+          "Junming Su"
+        ],
+        "snippet": "Modern LLM systems increasingly rely on knowledge-selection processes that produce high-value structured priors, such as ranked evidence, graph topology, multimodal alignment, and confidence signals. Yet LLM serving remains fundamentally oblivious to this rich structure: once such signals are serialized into a prompt, the backend observes only a flat token sequence, forcing dense and uniform consu",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-07-27T10:51:38+00:00",
+        "score": 5.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:reasoning",
+          "keyword:multimodal",
+          "keyword:alignment",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2607.24663v1",
+        "title": "A corrective agentic hybrid RAG and an operations-grounded evaluation for a scientific facility",
+        "url": "https://arxiv.org/abs/2607.24663v1",
+        "authors": [
+          "Rajat Sainju",
+          "Dariusz Jarosz",
+          "Hairong Shang",
+          "Michael Prince",
+          "Ryan M. Aydelott",
+          "Mathew J. Cherukara"
+        ],
+        "snippet": "Scientific user facilities accumulate decades of operational knowledge that no single search index covers: electronic logbooks, technical documents, internal wikis, operations chat messages, maintenance records, and live control-system data. We present APS-RAG, Advanced Photon Source Retrieval Augmented Generation, a deployed platform that makes the institutional knowledge at the Advanced Photon S",
+        "categories": [
+          "physics.acc-ph",
+          "cs.AI",
+          "cs.IR"
+        ],
+        "published": "2026-07-27T17:01:30+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2607.24560v1",
+        "title": "EgoPlay: Event-Triggered Video Editing for Egocentric Streams",
+        "url": "https://arxiv.org/abs/2607.24560v1",
+        "authors": [
+          "Jinjie Mai",
+          "Gordon Guocheng Qian",
+          "Willi Menapace",
+          "Arpit Sahni",
+          "Chaoyang Wang",
+          "Ashkan Mirzaei"
+        ],
+        "snippet": "We introduce EgoPlay, an event-triggered video-to-video editor for egocentric streams, obtained by fine-tuning a pretrained V2V diffusion transformer on event-conditioned data built primarily from Ego4D. Given a monocular video and an event-triggered prompt of the form \"when X happens, do Y,\" EgoPlay infers whether and when event X occurs, preserves pre-event frames, and applies edit Y only to the",
+        "categories": [
+          "cs.CV",
+          "cs.AI"
+        ],
+        "published": "2026-07-27T15:31:23+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:benchmark",
+          "keyword:fine-tuning",
+          "keyword:transformer",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2607.24542v1",
+        "title": "From transcription to semantic corpus analysis: unsupervised learning of sentence representations for ancient languages",
+        "url": "https://arxiv.org/abs/2607.24542v1",
+        "authors": [
+          "Th{é}otime de la Selle"
+        ],
+        "snippet": "Automatic Text Recognition (ATR) now supplies digital humanities with large volumes of unstructured, heterogeneous, and often noisy text in ancient languages. Downstream semantic analysestext reuse identification, alignment, and semantic search-rely on sentence embeddings, yet existing methods transfer poorly to ancient languages: generic multilingual encoders underperform, specialized language mo",
+        "categories": [
+          "cs.CL",
+          "cs.DL",
+          "cs.IR"
+        ],
+        "published": "2026-07-27T15:20:13+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:benchmark",
+          "keyword:fine-tuning",
+          "keyword:retrieval",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2607.24471v1",
+        "title": "Grounding latent algorithm routing in transformer reasoning",
+        "url": "https://arxiv.org/abs/2607.24471v1",
+        "authors": [
+          "Xiangbo Zhang",
+          "Xiaoxu Ma"
+        ],
+        "snippet": "A central question in the in-context learning literature is whether transformers can organize episode-level adaptation around different inductive-bias families. We study this question in a controlled setting through latent algorithm routing: route-like behavior in which the solver-family preference changes with the latent data-generating regime while prompt form is held fixed, remains stable under",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-07-27T14:07:12+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:transformer",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2607.24341v1",
+        "title": "Simulating Tenant Responses to Energy Policy Interventions with Transaction-Cost-Aware LLM Age",
+        "url": "https://arxiv.org/abs/2607.24341v1",
+        "authors": [
+          "Weijie Xia",
+          "Stefanie Horian",
+          "Hanyue Huang",
+          "Queena K. Qian",
+          "Jie Yang",
+          "Pedro P. Vergara Barrios"
+        ],
+        "snippet": "Recent studies use Large language models (LLMs) to simulate human opinions and decisions by prompting models with demographic, attitudinal, or persona-based descriptions. Yet such simulations rarely model the practical, cognitive, or social frictions that shape how people respond to policy interventions. Perceived transaction cost (PTC) provides a useful lens for modeling the practical frictions t",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-07-27T12:18:59+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:reasoning",
+          "keyword:fine-tuning",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2607.24312v1",
+        "title": "CONSISTRE: A Unified Consistency-Aware Framework for Document-Level Relation Extraction with Large Language Models",
+        "url": "https://arxiv.org/abs/2607.24312v1",
+        "authors": [
+          "Mingxuan Sun"
+        ],
+        "snippet": "Document-level relation extraction (DocRE) aims to extract relations among multiple entities across extended contexts while maintaining consistency across predicted triples. Although large language models (LLMs) show remarkable reasoning capabilities in information extraction, their predictions are typically generated independently for each candidate triple and may violate fundamental relational c",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-07-27T11:56:29+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:reasoning",
+          "keyword:fine-tuning",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2607.24280v1",
+        "title": "From Proprietary to Open-Source: Bridging the Distribution Gap via Multi-Agent Protocol Distillation in Agentic Search",
+        "url": "https://arxiv.org/abs/2607.24280v1",
+        "authors": [
+          "Junlin Liu",
+          "Jiangwang Chen",
+          "Zixin Song",
+          "Shuaiyu Zhou",
+          "Chunji Lv",
+          "Hank Wu"
+        ],
+        "snippet": "Agentic search enables large language models to solve knowledge-intensive tasks by interleaving multi-step reasoning with retrieval, yet optimizing this with outcome-based reinforcement learning (RL) provides only sparse supervision. Knowledge distillation can supply denser guidance, and advanced proprietary models with their strong reasoning capabilities are promising teachers. While distilling f",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-07-27T11:27:38+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:reasoning",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2607.24223v1",
+        "title": "A New Role for Relevance: Guiding Corpus Interaction in Agentic Search",
+        "url": "https://arxiv.org/abs/2607.24223v1",
+        "authors": [
+          "Jiangnan Li",
+          "Yuqing Li",
+          "Mo Yu",
+          "Jinchao Zhang",
+          "Jie Zhou"
+        ],
+        "snippet": "Relevance is a query-dependent estimate of whether a document or excerpt contains useful evidence. Existing retrieval agents use relevance to select top-$k$ content, but document relevance alone cannot localize, compose, or verify the evidence required by complex questions. Direct Corpus Interaction (DCI) enables such fine-grained operations through grep-style exploration, but its relevance-agnost",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-07-27T09:56:52+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:reasoning",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2607.24191v1",
+        "title": "StanceFlip: A Comprehensive Multi-Dimensional Benchmark for Multimodal Conversational Stance Flipping Forecasting",
+        "url": "https://arxiv.org/abs/2607.24191v1",
+        "authors": [
+          "Heyan Chai",
+          "Xin Li",
+          "Wenjie Wang",
+          "Jianyang Qin",
+          "Chaoyang Li",
+          "Lu Wang"
+        ],
+        "snippet": "Conversational stance detection has shifted from static text analysis to dynamic multimodal modeling. However, existing benchmarks exhibit three key limitations: failure to capture the dynamic evolution of beliefs, particularly during stance reversals; difficulty in disentangling affective states from logical reasoning; and neglect of the critical role of multimodal cues in resolving pragmatic amb",
+        "categories": [
+          "cs.CL",
+          "cs.AI"
+        ],
+        "published": "2026-07-27T09:11:56+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:large language model",
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2607.24101v1",
+        "title": "LU-500: A Logo Benchmark for Concept Unlearning",
+        "url": "https://arxiv.org/abs/2607.24101v1",
+        "authors": [
+          "Keyu Li",
+          "Jin Gao",
+          "Jialing Zhang",
+          "Dequan Wang"
+        ],
+        "snippet": "Concept unlearning is increasingly used to limit the reproduction of protected or unsafe visual concepts in text-to-image models. Existing evaluations, however, mostly study targets that dominate the whole image, such as styles, broad object categories, or portrait-like identities, leaving company logos comparatively underexamined. Logos create a different failure mode: a small localized mark can ",
+        "categories": [
+          "cs.CV",
+          "cs.AI"
+        ],
+        "published": "2026-07-27T07:40:34+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:benchmark",
+          "keyword:fine-tuning",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2607.24051v1",
+        "title": "HELIOS: An LLM-Driven Autonomous Indirect Trajectory Optimization Agent",
+        "url": "https://arxiv.org/abs/2607.24051v1",
+        "authors": [
+          "An-yi Huang"
+        ],
+        "snippet": "Low-thrust trajectory optimization is a core technology in deep-space mission design. Indirect methods based on Pontryagin's Minimum Principle (PMP) offer rigorous optimality guarantees, yet their practical application faces three bottlenecks: (1) transversality conditions must be derived case by case for each constraint type; (2) different dynamics models require repeated code rewrites; and (3) s",
+        "categories": [
+          "astro-ph.IM",
+          "cs.AI",
+          "cs.RO"
+        ],
+        "published": "2026-07-27T06:48:04+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:agent",
+          "keyword:code generation"
+        ]
+      },
+      {
+        "id": "2607.24714v1",
+        "title": "Efficient LLM-Generated Shuttling Compilers for Complex Trapped-Ion Architectures",
+        "url": "https://arxiv.org/abs/2607.24714v1",
+        "authors": [
+          "Fabian Kreppel",
+          "Reza Salkhordeh",
+          "Ferdinand Schmidt-Kaler",
+          "André Brinkmann"
+        ],
+        "snippet": "Trapped-ion quantum computers rely on shuttling compilers, which cast an input algorithm into a sequence of ion-qubit movements within a given architecture. We present the first study in which a single frontier large language model (LLM), Claude Opus 4.7, generates and iteratively refines the full Python code of shuttling compilers from written specifications. We start with a compiler for (i) a li",
+        "categories": [
+          "quant-ph",
+          "cs.AI",
+          "cs.ET"
+        ],
+        "published": "2026-07-27T17:51:18+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2607.24707v1",
+        "title": "ERUnderstand: Evaluating Vision-Language Models on Structured ER Diagrams",
+        "url": "https://arxiv.org/abs/2607.24707v1",
+        "authors": [
+          "Ali Ansari",
+          "Yasmin Mohammadi",
+          "Farnoush Nili",
+          "Parsa Esmaeilkhani",
+          "Longin Jan Latecki",
+          "Eduard Dragut"
+        ],
+        "snippet": "Entity-Relationship Diagrams (ERDs) are central to conceptual database design, yet they are typically available only as rendered images rather than machine-readable schemas, limiting AI-assisted database engineering. We introduce ERUnderstand, the first large-scale benchmark for structured understanding of ER diagrams, comprising 2,960 diagrams collected from curated educational sources, real-worl",
+        "categories": [
+          "cs.AI",
+          "cs.CV",
+          "cs.DB"
+        ],
+        "published": "2026-07-27T17:46:43+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2607.24688v1",
+        "title": "Beyond Scale and Generation: Understanding Language Model-based Entity Matching",
+        "url": "https://arxiv.org/abs/2607.24688v1",
+        "authors": [
+          "Zeyu Zhang",
+          "Xue Li",
+          "Iacer Calixto",
+          "Paul Groth",
+          "Sebastian Schelter"
+        ],
+        "snippet": "Entity matching identifies records that refer to the same real-world entity. Language models can be adapted to this task through bi-encoder, cross-encoder, and generative matcher architectures. However, prior studies often conflate matcher architecture with differences in model backbone, model variant(reflecting different pretraining objectives), and model size, making it difficult to isolate the ",
+        "categories": [
+          "cs.DB",
+          "cs.CL",
+          "cs.LG"
+        ],
+        "published": "2026-07-27T17:29:18+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:benchmark",
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2607.24512v1",
+        "title": "Making Mathematical Knowledge Explainable, Accessible and Interoperable Through Large Language Model Integration",
+        "url": "https://arxiv.org/abs/2607.24512v1",
+        "authors": [
+          "Jan Range",
+          "Björn Schembera",
+          "Dominik Göddeke"
+        ],
+        "snippet": "Mathematical models are central to formalizing research problems, yet their documentation often falls short of FAIR principles. Knowledge bases such as the Mathematical Model Database (MathModDB) address this gap by providing curated, semantically rich representations of mathematical models. Built on Wikibase, the same open-source infrastructure underlying Wikidata, MathModDB utilizes Semantic Web",
+        "categories": [
+          "cs.AI",
+          "cs.DL"
+        ],
+        "published": "2026-07-27T14:53:40+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2607.24492v1",
+        "title": "SINT-Flow: Schema Integration using Large Language Model Workflows",
+        "url": "https://arxiv.org/abs/2607.24492v1",
+        "authors": [
+          "Keti Korini",
+          "Christian Bizer"
+        ],
+        "snippet": "The goal of schema integration is, given a set of input schemata or tables, to derive a global, unified schema that is able to represent the concepts, attributes, and relationships of all input tables in a coherent fashion. This paper presents SINT-Flow, a schema integration framework composed of five LLM-based operators that can be combined into workflows to perform fully automated, end-to-end sc",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-07-27T14:28:17+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2607.24449v1",
+        "title": "Evaluating RAG for French immigration law: a benchmark and baseline study",
+        "url": "https://arxiv.org/abs/2607.24449v1",
+        "authors": [
+          "Annia Abtout",
+          "Julien Delaunay",
+          "Monika Ewa Rakoczy"
+        ],
+        "snippet": "International recruitment in France requires navigating a layered legal framework absent from existing legal AI benchmarks. We present a publicly available benchmark and first comparative evaluation for this domain, covering permit-type recommendation, required-document retrieval, and legal citation coverage. Comparing a parametric LLM baseline against dense retrieval augmentation at two model sca",
+        "categories": [
+          "cs.IR",
+          "cs.AI"
+        ],
+        "published": "2026-07-27T13:55:35+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:benchmark",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2607.24368v1",
+        "title": "Keep It InMind: Benchmarking the Implicit-Association Blind Spot in Agent Memory",
+        "url": "https://arxiv.org/abs/2607.24368v1",
+        "authors": [
+          "Ruizhe Li",
+          "Mingxuan Du",
+          "Benfeng Xu",
+          "Zhendong Mao"
+        ],
+        "snippet": "Long-term memory systems store what a user says in an external store and retrieve it when a related query arrives. This interface rests on an assumption so natural that it is rarely stated: a memory that is needed will resemble the query that needs it. World knowledge breaks the assumption. A tree-nut allergy should change the answer to a macaron request through their almond-flour ingredient, yet ",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-07-27T12:42:12+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2607.24339v1",
+        "title": "Gubernaut: A Deterministic Homeostatic Controller for Affect-Regulated LLM Agents, Validated Across Independent Model Families",
+        "url": "https://arxiv.org/abs/2607.24339v1",
+        "authors": [
+          "Dushyant Sharma"
+        ],
+        "snippet": "Large language model (LLM) agents inherit reactive failure modes: escalation under provocation, sycophantic drift under flattery, perseveration when stuck. These are failures of propensity, not capability; they concern what a model does under sustained pressure, which training-time alignment reduces but does not eliminate at runtime. This research led to the Gubernaut Cognitive Controller (GCC), a",
+        "categories": [
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-07-27T12:17:21+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2607.24273v1",
+        "title": "INS-ActBench: A Comprehensive Benchmark for Assessing Professional Actuarial Capability of Large Language Models",
+        "url": "https://arxiv.org/abs/2607.24273v1",
+        "authors": [
+          "Changyu Chen",
+          "Chenwei Lin",
+          "Xian Xu"
+        ],
+        "snippet": "Large Language Models (LLMs) have shown strong potential in financial reasoning, but existing benchmarks often evaluate domain knowledge, numerical reasoning, long-context understanding, and tool use in separate settings. This limits their ability to assess realistic professional workflows that require auditable, context-grounded, and tool-executable decisions. We introduce \\textbf{INS-ActBench}, ",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-07-27T11:12:50+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:tool use"
+        ]
+      },
+      {
+        "id": "2607.24259v1",
+        "title": "Generative Artificial Intelligence (GenAI) to convert images of queuing networks into verifiable simulation models: an open-weight LLM workflow approach",
+        "url": "https://arxiv.org/abs/2607.24259v1",
+        "authors": [
+          "Thomas Monks",
+          "Alison Harper",
+          "Amy Heather",
+          "Navonil Mustafee"
+        ],
+        "snippet": "Recent work has explored the use of Large Language Models (LLMs) to automate simulation model building, typically by generating executable code directly from natural language descriptions. However, this raises challenges for verification and reproducibility particularly for users without programming expertise. We propose Sketch2DES, a sketch-to-simulation workflow that converts diagrammatic repres",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-07-27T10:50:37+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:multimodal",
+          "keyword:code generation"
+        ]
+      },
+      {
+        "id": "2607.24190v1",
+        "title": "Not Forgotten: Implementation and Evaluation of a Personalized Episodic Memory for the Humanoid Robot Head Kim",
+        "url": "https://arxiv.org/abs/2607.24190v1",
+        "authors": [
+          "Steve Aschenbrenner",
+          "Marcel Heisler",
+          "Thomas Sievers",
+          "Christian Becker-Asano"
+        ],
+        "snippet": "Social robots that rely on large language models for conversation are unable to retain information across sessions. This absence of memory violates social expectations, potentially preventing the formation of persistent relationships. This paper presents a lightweight episodic memory module that integrates vector-based semantic retrieval with an LLM-controlled dialog system, deployed on the humano",
+        "categories": [
+          "cs.RO",
+          "cs.AI",
+          "cs.HC"
+        ],
+        "published": "2026-07-27T09:11:55+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:retrieval",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2607.24162v1",
+        "title": "Agent-UCT: Upper Confidence Bounds Applied to Trees for Agentic Workflow Optimization with Cost-Awareness",
+        "url": "https://arxiv.org/abs/2607.24162v1",
+        "authors": [
+          "Yang Li",
+          "Hai Liu",
+          "Dian Shao",
+          "Yu Wang",
+          "Xiyu Chen",
+          "Sergey Volkov"
+        ],
+        "snippet": "Optimizing agentic workflows, such as retrieval-augmented generation (RAG) pipelines, requires navigating a combinatorial space of discrete component choices under tight evaluation budgets. Existing approaches - heuristic search, black-box optimization, and standard tree search methods - do not explicitly exploit the compositional structure of these workflows, leading to redundant computation and ",
+        "categories": [
+          "cs.AI",
+          "cs.LG"
+        ],
+        "published": "2026-07-27T08:41:18+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2607.24112v1",
+        "title": "Scaling GUI Agents with Visual State Transitions",
+        "url": "https://arxiv.org/abs/2607.24112v1",
+        "authors": [
+          "Xiangyan Liu",
+          "Kaixin Li",
+          "Haonan Wang",
+          "Biao Wu",
+          "Meng Fang",
+          "Longxu Dou"
+        ],
+        "snippet": "We introduce State Transition Pretraining (STP) as a new scaling axis for GUI agents. During the STP stage, we continually pretrain a unified multimodal model on visual state transitions by jointly optimizing inverse dynamics (predicting actions from state changes) and forward dynamics (predicting next states from current states and actions). This optimization equips the model with better action-g",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-07-27T07:54:08+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:fine-tuning",
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2607.24097v1",
+        "title": "MemChain: Learning Interpretable Memory Traces for Memory-Augmented LLM Agents",
+        "url": "https://arxiv.org/abs/2607.24097v1",
+        "authors": [
+          "Yiwen Ma",
+          "Songjun Tu",
+          "Qichao Zhang",
+          "Dong Li",
+          "Linjing Li",
+          "Dongbin Zhao"
+        ],
+        "snippet": "Memory-augmented LLM agents typically answer queries by retrieving relevant memories and feeding them directly to an answer model. This retrieval-as-evidence paradigm assumes retrieved memories are already suitable for reasoning, leaving the answer model to resolve redundancy, conflicts, and weak relevance while incurring substantial context overhead in long-term memory tasks. We propose MemChain,",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-07-27T07:37:43+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:reasoning",
+          "keyword:retrieval"
+        ]
+      }
+    ]
+  }
+}
