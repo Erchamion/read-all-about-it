@@ -1,0 +1,452 @@
+{
+  "date": "2026-08-01",
+  "generated_at": "2026-08-01T13:31:02+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/index/ten-advances-in-mathematics",
+        "title": "Ten advances in mathematics and theoretical computer science",
+        "url": "https://openai.com/index/ten-advances-in-mathematics",
+        "source": "openai",
+        "published": "2026-08-01T00:00:00+00:00",
+        "snippet": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/building-abundant-intelligence",
+        "title": "Building abundant intelligence",
+        "url": "https://openai.com/index/building-abundant-intelligence",
+        "source": "openai",
+        "published": "2026-07-31T15:00:00+00:00",
+        "snippet": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+        "title": "Disrupting a Criminal Scam Operation",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+        "source": "openai",
+        "published": "2026-07-31T00:00:00+00:00",
+        "snippet": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://partner.microsoft.com/en-us/blog/article/partner-marketer-campaign",
+        "title": "Why AI-powered marketing is becoming essential to partner growth",
+        "url": "https://partner.microsoft.com/en-us/blog/article/partner-marketer-campaign",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/",
+        "title": "Echoverse: Deep, evolving environments for computer-use agents",
+        "url": "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://news.microsoft.com/source/asia/features/how-sntucs-siow-shong-seng-is-setting-the-tone-for-an-ai-ready-workforce-in-singapore-with-microsoft-365-copilot/",
+        "title": "How SNTUC’s Siow Shong Seng is setting the tone for an AI-ready workforce in Singapore with Microsoft 365 Copilot",
+        "url": "https://news.microsoft.com/source/asia/features/how-sntucs-siow-shong-seng-is-setting-the-tone-for-an-ai-ready-workforce-in-singapore-with-microsoft-365-copilot/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      }
+    ],
+    "github": [
+      {
+        "id": "CoordClaw/CoordClaw",
+        "title": "CoordClaw/CoordClaw",
+        "url": "https://github.com/CoordClaw/CoordClaw",
+        "description": "CoordClaw: a multi-agent collaboration system that organizes AI agents like a real organization — teams defined in natural language, not hard-coded DAGs",
+        "stars": 23,
+        "language": "TypeScript",
+        "topics": [
+          "agent-orchestration",
+          "ai-agents",
+          "ai-digital-society",
+          "ai-management",
+          "ai-team",
+          "autonomous-agents",
+          "collaboration",
+          "llm"
+        ],
+        "created_at": "2026-07-29T12:35:40Z",
+        "score": 8.58,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:autonomous",
+          "keyword:orchestration"
+        ]
+      },
+      {
+        "id": "mini20201314-crypto/xhs-ai-tools-writer",
+        "title": "mini20201314-crypto/xhs-ai-tools-writer",
+        "url": "https://github.com/mini20201314-crypto/xhs-ai-tools-writer",
+        "description": "ChatGPT/OpenCode/Claude skill: Xiaohongshu AI-tools writing workflow",
+        "stars": 19,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-07-27T04:23:24Z",
+        "score": 6.32,
+        "signals": [
+          "new",
+          "keyword:workflow",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "caleb-rossvtf8117/arch-ai-tools-service-hub",
+        "title": "caleb-rossvtf8117/arch-ai-tools-service-hub",
+        "url": "https://github.com/caleb-rossvtf8117/arch-ai-tools-service-hub",
+        "description": "Arch AI Tools is a unified Node.js interface for AI services, data access, automation, and utility operations, with a native MCP server for building connected tool workflows in 2026.",
+        "stars": 36,
+        "language": "HTML",
+        "topics": [],
+        "created_at": "2026-08-01T02:21:12Z",
+        "score": 6.21,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "simonw/mcp-explorer",
+        "title": "simonw/mcp-explorer",
+        "url": "https://github.com/simonw/mcp-explorer",
+        "description": "CLI tool for exploring an MCP server",
+        "stars": 25,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-07-28T17:30:09Z",
+        "score": 5.7,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "aws/context-ontology-accelerator",
+        "title": "aws/context-ontology-accelerator",
+        "url": "https://github.com/aws/context-ontology-accelerator",
+        "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
+        "stars": 34,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-07-28T22:59:24Z",
+        "score": 5.13,
+        "signals": [
+          "new"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "id": "2607.28617v1",
+        "title": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications",
+        "url": "https://arxiv.org/abs/2607.28617v1",
+        "authors": [
+          "Xiangning Lin",
+          "Shenzhe Zhu",
+          "Shu Yang",
+          "Zhenyu Zhang",
+          "Haoqian Zhang",
+          "Yipeng Zhao"
+        ],
+        "snippet": "System prompts are instructions configured by developers to govern the behaviors of foundation models in AI applications. They are used throughout commercial AI products, but are rarely disclosed to the public or regulators, creating a serious trust and accountability gap in the wide deployment of AI systems. In this paper, we introduce Artificial Intelligence System Prompt Assurance (AISPA), a us",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "cs.CY",
+          "cs.HC"
+        ],
+        "published": "2026-07-30T17:58:58+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:large language model",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2607.28587v1",
+        "title": "PAIChecker: Uncovering and Checking PR-Issue Misalignment in SWE-Bench-Like Benchmarks",
+        "url": "https://arxiv.org/abs/2607.28587v1",
+        "authors": [
+          "Manyi Wang",
+          "Junjielong Xu",
+          "Pinjia He"
+        ],
+        "snippet": "SWE-bench-like benchmarks are widely used for evaluating LLM's issue resolution capability. They typically follow a common construction pipeline: each PR (Pull Request) is paired with its linked issue by extracting issue references from the PR description; the issue description is used as the problem statement, and the PR patch serves as the test oracle. However, due to the inherent complexity of ",
+        "categories": [
+          "cs.SE",
+          "cs.AI"
+        ],
+        "published": "2026-07-30T17:42:44+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "2607.28573v1",
+        "title": "Rethinking Inference-Time Scaling in Local Computer-Use Agents: Failure Modes and Compute Tradeoffs",
+        "url": "https://arxiv.org/abs/2607.28573v1",
+        "authors": [
+          "Woongkyu Lee",
+          "Jungwook Choi"
+        ],
+        "snippet": "Deploying autonomous computer-use agents (CUAs) locally is increasingly important for privacy, cost efficiency, and practical usability, yet improving their performance under strict hardware constraints remains challenging. While recent studies show that inference-time scaling can improve frontier computer-use agents through additional computation during execution, its effectiveness for resource-c",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-07-30T17:36:36+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:agentic",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2607.28568v1",
+        "title": "Frontis-MA1: Training an AI4AI Model towards Recursive Self-Improvement in Machine Learning Engineering",
+        "url": "https://arxiv.org/abs/2607.28568v1",
+        "authors": [
+          "Junlin Yang",
+          "Che Jiang",
+          "Yu Fu",
+          "Tianwei Luo",
+          "Can Ren",
+          "Weizhi Wang"
+        ],
+        "snippet": "Recursive self-improvement (RSI) requires AI systems that improve the process of building AI (i.e., AI4AI); machine learning engineering (MLE) offers a concrete, executable testbed for studying this capability. We introduce OpenMLE, an open full-stack system for RSI research in MLE, spanning verifiable task environments with execution feedback (OpenMLE-Gym), operator learning (OpenMLE-RL), and lon",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-07-30T17:34:01+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2607.28538v1",
+        "title": "ScaFE: Data-Efficient Scar Classification with LLM-Generated Clinical Feature Programs",
+        "url": "https://arxiv.org/abs/2607.28538v1",
+        "authors": [
+          "Ruman Wang",
+          "Hangting Ye"
+        ],
+        "snippet": "Classifying pathological scars from clinical photographs requires distinguishing keloids from hypertrophic scars despite limited expert-labeled data and substantial acquisition variation across hospitals. End-to-end image models remain data-dependent, whereas sending photographs to a hosted vision-language model (VLM) may conflict with local data-governance requirements and yields decisions that a",
+        "categories": [
+          "cs.CV",
+          "cs.LG"
+        ],
+        "published": "2026-07-30T17:05:20+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model"
+        ]
+      },
+      {
+        "id": "2607.28503v1",
+        "title": "InfoOps Bench: A live information operations safety benchmark",
+        "url": "https://arxiv.org/abs/2607.28503v1",
+        "authors": [
+          "Dorian Quelle",
+          "Lisa-Maria Neudert",
+          "Jonathan Bright",
+          "John Gallacher"
+        ],
+        "snippet": "In this paper we present an active, constantly updated AI benchmark which measures the integrity of frontier language models against being co-opted for state-backed information operations. We draw on over 2,100 information operations from a live monitoring pipeline which tracks Russian, Chinese and Iranian state-backed information assets. Alongside this paper, we release a companion website that t",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-07-30T16:46:13+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:benchmark",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2607.28481v1",
+        "title": "A Fuzzy Rule-based Neuro-Symbolic Approach for Pipe Severity Prediction in Sewer Networks",
+        "url": "https://arxiv.org/abs/2607.28481v1",
+        "authors": [
+          "Ngoc Thai Le",
+          "Thanh Ma",
+          "Umberto Straccia"
+        ],
+        "snippet": "Standard automated sewer pipe severity assessment relies on direct image classification, creating a \"black box\" where the link between visual defects and final severity scores remains implicit. This study introduces a modular, fuzzy rule-based neuro-symbolic framework that bridges this gap by decoupling neural perception from symbolic reasoning. The perception module utilizes a Swin Transformer to",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-07-30T16:33:26+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:transformer"
+        ]
+      },
+      {
+        "id": "2607.28478v1",
+        "title": "Would You Walk to the Car Wash? Revealing the Salience Bias of Large Language Models in Commonsense Reasoning",
+        "url": "https://arxiv.org/abs/2607.28478v1",
+        "authors": [
+          "Zheng Wu",
+          "Chenhao Xue",
+          "Shijie Zheng",
+          "Yijie Lu",
+          "Cheng Yang",
+          "Zhuosheng Zhang"
+        ],
+        "snippet": "As large language models (LLMs) continue to advance in complex reasoning tasks, they have learned to heavily prioritize explicit conditions provided in the input. However, in everyday commonsense reasoning, this mechanism exposes a critical vulnerability which we term Salience Bias: models become easily hijacked by useless explicit distractors (e.g., numerical values), leading them to ignore the i",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-07-30T16:30:08+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2607.28439v1",
+        "title": "Beyond a Single Judge: Simulating Social Persona Panels for Generative UI Evaluation",
+        "url": "https://arxiv.org/abs/2607.28439v1",
+        "authors": [
+          "Zheng Wu",
+          "Yibo Luo",
+          "Pu Zhang",
+          "Cheng Yang",
+          "Zhuosheng Zhang"
+        ],
+        "snippet": "Generative UI (GenUI) lets large language models synthesize a complete, renderable interface directly from a natural-language instruction, but evaluating the quality of what they generate remains an open problem. Human evaluation is costly and rater-variant, while LLM-as-a-judge is scalable but reflects only a single implicit viewpoint, unable to capture how different populations of real users act",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-07-30T16:13:36+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2607.28422v1",
+        "title": "QAdapt: A Noise-Adaptive Neural Pre-Decoding Framework for Quantum Error Correction",
+        "url": "https://arxiv.org/abs/2607.28422v1",
+        "authors": [
+          "Ran Miao",
+          "Rui Luo",
+          "Xiaohan Shan",
+          "Xiaoming Sun"
+        ],
+        "snippet": "Fault-tolerant quantum computing (FTQC) relies on quantum error correction to suppress physical errors and preserve logical information at scale. In practice, however, performance is constrained not only by physical noise but also by the latency of classical decoders processing rapidly generated syndrome data. This challenge is exacerbated by hardware noise that is strong, heterogeneous, and nonst",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-07-30T16:02:00+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:benchmark",
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2607.28421v1",
+        "title": "When Derived Measurements Mislead: Quantifying and Mitigating LLM Over-Trust with Privileged-Modality Reliability Evidence",
+        "url": "https://arxiv.org/abs/2607.28421v1",
+        "authors": [
+          "Zongheng Guo",
+          "Tao Chen",
+          "Tianli Li",
+          "Mingzhe Cui",
+          "Yang Jiao",
+          "Lei Xie"
+        ],
+        "snippet": "Derived measurements increasingly enter large language model (LLM) pipelines as direct facts despite their instance-dependent validity. We define derived-feature over-trust (DFOT) as the failure in which a downstream LLM assigns such a measurement the epistemic status of a direct fact or uses it outside its valid scope. Using physiological sensing as a case study, D1 tests acceptance of a PPG-deri",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-07-30T16:01:17+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model"
+        ]
+      },
+      {
+        "id": "2607.28399v1",
+        "title": "Why Are GUI Agents Correct but Late? Decode on the Decision-Time Critical Path, Tested with Pre-Compiled Policy Trees",
+        "url": "https://arxiv.org/abs/2607.28399v1",
+        "authors": [
+          "Zihan Dong",
+          "Rui Qian",
+          "Qishi Zhan",
+          "Dongshen Peng",
+          "Kaixin Li",
+          "Yu Li"
+        ],
+        "snippet": "Computer-use agents often fail on transient GUI events because they produce the correct action only after the relevant window has already closed. We identify the main cause as expensive autoregressive decoding on the decision-time critical path. We propose Adaptive Anticipatory Policy Trees (AAPT), which eliminates this delay without modifying the underlying model. During idle screen periods, the ",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-07-30T15:50:10+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:benchmark",
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2607.28397v1",
+        "title": "GLM-RAG: Graph Language Models for Graph-Based Retrieval-Augmented Generation",
+        "url": "https://arxiv.org/abs/2607.28397v1",
+        "authors": [
+          "Maya Arseven",
+          "Anette Frank",
+          "Beni Egressy",
+          "Johann Higl",
+          "Moritz Plenz"
+        ],
+        "snippet": "Retrieval-augmented generation (RAG) over knowledge graphs requires retrievers that can effectively capture both graph structure and semantic information. Recent approaches have explored graph neural network (GNN)-based retrievers to model graph topology in multi-hop reasoning tasks. In parallel, graph language models (GLMs) have emerged as a promising paradigm that integrates graph reasoning and ",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "cs.IR"
+        ],
+        "published": "2026-07-30T15:49:34+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:retrieval"
+        ]
+      }
+    ]
+  }
+}
