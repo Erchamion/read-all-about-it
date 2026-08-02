@@ -1,0 +1,171 @@
+{
+  "date": "2026-08-02",
+  "generated_at": "2026-08-02T13:30:56+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [],
+    "github": [
+      {
+        "id": "ryan-phq2005h1/github-mcp-server",
+        "title": "ryan-phq2005h1/github-mcp-server",
+        "url": "https://github.com/ryan-phq2005h1/github-mcp-server",
+        "description": "Official GitHub MCP Server — connect AI agents to GitHub API",
+        "stars": 51,
+        "language": "Python",
+        "topics": [
+          "agentic-workflow",
+          "ai-agents",
+          "llm-tools",
+          "mcp-server",
+          "model-context-protocol",
+          "open-source"
+        ],
+        "created_at": "2026-07-31T11:26:06Z",
+        "score": 8.7,
+        "signals": [
+          "new",
+          "keyword:llm",
+          "keyword:mcp",
+          "keyword:workflow"
+        ]
+      },
+      {
+        "id": "talivia-group/agent",
+        "title": "talivia-group/agent",
+        "url": "https://github.com/talivia-group/agent",
+        "description": "Revenue-first website analytics installed and verified by AI agents through MCP",
+        "stars": 71,
+        "language": "JavaScript",
+        "topics": [
+          "ai-agent",
+          "analytics",
+          "mcp",
+          "mcp-server",
+          "revenue-analytics",
+          "website-analytics"
+        ],
+        "created_at": "2026-08-02T09:32:39Z",
+        "score": 8.17,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "Irenezhangtt/AskingMe-Agent",
+        "title": "Irenezhangtt/AskingMe-Agent",
+        "url": "https://github.com/Irenezhangtt/AskingMe-Agent",
+        "description": "LLM-powered enterprise AI agent with adaptive RAG and multi-agent orchestration for company internal policy Q&A.",
+        "stars": 16,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-07-29T00:52:31Z",
+        "score": 8.09,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:orchestration",
+          "keyword:rag"
+        ]
+      },
+      {
+        "id": "blessedberserker/MCP-Server-Aster-DEX",
+        "title": "blessedberserker/MCP-Server-Aster-DEX",
+        "url": "https://github.com/blessedberserker/MCP-Server-Aster-DEX",
+        "description": "MCP server for Aster DEX — a Model Context Protocol server that gives Claude, Cursor and Cline structured access to Aster DEX market data, volume, points and airdrop eligibility via natural language. Read-only tools — no trading, no keys. Unofficial community project, not affiliated with Aster.",
+        "stars": 33,
+        "language": "Python",
+        "topics": [
+          "ai-agent-aster-dex",
+          "ai-mcp-aster",
+          "api-mcp-aster",
+          "aster-ai-mcp",
+          "aster-api-mcp",
+          "aster-dex",
+          "aster-dex-api",
+          "aster-dex-automation"
+        ],
+        "created_at": "2026-08-01T13:25:44Z",
+        "score": 7.09,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "AFan4724/clone-chat",
+        "title": "AFan4724/clone-chat",
+        "url": "https://github.com/AFan4724/clone-chat",
+        "description": "用 AI 大模型复刻聊天对象的本地对话 Agent：导入真实聊天记录，LLM 学习 TA 的语气、表情和回复节奏并以人物身份延续对话，支持语音、主动联系与长期记忆，数据全在本地。 | Clone anyone's texting style from real chat history: a local-first LLM agent that learns their tone, stickers and reply rhythm, then chats as them — voice, proactive messages, long-term memory, fully private.",
+        "stars": 16,
+        "language": "JavaScript",
+        "topics": [
+          "ai",
+          "chat-history",
+          "chatbot",
+          "conversation-agent",
+          "llm",
+          "local-llm",
+          "openai-agents",
+          "persona"
+        ],
+        "created_at": "2026-08-01T21:19:13Z",
+        "score": 6.09,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "agentbaseline/agentbaseline",
+        "title": "agentbaseline/agentbaseline",
+        "url": "https://github.com/agentbaseline/agentbaseline",
+        "description": "Six security outcomes an enterprise must achieve to run AI agents, and the controls that evidence them. A draft for public comment.",
+        "stars": 16,
+        "language": "Python",
+        "topics": [
+          "agent-security",
+          "ai-agent-security",
+          "ai-agents",
+          "security-controls",
+          "security-framework"
+        ],
+        "created_at": "2026-07-28T12:04:17Z",
+        "score": 5.09,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "F-loat/panerelay",
+        "title": "F-loat/panerelay",
+        "url": "https://github.com/F-loat/panerelay",
+        "description": "Let AI agents work through agent-browser in the Chrome you already use.",
+        "stars": 15,
+        "language": "TypeScript",
+        "topics": [
+          "agent-browser",
+          "ai-agents",
+          "browser-automation",
+          "cdp",
+          "chrome-extension",
+          "claude-code",
+          "codex",
+          "local-first"
+        ],
+        "created_at": "2026-07-29T04:54:43Z",
+        "score": 5.0,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
