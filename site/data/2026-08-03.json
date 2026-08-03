@@ -1,0 +1,283 @@
+{
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03T13:52:39+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [],
+    "github": [
+      {
+        "id": "alikon-art/DeterminFlow",
+        "title": "alikon-art/DeterminFlow",
+        "url": "https://github.com/alikon-art/DeterminFlow",
+        "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. 面向生产的 AI 工作流运行时：快速开发、验证和恢复复杂 AI 工作流，并将其稳定交付为服务。",
+        "stars": 101,
+        "language": "Python",
+        "topics": [
+          "agent-orchestration",
+          "ai-agents",
+          "ai-workflow",
+          "fastapi",
+          "llm",
+          "multi-agent",
+          "python",
+          "workflow-automation"
+        ],
+        "created_at": "2026-08-02T07:40:51Z",
+        "score": 10.67,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:workflow",
+          "keyword:orchestration"
+        ]
+      },
+      {
+        "id": "open-ribbi/velocut",
+        "title": "open-ribbi/velocut",
+        "url": "https://github.com/open-ribbi/velocut",
+        "description": "AI-native, local-first video editor by Ribbi — runs entirely in the browser. Rust/WASM engine, WebGPU compositing, WebCodecs export; humans and LLM agents edit through the same JSON command protocol.",
+        "stars": 217,
+        "language": "TypeScript",
+        "topics": [
+          "ai",
+          "ai-agent",
+          "browser",
+          "claude",
+          "llm",
+          "local-first",
+          "rust",
+          "typescript"
+        ],
+        "created_at": "2026-07-08T05:04:00Z",
+        "score": 9.77,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "Funluned/vetresearch-workbench",
+        "title": "Funluned/vetresearch-workbench",
+        "url": "https://github.com/Funluned/vetresearch-workbench",
+        "description": "Evidence-grounded veterinary research workbench with local RAG, bounded LLM agents, auditable tool use, citations, abstention, and human review.",
+        "stars": 23,
+        "language": "Python",
+        "topics": [
+          "agentic-workflow",
+          "citation-verification",
+          "evidence-grounding",
+          "human-in-the-loop",
+          "information-retrieval",
+          "llm",
+          "python",
+          "rag"
+        ],
+        "created_at": "2026-07-29T11:43:42Z",
+        "score": 8.58,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:workflow",
+          "keyword:rag"
+        ]
+      },
+      {
+        "id": "mrpulor-gh/nuphus-mcp",
+        "title": "mrpulor-gh/nuphus-mcp",
+        "url": "https://github.com/mrpulor-gh/nuphus-mcp",
+        "description": "Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
+        "stars": 51,
+        "language": "Rust",
+        "topics": [
+          "ai-agent",
+          "browser-automation",
+          "chrome-automation",
+          "claude",
+          "computer-use",
+          "computer-vision",
+          "desktop-automation",
+          "mcp"
+        ],
+        "created_at": "2026-08-01T08:02:34Z",
+        "score": 7.7,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "vedaant00/opendot",
+        "title": "vedaant00/opendot",
+        "url": "https://github.com/vedaant00/opendot",
+        "description": "A terminal AI agent you can fully undo - every file and shell action is snapshotted and reversible. Model-agnostic (any LLM), and connects to 1000+ app tools and MCP servers.",
+        "stars": 18,
+        "language": "Python",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "cli",
+          "coding-agent",
+          "llama-cpp",
+          "llm",
+          "tui"
+        ],
+        "created_at": "2026-07-28T13:29:33Z",
+        "score": 7.25,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "sadekxD/cardstock-diorama-myth",
+        "title": "sadekxD/cardstock-diorama-myth",
+        "url": "https://github.com/sadekxD/cardstock-diorama-myth",
+        "description": "Claude skill that turns a single request into a narrated mythic short film in a layered cut-paper diorama style — three-colour cardstock worlds, paper wipes, Unsora MCP + local ffmpeg, one assembled MP4.",
+        "stars": 23,
+        "language": "Python",
+        "topics": [
+          "ai-video",
+          "animation",
+          "claude",
+          "claude-code",
+          "claude-skill",
+          "claude-skills",
+          "generative-ai",
+          "mcp"
+        ],
+        "created_at": "2026-08-02T18:17:40Z",
+        "score": 6.58,
+        "signals": [
+          "new",
+          "keyword:mcp",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "isabelpapaya/MCP-Server-Lighter",
+        "title": "isabelpapaya/MCP-Server-Lighter",
+        "url": "https://github.com/isabelpapaya/MCP-Server-Lighter",
+        "description": "MCP server for Lighter — a Model Context Protocol server that lets Claude, Cursor and Cline query Lighter (lighter.xyz) volume, points, rank and airdrop eligibility in natural language. Read-only — public endpoints only, no keys. Unofficial community project, not affiliated with Lighter.",
+        "stars": 45,
+        "language": "Python",
+        "topics": [
+          "ai-mcp-lighter",
+          "api-mcp-lighter",
+          "lighter-ai-mcp",
+          "lighter-api-mcp",
+          "lighter-dex-mcp",
+          "lighter-mcp",
+          "lighter-mcp-client",
+          "lighter-mcp-proxy"
+        ],
+        "created_at": "2026-08-02T14:44:18Z",
+        "score": 6.52,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "walkererik1991/energyplus-idf-mcp-server",
+        "title": "walkererik1991/energyplus-idf-mcp-server",
+        "url": "https://github.com/walkererik1991/energyplus-idf-mcp-server",
+        "description": "Python Model Context Protocol server for EnergyPlus building energy simulation. Inspect, change, validate, visualize, and simulate building models through structured tools, with stdio and streamable HTTP connections for clients.",
+        "stars": 38,
+        "language": "HTML",
+        "topics": [],
+        "created_at": "2026-08-02T16:20:29Z",
+        "score": 6.29,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "willcadell/geo-mcp-servers",
+        "title": "willcadell/geo-mcp-servers",
+        "url": "https://github.com/willcadell/geo-mcp-servers",
+        "description": "",
+        "stars": 26,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-08-02T21:55:50Z",
+        "score": 5.75,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "bketelsen/bespoke",
+        "title": "bketelsen/bespoke",
+        "url": "https://github.com/bketelsen/bespoke",
+        "description": "A personal app platform: one-off software for exactly one user — built, maintained, and operated by LLM agents. Steal the idea before you steal the code.",
+        "stars": 18,
+        "language": "Go",
+        "topics": [],
+        "created_at": "2026-08-02T03:45:50Z",
+        "score": 5.25,
+        "signals": [
+          "new",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "asLody/dexdec",
+        "title": "asLody/dexdec",
+        "url": "https://github.com/asLody/dexdec",
+        "description": "Fast, accurate Android decompilation for humans and AI agents.",
+        "stars": 34,
+        "language": "Rust",
+        "topics": [
+          "android",
+          "dalvik-bytecode",
+          "decompiler",
+          "reverse-engineering"
+        ],
+        "created_at": "2026-07-30T05:49:12Z",
+        "score": 5.13,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "riteshrai6306/Roy-AI-Lab-Interview-Q-A",
+        "title": "riteshrai6306/Roy-AI-Lab-Interview-Q-A",
+        "url": "https://github.com/riteshrai6306/Roy-AI-Lab-Interview-Q-A",
+        "description": "AI Engineer interview Q&A — Python, FastAPI, ML/DL, Transformers, RAG, AI Agents, LangChain, LangGraph, MLOps, Docker, Kubernetes & more. Basic to advanced, topic-wise.",
+        "stars": 16,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-07-27T14:12:11Z",
+        "score": 5.09,
+        "signals": [
+          "new",
+          "keyword:rag"
+        ]
+      },
+      {
+        "id": "redcrab2819-ack84/mcp-server-readme",
+        "title": "redcrab2819-ack84/mcp-server-readme",
+        "url": "https://github.com/redcrab2819-ack84/mcp-server-readme",
+        "description": "",
+        "stars": 15,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-07-30T15:32:52Z",
+        "score": 5.0,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
