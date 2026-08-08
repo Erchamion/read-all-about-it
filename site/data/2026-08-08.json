@@ -1,0 +1,541 @@
+{
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08T13:41:42+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+        "title": "Responding to the next frontier of critical cyber capabilities",
+        "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+        "source": "openai",
+        "published": "2026-08-07T15:20:00+00:00",
+        "snippet": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://news.microsoft.com/source/asia/features/microsofts-newest-india-datacenter-region-goes-live-to-power-the-countrys-ai-economy-and-enable-frontier-firms/",
+        "title": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms",
+        "url": "https://news.microsoft.com/source/asia/features/microsofts-newest-india-datacenter-region-goes-live-to-power-the-countrys-ai-economy-and-enable-frontier-firms/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://news.microsoft.com/source/asia/2026/08/04/when-access-opens-doors-how-two-young-indonesians-are-building-digital-careers-through-ai-and-cloud/",
+        "title": "How two young Indonesians are building digital careers through AI and cloud",
+        "url": "https://news.microsoft.com/source/asia/2026/08/04/when-access-opens-doors-how-two-young-indonesians-are-building-digital-careers-through-ai-and-cloud/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://machinelearning.apple.com/research/scaling-categorical-flow-maps",
+        "title": "Scaling Categorical Flow Maps",
+        "url": "https://machinelearning.apple.com/research/scaling-categorical-flow-maps",
+        "source": "apple-ml",
+        "published": "2026-08-07T00:00:00+00:00",
+        "snippet": "Continuous diffusion and flow matching models could represent a powerful alternative to autoregressive approaches for language modelling (LM), as they unlock a host of advantages currently reserved for continuous modalities, including accelerated sampling and tilting. Recently, several works have de",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://machinelearning.apple.com/research/diffusion-autoregressive-performance",
+        "title": "Beyond Next-Token Prediction: A Performance Characterization of Diffusion versus Autoregressive Language Models",
+        "url": "https://machinelearning.apple.com/research/diffusion-autoregressive-performance",
+        "source": "apple-ml",
+        "published": "2026-08-07T00:00:00+00:00",
+        "snippet": "Large Language Models (LLMs) have achieved state-of-the-art performance on a broad range of Natural Language Processing (NLP) tasks, including document processing and code generation. Autoregressive Language Models (ARMs), which generate tokens sequentially conditioned on all previous tokens, have b",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://machinelearning.apple.com/research/arbitrage-efficient-reasoning",
+        "title": "Arbitrage: Efficient Reasoning via Advantage-Aware Speculation",
+        "url": "https://machinelearning.apple.com/research/arbitrage-efficient-reasoning",
+        "source": "apple-ml",
+        "published": "2026-08-07T00:00:00+00:00",
+        "snippet": "Modern Large Language Models achieve impressive reasoning capabilities with long Chain of Thoughts, but they incur substantial computational cost during inference, and this motivates techniques to improve the performance-cost ratio. Among these techniques, Speculative Decoding accelerates inference ",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/allenai/tutormoments",
+        "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+        "url": "https://huggingface.co/blog/allenai/tutormoments",
+        "source": "huggingface",
+        "published": "2026-08-07T17:53:32+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      }
+    ],
+    "github": [
+      {
+        "id": "solider-shuwen/shuttleslide",
+        "title": "solider-shuwen/shuttleslide",
+        "url": "https://github.com/solider-shuwen/shuttleslide",
+        "description": "Python toolkit for PowerPoint ↔ HTML, built for AI. Round-trip fidelity preserves formatting across every edit loop — ideal for RAG ingestion, LLM agents, and AI-assisted slide editing.",
+        "stars": 200,
+        "language": "HTML",
+        "topics": [
+          "ai-tools",
+          "cli",
+          "html",
+          "llm-agents",
+          "powerpoint-converter",
+          "pptx"
+        ],
+        "created_at": "2026-06-30T03:14:51Z",
+        "score": 9.65,
+        "signals": [
+          "rising",
+          "keyword:llm",
+          "keyword:rag"
+        ]
+      },
+      {
+        "id": "jinwyp/open-ppt-skill",
+        "title": "jinwyp/open-ppt-skill",
+        "url": "https://github.com/jinwyp/open-ppt-skill",
+        "description": "Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+        "stars": 59,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-08-05T12:21:16Z",
+        "score": 7.91,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "kaixinjiuxing666/pure-harness",
+        "title": "kaixinjiuxing666/pure-harness",
+        "url": "https://github.com/kaixinjiuxing666/pure-harness",
+        "description": "A beginner-friendly, notebook-first educational project: building LLM Agent Execution Harnesses from scratch with runtime observability. / 面向零基础的 Notebook 教学向项目：从零构建大模型 Agent Execution Harnesses (执行基础设施)与运行时可观测性。",
+        "stars": 38,
+        "language": "Jupyter Notebook",
+        "topics": [],
+        "created_at": "2026-08-02T08:03:10Z",
+        "score": 7.29,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "hike-lab/public-data-lens",
+        "title": "hike-lab/public-data-lens",
+        "url": "https://github.com/hike-lab/public-data-lens",
+        "description": "MCP-based discovery and judgment layer for Korea’s open data portal—helping AI agents find, compare, and assess datasets with explicit evidence, JSON-LD/DCAT metadata, and versioned deterministic rules.",
+        "stars": 73,
+        "language": "Python",
+        "topics": [
+          "ai-agents",
+          "ai-ready-data",
+          "data-catalog",
+          "data-discovery",
+          "data-quality",
+          "dcat",
+          "json-ld",
+          "korea"
+        ],
+        "created_at": "2026-08-03T02:02:25Z",
+        "score": 7.21,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "yusenthebot/stanford-ai-agent-skill",
+        "title": "yusenthebot/stanford-ai-agent-skill",
+        "url": "https://github.com/yusenthebot/stanford-ai-agent-skill",
+        "description": "Unofficial distillation and executable skill for Stanford CS329A Self-Improving AI Agents",
+        "stars": 19,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-08-05T02:48:44Z",
+        "score": 6.32,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "AutoConference/AutoConference-skill",
+        "title": "AutoConference/AutoConference-skill",
+        "url": "https://github.com/AutoConference/AutoConference-skill",
+        "description": "AutoConference is an AI-agent social platform that simulates an OpenReview-style conference with AI acting as every researcher role to generate reproducible data on how to fix peer review.",
+        "stars": 18,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-08-07T01:05:48Z",
+        "score": 6.25,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "jackandjac/token-saver-mcp-java",
+        "title": "jackandjac/token-saver-mcp-java",
+        "url": "https://github.com/jackandjac/token-saver-mcp-java",
+        "description": "MCP server that delegates simple Claude Code / Codex / Wibey tasks to a local LLM via langchain4j and langgraph4j.",
+        "stars": 18,
+        "language": "Java",
+        "topics": [],
+        "created_at": "2026-08-06T19:28:26Z",
+        "score": 6.25,
+        "signals": [
+          "new",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "nerdlab-dev/meta-ads-mcp",
+        "title": "nerdlab-dev/meta-ads-mcp",
+        "url": "https://github.com/nerdlab-dev/meta-ads-mcp",
+        "description": "Ask Claude Code or Codex CLI to launch and manage your Meta ads in plain language. This repo is the small MIT installer: one npx command connects your agent to Nerdboard's hosted MCP server, so there is no Meta developer token, no self-hosting, and no API keys on your machine.",
+        "stars": 16,
+        "language": "JavaScript",
+        "topics": [
+          "claude-code",
+          "codex",
+          "facebook-ads",
+          "mcp",
+          "meta-ads",
+          "model-context-protocol"
+        ],
+        "created_at": "2026-08-04T08:08:56Z",
+        "score": 6.09,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "YINGLINGH/limioryn",
+        "title": "YINGLINGH/limioryn",
+        "url": "https://github.com/YINGLINGH/limioryn",
+        "description": "High-level edge-cloud AI multi-agent framework for real devices, verifiable actuation and entropy-bounded recovery.",
+        "stars": 33,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-08-07T08:38:44Z",
+        "score": 6.09,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "ptaranat/zeromem",
+        "title": "ptaranat/zeromem",
+        "url": "https://github.com/ptaranat/zeromem",
+        "description": "Zero-token memory for LLM agents. Rust implementation of Zero-Mem (arXiv:2607.29377) with a Hermes Agent memory provider.",
+        "stars": 15,
+        "language": "Rust",
+        "topics": [
+          "agent-memory",
+          "hermes-agent",
+          "llm-agents",
+          "retrieval",
+          "rust"
+        ],
+        "created_at": "2026-08-05T14:09:54Z",
+        "score": 6.0,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "salatmaster/keenetic-mcp",
+        "title": "salatmaster/keenetic-mcp",
+        "url": "https://github.com/salatmaster/keenetic-mcp",
+        "description": "Keenetic router control for Claude Code, Codex, Cursor and any MCP agent. An MCP server over the router's own RCI API, plus ready-made plugins whose skills teach the agent how the hardware really behaves. Devices, Wi-Fi, VPN routing, isolated segments. Nothing installed on the router.",
+        "stars": 15,
+        "language": "TypeScript",
+        "topics": [
+          "claude",
+          "claude-code",
+          "claude-plugin",
+          "codex",
+          "home-network",
+          "keenetic",
+          "mcp",
+          "mcp-server"
+        ],
+        "created_at": "2026-08-07T00:36:52Z",
+        "score": 6.0,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "ZiggyMar/unreal-mcp",
+        "title": "ZiggyMar/unreal-mcp",
+        "url": "https://github.com/ZiggyMar/unreal-mcp",
+        "description": "MCP server for Unreal Engine 5.6/5.8 — token-efficient Blueprint reading, editing, and a persistent project index for AI coding agents",
+        "stars": 21,
+        "language": "C++",
+        "topics": [],
+        "created_at": "2026-08-08T03:51:08Z",
+        "score": 5.46,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "transcendr/slopware-skills",
+        "title": "transcendr/slopware-skills",
+        "url": "https://github.com/transcendr/slopware-skills",
+        "description": "Free, portable AI agent skills and plugins for Codex, Claude Code, and Agent Skills clients by Slopware Engineer (@aienginerd). Home of the MSW Kernel for Minimum Sufficient Work.",
+        "stars": 20,
+        "language": null,
+        "topics": [
+          "agent-plugins",
+          "agent-skills",
+          "ai-agents",
+          "ai-coding-agent",
+          "claude-code",
+          "claude-code-plugins",
+          "claude-skills",
+          "codex"
+        ],
+        "created_at": "2026-08-07T09:09:10Z",
+        "score": 5.39,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "ABSllk/Hexestra",
+        "title": "ABSllk/Hexestra",
+        "url": "https://github.com/ABSllk/Hexestra",
+        "description": "Hexestra is an AI-native penetration testing IDE where human operators and the AI Agent work on the same operational surface—sharing the browser, terminal, traffic, shells, asset graph, task plan, evidence, and controls.",
+        "stars": 17,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-08-04T18:27:04Z",
+        "score": 5.17,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "id": "2608.06377v1",
+        "title": "Learning When to Trust via Selective Context Preference Optimization",
+        "url": "https://arxiv.org/abs/2608.06377v1",
+        "authors": [
+          "Xian Sun",
+          "Wei Chow",
+          "Yingshuo Wang",
+          "Junhao Liu",
+          "Wei Gao",
+          "Qing Wu"
+        ],
+        "snippet": "Language models increasingly condition their answers on external signals, and a single misleading one can turn a correct answer wrong. The obvious remedy, training models to resist such signals, hides a failure mode: a model that ignores all context looks robust yet is useless when the context is worth trusting. We recast the problem as selective trust and introduce MIST, a human-annotated benchma",
+        "categories": [
+          "cs.CL",
+          "cs.AI",
+          "cs.LG"
+        ],
+        "published": "2026-08-06T17:59:58+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2608.06362v1",
+        "title": "AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games",
+        "url": "https://arxiv.org/abs/2608.06362v1",
+        "authors": [
+          "Boning Li",
+          "Yu Chen",
+          "Longbo Huang"
+        ],
+        "snippet": "Deciding which of two agents is stronger means playing games until skill outweighs luck, and every game costs money, model inference, or expert time. Since the number of games needed is unknown, fixed-budget evaluations either keep paying after the result is settled or stop before the agents can be told apart, while naive optional stopping with an ordinary confidence interval invalidates the state",
+        "categories": [
+          "cs.GT",
+          "cs.AI",
+          "cs.CL",
+          "cs.LG",
+          "cs.MA"
+        ],
+        "published": "2026-08-06T17:57:11+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "2608.06310v1",
+        "title": "RRC: Unlocking Generative Reward Models in LLM Reinforcement Learning via Ranking-Based Reward Construction",
+        "url": "https://arxiv.org/abs/2608.06310v1",
+        "authors": [
+          "Chenglong Wang",
+          "Ziming Zhu",
+          "Yifu Huo",
+          "Bei Li",
+          "Qiaozhi He",
+          "Yan Ding"
+        ],
+        "snippet": "Recent advances in reward modeling show a paradigm shift from discriminative reward models to generative reward models. However, despite their strong capabilities in response ranking, generative reward models have not realized their potential in reinforcement learning (RL). Our analysis reveals that this limitation arises from a mismatch between the comparative nature of generative reward modeling",
+        "categories": [
+          "cs.LG",
+          "cs.CL"
+        ],
+        "published": "2026-08-06T17:24:36+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2608.06300v1",
+        "title": "Bias Analysis of L2 Speaking Assessment Systems Using Concept Activation Vectors",
+        "url": "https://arxiv.org/abs/2608.06300v1",
+        "authors": [
+          "Arya Labroo",
+          "Mengjie Qian",
+          "Kate Knill"
+        ],
+        "snippet": "Automatic speaking assessment systems are increasingly deployed in high-stakes settings to mark second language (L2) learners' speaking tests, making it critical to show that their scores depend on speaking proficiency rather than irrelevant speaker attributes such as first language (L1) or age. Transformer-based foundation models have improved the accuracy of these L2 speaking graders, but their ",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-08-06T17:20:58+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:multimodal",
+          "keyword:transformer"
+        ]
+      },
+      {
+        "id": "2608.06265v1",
+        "title": "Improving the Realism of Synthetic Clinical Benchmarks Under Utility Constraints",
+        "url": "https://arxiv.org/abs/2608.06265v1",
+        "authors": [
+          "Omid Bazgir",
+          "Md Nasir",
+          "Jacob Hoffman",
+          "Yang Yang",
+          "Manu Agrawal",
+          "Anusua Trivedi"
+        ],
+        "snippet": "Synthetic clinical benchmarks for enterprise AI agents can pass existing utility checks and still remain structurally unrealistic, especially in privacy-sensitive healthcare settings where operational data are hard to access. We study how to improve such benchmarks without breaking the downstream utility checks already used in practice. We formulate benchmark revision as utility-constrained realis",
+        "categories": [
+          "cs.AI",
+          "cs.DB",
+          "cs.LG"
+        ],
+        "published": "2026-08-06T16:56:44+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:benchmark",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2608.06243v1",
+        "title": "DASH: Divergence-Adaptive Supervision Horizons for On-Policy Self-Distillation of Reasoning Models",
+        "url": "https://arxiv.org/abs/2608.06243v1",
+        "authors": [
+          "ZhiYan Hou",
+          "Xinyu Tang",
+          "Hongyan An",
+          "Jianjin Zhang",
+          "Weizhen Wang",
+          "Yunyun Han"
+        ],
+        "snippet": "Reinforcement learning with verifiable rewards (RLVR) improves the reasoning capabilities of large language models using automatically verifiable outcome signals, but these signals are typically sparse and at the sequence-level. On-policy self-distillation (OPSD) mitigates this sparsity by querying a privileged teacher at student-visited prefixes and providing dense token-level distributional supe",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-08-06T16:29:24+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2608.06227v1",
+        "title": "From Passive Mirrors to Active Agents: Holonic Digital Twins for Physical AI over Networks",
+        "url": "https://arxiv.org/abs/2608.06227v1",
+        "authors": [
+          "Christo Kurisummoottil Thomas",
+          "Omar Hashash",
+          "Walid Saad"
+        ],
+        "snippet": "Despite advances in artificial intelligence (AI) across multiple sectors, today's AI tools, including deep learning and generative AI, still fail when embedded into physical systems, such as robots and vehicles operating under real-world physical laws. This stems from their inability to maintain reliable world models for long-horizon planning under uncertainty and generalize to unseen scenarios. I",
+        "categories": [
+          "cs.NI",
+          "cs.AI",
+          "cs.IT",
+          "eess.SY"
+        ],
+        "published": "2026-08-06T16:17:43+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2608.06165v1",
+        "title": "Audio-to-Score Transcription using Pre-trained Features, Data Augmentation, and the New SheetSage-A2S Dataset",
+        "url": "https://arxiv.org/abs/2608.06165v1",
+        "authors": [
+          "Eoin Cummins",
+          "Zhongyi Huang",
+          "Alexandre D'Hooge",
+          "Zhuoro Mo",
+          "Yaolong Ju"
+        ],
+        "snippet": "Existing audio-to-score (A2S) systems primarily focus on classical music, and the application to popular music remains underexplored. This paper first presents the new SheetSage-A2S Dataset, which includes 61 hours of audio with \\texttt{**kern} score encodings for 9,468 clips originating from 6,066 unique songs, the first of its kind to facilitate A2S research for popular music. Additionally, we i",
+        "categories": [
+          "cs.SD",
+          "cs.AI",
+          "cs.MM"
+        ],
+        "published": "2026-08-06T15:33:18+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:benchmark",
+          "keyword:multimodal"
+        ]
+      }
+    ]
+  }
+}
