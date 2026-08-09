@@ -1,0 +1,133 @@
+{
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T13:45:43+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [],
+    "github": [
+      {
+        "id": "gamedev-skills/awesome-gamedev-agent-skills",
+        "title": "gamedev-skills/awesome-gamedev-agent-skills",
+        "url": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+        "description": "67 game-dev skills for AI coding agents — Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pygame, LÖVE, Roblox. Portable SKILL.md Agent Skills (the format Anthropic launched as Claude Skills), with a router that loads the right skill for your engine and task. Runs in Claude Code, Cursor, Kiro,",
+        "stars": 450,
+        "language": "Python",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "antigravity",
+          "awesome-list",
+          "claude-code",
+          "cline",
+          "codex",
+          "cursor"
+        ],
+        "created_at": "2026-06-24T07:18:39Z",
+        "score": 11.82,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:copilot",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "petergyang/human-review",
+        "title": "petergyang/human-review",
+        "url": "https://github.com/petergyang/human-review",
+        "description": "A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.",
+        "stars": 635,
+        "language": "JavaScript",
+        "topics": [
+          "ai-agents",
+          "claude-code",
+          "cli",
+          "codex",
+          "feedback",
+          "html",
+          "human-in-the-loop",
+          "markdown"
+        ],
+        "created_at": "2026-07-27T14:58:36Z",
+        "score": 10.31,
+        "signals": [
+          "rising",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "DanielPan12/JobHuntBot",
+        "title": "DanielPan12/JobHuntBot",
+        "url": "https://github.com/DanielPan12/JobHuntBot",
+        "description": "Agent-led job application workflow with a local progress-tracking dashboard — works with any AI coding agent that can read files and follow instructions.AI Agent 驱动的求职投递工作流,配本地进度追踪看板——适配任何能读文件、听懂指令的编程 Agent。",
+        "stars": 186,
+        "language": "HTML",
+        "topics": [],
+        "created_at": "2026-08-02T15:20:12Z",
+        "score": 9.55,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:workflow"
+        ]
+      },
+      {
+        "id": "sv-number/skills",
+        "title": "sv-number/skills",
+        "url": "https://github.com/sv-number/skills",
+        "description": "Give your AI agent a phone number: order a private number in any country over the API, read the SMS verification code, hand the number back.",
+        "stars": 22,
+        "language": "Python",
+        "topics": [
+          "agent-skill",
+          "ai-agents",
+          "automation",
+          "claude-code",
+          "codex",
+          "otp",
+          "phone-verification",
+          "sms"
+        ],
+        "created_at": "2026-08-07T08:14:34Z",
+        "score": 6.52,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "2998980-hue/surreal-pop-collage",
+        "title": "2998980-hue/surreal-pop-collage",
+        "url": "https://github.com/2998980-hue/surreal-pop-collage",
+        "description": "把照片变成超现实波普拼贴的 AI agent skill：黑白现实锚点 + 平涂色形 + 全图只有一个不可能的巨物。An agent skill that turns photos into surreal pop collages.",
+        "stars": 15,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-08-08T18:11:15Z",
+        "score": 6.0,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "moonlin1213/cove-sensory-mcp",
+        "title": "moonlin1213/cove-sensory-mcp",
+        "url": "https://github.com/moonlin1213/cove-sensory-mcp",
+        "description": "Give text-only LLMs eyes and ears through a privacy-safe local MCP server.",
+        "stars": 26,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-08-08T09:05:59Z",
+        "score": 5.75,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
