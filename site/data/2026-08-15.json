@@ -1,0 +1,477 @@
+{
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15T13:26:45+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://www.microsoft.com/en-us/microsoft-cloud/blog/healthcare/2026/08/11/building-the-foundation-for-agentic-ai-in-healthcare/",
+        "title": "Building the foundation for agentic AI in healthcare",
+        "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/healthcare/2026/08/11/building-the-foundation-for-agentic-ai-in-healthcare/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+        "title": "State of Open Models: Summer 2026 Observations",
+        "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+        "source": "huggingface",
+        "published": "2026-08-14T00:00:00+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://www.anthropic.com/news/claude-text-watermark",
+        "title": "Aug 14, 2026 Announcements How Claude’s text watermark works",
+        "url": "https://www.anthropic.com/news/claude-text-watermark",
+        "source": "anthropic",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      }
+    ],
+    "github": [
+      {
+        "id": "hardness1020/awesome-agent-architecture",
+        "title": "hardness1020/awesome-agent-architecture",
+        "url": "https://github.com/hardness1020/awesome-agent-architecture",
+        "description": "Learn AI agents from scratch.",
+        "stars": 583,
+        "language": "Python",
+        "topics": [
+          "agentic-ai",
+          "ai-agents",
+          "harness-engineering"
+        ],
+        "created_at": "2026-06-23T06:09:05Z",
+        "score": 10.19,
+        "signals": [
+          "rising",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "HirezmingD/Knowe-agent-groupchat",
+        "title": "HirezmingD/Knowe-agent-groupchat",
+        "url": "https://github.com/HirezmingD/Knowe-agent-groupchat",
+        "description": "Knowe — 友好易上手的桌面办公AI智能体，采用类微信群聊的交互模式。 — An easy-to-use desktop office AI agent with a WhatsApp-groupchat-style conversational interface.",
+        "stars": 102,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-08-09T04:36:20Z",
+        "score": 7.69,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "bar181/bar-observatory",
+        "title": "bar181/bar-observatory",
+        "url": "https://github.com/bar181/bar-observatory",
+        "description": "Deterministic, local-only audit reports for Claude Code AI agent sessions. Rust + SQLite. Zero network calls. MCP server for agents.",
+        "stars": 16,
+        "language": "HTML",
+        "topics": [
+          "agent-monitoring",
+          "agentic-ai",
+          "ai-agents",
+          "ai-engineering",
+          "audit",
+          "audit-log",
+          "claude-code",
+          "claude-code-plugin"
+        ],
+        "created_at": "2026-08-12T21:15:22Z",
+        "score": 7.09,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "yanhua1010/dsh-harness-tutorial",
+        "title": "yanhua1010/dsh-harness-tutorial",
+        "url": "https://github.com/yanhua1010/dsh-harness-tutorial",
+        "description": "DeepSeek Harness Agent 的原理与实现：从零到一实现一个 AI Agent —— 一切皆插件的中文教程（VitePress 站点 + 8 个 Demo + mini-harness 教学项目）",
+        "stars": 40,
+        "language": "TypeScript",
+        "topics": [
+          "ai-agent",
+          "deepseek",
+          "dsh",
+          "tutorial",
+          "typescript",
+          "vitepress"
+        ],
+        "created_at": "2026-08-13T14:56:41Z",
+        "score": 6.36,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "leenkcool/humanasllm",
+        "title": "leenkcool/humanasllm",
+        "url": "https://github.com/leenkcool/humanasllm",
+        "description": "Human as Agent（人即智能体）· Human-as-LLM 人工代理网关：把工程师变成模型，OpenAI 兼容 /v1 接入 Agent 调度池，涉密/需人工任务路由给真实工程师。为 AI Agent   提效、为平台/运维收集工单。Human-as-LLM Gateway, human-in-the-loop, OpenAI compatible /v1, human-llm model.",
+        "stars": 19,
+        "language": "JavaScript",
+        "topics": [],
+        "created_at": "2026-08-12T07:42:19Z",
+        "score": 6.32,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "HiWhaleW/skill",
+        "title": "HiWhaleW/skill",
+        "url": "https://github.com/HiWhaleW/skill",
+        "description": "Reusable AI agent skills, workflows, and supporting resources.",
+        "stars": 18,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-08-08T13:17:30Z",
+        "score": 6.25,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "7757/Fan-Browser-Agent",
+        "title": "7757/Fan-Browser-Agent",
+        "url": "https://github.com/7757/Fan-Browser-Agent",
+        "description": "Open-source desktop AI agent with an embedded browser runtime and human-in-the-loop control.",
+        "stars": 31,
+        "language": "Python",
+        "topics": [
+          "ai-agent",
+          "browser-agent",
+          "deepseek",
+          "electron",
+          "human-in-the-loop",
+          "python",
+          "typescript"
+        ],
+        "created_at": "2026-08-14T01:54:35Z",
+        "score": 6.0,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "ustoppble/overclick",
+        "title": "ustoppble/overclick",
+        "url": "https://github.com/ustoppble/overclick",
+        "description": "The open source task board where AI agents do the work. Self-hosted, MCP-native, zero data collection.",
+        "stars": 18,
+        "language": "TypeScript",
+        "topics": [
+          "agents",
+          "ai-agents",
+          "kanban",
+          "mcp",
+          "self-hosted",
+          "task-management"
+        ],
+        "created_at": "2026-08-14T22:10:35Z",
+        "score": 5.25,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "id": "2608.13558v1",
+        "title": "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist",
+        "url": "https://arxiv.org/abs/2608.13558v1",
+        "authors": [
+          "Bobo Li",
+          "Hao Fei",
+          "Tianjie Ju",
+          "Mong-Li Lee",
+          "Wynne Hsu"
+        ],
+        "snippet": "Recent advances in foundation models have enabled AI scientists to automate increasingly complete research workflows, from hypothesis generation and code execution to manuscript preparation. Yet workflow coverage alone does not provide access to the full evidence on which scientific discovery depends. Existing systems typically reason over text, code, labels, or precomputed summaries, leaving scie",
+        "categories": [
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-08-13T17:59:52+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2608.13538v1",
+        "title": "SAEVerbalizer: Generating Explanations for Sparse Autoencoder Features via Representation Verbalization",
+        "url": "https://arxiv.org/abs/2608.13538v1",
+        "authors": [
+          "Weihan Meng",
+          "Hongzhu Guo",
+          "Yi Jing",
+          "Dewen Liu",
+          "Zijun Yao",
+          "Xiaozhi Wang"
+        ],
+        "snippet": "Sparse autoencoders (SAEs) are proposed to extract numerous features from large language model (LLM) representations, yet explaining these features still relies primarily on external observation. This reliance leads to superficial explanations inferred from observed model behavior and computational inefficiency from collecting such behavioral evidence at scale. We introduce SAEVerbalizer, a framew",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-08-13T17:54:11+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model"
+        ]
+      },
+      {
+        "id": "2608.13517v1",
+        "title": "DFM Mimir v1: An Open HRM Delivering Frontier Performance at 1B Parameters Using Only Permissible Post-Training Data",
+        "url": "https://arxiv.org/abs/2608.13517v1",
+        "authors": [
+          "Peter Schneider-Kamp",
+          "Jacob Nielsen",
+          "Gianluca Barmina",
+          "Kenneth Enevoldsen",
+          "Lukas Galke Poech"
+        ],
+        "snippet": "Current large language model development relies on massive, often non-permissible datasets, creating a high barrier for researchers committed to open-source and ethically sourced data. We introduce Mimir v1, a 1-billion-parameter language model based on the Hierarchical Reasoning Model (HRM) architecture, that is trained from scratch and delivers highly competitive performance for English and sets",
+        "categories": [
+          "cs.CL",
+          "cs.AI"
+        ],
+        "published": "2026-08-13T17:37:53+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:large language model",
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2608.13510v1",
+        "title": "On the Structural Limits of Machine Learning Decision Systems: An Information-Theoretic, Interaction-Based, and Stochastic-Dynamical Perspective",
+        "url": "https://arxiv.org/abs/2608.13510v1",
+        "authors": [
+          "Nestor R. Barraza",
+          "Gabriel Pena"
+        ],
+        "snippet": "Machine learning procedures are commonly evaluated in terms of predictive accuracy and computational efficiency. However, their achievable performance is fundamentally constrained by structural properties of the underlying data-generating process, which are formalized in terms of informational bounds. In this work we examine intrinsic limits of data-driven decision systems from an information-theo",
+        "categories": [
+          "math.ST",
+          "cs.LG"
+        ],
+        "published": "2026-08-13T17:34:41+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "2608.13484v1",
+        "title": "Toward a Gricean Retreat: Probing LLMs for Knowledge Boundaries and Referent Specificity",
+        "url": "https://arxiv.org/abs/2608.13484v1",
+        "authors": [
+          "Dananjay Srinivas",
+          "Saksham Khatwani",
+          "Maria Pacheco"
+        ],
+        "snippet": "When asked about entities outside their knowledge boundary, LLMs routinely fabricate plausible-sounding details rather than backing off to safer, more general claims. We frame this failure through a Gricean lens: a cooperative speaker who is uncertain about a referent retreats up the specificity hierarchy, trading informativeness for truthfulness. We ask whether LLMs have the ingredients to perfor",
+        "categories": [
+          "cs.CL",
+          "cs.AI"
+        ],
+        "published": "2026-08-13T17:13:41+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:benchmark",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2608.13450v1",
+        "title": "LLM-Assisted Dynamic Threat Analysis for Attacker-Reachable Software Weaknesses in Autonomous Vehicles",
+        "url": "https://arxiv.org/abs/2608.13450v1",
+        "authors": [
+          "Md Wasiul Haque",
+          "Sagar Dasgupta",
+          "Mizanur Rahman",
+          "Md Rayhanur Rahman"
+        ],
+        "snippet": "Autonomous vehicles depend on large safety-critical software stacks, where weaknesses reachable from adversarial inputs may affect steering, braking, or other control decisions. Static analysis can identify candidate sites, but dynamically confirming exploitability requires executable test artifacts that are difficult to construct manually. We investigate whether large language models (LLMs) can a",
+        "categories": [
+          "cs.SE",
+          "cs.CR",
+          "cs.LG"
+        ],
+        "published": "2026-08-13T16:33:44+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2608.13420v1",
+        "title": "Enhancing Virtual Agents through SLMs and Edge-Computing: An Exploratory Evaluation of Think and Memory Processes",
+        "url": "https://arxiv.org/abs/2608.13420v1",
+        "authors": [
+          "Aimilios Hadjiliasi",
+          "Louis Nisiotis"
+        ],
+        "snippet": "Embodied intelligent virtual agents are expected to operate as persistent, adaptive, and context-aware entities within complex virtual and Metaverse worlds. However, implementing cognitively capable agents in such environments is conceptually and technologically challenging. Among a range of blueprints and development approaches, the Cognitive Embodied Agent Architecture (CEAA) has been developed ",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-08-13T16:12:52+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2608.13394v1",
+        "title": "Heterogeneity-Aware Belief Synchronization for Semantic Communication in AI-Native 6G Networks",
+        "url": "https://arxiv.org/abs/2608.13394v1",
+        "authors": [
+          "Muhammad Hannan Akram",
+          "Muhammad Abubakar Rashid",
+          "Wassi Haider Kabir",
+          "Haejoon Jung",
+          "Kapal Dev",
+          "Syed Ali Hassan"
+        ],
+        "snippet": "6G networks will not be serving as communication infrastructures only; rather, they are expected to evolve into intelligent systems, where thousands of autonomous artificial intelligence (AI) agents are interconnected. The agents are deployed across a wide range of platforms including low Earth orbit (LEO) satellites, high-altitude platforms (HAPs), unmanned aerial vehicles (UAVs), edge servers, a",
+        "categories": [
+          "eess.SP",
+          "cs.AI",
+          "cs.MA"
+        ],
+        "published": "2026-08-13T15:53:15+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2608.13304v1",
+        "title": "Refusing Intent, Not Form: Wrapper-Based Intent-Group Supervision for LLM Safety",
+        "url": "https://arxiv.org/abs/2608.13304v1",
+        "authors": [
+          "Ping Wu",
+          "Haibo Tong",
+          "Feifei Zhao",
+          "Han Shen",
+          "Yu Shi",
+          "Yilin Zhao"
+        ],
+        "snippet": "Safety tuning can improve harmful refusal, but models may learn surface-form shortcuts: wrapped harmful prompts bypass safety, while similarly wrapped benign prompts are over-refused. We propose Wrapper-Based Intent-Form Augmentation (WIFA), an automatic intent-group augmentation method that pairs wrapped harmful examples with structurally matched wrapped benign counterexamples, requiring no exter",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-08-13T14:33:15+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2608.13267v1",
+        "title": "How Do VLMs Behave When Blind or Misled? Behavioral Evaluation of VLMs on Scientific Figures",
+        "url": "https://arxiv.org/abs/2608.13267v1",
+        "authors": [
+          "Paul Osemudiame Oamen",
+          "Owusu-Banahene Osei",
+          "Ananya Mukherjee",
+          "Christian Greisinger",
+          "Steffen Eger",
+          "Pius Onobhayedo"
+        ],
+        "snippet": "Existing vision-language model (VLM) benchmarks emphasize perception and reasoning accuracy (how well VLMs describe and reason about what they see in an image), with limited attention to behavioral reliability under uncertainty (how they behave when visual evidence is missing or misleading). We introduce SciFigBench, a diagnostic VLM benchmark for scientific figure understanding that jointly evalu",
+        "categories": [
+          "cs.CL",
+          "cs.AI",
+          "cs.CV",
+          "cs.LG"
+        ],
+        "published": "2026-08-13T14:06:35+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2608.13262v1",
+        "title": "Into the ORBIT for Time Series: Training Regimes for Foundation Models",
+        "url": "https://arxiv.org/abs/2608.13262v1",
+        "authors": [
+          "Hongjie Xia",
+          "Yiding Liu",
+          "Yifan Hu",
+          "Peiyuan Liu",
+          "Zewei Dong"
+        ],
+        "snippet": "Time series foundation models (TSFMs) have advanced primarily through architectural innovation, while training regimes for large-scale heterogeneous corpora remain under-explored. As a result, pre-training distributions are often poorly controlled with respect to domain imbalance, context requirements, prediction horizons, and missingness. We introduce ORBIT (Omni-Range Bootstrap Incremental Train",
+        "categories": [
+          "cs.LG",
+          "cs.AI"
+        ],
+        "published": "2026-08-13T14:00:39+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:transformer",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2608.13244v1",
+        "title": "Localize, Then Reason: Visual Latent Structural Reasoning for Molecular Properties and Edits",
+        "url": "https://arxiv.org/abs/2608.13244v1",
+        "authors": [
+          "Xingqiao Lin",
+          "Junmei Wang",
+          "Haocheng Tang"
+        ],
+        "snippet": "Local chemical perception and property reasoning are both essential for understanding how molecular structure determines properties. Current LLM-based chemical reasoning methods either receive SMILES/molecular images together with descriptions of local motifs, or reason directly from molecular images. Neither approach enables the model to focus on chemically meaningful regions before reasoning. To",
+        "categories": [
+          "cs.CL",
+          "cs.CE",
+          "q-bio.BM"
+        ],
+        "published": "2026-08-13T13:50:26+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:reasoning"
+        ]
+      }
+    ]
+  }
+}
