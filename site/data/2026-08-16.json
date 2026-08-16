@@ -1,0 +1,56 @@
+{
+  "date": "2026-08-16",
+  "generated_at": "2026-08-16T13:27:26+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [],
+    "github": [
+      {
+        "id": "ryzqi/learn-agent",
+        "title": "ryzqi/learn-agent",
+        "url": "https://github.com/ryzqi/learn-agent",
+        "description": "20 章中文 AI Agent 架构实战教程，配套可运行 TypeScript 代码，覆盖工具、权限、记忆、多 Agent、Worktree 与 MCP。",
+        "stars": 47,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-08-13T15:26:55Z",
+        "score": 7.58,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "Indosaram/omon-gateway",
+        "title": "Indosaram/omon-gateway",
+        "url": "https://github.com/Indosaram/omon-gateway",
+        "description": "Ultra-fast, zero-GC async AI agent gateway and session multiplexer for Discord in 100% Rust",
+        "stars": 18,
+        "language": "Rust",
+        "topics": [],
+        "created_at": "2026-08-14T14:22:51Z",
+        "score": 5.25,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "meta-success/AI-agents",
+        "title": "meta-success/AI-agents",
+        "url": "https://github.com/meta-success/AI-agents",
+        "description": "",
+        "stars": 17,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-08-14T22:03:08Z",
+        "score": 4.17,
+        "signals": [
+          "new"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
