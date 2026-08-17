@@ -1,0 +1,152 @@
+{
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T13:35:56+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/index/the-defenders-window",
+        "title": "The Defender’s Window",
+        "url": "https://openai.com/index/the-defenders-window",
+        "source": "openai",
+        "published": "2026-08-17T05:30:00+00:00",
+        "snippet": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/openai-joins-ports-pike-project",
+        "title": "OpenAI joins PORTS-Pike project",
+        "url": "https://openai.com/index/openai-joins-ports-pike-project",
+        "source": "openai",
+        "published": "2026-08-17T05:00:00+00:00",
+        "snippet": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+        "title": "New policy ideas for the Intelligence Age",
+        "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+        "source": "openai",
+        "published": "2026-08-17T03:15:00+00:00",
+        "snippet": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+        "title": "Get closer to the game with Gemini and Pixel",
+        "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+        "source": "google-ai",
+        "published": "2026-08-17T08:00:00+00:00",
+        "snippet": "Low-angle view of a soccer player kicking a ball mid-air against a bright blue sky, with grass flying from their cleats.",
+        "score": 1.0,
+        "signals": []
+      }
+    ],
+    "github": [
+      {
+        "id": "yetone/cumora",
+        "title": "yetone/cumora",
+        "url": "https://github.com/yetone/cumora",
+        "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+        "stars": 223,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-08-17T09:13:52Z",
+        "score": 8.81,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "Dest1ny-Sec/dhunter",
+        "title": "Dest1ny-Sec/dhunter",
+        "url": "https://github.com/Dest1ny-Sec/dhunter",
+        "description": "AI 驱动的自主渗透测试平台：输入目标，AI agent 自动完成侦察→规划→主动测试→漏洞验证→报告生成。黑板引擎+多 worker+SRC 验收门禁。仅供学术与安全研究使用。",
+        "stars": 21,
+        "language": "Go",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "autonomous-agent",
+          "bug-bounty",
+          "cybersecurity",
+          "golang",
+          "llm",
+          "offensive-security"
+        ],
+        "created_at": "2026-08-15T15:28:31Z",
+        "score": 7.46,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:autonomous"
+        ]
+      },
+      {
+        "id": "sza0415/szabot",
+        "title": "sza0415/szabot",
+        "url": "https://github.com/sza0415/szabot",
+        "description": "这是一个用 Go 从零实现的轻量级 LLM Agent 框架，核心价值在于： - 极简（纯标准库、零第三方依赖） - 模块化架构（bus/agent/channel/provider/tools 五层解耦） - 可扩展（新增渠道、厂商、工具都是\"加一个实现\"） - 自带经典 Agent 能力：工具调用循环、会话持久化、流式输出、技能系统、沙盒执行",
+        "stars": 36,
+        "language": "Go",
+        "topics": [],
+        "created_at": "2026-08-16T13:15:31Z",
+        "score": 7.21,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "surendranb/writing-skills",
+        "title": "surendranb/writing-skills",
+        "url": "https://github.com/surendranb/writing-skills",
+        "description": "Procedural writing-style skills for AI agents: official frameworks (plain language, business writing, GOV.UK, AP style, STE-100, developer docs) + character voices. Agent Plugins 1.0.0, works in opencode, Claude Code, Codex.",
+        "stars": 17,
+        "language": "Python",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "business-writing",
+          "claude",
+          "claude-code",
+          "copywriting",
+          "cursor",
+          "language-model"
+        ],
+        "created_at": "2026-08-14T03:18:22Z",
+        "score": 6.17,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "lbwnb666-ai/DeepSeekHarnessRemoteGateway",
+        "title": "lbwnb666-ai/DeepSeekHarnessRemoteGateway",
+        "url": "https://github.com/lbwnb666-ai/DeepSeekHarnessRemoteGateway",
+        "description": "一个轻量级 DeepSeek Harness 远程网关，让你通过 Web 或移动设备远程访问和控制本地 AI Agent",
+        "stars": 15,
+        "language": "JavaScript",
+        "topics": [
+          "dsh-plugin",
+          "remote-work"
+        ],
+        "created_at": "2026-08-14T09:38:05Z",
+        "score": 5.0,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
