@@ -1,0 +1,1034 @@
+{
+  "date": "2026-08-21",
+  "generated_at": "2026-08-21T13:41:20+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/index/introducing-ai-futures",
+        "title": "Introducing AI Futures",
+        "url": "https://openai.com/index/introducing-ai-futures",
+        "source": "openai",
+        "published": "2026-08-20T07:00:00+00:00",
+        "snippet": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/stampli",
+        "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+        "url": "https://openai.com/index/stampli",
+        "source": "openai",
+        "published": "2026-08-20T00:00:00+00:00",
+        "snippet": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+        "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+        "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+        "source": "deepmind",
+        "published": "2026-08-21T11:59:48+00:00",
+        "snippet": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://www.microsoft.com/en-us/startups/blog/resolution-not-deflection-how-maven-uses-ai-agents-to-transform-the-enterprise-customer-journey/",
+        "title": "How one startup is using AI to improve customer service",
+        "url": "https://www.microsoft.com/en-us/startups/blog/resolution-not-deflection-how-maven-uses-ai-agents-to-transform-the-enterprise-customer-journey/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://machinelearning.apple.com/research/multilingual-knowledge-transfer-lexical-interventions",
+        "title": "Multilingual Knowledge Transfer under Data Constraints via Lexical Interventions",
+        "url": "https://machinelearning.apple.com/research/multilingual-knowledge-transfer-lexical-interventions",
+        "source": "apple-ml",
+        "published": "2026-08-20T00:00:00+00:00",
+        "snippet": "Cross-lingual knowledge transfer is critical for building high-performing multilingual language models for languages with insufficient training data. When target language data is scarce, the knowledge required for many downstream tasks involving scientific reasoning, commonsense inference, and world",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://machinelearning.apple.com/research/scaling-laws-mixture-pretraining",
+        "title": "Scaling Laws for Mixture Pretraining Under Data Constraints",
+        "url": "https://machinelearning.apple.com/research/scaling-laws-mixture-pretraining",
+        "source": "apple-ml",
+        "published": "2026-08-20T00:00:00+00:00",
+        "snippet": "As language models scale, the amount of data they require grows – yet many target data sources, such as low-resource languages or specialized domains, are inherently limited in size. A common strategy is to mix this scarce but valuable target data with abundant generic data, which presents a fundame",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://machinelearning.apple.com/research/progressive-refinement-pseudo-labeling",
+        "title": "Progressive Refinement: An Iterative Pseudo-Labeling Approach for Mandarin-English Code-Switching ASR",
+        "url": "https://machinelearning.apple.com/research/progressive-refinement-pseudo-labeling",
+        "source": "apple-ml",
+        "published": "2026-08-20T00:00:00+00:00",
+        "snippet": "Code-switching (CS), alternating languages within the same utterance, poses significant challenges for automatic speech recognition (ASR) due to limited CS training data. This paper applies an iterative pseudo-labeling training approach to CS-ASR for the first time, demonstrating its effectiveness i",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/asr-benchmark-optimization",
+        "title": "Measuring benchmark optimization in speech recognition",
+        "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+        "source": "huggingface",
+        "published": "2026-08-21T00:00:00+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+        "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+        "source": "huggingface",
+        "published": "2026-08-20T16:52:57+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://mistral.ai/news/agentic-search",
+        "title": "Agentic Search. More accurate and efficient results from your AI systems.",
+        "url": "https://mistral.ai/news/agentic-search",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/agentic-search/",
+        "title": "Product Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate, read, and verify information inside and across even the most complex documents. August 20, 2026 By Mistral",
+        "url": "https://mistral.ai/news/agentic-search/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      }
+    ],
+    "github": [
+      {
+        "id": "adand-91/requirement-ledger",
+        "title": "adand-91/requirement-ledger",
+        "url": "https://github.com/adand-91/requirement-ledger",
+        "description": "From vibe coding to knowing what you actually wanted. Point it at a project you already built with an AI agent: it reads the conversation back and derives the real requirement from your own corrections, layers the mistakes, and turns repeated work into a Skill. Counting is mechanical. Claude Code + ",
+        "stars": 24,
+        "language": "Python",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "claude-code",
+          "codex",
+          "developer-tools",
+          "llm",
+          "prompt-engineering",
+          "requirements-engineering"
+        ],
+        "created_at": "2026-08-17T13:28:38Z",
+        "score": 7.64,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "SeanEllyJames/deep-research-skill",
+        "title": "SeanEllyJames/deep-research-skill",
+        "url": "https://github.com/SeanEllyJames/deep-research-skill",
+        "description": "让AI Agent 做真正会思考，有判断的深度调研，而不是会摆信息的汇总报告。一个即插即用的 skill 文件。",
+        "stars": 21,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agent",
+          "claude",
+          "claude-code",
+          "deep-research",
+          "llm",
+          "prompt-engineering",
+          "research"
+        ],
+        "created_at": "2026-08-18T07:04:01Z",
+        "score": 7.46,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "jaredrhod/ai-visualizer",
+        "title": "jaredrhod/ai-visualizer",
+        "url": "https://github.com/jaredrhod/ai-visualizer",
+        "description": "Give your AI agent a face. Four full-screen visualizers. A living circuit board with a cinematic fly-through, a particle-orb starburst, Matrix rain that looks back, and a constellation brain. All driven live by your voice agent's signal bus. Zero dependencies: a browser and one tiny Python server. P",
+        "stars": 22,
+        "language": "HTML",
+        "topics": [
+          "ai-assistants",
+          "canvas",
+          "claude",
+          "claude-code",
+          "creative-coding",
+          "jarvis",
+          "javascript",
+          "obs"
+        ],
+        "created_at": "2026-08-16T19:45:33Z",
+        "score": 6.52,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:assistant"
+        ]
+      },
+      {
+        "id": "PerfectoWeb/Belay",
+        "title": "PerfectoWeb/Belay",
+        "url": "https://github.com/PerfectoWeb/Belay",
+        "description": "💻 Keeps your Mac awake while your AI agents work. Built-in detection for Claude Code, Codex plus presets for Gemini CLI, Copilot CLI, OpenCode, Cline, Aider and Pi.",
+        "stars": 21,
+        "language": "Swift",
+        "topics": [
+          "ai-agents",
+          "appkit",
+          "caffeinate",
+          "claude-code",
+          "coding-agent",
+          "developer-tools",
+          "iokit",
+          "macos"
+        ],
+        "created_at": "2026-08-14T11:48:21Z",
+        "score": 6.46,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:copilot"
+        ]
+      },
+      {
+        "id": "ismailsaoulaj/reddit-mcp-server",
+        "title": "ismailsaoulaj/reddit-mcp-server",
+        "url": "https://github.com/ismailsaoulaj/reddit-mcp-server",
+        "description": "A production-grade Model Context Protocol (MCP) server. Empowers AI assistants (Claude, Cursor) to search, fetch, and analyze Reddit discussions with resilient rate-limiting and smart LLM noise filtering.",
+        "stars": 20,
+        "language": "Python",
+        "topics": [
+          "ai-agents",
+          "claude-code",
+          "cursor",
+          "fastmcp",
+          "llm",
+          "mcp",
+          "model-context-protocol",
+          "python"
+        ],
+        "created_at": "2026-08-16T12:33:37Z",
+        "score": 6.39,
+        "signals": [
+          "new",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "tsuru0805/engawa-mcp",
+        "title": "tsuru0805/engawa-mcp",
+        "url": "https://github.com/tsuru0805/engawa-mcp",
+        "description": "engawa (縁側/檐廊): a porch for your agent — tonight's moon, a painting a day, a poem, a curated feed shelf. 12 tools, all free & loginless. MCP server.",
+        "stars": 16,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-08-20T10:40:55Z",
+        "score": 6.09,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "yancent-dao/cockpit-agent-sim",
+        "title": "yancent-dao/cockpit-agent-sim",
+        "url": "https://github.com/yancent-dao/cockpit-agent-sim",
+        "description": "Agent framework for smart-cockpit apps · 面向智能座舱业务的 Agent 框架:零后端、权限分级、确认流、卡片编排、快慢双层、真实三方集成,加能力=加数据不加代码",
+        "stars": 16,
+        "language": "TypeScript",
+        "topics": [
+          "automotive",
+          "covesa-vss",
+          "ivi",
+          "llm-agent",
+          "simulation",
+          "smart-cockpit"
+        ],
+        "created_at": "2026-08-17T05:13:07Z",
+        "score": 6.09,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "DuvInc/duvlify",
+        "title": "DuvInc/duvlify",
+        "url": "https://github.com/DuvInc/duvlify",
+        "description": "Beautiful docs for humans. Native tools for agents. An open-source Astro framework for documentation you own end to end: Markdown in, static site with search, an API reference and an MCP server out.",
+        "stars": 15,
+        "language": "TypeScript",
+        "topics": [
+          "astro",
+          "cloudflare-workers",
+          "docs-as-code",
+          "documentation",
+          "mcp",
+          "model-context-protocol",
+          "openapi",
+          "static-site-generator"
+        ],
+        "created_at": "2026-08-14T15:50:27Z",
+        "score": 5.0,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "id": "2608.20320v1",
+        "title": "An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction",
+        "url": "https://arxiv.org/abs/2608.20320v1",
+        "authors": [
+          "Narges Ahmadi",
+          "Yubo Jiao",
+          "Jônatas Augusto Manzolli",
+          "Jiangbo Yu",
+          "Luis Miranda-Moreno"
+        ],
+        "snippet": "Travel behavior research increasingly combines digital data collection with predictive modeling, yet these stages are often developed and evaluated separately. This study proposes a three-agent workflow integrating conversational data collection, structured data processing, and behavioral prediction. A chatbot-administered, image-augmented stated-preference survey collected mode choices from stude",
+        "categories": [
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-08-20T17:57:42+00:00",
+        "score": 5.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:multimodal",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2608.20314v1",
+        "title": "MidTool: Mid-training Data Synthesis for Agentic Tool Use",
+        "url": "https://arxiv.org/abs/2608.20314v1",
+        "authors": [
+          "Fengqing Jiang",
+          "Yite Wang",
+          "Boyi Liu",
+          "Zhaoyang Wang",
+          "Canwen Xu",
+          "Zhewei Yao"
+        ],
+        "snippet": "Mid-training is increasingly recognized as a critical stage for shaping the capabilities of large language models. Recent work has shown that targeted mid-training can strengthen reasoning-intensive abilities such as math and science, and can also improve agentic capabilities in software-engineering settings. In this work, we study the parallel but less explored agentic capability: general tool us",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-08-20T17:53:59+00:00",
+        "score": 5.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agentic",
+          "keyword:reasoning",
+          "keyword:fine-tuning",
+          "keyword:tool use"
+        ]
+      },
+      {
+        "id": "2608.19974v1",
+        "title": "ReguSim: Evaluating LLM Agent Rule Grounding in Financial Compliance",
+        "url": "https://arxiv.org/abs/2608.19974v1",
+        "authors": [
+          "Yiyang Luo",
+          "Yihang Jiang",
+          "Qijun Xie",
+          "Liang Lan",
+          "Lin Willian Cong",
+          "Anyi Rao"
+        ],
+        "snippet": "LLM agents in financial markets may cite rules yet still submit orders that violate executable constraints or misread surveillance evidence. We introduce ReguSim, a controlled financial-compliance environment, and ReguBench, a target-marked monitoring benchmark, to separate four artifacts: stated reasoning, attempted action, execution enforcement, and monitor evidence. In trader runs with DeepSeek",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-08-20T12:49:05+00:00",
+        "score": 5.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2608.19621v1",
+        "title": "Mitigating Identity Essentialism in LLM Agents with Longitudinal Life Trajectories",
+        "url": "https://arxiv.org/abs/2608.19621v1",
+        "authors": [
+          "Hexi Wang",
+          "Yujia Zhou",
+          "Bangde Du",
+          "Weihang Su",
+          "Xinyuan Cao",
+          "Qingyi Pan"
+        ],
+        "snippet": "Large language models (LLMs) offer a scalable approach to social simulation, but their credibility depends on how agents are constructed. Existing methods can partially reproduce population-level patterns, yet often fail to capture human-like diversity. Our analysis shows that static-profile agents exhibit stronger demographic separation and within-group compression than humans, a pattern consiste",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-08-20T04:13:11+00:00",
+        "score": 5.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:retrieval",
+          "keyword:alignment",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2608.20331v1",
+        "title": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation",
+        "url": "https://arxiv.org/abs/2608.20331v1",
+        "authors": [
+          "Shiao Xie",
+          "Siyu Chen",
+          "Jianwei Lv",
+          "Bo Yuan",
+          "Yujin Wang",
+          "Xiandong Li"
+        ],
+        "snippet": "Personalized interpretation of medical reports has emerged as an increasingly important need among patients. Addressing this need requires both evidence-grounded medical factuality and context-dependent patient communication, yet existing medical vision-language tasks do not adequately capture these dual requirements. To bridge this gap, we introduce Patient-oriented Medical Report Interpretation ",
+        "categories": [
+          "cs.CL",
+          "cs.AI",
+          "cs.CV"
+        ],
+        "published": "2026-08-20T17:59:46+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:benchmark",
+          "keyword:fine-tuning",
+          "keyword:multimodal",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2608.20318v1",
+        "title": "AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement",
+        "url": "https://arxiv.org/abs/2608.20318v1",
+        "authors": [
+          "Yizhe Chi",
+          "Wenyi Li",
+          "Deyao Hong",
+          "Xiaoqiu Wang",
+          "Mingju Gao",
+          "Kaisen Yang"
+        ],
+        "snippet": "Recursive self-improvement (RSI) asks whether an AI system can improve the process that produces AI systems, so that the next system inherits the improvement. That process is the training algorithm: a better objective or update rule improves the compute\\mbox{-}capability exchange rate for every subsequent run, including the one that produces the next agent. Whether RSI is feasible therefore turns ",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "cs.LG"
+        ],
+        "published": "2026-08-20T17:56:59+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:reasoning",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2608.20316v1",
+        "title": "Pandora's AI Model Routing Box: Efficient Allocation with Costly Value Estimation",
+        "url": "https://arxiv.org/abs/2608.20316v1",
+        "authors": [
+          "Adam Fisch",
+          "Shubhendu Trivedi",
+          "Fantine Huot",
+          "William W. Cohen",
+          "Michael Kaisers",
+          "Mirella Lapata"
+        ],
+        "snippet": "Heterogeneous AI systems composed of multiple models, architectures, harnesses, or inference-time settings can improve quality and efficiency by routing queries to the specialist who can answer most effectively at the lowest cost. Routing requires estimating each specialist's expected return, but this value estimation has a cost. Cheap estimators (e.g., embedding-based predictors) are fast but noi",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-08-20T17:54:37+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2608.20129v1",
+        "title": "Multi-Agent Orchestration with the Common-Sense Reasoning Capabilities of LLMs for Autonomous Driving",
+        "url": "https://arxiv.org/abs/2608.20129v1",
+        "authors": [
+          "Mehdi Azarafza",
+          "Faezeh Pasandideh",
+          "Ali Ehteshami Bejnordi",
+          "Stefan Henkler",
+          "Achim Rettberg"
+        ],
+        "snippet": "Autonomous vehicles require robust perception and decision-making capabilities to operate in diverse and unseen scenarios. While reinforcement learning and rule-based methods can provide effective control and safety mechanisms, their performance may degrade in situations requiring contextual reasoning. Large Language Models (LLMs) have demonstrated strong capabilities in understanding multimodal i",
+        "categories": [
+          "cs.MA",
+          "cs.CL",
+          "cs.CV"
+        ],
+        "published": "2026-08-20T14:56:15+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:reasoning",
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2608.20106v1",
+        "title": "OenoBench: A Wine-Domain Benchmark for Knowledge-Grounded Evaluation of Large Language Models",
+        "url": "https://arxiv.org/abs/2608.20106v1",
+        "authors": [
+          "Nikita Khudov"
+        ],
+        "snippet": "We introduce OenoBench, a wine-domain knowledge benchmark of 3,266 multiple-choice questions across six pillars (regions, grape varieties, viticulture, winemaking, producers, business) and four difficulty tiers. The corpus is built from 38,104 atomic, source-anchored facts extracted by 35 provenance-verified scrapers from government registries (INAO, TTB, OIV), peer-reviewed journals, and Wikipedi",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-08-20T14:37:22+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:reasoning",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2608.20099v1",
+        "title": "Reward-Guided Autoregressive Graph Generation for Efficient Multi-Agent Communication Topology Design",
+        "url": "https://arxiv.org/abs/2608.20099v1",
+        "authors": [
+          "Poomphob Suwannapichat",
+          "Boonyarit Changaival",
+          "Caesar Wu",
+          "Pascal Bouvry"
+        ],
+        "snippet": "LLM-based Multi-Agent Systems (MAS) achieve strong performance on complex reasoning tasks by coordinating multiple agents, but at the cost of substantial token consumption. Recent work on automatic topology design, ARG-Designer, has reframed this problem as autoregressive graph generation. However, its training objective provides no explicit incentive for the model to generate sparse and efficient",
+        "categories": [
+          "cs.MA",
+          "cs.CL",
+          "cs.LG"
+        ],
+        "published": "2026-08-20T14:32:01+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:reasoning",
+          "keyword:rlhf"
+        ]
+      },
+      {
+        "id": "2608.19854v1",
+        "title": "Repo0: Design-Driven Zero-to-All Code Generation",
+        "url": "https://arxiv.org/abs/2608.19854v1",
+        "authors": [
+          "Silin Chen",
+          "Haoyi Teng",
+          "Xiaodong Gu",
+          "Yuling Shi",
+          "Jiale Huang",
+          "Yongpan Wang"
+        ],
+        "snippet": "Large language model agents have made substantial progress in code generation, yet most existing systems assume a predefined repository architecture. This assumption does not hold in zero-to-all code generation, where an agent must construct an entire software project directly from natural-language requirements while maintaining a modular repository architecture throughout development. We present ",
+        "categories": [
+          "cs.SE",
+          "cs.AI"
+        ],
+        "published": "2026-08-20T10:03:14+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:large language model",
+          "keyword:agent",
+          "keyword:alignment",
+          "keyword:code generation"
+        ]
+      },
+      {
+        "id": "2608.19726v1",
+        "title": "Projector Is All You Train",
+        "url": "https://arxiv.org/abs/2608.19726v1",
+        "authors": [
+          "Nyx Iskandar",
+          "Saathvik Selvan",
+          "Slater Victoroff"
+        ],
+        "snippet": "The typical training process of a multimodal large language model (MLLM) involves adapting both the language model backbone and the projector between the backbone and a modality-specific encoder. We ask whether fine-tuning the backbone of an MLLM is necessary to adapt it to a new modality. Through experiments on 3D MLLMs, we find that training only the projector is sufficient to achieve strong mul",
+        "categories": [
+          "cs.CL",
+          "cs.CV",
+          "cs.LG"
+        ],
+        "published": "2026-08-20T07:23:35+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:large language model",
+          "keyword:reasoning",
+          "keyword:fine-tuning",
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2608.19710v1",
+        "title": "Robust Cross-Modal Foundation Model Perception for Underwater Robots under Degraded Visual Conditions",
+        "url": "https://arxiv.org/abs/2608.19710v1",
+        "authors": [
+          "Mohammad Arif Ul Alam"
+        ],
+        "snippet": "Reliable underwater robotic perception remains difficult because optical imagery degrades under turbidity, wavelength-dependent attenuation, low illumination, scattering, and blur. Although sonar provides complementary information that is less affected by optical visibility, prior visual-sonar research has largely focused on feature alignment and nominal detection performance. We investigate cross",
+        "categories": [
+          "cs.CV",
+          "cs.AI"
+        ],
+        "published": "2026-08-20T07:09:37+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:benchmark",
+          "keyword:fine-tuning",
+          "keyword:multimodal",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2608.19652v1",
+        "title": "Can Agent Memory Systems Track Evolving State?",
+        "url": "https://arxiv.org/abs/2608.19652v1",
+        "authors": [
+          "Xinyi Fan",
+          "Miri Liu",
+          "Ruozhen Yang",
+          "Siru Ouyang",
+          "Jiawei Han"
+        ],
+        "snippet": "As LLM-based agents are deployed for longer and higher-stakes tasks, their memory systems continue to have crucial gaps. While existing memory benchmarks focus largely on recall-shaped tasks, we argue an effective memory system must track the evolving state of the world; as facts, constraints, and decisions are revised over a long interaction, answers must reflect the current state and not a super",
+        "categories": [
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-08-20T05:41:23+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:benchmark",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2608.20274v1",
+        "title": "Break It Down, Pass It On: Cross-Task Skill Transfer in LLM Agents",
+        "url": "https://arxiv.org/abs/2608.20274v1",
+        "authors": [
+          "Yiyang Feng",
+          "Biddut Sarker Bijoy",
+          "Niranjan Balasubramanian",
+          "Jiawei Zhou"
+        ],
+        "snippet": "Large language model (LLM) agents can induce skills from completed tasks and reuse them later to grow more capable with experience. In practice, induced skills may transfer unreliably and can even harm the agent that retrieves them. When agent-induced skills transfer reliably across tasks remains an open question. We conduct a comprehensive and controlled study of how the way skills are induced sh",
+        "categories": [
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-08-20T17:12:08+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "2608.20237v1",
+        "title": "Rule-Compliant Visual Spatial Planning for Multimodal Large Language Models",
+        "url": "https://arxiv.org/abs/2608.20237v1",
+        "authors": [
+          "Yu Chen",
+          "Ting Lei",
+          "Yaoyi Li",
+          "Jia Cai",
+          "Zhecen Wu",
+          "Yang Liu"
+        ],
+        "snippet": "Multimodal large language models (MLLMs) combine linguistic reasoning with visual perception, yet their ability to perform visual spatial planning under explicit or previously unseen rule constraints remains underexplored. This setting requires models to jointly understand spatial layouts, interpret natural-language rules, and plan valid actions accordingly. To address this gap, we introduce RuleM",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-08-20T16:28:28+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2608.20186v1",
+        "title": "Decoding silent reading from non-invasive EEG",
+        "url": "https://arxiv.org/abs/2608.20186v1",
+        "authors": [
+          "Ingo Marquardt",
+          "Anthilia Alchanat",
+          "Priyanka Jain"
+        ],
+        "snippet": "Non-invasive decoding of inner speech faces a fundamental data problem: a corpus pairing brain activity with a person's spontaneous inner monologue cannot be collected, and the available proxy paradigms (cued repetitive and retrospectively reported generative inner speech) are slow to acquire, poorly time-locked, and subject compliance is unverifiable. We therefore treat silent reading as a scalab",
+        "categories": [
+          "cs.LG",
+          "q-bio.NC"
+        ],
+        "published": "2026-08-20T15:41:05+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:large language model",
+          "keyword:retrieval",
+          "keyword:transformer"
+        ]
+      },
+      {
+        "id": "2608.20011v1",
+        "title": "Manifold Drift in Flow Preference Optimization: A Root Cause of Reward Hacking",
+        "url": "https://arxiv.org/abs/2608.20011v1",
+        "authors": [
+          "Yansen Han",
+          "Shengyi Liao",
+          "Yuanxing Zhang",
+          "Pengfei Wan",
+          "Tao Lin"
+        ],
+        "snippet": "Preference optimization is a standard alignment method for generative models, yet extending it to continuous-time dynamics remains non-trivial. In flow matching, reward-driven updates modify transport trajectories without an inherent constraint to the pretrained data manifold and can move terminal samples off the pretrained support. We formalize this failure mode as manifold drift. Theoretically, ",
+        "categories": [
+          "cs.AI",
+          "cs.CV"
+        ],
+        "published": "2026-08-20T13:25:24+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:benchmark",
+          "keyword:fine-tuning",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2608.19964v1",
+        "title": "G-MARK: Grounded Multi-Agent Reasoning for Cooperative Driving via Knowledge Graphs",
+        "url": "https://arxiv.org/abs/2608.19964v1",
+        "authors": [
+          "Bhavya Gupta",
+          "Onat Gungor",
+          "Tajana Rosing"
+        ],
+        "snippet": "Autonomous driving systems must operate under partial observability, where safety-critical objects may be occluded or visible only to neighboring connected vehicles. Vehicle-to-vehicle cooperation can reduce this uncertainty, but existing cooperative driving methods often compress multi-agent evidence into latent features or hidden multimodal states. As a result, they obscure which agent observed ",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-08-20T12:35:12+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:reasoning",
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2608.19901v1",
+        "title": "MaliciousSkillBench: A Comprehensive Benchmark for Malicious Agent Skill Detection",
+        "url": "https://arxiv.org/abs/2608.19901v1",
+        "authors": [
+          "Yue Wang",
+          "Yi Liu",
+          "Gelei Deng",
+          "Ying Zhang",
+          "Yuekang Li",
+          "Zhenyu Chen"
+        ],
+        "snippet": "Agent Skills extend LLM agents with reusable instruction packages that may also include scripts, resources, and service configuration. This creates a direct distribution channel for malicious behavior, yet existing malicious-Skill datasets are fragmented across sources, artifact formats, evidence regimes, and benign coverage; duplicated and structurally related content further complicates direct a",
+        "categories": [
+          "cs.CR",
+          "cs.AI"
+        ],
+        "published": "2026-08-20T11:13:00+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2608.19875v1",
+        "title": "A knowledge-guided agentic framework for mitigating patient-context ambiguity in health queries",
+        "url": "https://arxiv.org/abs/2608.19875v1",
+        "authors": [
+          "Mahyar Abbasian",
+          "Saba A. Farahani",
+          "Arshia Ilaty",
+          "Hung Cao",
+          "Ramesh Jain",
+          "Amir M. Rahmani"
+        ],
+        "snippet": "Patients often submit short, underspecified queries to healthcare chatbots that lack the patient-specific information needed to determine an appropriate response. Although these queries may be linguistically clear, they can support multiple plausible answers depending on undisclosed factors such as symptoms, diagnoses, medications, allergies, or dietary restrictions. A language model answering suc",
+        "categories": [
+          "cs.CL",
+          "cs.AI"
+        ],
+        "published": "2026-08-20T10:36:23+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agentic",
+          "keyword:retrieval",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2608.19800v1",
+        "title": "LoRA-GA$^2$: Low Rank Adaptation with Multi-step Gradient Adaptive Alignment",
+        "url": "https://arxiv.org/abs/2608.19800v1",
+        "authors": [
+          "Haonan He",
+          "Xinyue Fan"
+        ],
+        "snippet": "Low-Rank Adaptation (LoRA) is a prominent fine-tuning method for large models, achieving competitive performance with reduced memory overhead. However, a persistent performance gap remains between LoRA and full fine-tuning. Recent studies have sought to narrow this gap by employing one-step gradient approximations of pretrained weights to align LoRA updates with the principal directions or intrins",
+        "categories": [
+          "cs.CL",
+          "cs.AI"
+        ],
+        "published": "2026-08-20T08:55:05+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:benchmark",
+          "keyword:fine-tuning",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2608.19794v1",
+        "title": "Towards general embodied intelligence: integrating large language models, knowledge bases, and reasoning capabilities to build the next generation of AI agents",
+        "url": "https://arxiv.org/abs/2608.19794v1",
+        "authors": [
+          "Fujiang Yuan",
+          "Xia Huang",
+          "Lusheng Wang",
+          "Jun Ding",
+          "Zhen Tian",
+          "Yuxin Wang"
+        ],
+        "snippet": "The convergence of large language models (LLMs), structured knowledge bases (KBs), and reasoning ability (RA) presents a promising trajectory toward general embodied intelligence (GEI). This paper reviews the evolution of LLM-centered intelligent systems, emphasising their integration with knowledge representation, logical reasoning, and physical embodiment. We analyse LLM architectures, pre-train",
+        "categories": [
+          "cs.AI",
+          "cs.RO"
+        ],
+        "published": "2026-08-20T08:45:51+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:reasoning",
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2608.19746v1",
+        "title": "PersonalBench: Measuring the Authorship Gap in LLM Personalization",
+        "url": "https://arxiv.org/abs/2608.19746v1",
+        "authors": [
+          "Yash Ganpat Sawant"
+        ],
+        "snippet": "Personalized text generation aims to make LLMs write in a specific individual's style, yet existing benchmarks measure task accuracy or preference alignment rather than whether the model's output actually resembles the target author's writing. We introduce PersonalBench, a benchmark that evaluates inference-time personalization methods through three independent lenses: LUAR (a trained authorship v",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-08-20T07:48:20+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:benchmark",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2608.19701v1",
+        "title": "Beyond Memory Majority: Latent-Source Reasoning for Multi-Agent Memory Arbitration",
+        "url": "https://arxiv.org/abs/2608.19701v1",
+        "authors": [
+          "Chenchen Lin",
+          "Wenhao Yuan",
+          "Xuehe Wang",
+          "Edith Cheuk Han Ngai"
+        ],
+        "snippet": "Long-term multi-agent systems continuously accumulate the memories produced by different agents. Existing memory methods typically treat retrieved memories as independent evidence and combine them through voting or weighting. However, this independence assumption often fails in multi-agent settings: memories written by different agents may inherit the same upstream source or shared bias, causing c",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-08-20T06:50:23+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:reasoning",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2608.19669v1",
+        "title": "Scaffolding Minds: Optimizing Latent Visual Target Representations for Multimodal Reasoning",
+        "url": "https://arxiv.org/abs/2608.19669v1",
+        "authors": [
+          "Haoqiang Kang",
+          "Yinpeng Chen",
+          "Luyang Liu",
+          "Jesper Sparre Andersen",
+          "Abhijit Ogale",
+          "Baochen Sun"
+        ],
+        "snippet": "Latent reasoning has advanced multimodal reasoning through a two-stage training paradigm: (1) a helper image is encoded into latent tokens to teach visual chain-of-thought during a supervised fine-tuning (SFT) stage, and (2) these latent tokens are further refined with reward feedback during a reinforcement learning (RL) stage. In this paper, we identify two key limitations of this framework, one ",
+        "categories": [
+          "cs.CV",
+          "cs.LG"
+        ],
+        "published": "2026-08-20T06:04:28+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:fine-tuning",
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2608.19662v1",
+        "title": "ReCache: Efficient KV Cache Reuse and Compression for Tool-Augmented LLM Agents",
+        "url": "https://arxiv.org/abs/2608.19662v1",
+        "authors": [
+          "Yichu Fang",
+          "Sitong Wei",
+          "Haozhe Hu",
+          "Xiaoyu Shen"
+        ],
+        "snippet": "Agentic language models repeatedly encode tool and skill schemas that recur across requests in different combinations and orders, preventing standard prefix caching from reusing their key--value (KV) states. We introduce \\textbf{ReCache}, a framework for independently caching resource representations while reducing their inference-time computational and memory overhead. Resource-wise attention rem",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-08-20T05:57:24+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agentic",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2608.19625v1",
+        "title": "Scientific Data Skills: Enabling Agent-Ready Scientific Data Services at Scale",
+        "url": "https://arxiv.org/abs/2608.19625v1",
+        "authors": [
+          "Xiaohan Huang",
+          "Qingqing Long",
+          "Xiaolei Du",
+          "Siyu Pu",
+          "Jiawen Xu",
+          "Haotian Chen"
+        ],
+        "snippet": "Scientific data are increasingly used by AI agents, yet existing dataset representations provide limited support for autonomous discovery, interpretation, and invocation. This limitation stems from the fragmentation of scientific data across heterogeneous repositories and from dataset representations designed primarily for human use. To address this limitation, we introduce the Scientific Data Ski",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-08-20T04:25:59+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:benchmark",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2608.19564v1",
+        "title": "Remember, Verify, or Ask? Cross-Family Evaluation of Memory Commitment in LLM Agents",
+        "url": "https://arxiv.org/abs/2608.19564v1",
+        "authors": [
+          "Baichuan Li",
+          "Junyi Yao",
+          "Zihao Zheng"
+        ],
+        "snippet": "Persistent memory can personalize an LLM agent, but an incorrect durable update can silently distort future behavior. We study the memory-clarification boundary: whether interaction-derived information should be persisted, used only in the current context, re-verified, or clarified with the user. MCB contains 140 primary scenarios, split into 70 development and 70 held-out items, plus a separate 7",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-08-20T02:11:03+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2608.20326v1",
+        "title": "$TCP_α$: Margin-Controlled Confidence estimation for reliable Music Information Retrieval",
+        "url": "https://arxiv.org/abs/2608.20326v1",
+        "authors": [
+          "Parampreet Singh",
+          "Anushka Singh",
+          "Sumit Kumar",
+          "Vipul Arora"
+        ],
+        "snippet": "Deep neural networks are often overconfident, assigning high confidence even to incorrect predictions. Consequently, users lack a reliable signal for deciding when a prediction can be trusted. Post-hoc confidence estimation addresses this by training a lightweight auxiliary head over a frozen classifier. Existing targets, however, suffer from inherent ambiguity: they assign overlapping confidence ",
+        "categories": [
+          "eess.AS",
+          "cs.LG"
+        ],
+        "published": "2026-08-20T17:58:50+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:fine-tuning",
+          "keyword:retrieval"
+        ]
+      }
+    ]
+  }
+}
