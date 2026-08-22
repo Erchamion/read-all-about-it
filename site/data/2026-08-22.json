@@ -1,0 +1,639 @@
+{
+  "date": "2026-08-22",
+  "generated_at": "2026-08-22T13:28:03+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [],
+    "github": [
+      {
+        "id": "cinderline/northcinder",
+        "title": "cinderline/northcinder",
+        "url": "https://github.com/cinderline/northcinder",
+        "description": "Open-source MCP server for comparing products and asking the buyer before purchase.",
+        "stars": 1203,
+        "language": "JavaScript",
+        "topics": [
+          "agentic-commerce",
+          "human-in-the-loop",
+          "local-first",
+          "mcp",
+          "mcp-server",
+          "model-context-protocol",
+          "privacy",
+          "self-hosted"
+        ],
+        "created_at": "2026-08-17T11:42:31Z",
+        "score": 12.23,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "SeeRay11/OpenFlow",
+        "title": "SeeRay11/OpenFlow",
+        "url": "https://github.com/SeeRay11/OpenFlow",
+        "description": "OpenFlow — a visual builder for multi-agent AI workflows, built on the opencode engine",
+        "stars": 20,
+        "language": "TypeScript",
+        "topics": [
+          "agent-orchestration",
+          "ai-agents",
+          "ai-workflow",
+          "bun",
+          "llm",
+          "multi-agent",
+          "opencode",
+          "solidjs"
+        ],
+        "created_at": "2026-08-18T00:28:46Z",
+        "score": 8.39,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:workflow",
+          "keyword:orchestration"
+        ]
+      },
+      {
+        "id": "mrpulor-gh/nuphus",
+        "title": "mrpulor-gh/nuphus",
+        "url": "https://github.com/mrpulor-gh/nuphus",
+        "description": "Nuphus — 本地优先的 AI Agent：真实桌面执行力 + 手机第二块屏幕。Local-first AI agent with real desktop execution and dual-device real-time sync.",
+        "stars": 18,
+        "language": "Rust",
+        "topics": [
+          "agent-skills",
+          "ai-agent",
+          "ai-agents",
+          "automation",
+          "computer-use",
+          "desktop-automation",
+          "llm",
+          "local-first"
+        ],
+        "created_at": "2026-08-21T20:35:53Z",
+        "score": 7.25,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:workflow"
+        ]
+      },
+      {
+        "id": "memcode-in/memcode",
+        "title": "memcode-in/memcode",
+        "url": "https://github.com/memcode-in/memcode",
+        "description": "Memcode: #1 Memory Layer for AI agents, Building Memory infra for every use case",
+        "stars": 136,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-08-16T17:44:54Z",
+        "score": 7.1,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "LeeHueeng/store-screenshots",
+        "title": "LeeHueeng/store-screenshots",
+        "url": "https://github.com/LeeHueeng/store-screenshots",
+        "description": "🖼️ AI agent skill for Claude Code & Codex — turns raw app screenshots into store-ready App Store & Google Play marketing images: device frames (iPhone·iPad·Galaxy·Fold·Flip), app-matched backgrounds, marketing copy, exact store sizes. 앱스토어·플레이스토어 마케팅 스크린샷 자동 생성",
+        "stars": 25,
+        "language": null,
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "android",
+          "app-store",
+          "app-store-optimization",
+          "app-store-screenshots",
+          "aso",
+          "claude-code"
+        ],
+        "created_at": "2026-08-21T03:48:58Z",
+        "score": 6.7,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "adpanru/cordis-mini",
+        "title": "adpanru/cordis-mini",
+        "url": "https://github.com/adpanru/cordis-mini",
+        "description": "用约 600 行纯 Python，从零实现 Cordis / deepseek-harness 的核心 Agent 插件架构：插件系统、Context 服务注册、依赖拓扑排序、事件分发、Waterfall 中间件与可逆副作用。无需真实 LLM API，内置 Fake LLM，通过完整 Agent Loop 直观理解 AI Agent 插件架构。",
+        "stars": 25,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-08-20T14:00:43Z",
+        "score": 6.7,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "dhicoc/dsh-chinese-traditional-wisdom-skill",
+        "title": "dhicoc/dsh-chinese-traditional-wisdom-skill",
+        "url": "https://github.com/dhicoc/dsh-chinese-traditional-wisdom-skill",
+        "description": "中华传统智慧（玄枢）AI Agent 技能包的 DeepSeek Harness（dsh）Cordis 插件：八字/紫微/六爻/梅花/奇门/风水/五运六气/体质全融合，本地确定性引擎 + 可视化 Dashboard，一行 dsh plugin add 安装。",
+        "stars": 20,
+        "language": "TypeScript",
+        "topics": [
+          "ai-agent",
+          "bazi",
+          "chinese-traditional-wisdom",
+          "dashboard",
+          "deepseek-harness",
+          "dsh-plugin",
+          "fengshui",
+          "iching"
+        ],
+        "created_at": "2026-08-15T12:17:00Z",
+        "score": 6.39,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "Consensus-NLP/consensus-mcp",
+        "title": "Consensus-NLP/consensus-mcp",
+        "url": "https://github.com/Consensus-NLP/consensus-mcp",
+        "description": "Official MCP server for Consensus. Search 220M+ peer-reviewed research papers from Claude, ChatGPT, Cursor, and any MCP client.",
+        "stars": 17,
+        "language": null,
+        "topics": [
+          "academic-research",
+          "ai",
+          "anthropic",
+          "chatgpt",
+          "claude",
+          "literature-review",
+          "llm",
+          "mcp"
+        ],
+        "created_at": "2026-08-21T14:01:19Z",
+        "score": 6.17,
+        "signals": [
+          "new",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "atinux/docster",
+        "title": "atinux/docster",
+        "url": "https://github.com/atinux/docster",
+        "description": "A skill that helps AI agents write better docs, with support of Comark components.",
+        "stars": 29,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-08-21T09:41:41Z",
+        "score": 5.91,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "tabtin-ai/TabTin",
+        "title": "tabtin-ai/TabTin",
+        "url": "https://github.com/tabtin-ai/TabTin",
+        "description": "A workspace where people and multiple AI agents work together.",
+        "stars": 38,
+        "language": "TypeScript",
+        "topics": [
+          "agents",
+          "ai",
+          "collaboration",
+          "desktop",
+          "workspace"
+        ],
+        "created_at": "2026-08-19T02:36:25Z",
+        "score": 5.29,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "susyimes/LAIN-agreement",
+        "title": "susyimes/LAIN-agreement",
+        "url": "https://github.com/susyimes/LAIN-agreement",
+        "description": "铃音的记忆写入协议 - an informatics protocol: fragmented, cue-based, symbolic, highly compressed information for AI agents; usable for memory writing and transmission, decodable approximately or via retrieval.",
+        "stars": 21,
+        "language": "Python",
+        "topics": [
+          "ai-agents",
+          "clue-codec",
+          "context-compression",
+          "provenance",
+          "specification"
+        ],
+        "created_at": "2026-08-19T03:42:39Z",
+        "score": 4.46,
+        "signals": [
+          "new"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "id": "2608.20315v1",
+        "title": "Explainable Transformer Models for Clinical Prediction Tasks on Structured Electronic Health Records",
+        "url": "https://arxiv.org/abs/2608.20315v1",
+        "authors": [
+          "Jun Ni Du",
+          "Lukas Adamek",
+          "Maxim Kryukov",
+          "Flavio Dormont",
+          "Ziv Bar-Joseph",
+          "Sven Jager"
+        ],
+        "snippet": "Predictive models over structured electronic health records (EHRs) remain central to machine learning for healthcare, but few have jointly emphasized quantitative laboratory information and interpretability with respect to input medical events. We present BERT-LER, a BERT-style model for coded EHR timelines pretrained and fine-tuned from a de-identified EHR dataset of 75 million patients, that enc",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-08-20T17:54:17+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:benchmark",
+          "keyword:transformer"
+        ]
+      },
+      {
+        "id": "2608.20281v1",
+        "title": "Inject, Align, Recover: Staged Post-Training for Retrieval-Free Document Knowledge Internalization",
+        "url": "https://arxiv.org/abs/2608.20281v1",
+        "authors": [
+          "Qian Kou",
+          "Xiaofeng Shi",
+          "Xiaosong Qiu",
+          "Hua Zhou"
+        ],
+        "snippet": "Large language models often fail to answer questions about a bounded document collection when the source documents are not retrieved at inference time. We study this setting as document knowledge internalization: converting a fixed corpus into usable parametric knowledge for retrieval-free question answering. We propose IAR (Inject, Align, and Recover), a three-stage post-training framework that s",
+        "categories": [
+          "cs.CL",
+          "cs.AI"
+        ],
+        "published": "2026-08-20T17:14:24+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:retrieval",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2608.20229v1",
+        "title": "Prompt-Conditioned Channel Attention for Hierarchical Feature Modulation toward Anatomy-Agnostic Segmentation",
+        "url": "https://arxiv.org/abs/2608.20229v1",
+        "authors": [
+          "Mosharof Hossain",
+          "Md Rabiul Islam",
+          "Limon Halder",
+          "Erchin Serpedin",
+          "Md Kamrul Hasan"
+        ],
+        "snippet": "Anatomically plausible segmentation remains challenging because of low contrast, ambiguous boundaries, and modality-specific artifacts. Interactive segmentation has emerged as a promising strategy to guide feature extraction and improve localization, particularly in structurally ambiguous regions. However, existing methods integrate prompts through late-stage fusion and lack explicit mechanisms fo",
+        "categories": [
+          "cs.CV",
+          "cs.AI"
+        ],
+        "published": "2026-08-20T16:24:09+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:transformer",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2608.20220v1",
+        "title": "InsufficiencyBench: Evaluating LLM legal advice on underspecified user queries",
+        "url": "https://arxiv.org/abs/2608.20220v1",
+        "authors": [
+          "Samuel J. Vincent",
+          "Daniel Calloway",
+          "Fangyi Yu",
+          "Andrew M. Bean",
+          "Nabeel Seedat"
+        ],
+        "snippet": "Legal AI systems are increasingly used to answer legal questions, yet existing benchmarks assume queries arrive fully specified. In practice, users omit facts that materially determine the legal outcome. We introduce InsufficiencyBench, the first legal benchmark targeting query-side insufficiency: whether a model recognizes when a query lacks legally material information, identifies what is missin",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-08-20T16:14:47+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2608.20204v1",
+        "title": "ContractScrub: A benchmark for final review of legal contracts",
+        "url": "https://arxiv.org/abs/2608.20204v1",
+        "authors": [
+          "Yejin Bang",
+          "Kirsty Fielding",
+          "Brandan Oliver",
+          "Brian Birke",
+          "Nabeel Seedat",
+          "Andrew M. Bean"
+        ],
+        "snippet": "Legal work, with its heavy reliance on processing large amounts of text, is often considered one of the domains most exposed to the use of LLMs. Contract ``scrubbing,'' the final review of transactional agreements for errors and inconsistencies, is a particularly suitable task for automation, because it is routine, painstaking work requiring detailed attention to long documents. Scrubbing also see",
+        "categories": [
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-08-20T16:01:42+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2608.20202v1",
+        "title": "MemTrapBench: Benchmarking Cognitive Traps in LLM Memory Use",
+        "url": "https://arxiv.org/abs/2608.20202v1",
+        "authors": [
+          "Mengru Wang",
+          "Haozhe Luo",
+          "Zhenqian Xu",
+          "Zhixiang Cui",
+          "Haoming Xu",
+          "Qu Yang"
+        ],
+        "snippet": "Memory has become a key component of large language models, enabling them to retain information and learn from long-term interactions. However, existing memory benchmarks mainly evaluate whether information is correctly extracted, stored, and retrieved, while largely overlooking how retrieved memories reshape model reasoning and affect performance on the current task. We identify memory-induced co",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "cs.CY",
+          "cs.DB",
+          "cs.LG"
+        ],
+        "published": "2026-08-20T16:00:17+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2608.20201v1",
+        "title": "The Third Restructuring of Software Form: From the Three-Tier Architecture to Storage, Models, and Agents",
+        "url": "https://arxiv.org/abs/2608.20201v1",
+        "authors": [
+          "Wei Lin",
+          "Tao Zhou",
+          "Zhaofei Xie",
+          "Changgui Hong"
+        ],
+        "snippet": "Software form has undergone two paradigm shifts since its inception: Software 1.0, in which instructions determine behavior, and Software 2.0, in which data determines behavior (machine learning). This paper argues that a third shift - Software 3.0, in which context and reasoning determine behavior - is now underway, and contends that its terminal form converges to three elements: a generalized da",
+        "categories": [
+          "cs.AI",
+          "cs.SE"
+        ],
+        "published": "2026-08-20T15:59:50+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2608.20195v1",
+        "title": "From Agent Behaviour to Agent-Friendly Documentation: An Empirical Study of How Coding Agents Discover, Read, and Write Technical Documentation",
+        "url": "https://arxiv.org/abs/2608.20195v1",
+        "authors": [
+          "Zhijun Gao",
+          "Jing Chen"
+        ],
+        "snippet": "Technical documentation is written for human developers, but an increasing share of software changes is now authored by autonomous coding agents. Which documents they consult, when, and what follows remain unknown. We conduct a behaviour-grounded study of agent-documentation interaction across two public datasets: 557 agentic coding sessions from SWE-chat, yielding 94,813 development events includ",
+        "categories": [
+          "cs.SE",
+          "cs.AI",
+          "cs.HC"
+        ],
+        "published": "2026-08-20T15:51:54+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:agentic"
+        ]
+      },
+      {
+        "id": "2608.20169v1",
+        "title": "Task-CoEvolve: Efficient Harness Optimization via Adaptive Validation Task Selection",
+        "url": "https://arxiv.org/abs/2608.20169v1",
+        "authors": [
+          "Atsuyuki Miyai",
+          "Kiyoharu Aizawa",
+          "Toshihiko Yamasaki"
+        ],
+        "snippet": "We present a novel approach to efficient LLM agent harness optimization through adaptive validation task selection. Harness optimization iteratively rewrites the harness code based on validation performance, enabling substantial performance gains without updating the underlying model weights. Existing approaches, however, evaluate a fixed validation set in full at every iteration, incurring substa",
+        "categories": [
+          "cs.CL",
+          "cs.AI",
+          "cs.LG"
+        ],
+        "published": "2026-08-20T15:24:54+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "2608.20055v1",
+        "title": "EchoCoT: Extracting Hidden Chain-of-Thought from Large Reasoning Models",
+        "url": "https://arxiv.org/abs/2608.20055v1",
+        "authors": [
+          "Yiting Qu",
+          "Ziqing Yang",
+          "Chi Cui",
+          "Ye Leng",
+          "Junjie Chu",
+          "Yang Zhang"
+        ],
+        "snippet": "Hidden chain-of-thought (CoT) traces, especially those from frontier proprietary large reasoning models (LRMs), are valuable model assets. Yet whether these hidden CoTs can be directly extracted from black-box models remains largely unexplored. In this work, we systematically study whether hidden CoTs can be extracted near-verbatim from black-box LRMs through API interactions. We identify a previo",
+        "categories": [
+          "cs.CR",
+          "cs.AI"
+        ],
+        "published": "2026-08-20T13:52:07+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2608.20019v1",
+        "title": "Contrastive Mixed Prompt Learning for Incomplete Multimodal Sentiment Analysis with Unseen Modality Combination",
+        "url": "https://arxiv.org/abs/2608.20019v1",
+        "authors": [
+          "Kaixin Xu",
+          "NaiJin Liu",
+          "Yulin Kang",
+          "Tangyue Jin",
+          "Zixuan Yu",
+          "Wenxi Zhao"
+        ],
+        "snippet": "Incomplete multimodal sentiment analysis has garnered significant attention in recent years. Existing approaches typically assume that data is missing at random or are designed specifically for certain missing patterns, ignoring the modality combination inconsistency between training and testing phases. However, in real-world scenarios, the testing phase often encounters modal combinations that we",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-08-20T13:29:49+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:multimodal",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2608.20338v1",
+        "title": "ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models",
+        "url": "https://arxiv.org/abs/2608.20338v1",
+        "authors": [
+          "Sahil Kale",
+          "Ian Harris"
+        ],
+        "snippet": "Large Language Models (LLMs) increasingly require selective removal of harmful or sensitive knowledge, called unlearning, yet existing methods and benchmarks fail to evaluate this capability completely. Current approaches rely on disjoint forget and retain sets composed of independent facts, and measure success using simple and direct factual recall. This framing fails to capture a key requirement",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-08-20T17:59:57+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2608.20319v1",
+        "title": "Inducing Task Models from Computer-Use Traces",
+        "url": "https://arxiv.org/abs/2608.20319v1",
+        "authors": [
+          "Yucheng Jiang",
+          "Zora Zhiruo Wang",
+          "Ruishi Chen",
+          "Diyi Yang"
+        ],
+        "snippet": "Naturalistic computer-use traces, passively recorded screenshots and mouse or keyboard actions, are a valuable resource for deriving symbolic, auditable, and reusable models of how everyday work is done. Such models matter as computer-use agents enter real work, where agents need to learn how tasks are actually performed, and organizations need to audit and reuse that knowledge. However, inducing ",
+        "categories": [
+          "cs.CL",
+          "cs.AI"
+        ],
+        "published": "2026-08-20T17:57:00+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "2608.20280v1",
+        "title": "Which Eviction Policy Should an LLM Cache Use? A Systematic Study Across Workloads, Capacities, and Encoders",
+        "url": "https://arxiv.org/abs/2608.20280v1",
+        "authors": [
+          "Yash Kulkarni",
+          "Shubham Harkare",
+          "Arvind Suresh Yogesh Babu"
+        ],
+        "snippet": "Semantic caches reuse an LLM response when the incoming query embedding lies near a cached query, but proposed eviction policies have rarely been compared under one protocol. Using CLEVER, we evaluate FIFO, LRU, LFU, ARC, GDSF, a single-pass streaming adaptation of SISO, and a semantic-redundancy policy across three ordered, deduplicated query corpora, three cache capacities, and two encoders. No ",
+        "categories": [
+          "cs.DB",
+          "cs.LG"
+        ],
+        "published": "2026-08-20T17:14:19+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "2608.20258v1",
+        "title": "DICS: Data-Informed Centroid Splitting for Decision Tree Classifiers",
+        "url": "https://arxiv.org/abs/2608.20258v1",
+        "authors": [
+          "MD Saifur Rahman Mazumder",
+          "Feng Yu"
+        ],
+        "snippet": "Decision tree-based models are widely used in machine learning due to their interpretability and strong empirical performance. However, training decision trees can be computationally expensive, particularly for large and high-dimensional datasets, largely due to the exhaustive search over candidate splits at each node. To improve computational efficiency, we propose Data-Informed Centroid Splittin",
+        "categories": [
+          "cs.LG",
+          "stat.ML"
+        ],
+        "published": "2026-08-20T16:54:17+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2608.20256v1",
+        "title": "Learning When to Think: Adaptive Reasoning for Test-Time Compute Allocation",
+        "url": "https://arxiv.org/abs/2608.20256v1",
+        "authors": [
+          "Gijs Kassenaar",
+          "Zhao Yang",
+          "Vincent François-Lavet"
+        ],
+        "snippet": "Reasoning language models trained with reinforcement learning typically operate under a fixed token budget rather than an explicitly adaptive one, which can lead to over-computation on easy problems and insufficient computation on difficult ones. We study whether a model can learn to allocate its own reasoning effort by choosing, as the first token of its response, one of three modes: \\textsc{NoTh",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-08-20T16:54:08+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2608.20210v1",
+        "title": "Daedalus-150M: A Convolution-Attention Hybrid Designed for CPU Inference",
+        "url": "https://arxiv.org/abs/2608.20210v1",
+        "authors": [
+          "Christos Koutsiaris"
+        ],
+        "snippet": "Small language models are usually built like large ones and then squeezed onto a CPU afterwards. We did the opposite: we fixed the target first, one user, one token at a time, 4-bit weights, ordinary CPU, and chose the architecture to suit it. The result keeps full attention in only 6 of its 18 blocks. The other 12 use short convolutions whose memory is two timesteps wide no matter how long the co",
+        "categories": [
+          "cs.IR",
+          "cs.AI",
+          "cs.CL",
+          "cs.LG"
+        ],
+        "published": "2026-08-20T16:09:43+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2608.20187v1",
+        "title": "Multi-Method Causal Evidence Synthesis: Ranking Candidate Drivers by Convergent Cross-Method Evidence from Observational Data",
+        "url": "https://arxiv.org/abs/2608.20187v1",
+        "authors": [
+          "Manish Gupta",
+          "Dipanjan De"
+        ],
+        "snippet": "Practitioners inferring causality from observational data usually rely on a single method and treat its output as causal truth. Recent tools select an optimal method for a dataset, and recent ensembles aggregate multiple causal-discovery algorithms into one graph, but little work pools evidence across different mathematical traditions, including non-causal ones. We present Multi-Method Causal Evid",
+        "categories": [
+          "stat.ME",
+          "cs.AI"
+        ],
+        "published": "2026-08-20T15:41:18+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:benchmark"
+        ]
+      }
+    ]
+  }
+}
