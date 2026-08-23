@@ -1,0 +1,245 @@
+{
+  "date": "2026-08-23",
+  "generated_at": "2026-08-23T13:28:18+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [],
+    "github": [
+      {
+        "id": "duty1g/x64dbg-mcp-server",
+        "title": "duty1g/x64dbg-mcp-server",
+        "url": "https://github.com/duty1g/x64dbg-mcp-server",
+        "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Z",
+        "stars": 365,
+        "language": "Zig",
+        "topics": [
+          "ai-agents",
+          "ai-debugging",
+          "binary-analysis",
+          "claude",
+          "claude-code",
+          "malware-analysis",
+          "malware-research",
+          "malware-scanner"
+        ],
+        "created_at": "2026-08-22T14:28:41Z",
+        "score": 10.52,
+        "signals": [
+          "new",
+          "keyword:mcp",
+          "keyword:assistant"
+        ]
+      },
+      {
+        "id": "Yu-369/VibeCurb",
+        "title": "Yu-369/VibeCurb",
+        "url": "https://github.com/Yu-369/VibeCurb",
+        "description": "VibeCurb - Injects taste into AI workflows to stop agents from generating boring, AI slop.",
+        "stars": 508,
+        "language": "JavaScript",
+        "topics": [],
+        "created_at": "2026-07-08T06:22:28Z",
+        "score": 8.99,
+        "signals": [
+          "rising"
+        ]
+      },
+      {
+        "id": "kgoedecke/doop",
+        "title": "kgoedecke/doop",
+        "url": "https://github.com/kgoedecke/doop",
+        "description": "The open-source alternative to Paper.design — a multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+        "stars": 68,
+        "language": "TypeScript",
+        "topics": [
+          "ai-agents",
+          "canvas",
+          "claude",
+          "claude-code",
+          "claude-design",
+          "design",
+          "design-tool",
+          "mcp"
+        ],
+        "created_at": "2026-08-22T15:40:51Z",
+        "score": 7.11,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "ForkPoint/agent-lighthouse",
+        "title": "ForkPoint/agent-lighthouse",
+        "url": "https://github.com/ForkPoint/agent-lighthouse",
+        "description": "Lighthouse-style audits for AI-agent readiness, LLM crawlers, MCP clients, and the agentic web",
+        "stars": 16,
+        "language": "TypeScript",
+        "topics": [
+          "aeo",
+          "agentic-web",
+          "ai-agents",
+          "crawler",
+          "developer-tools",
+          "geo",
+          "github-actions",
+          "lighthouse"
+        ],
+        "created_at": "2026-08-17T18:07:03Z",
+        "score": 7.09,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "moonlin1213/cove-book-forge-mcp",
+        "title": "moonlin1213/cove-book-forge-mcp",
+        "url": "https://github.com/moonlin1213/cove-book-forge-mcp",
+        "description": "Turn PDF and EPUB books into cached AI analysis, Obsidian notes, and installable Codex/Claude Agent Skills through an open MCP server.",
+        "stars": 16,
+        "language": "Python",
+        "topics": [
+          "agent-skills",
+          "ai-reading",
+          "claude-code",
+          "codex",
+          "deepseek",
+          "epub",
+          "mcp",
+          "obsidian"
+        ],
+        "created_at": "2026-08-21T05:58:01Z",
+        "score": 6.09,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "HanyuanWang/LiveStream-Agent-Studio",
+        "title": "HanyuanWang/LiveStream-Agent-Studio",
+        "url": "https://github.com/HanyuanWang/LiveStream-Agent-Studio",
+        "description": "面向抖音直播电商的 Windows 本地 AI Agent Studio，贯通主播发现、直播洞察、直播复盘与短视频内容编导的统一智能工作流。",
+        "stars": 28,
+        "language": "Python",
+        "topics": [
+          "ai-agent",
+          "douyin",
+          "livestream",
+          "speech-to-text"
+        ],
+        "created_at": "2026-08-22T14:16:48Z",
+        "score": 5.86,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "robofighter/lewin-ai-agent",
+        "title": "robofighter/lewin-ai-agent",
+        "url": "https://github.com/robofighter/lewin-ai-agent",
+        "description": "LEWIN AI AGENT — lightweight talking avatar. Grok speaks; lipsync runs in the browser without a GPU viseme model.",
+        "stars": 17,
+        "language": "JavaScript",
+        "topics": [
+          "avatar",
+          "grok",
+          "lipsync",
+          "rive",
+          "threejs",
+          "tts"
+        ],
+        "created_at": "2026-08-16T09:51:16Z",
+        "score": 5.17,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "sysprog21/frama-c-mcp",
+        "title": "sysprog21/frama-c-mcp",
+        "url": "https://github.com/sysprog21/frama-c-mcp",
+        "description": "MCP server that gives AI agents Frama-C: EVA, WP, and sandboxed ACSL iteration",
+        "stars": 15,
+        "language": "Rust",
+        "topics": [
+          "acsl",
+          "formal-verification",
+          "frama-c",
+          "mcp-server"
+        ],
+        "created_at": "2026-08-19T09:22:08Z",
+        "score": 5.0,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "fuqiuluo/ida-headless-mcp",
+        "title": "fuqiuluo/ida-headless-mcp",
+        "url": "https://github.com/fuqiuluo/ida-headless-mcp",
+        "description": "Rust-native multi-session headless IDA Pro MCP server. One supervisor, one IDA worker per database, compatible with the ida-pro-mcp public contract.",
+        "stars": 15,
+        "language": "Rust",
+        "topics": [
+          "binary-analysis",
+          "headless",
+          "ida-pro",
+          "mcp",
+          "mcp-server",
+          "modelcontextprotocol",
+          "reverse-engineering",
+          "rust"
+        ],
+        "created_at": "2026-08-16T11:30:42Z",
+        "score": 5.0,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "panaversity/ksor",
+        "title": "panaversity/ksor",
+        "url": "https://github.com/panaversity/ksor",
+        "description": "KSoR (Knowledge System of Record) is an open-source SDK for building governed, authoritative knowledge systems for humans and AI agents. It is a foundation of an AI-native knowledge platform.",
+        "stars": 19,
+        "language": "TypeScript",
+        "topics": [
+          "agents",
+          "ai-agents",
+          "governed-agents",
+          "governed-ai",
+          "system-of-record"
+        ],
+        "created_at": "2026-08-17T06:36:55Z",
+        "score": 4.32,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "ALBDNDJ/hpcguard",
+        "title": "ALBDNDJ/hpcguard",
+        "url": "https://github.com/ALBDNDJ/hpcguard",
+        "description": "A user-space safety net that helps researchers prevent AI agents from overloading shared HPC login nodes.",
+        "stars": 18,
+        "language": "Shell",
+        "topics": [],
+        "created_at": "2026-08-17T04:01:20Z",
+        "score": 4.25,
+        "signals": [
+          "new"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
