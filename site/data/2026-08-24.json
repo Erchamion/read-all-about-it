@@ -1,0 +1,216 @@
+{
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T13:47:05+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [],
+    "github": [
+      {
+        "id": "Forsy-AI/biosecurity-agent",
+        "title": "Forsy-AI/biosecurity-agent",
+        "url": "https://github.com/Forsy-AI/biosecurity-agent",
+        "description": "AI agent that builds a live biosecurity world around any target.",
+        "stars": 512,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-08-22T23:06:26Z",
+        "score": 10.0,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "Cripacx/mediagen",
+        "title": "Cripacx/mediagen",
+        "url": "https://github.com/Cripacx/mediagen",
+        "description": "AI image and video generation skill for Claude Code and other coding agents — Gemini, OpenAI and Kie AI behind one CLI and MCP server, with EU AI Act content marking.",
+        "stars": 55,
+        "language": "TypeScript",
+        "topics": [
+          "agent-skill",
+          "ai-agents",
+          "claude",
+          "claude-code",
+          "cli",
+          "eu-ai-act",
+          "gemini",
+          "generative-ai"
+        ],
+        "created_at": "2026-08-22T23:49:10Z",
+        "score": 8.81,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "DEEP-JLU/Awesome-Graph-Engineering",
+        "title": "DEEP-JLU/Awesome-Graph-Engineering",
+        "url": "https://github.com/DEEP-JLU/Awesome-Graph-Engineering",
+        "description": "A Survey on Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence",
+        "stars": 40,
+        "language": null,
+        "topics": [
+          "agent",
+          "graph-based-agent",
+          "graph-engineering",
+          "graph-engineering-survey",
+          "harness-engineering",
+          "individual-intelligence",
+          "loop-engineering",
+          "memory"
+        ],
+        "created_at": "2026-08-20T09:51:28Z",
+        "score": 7.36,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "shoebpate1/ai-agent-hacking-writeups",
+        "title": "shoebpate1/ai-agent-hacking-writeups",
+        "url": "https://github.com/shoebpate1/ai-agent-hacking-writeups",
+        "description": "A collection of public writeups on attacks against AI agents: prompt injection, tool abuse, memory poisoning, and data exfiltration.",
+        "stars": 19,
+        "language": null,
+        "topics": [
+          "agents",
+          "ai",
+          "ai-agents",
+          "indirect-prompt-injection",
+          "llm",
+          "mcp",
+          "prompt-injection",
+          "security"
+        ],
+        "created_at": "2026-08-21T11:07:12Z",
+        "score": 7.32,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "scarletkc/Perenna",
+        "title": "scarletkc/Perenna",
+        "url": "https://github.com/scarletkc/Perenna",
+        "description": "A lightweight, Git-backed permanent memory for AI agents.",
+        "stars": 22,
+        "language": "Python",
+        "topics": [
+          "agent-memory",
+          "ai-agents",
+          "ai-memory",
+          "git-backed",
+          "mcp",
+          "mcp-server",
+          "model-context-protocol",
+          "self-hosted"
+        ],
+        "created_at": "2026-08-21T22:58:14Z",
+        "score": 6.52,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "DavidCarliez/cover",
+        "title": "DavidCarliez/cover",
+        "url": "https://github.com/DavidCarliez/cover",
+        "description": "Reversible privacy proxy for AI agents: send realistic fakes, restore originals locally.",
+        "stars": 38,
+        "language": "Go",
+        "topics": [
+          "ai-security",
+          "claude-code",
+          "codex",
+          "coding-agents",
+          "cursor",
+          "data-redaction",
+          "dlp",
+          "llm"
+        ],
+        "created_at": "2026-08-21T18:56:30Z",
+        "score": 6.29,
+        "signals": [
+          "new",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "truespar/sentio",
+        "title": "truespar/sentio",
+        "url": "https://github.com/truespar/sentio",
+        "description": "Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and outbound, DKIM/SPF/DMARC/ARC, MTA-STS, DANE, three-tier anti-spam.",
+        "stars": 35,
+        "language": "Rust",
+        "topics": [
+          "ai-agents",
+          "ai-tools",
+          "dkim",
+          "dmarc",
+          "email",
+          "email-automation",
+          "mailserver",
+          "rust"
+        ],
+        "created_at": "2026-08-23T21:36:25Z",
+        "score": 6.17,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "musoyangrigor/scroll-video-website-skill",
+        "title": "musoyangrigor/scroll-video-website-skill",
+        "url": "https://github.com/musoyangrigor/scroll-video-website-skill",
+        "description": "Scroll Video Website is a portable AI-agent skill that turns videos into smooth, scroll-controlled canvas experiences with optimized WebP frames, progressive loading, and responsive animation.",
+        "stars": 17,
+        "language": null,
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "canvas",
+          "claude-code",
+          "codex",
+          "developer-tools",
+          "frontend",
+          "scroll-animation"
+        ],
+        "created_at": "2026-08-21T08:13:57Z",
+        "score": 6.17,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "Siteation/magento2-debugbar",
+        "title": "Siteation/magento2-debugbar",
+        "url": "https://github.com/Siteation/magento2-debugbar",
+        "description": "Developer debug bar for Magento 2, with findings and an MCP server",
+        "stars": 15,
+        "language": "JavaScript",
+        "topics": [],
+        "created_at": "2026-08-18T15:10:26Z",
+        "score": 5.0,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
