@@ -1,0 +1,976 @@
+{
+  "date": "2026-08-25",
+  "generated_at": "2026-08-25T13:45:08+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+        "title": "Disrupting a new covert influence campaign from Russia",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+        "source": "openai",
+        "published": "2026-08-25T00:00:00+00:00",
+        "snippet": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/gpt-5-6-in-kiro",
+        "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+        "url": "https://openai.com/index/gpt-5-6-in-kiro",
+        "source": "openai",
+        "published": "2026-08-24T12:00:00+00:00",
+        "snippet": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://machinelearning.apple.com/research/internalized-visual-thinking",
+        "title": "Beyond Visual CoT: Internalized Visual Thinking for Proactive Video Reasoning",
+        "url": "https://machinelearning.apple.com/research/internalized-visual-thinking",
+        "source": "apple-ml",
+        "published": "2026-08-24T00:00:00+00:00",
+        "snippet": "Multimodal large language models increasingly use visual chain-of-thought (Visual CoT) to reason about spatial, temporal, and embodied environments. By generating intermediate reasoning images, Visual CoT provides an intuitive mechanism for visual foresight but introduces substantial inference overh",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+        "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+        "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+        "source": "huggingface",
+        "published": "2026-08-25T11:39:24+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/gradio-workflow-guide",
+        "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+        "url": "https://huggingface.co/blog/gradio-workflow-guide",
+        "source": "huggingface",
+        "published": "2026-08-25T00:00:00+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://mistral.ai/news/mistral-x-humain",
+        "title": "Mistral x HUMAIN",
+        "url": "https://mistral.ai/news/mistral-x-humain",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/mistral-x-humain/",
+        "title": "Company Mistral x HUMAIN August 24, 2026 By Mistral",
+        "url": "https://mistral.ai/news/mistral-x-humain/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      }
+    ],
+    "github": [
+      {
+        "id": "ApodexAI/FrontierAgent",
+        "title": "ApodexAI/FrontierAgent",
+        "url": "https://github.com/ApodexAI/FrontierAgent",
+        "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+        "stars": 450,
+        "language": "Python",
+        "topics": [
+          "agent-orchestration",
+          "agentic-ai",
+          "agentic-framework",
+          "ai-agents",
+          "harness",
+          "multi-agent",
+          "terminal-agent",
+          "tui"
+        ],
+        "created_at": "2026-08-22T05:07:35Z",
+        "score": 10.82,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:orchestration"
+        ]
+      },
+      {
+        "id": "Stupidoodle/swissdevjobs-cli",
+        "title": "Stupidoodle/swissdevjobs-cli",
+        "url": "https://github.com/Stupidoodle/swissdevjobs-cli",
+        "description": "Search & apply to ~4,700 salary-transparent tech jobs across 7 countries (🇨🇭🇩🇪🇬🇧🇺🇸🇨🇦🇳🇱🇫🇷) from your terminal or AI agent — zero-dependency Python CLI + MCP server + Claude Code plugin",
+        "stars": 48,
+        "language": "Python",
+        "topics": [
+          "ai-agents",
+          "claude",
+          "claude-code",
+          "cli",
+          "developer-jobs",
+          "france",
+          "germany",
+          "job-application"
+        ],
+        "created_at": "2026-08-24T19:59:58Z",
+        "score": 7.61,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "MaxHu-xuan/task-state-guard",
+        "title": "MaxHu-xuan/task-state-guard",
+        "url": "https://github.com/MaxHu-xuan/task-state-guard",
+        "description": "Reconcile stuck AI-agent tasks after restarts and timeouts. Preview SQLite changes, close stale delivery states, and never guess success.",
+        "stars": 21,
+        "language": "Python",
+        "topics": [
+          "agent-runtime",
+          "ai-agents",
+          "delivery-state",
+          "idempotency",
+          "job-recovery",
+          "python",
+          "restart-reconciliation",
+          "sqlite"
+        ],
+        "created_at": "2026-08-23T07:10:14Z",
+        "score": 6.46,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:workflow"
+        ]
+      },
+      {
+        "id": "ksk2kk/YujialeCode",
+        "title": "ksk2kk/YujialeCode",
+        "url": "https://github.com/ksk2kk/YujialeCode",
+        "description": "专门为本地模型玩家开发的code agent! 纯rust,极致简约的系统提示词 30tokens的速度也可以流畅使用。完美兼容claude skill。",
+        "stars": 19,
+        "language": "Rust",
+        "topics": [],
+        "created_at": "2026-08-18T06:32:57Z",
+        "score": 6.32,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "d4ncboz/technocore",
+        "title": "d4ncboz/technocore",
+        "url": "https://github.com/d4ncboz/technocore",
+        "description": "Decentralized Ed25519 Cryptographic Identity, Signed Message Bus, and Proof-of-Contribution Framework for AI Agents on Technocore ( Ecosystem)",
+        "stars": 35,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-08-25T06:18:51Z",
+        "score": 5.17,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "anantgarg/ai-agent-intern-test",
+        "title": "anantgarg/ai-agent-intern-test",
+        "url": "https://github.com/anantgarg/ai-agent-intern-test",
+        "description": "",
+        "stars": 17,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-08-20T12:26:13Z",
+        "score": 5.17,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "scccc6ut/npface",
+        "title": "scccc6ut/npface",
+        "url": "https://github.com/scccc6ut/npface",
+        "description": "表情头盔 · 会表情的 AI 员工头像 — expressive, zero-dependency helmet avatar for AI agents (MIT)",
+        "stars": 16,
+        "language": "TypeScript",
+        "topics": [
+          "ai-agent",
+          "animation",
+          "avatar",
+          "emotion",
+          "npcrew",
+          "react",
+          "svg",
+          "typescript"
+        ],
+        "created_at": "2026-08-19T12:38:20Z",
+        "score": 5.09,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "Wu030616/Triad",
+        "title": "Wu030616/Triad",
+        "url": "https://github.com/Wu030616/Triad",
+        "description": "一套让多个 AI agent 协作干工程活、且没有任何一方能给自己签合格的设计，加上它的实现，以及它真的跑起来时留下的账本。",
+        "stars": 16,
+        "language": "C#",
+        "topics": [],
+        "created_at": "2026-08-23T05:40:47Z",
+        "score": 5.09,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "fly233338/overleaf-mcp",
+        "title": "fly233338/overleaf-mcp",
+        "url": "https://github.com/fly233338/overleaf-mcp",
+        "description": "TypeScript MCP server for Overleaf Git projects",
+        "stars": 15,
+        "language": "TypeScript",
+        "topics": [
+          "mcp-server",
+          "overleaf",
+          "research-paper"
+        ],
+        "created_at": "2026-08-22T10:31:18Z",
+        "score": 5.0,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "id": "2608.23329v1",
+        "title": "Thinking Beyond Videos: Unifying Video Reasoning and Deep Research for Open-World Video Agents",
+        "url": "https://arxiv.org/abs/2608.23329v1",
+        "authors": [
+          "Wenqi Liu",
+          "Shijie Ma",
+          "Yunxiao Wang",
+          "Meng Liu",
+          "Qile Su",
+          "Han Liu"
+        ],
+        "snippet": "Open-world video understanding often requires a model to locate sparse visual evidence and acquire external knowledge that is absent from the video and its parametric memory. While Thinking-with-Videos enables active temporal perception and Deep Research supports multi-step information seeking, the two capabilities are typically developed in isolation. We introduce VideoRover, a unified Video Deep",
+        "categories": [
+          "cs.CV",
+          "cs.AI"
+        ],
+        "published": "2026-08-24T14:42:23+00:00",
+        "score": 5.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:multimodal",
+          "keyword:retrieval",
+          "keyword:tool use"
+        ]
+      },
+      {
+        "id": "2608.23179v1",
+        "title": "NetConfArena: An Executable Benchmark for LLM Agents in Closed-Loop Network Configuration",
+        "url": "https://arxiv.org/abs/2608.23179v1",
+        "authors": [
+          "Chang Liu",
+          "Xiaohui Xie",
+          "Xinyi Chen",
+          "Yong Cui"
+        ],
+        "snippet": "Large language model (LLM) agents are increasingly attractive for automating network configuration, yet their reliability and failure patterns are poorly understood. An essential prerequisite is to assess such agents in a realistic but risk-free environment. Existing benchmarks, however, fall short: they often treat configuration as static command generation or rely on overly simplified settings. ",
+        "categories": [
+          "cs.NI",
+          "cs.AI"
+        ],
+        "published": "2026-08-24T12:26:37+00:00",
+        "score": 5.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:agent",
+          "keyword:reasoning",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2608.23035v1",
+        "title": "MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks",
+        "url": "https://arxiv.org/abs/2608.23035v1",
+        "authors": [
+          "Yi Zhu",
+          "Xiongwei Wu",
+          "Qiyi Wang",
+          "Tingyu Qu",
+          "Jiajun Liu",
+          "Sihan Cao"
+        ],
+        "snippet": "As on-device LLM agents evolve into personal copilots, the mobile operating system has become a key testbed for this paradigm, making rigorous capability evaluation essential. Yet existing benchmarks fall into two camps, each with a critical blind spot: GUI-centric benchmarks test surface-level screen manipulation while overlooking background tool use and long-horizon planning, whereas static func",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-08-24T09:38:24+00:00",
+        "score": 5.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:benchmark",
+          "keyword:tool use"
+        ]
+      },
+      {
+        "id": "2608.23497v1",
+        "title": "Mitigating Reasoning-Induced Misalignment via Safety-Direction Penalty",
+        "url": "https://arxiv.org/abs/2608.23497v1",
+        "authors": [
+          "Yipeng Zhao",
+          "Qishun Yang",
+          "Shenzhe Zhu",
+          "Shu Yang",
+          "Di Wang"
+        ],
+        "snippet": "Reasoning-Induced Misalignment, where fine-tuning on reasoning data containing no harmful content, including mathematics, code, and problem-solving with chain-of-thought traces can induce harmful behaviors of LLM, posing a serious challenge to the safety of LLM reasoning. Cross-architecture, cross-scale, and cross-dataset checks show that RIM does not always emerge. Previous work attributed RIM to",
+        "categories": [
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-08-24T16:57:28+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2608.23471v1",
+        "title": "InjecMEM: Memory Injection Attack on LLM Agent Memory Systems",
+        "url": "https://arxiv.org/abs/2608.23471v1",
+        "authors": [
+          "Hanling Tian",
+          "Gengyu Zhang",
+          "Zeyang Sha",
+          "Jingying Wang",
+          "Yuhang Liu",
+          "Zhehao Huang"
+        ],
+        "snippet": "Memory is becoming a default subsystem in deployed LLM agents to provide persistent personalization and continuity. This naturally prompts a question: will memory system introduce new vulnerabilities into agents? Thus we propose InjecMEM, a novel memory injection attack paradigm that requires only a single interaction (no read/edit access to memory store) to steer later responses of related querie",
+        "categories": [
+          "cs.CR",
+          "cs.AI"
+        ],
+        "published": "2026-08-24T16:37:50+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:retrieval",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2608.23435v1",
+        "title": "Towards Comprehensive Basketball Understanding",
+        "url": "https://arxiv.org/abs/2608.23435v1",
+        "authors": [
+          "Yirong Hu",
+          "Jiayuan Rao",
+          "Yu Zhang",
+          "Shangzhe Di",
+          "Weidi Xie"
+        ],
+        "snippet": "Understanding a basketball game requires recognizing events, localizing actions, identifying players, and relating these to structured game knowledge. Existing benchmarks primarily evaluate these abilities one at a time, leaving the interactions among these abilities under-explored. We introduce BasketballBench, a multimodal benchmark comprising 7,980 questions across ten tasks in text, image, and",
+        "categories": [
+          "cs.CV",
+          "cs.AI"
+        ],
+        "published": "2026-08-24T16:09:21+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:benchmark",
+          "keyword:multimodal",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2608.23200v1",
+        "title": "LongWoF-Bench: Evaluating EvoMap Genes for Verifiable Long-Workflow Tasks",
+        "url": "https://arxiv.org/abs/2608.23200v1",
+        "authors": [
+          "Xiao Zhang",
+          "Qumeng Sun",
+          "Jihao Li",
+          "Yiming Ren",
+          "Xiang Liu",
+          "Haoyang Zhang"
+        ],
+        "snippet": "Large language models are increasingly expected to execute complex workflows whose success depends on maintaining interdependent constraints and producing artifacts that satisfy strict end-to-end verification. Yet successful execution experience is typically lost after a single run, forcing subsequent models to rediscover strategies and failure modes from scratch. We study whether such experience ",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-08-24T12:50:16+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:code generation"
+        ]
+      },
+      {
+        "id": "2608.23058v1",
+        "title": "LLM-based Agents for Forecasting and Prediction: Methods, Training, Evaluation, and Applications",
+        "url": "https://arxiv.org/abs/2608.23058v1",
+        "authors": [
+          "Xiaogang Xu",
+          "Jiaqi Tang",
+          "Jianmin Chen",
+          "Yingying Yan",
+          "Zhenchao Tang",
+          "Xiangxin Zhou"
+        ],
+        "snippet": "Large language models (LLMs) now support forecasting systems that combine language-based reasoning with temporal data, evidence retrieval, external tools, and iterative prediction. We investigate LLM-based forecasting agents, meaning systems in which a language model contributes to a scored prediction about a future or currently unobserved target. We organize architectures into three groups. Stand",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-08-24T10:02:39+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2608.23047v1",
+        "title": "Beyond Verdicts: A Graph-Based Analysis of Human and LLM Reasoning in Scientific Fact-Checking",
+        "url": "https://arxiv.org/abs/2608.23047v1",
+        "authors": [
+          "Abdul Ghafoor",
+          "Muhammad Arslan Manzoor",
+          "Yufang Hou"
+        ],
+        "snippet": "Misinformation that cites legitimate papers can be especially harmful when it distorts what those studies actually report. While existing automatic fact-checking systems based on large language models (LLMs) can assess whether a model assigns an Incorrect verdict and can gen- erate explanations for that decision, they typi- cally do not indicate whether the model follows the same reasoning path as",
+        "categories": [
+          "cs.CL",
+          "cs.AI"
+        ],
+        "published": "2026-08-24T09:53:30+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:reasoning",
+          "keyword:alignment",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2608.22974v1",
+        "title": "Toward Effective and Reliable LLM Agents via Dynamic Ontology",
+        "url": "https://arxiv.org/abs/2608.22974v1",
+        "authors": [
+          "Xiaohui Zhang",
+          "Zequn Sun",
+          "Chengyuan Yang",
+          "Yuanning Cui",
+          "Lingbing Guo",
+          "Wei Hu"
+        ],
+        "snippet": "Large language model (LLM) agents rely heavily on knowledge encoded in model parameters or presented as unstructured context. In domain-specific tasks, this leaves important semantic connections implicit. This often results in incomplete evidence use and brittle multi-step decisions. Ontologies offer a way to externalize domain concepts and relations as machine-interpretable structures, but constr",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-08-24T08:33:42+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:reasoning",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2608.22917v1",
+        "title": "TSWAP: A Multilingual Retrieval-Augmented Thai Wellness Advisor",
+        "url": "https://arxiv.org/abs/2608.22917v1",
+        "authors": [
+          "Pornthep Ukosaramig",
+          "Kobkrit Viriyayudhakorn"
+        ],
+        "snippet": "We present TSWAP, a deployed eight-language conversational wellness advisor grounded, via retrieval-augmented generation, in a verified knowledge base of Thai traditional medicine and certified wellness providers. An unmodified open-weight LLM (Qwen3.6-35B-A3B on vLLM) is grounded on a ~30.6K-chunk Thai index by a hybrid dense-sparse retriever with cross-encoder reranking; a first-turn query class",
+        "categories": [
+          "cs.CL",
+          "cs.IR"
+        ],
+        "published": "2026-08-24T07:54:07+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:benchmark",
+          "keyword:retrieval",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2608.22852v1",
+        "title": "Your AI, On a Dial: Controlling Investment Bias in LLMs with a Single Neuron",
+        "url": "https://arxiv.org/abs/2608.22852v1",
+        "authors": [
+          "Sahong Park",
+          "Suhwan Park",
+          "Hoyoung Lee",
+          "Gakyung Kwon",
+          "Wonbin Ahn",
+          "Jaewon Choi"
+        ],
+        "snippet": "Large language models (LLMs) are increasingly used in investment decision-making, yet prior work shows that they exhibit systematic, model-specific investment preferences. We study whether a model's overall investment stance can be calibrated to a specified direction and strength. We introduce an investment-bias dial, an inference-time intervention on a single neuron that continuously adjusts a mo",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "q-fin.GN"
+        ],
+        "published": "2026-08-24T06:33:02+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agentic",
+          "keyword:retrieval",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2608.23564v1",
+        "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
+        "url": "https://arxiv.org/abs/2608.23564v1",
+        "authors": [
+          "Deyao Hong",
+          "Yizhe Chi",
+          "Wenyi Li",
+          "Xiaoqiu Wang",
+          "Mingju Gao",
+          "Kaisen Yang"
+        ],
+        "snippet": "Modern software systems accumulate technical debt over decades of development, which makes migration expensive and largely manual. As coding agents become increasingly capable at bug fixing, can they autonomously perform such migrations? Existing benchmarks cannot answer this question because they evaluate only behavioural correctness, not whether the migration actually occurred. This leads an eas",
+        "categories": [
+          "cs.CL",
+          "cs.AI",
+          "cs.SE"
+        ],
+        "published": "2026-08-24T17:59:04+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2608.23525v1",
+        "title": "EarthVerse: Benchmarking Scientific Agents Across Dynamic Earth Systems and Natural Hazards",
+        "url": "https://arxiv.org/abs/2608.23525v1",
+        "authors": [
+          "Zhiqing Cui",
+          "Xinxiang Yin",
+          "Yihong Tang",
+          "Xinglang Zhang",
+          "Yuanzhe Hu",
+          "Siru Zhong"
+        ],
+        "snippet": "Earth-system analysis reconstructs changing physical processes from observations that differ in source, scale, timing, and modality. Natural hazards make this work consequential because incomplete evidence can change estimates of severity, exposure, and mechanism. We introduce EarthVerse, a benchmark that evaluates scientific agents through package-scoped investigations. Its 405 reproducible tasks",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-08-24T17:29:16+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:reasoning",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2608.23493v1",
+        "title": "SRPO: Self-Reflective Policy Optimization for Long-Horizon Reasoning",
+        "url": "https://arxiv.org/abs/2608.23493v1",
+        "authors": [
+          "Jialong Liu",
+          "Yuling Shi",
+          "Ning Yang",
+          "Xiaodong Gu",
+          "Zuchao Li"
+        ],
+        "snippet": "Self-reflection is a powerful mechanism for credit assignment in human learning, converting sparse outcome feedback into actionable guidance. However, its potential for post-training Large Language Models (LLMs) remains underexplored. We propose Self-Reflective Policy Optimization (SRPO), a framework that internalizes this capability. SRPO enables LLMs to analyze their own completed trajectories, ",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-08-24T16:55:09+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agentic",
+          "keyword:reasoning",
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2608.23484v1",
+        "title": "Multi-Modal Semantic Expansion with Constrained LLM Reranking for Conversational Music Recommendation",
+        "url": "https://arxiv.org/abs/2608.23484v1",
+        "authors": [
+          "Naman Garg",
+          "Sarika Jain",
+          "George Fazekas"
+        ],
+        "snippet": "We present Team Semiintelligencn's solution for the ACM RecSys 2026 TalkPlayData Challenge, addressing conversational music recommendation through a multi-modal and personalized conversational recommender system. Our submitted system employs a three-stage pipeline: (1) multi-modal retrieval constructing decay-weighted centroids across seven dense embedding spaces - track- and user-level CF-BPR, Qw",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-08-24T16:48:50+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:retrieval",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2608.23473v1",
+        "title": "MetaCaster: Meta-Harness-Optimized Agent for End-to-End Few-Shot Learning of Lightweight Time Series Forecasters",
+        "url": "https://arxiv.org/abs/2608.23473v1",
+        "authors": [
+          "ChengAo Shen",
+          "Wenchao Yu",
+          "Fangyu Wu",
+          "Dongjin Song",
+          "Hanghang Tong",
+          "Dongsheng Luo"
+        ],
+        "snippet": "Time series forecasting (TSF) is evolving toward multimodal and agentic settings, yet using foundation models remains uneconomical in resource-constrained scenarios, where compact, specialized forecasters are more desirable. However, lightweight forecasters typically require substantial training data, limiting their use in domains with scarce, slowly accumulated, or privacy-sensitive time series. ",
+        "categories": [
+          "cs.LG",
+          "cs.AI"
+        ],
+        "published": "2026-08-24T16:40:25+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2608.23395v1",
+        "title": "Right-Sizing LLM-Agent Decomposition in VAT Determination: A Pilot Controlled Sweep",
+        "url": "https://arxiv.org/abs/2608.23395v1",
+        "authors": [
+          "Pedro Santos"
+        ],
+        "snippet": "Recent LLM-agent systems make conflicting design bets: decompose work across many narrow agents, or use one strong tool-using agent. This pilot studies that choice on bounded cross-border VAT determination with reverse charge, where every case has an oracle label and each intermediate decision is independently scoreable. We hold the activity surface fixed (subtasks, tools, I/O schemas, validation ",
+        "categories": [
+          "cs.MA",
+          "cs.AI",
+          "cs.SE"
+        ],
+        "published": "2026-08-24T15:40:15+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2608.23373v1",
+        "title": "Modalities Should Talk to Each Other: Dual-Stream Multimodal Learning for Long-Horizon Influenza Forecasting",
+        "url": "https://arxiv.org/abs/2608.23373v1",
+        "authors": [
+          "Seyed Mohammad Hossein Hashemi",
+          "Mohsen Hooshmand",
+          "Parvin Razzaghi"
+        ],
+        "snippet": "Forecasting long-range influenza-like illness (ILI) matters for public health readiness. Publicly available surveillance datasets typically pair numeric epidemiological signals with textual information that is noisy, loosely structured, only indirectly related to near-term trends, and often lagged relative to the numeric signal. Fusing the two therefore requires careful design. We propose Dual-Str",
+        "categories": [
+          "cs.AI",
+          "stat.AP"
+        ],
+        "published": "2026-08-24T15:20:01+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:fine-tuning",
+          "keyword:multimodal",
+          "keyword:transformer"
+        ]
+      },
+      {
+        "id": "2608.23284v1",
+        "title": "Dynamic Topic Modeling for Cross-Corpus Temporal Analysis",
+        "url": "https://arxiv.org/abs/2608.23284v1",
+        "authors": [
+          "Ruoxuan Li",
+          "Bruce Kogut"
+        ],
+        "snippet": "Dynamic Embedded Topic Models (D-ETM) provide an interpretable framework for modeling temporal semantic evolution, but cross-corpus comparison remains difficult because topics are often learned independently and aligned only after training, a process that does not guarantee stable topic correspondence across corpora and time. To address this problem, we propose a D-ETM framework that first learns ",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-08-24T14:08:54+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:fine-tuning",
+          "keyword:retrieval",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2608.23265v1",
+        "title": "EvoWiki: Incremental State Overwriting and Traceable Question Answering for Cross-Meeting Knowledge Evolution",
+        "url": "https://arxiv.org/abs/2608.23265v1",
+        "authors": [
+          "Dongsheng Chen",
+          "Tianyu Wang",
+          "Wenhui Que"
+        ],
+        "snippet": "In long-term collaboration spanning multiple meetings, factual states such as decisions and risks are continually revised, overturned, and replaced. Existing long-context methods typically stack the entire history, while many RAG and structured-memory methods organize knowledge as static or append-only facts and rely on semantic relevance at read time. Without explicit modeling of knowledge lifecy",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-08-24T13:52:17+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2608.23263v1",
+        "title": "Automated Construction of FAIR Digital Object Knowledge Graphs from Flat Cultural Heritage Records",
+        "url": "https://arxiv.org/abs/2608.23263v1",
+        "authors": [
+          "Zeyd Boukhers",
+          "Lingxiao Kong",
+          "Xenophon Zabulis",
+          "Georgios Toubekis"
+        ],
+        "snippet": "The FAIR Digital Object (FDO) framework mandates that metadata attribute values be expressed as persistent identifiers (PIDs) wherever possible, to produce a fully machine-actionable graph in which every reference is resolvable. The Europeana Data Model was designed long before the FDO specification, and it stores most metadata values as plain text. This serves human browsing well enough, but give",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "cs.DL"
+        ],
+        "published": "2026-08-24T13:51:39+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "2608.23104v1",
+        "title": "Molecular LLM Agents: From Architectural Design to Scientific Autonomy",
+        "url": "https://arxiv.org/abs/2608.23104v1",
+        "authors": [
+          "Jiatong Li",
+          "Wengyu Zhang",
+          "Weida Wang",
+          "Yuxuan Ren",
+          "Wei Liu",
+          "Chenyang Mao"
+        ],
+        "snippet": "Molecular science represents an important frontier for LLM-based agents. Unlike general agents that mainly operate over natural language, code, or web environments, molecular LLM agents must perceive, reason about, and act upon chemical objects across symbolic strings, molecular graphs, 3D conformations, spectra, simulations, and wet-lab measurements. Their capabilities depend on chemically faithf",
+        "categories": [
+          "cs.CL",
+          "cs.AI"
+        ],
+        "published": "2026-08-24T11:09:25+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:tool use"
+        ]
+      },
+      {
+        "id": "2608.23095v1",
+        "title": "Definitional Sensitivity in Media Bias Detection: A Multi-Definition Dataset and Benchmark",
+        "url": "https://arxiv.org/abs/2608.23095v1",
+        "authors": [
+          "Martin Wessel",
+          "Timo Spinde",
+          "Jürgen Pfeffer",
+          "Gianluca Demartini"
+        ],
+        "snippet": "Media bias detection relies on definitions and examples that specify what counts as bias, yet these specifications often vary across datasets or remain implicit, even when given the same name. Such variation makes it unclear whether models trained for the same bias category learn the same construct or different phenomena, a problem largely overlooked in prior work. We examine how definition choice",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-08-24T11:02:52+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:benchmark",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2608.23067v1",
+        "title": "Signal or Noise? A Benchmark Study of Agent Skills in Web Development",
+        "url": "https://arxiv.org/abs/2608.23067v1",
+        "authors": [
+          "Ziyue Yang",
+          "Fan Ding"
+        ],
+        "snippet": "Agent Skills are reusable procedural modules that are increasingly injected into coding-agent sessions to encode framework conventions, anti-patterns, and reusable tools. However, because each injected Skill expands the prompt of every query, an effective Skill benchmark must determine not only whether an agent can solve a task, but whether the Skill should have been injected at all. We introduce ",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-08-24T10:13:07+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:benchmark",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2608.23029v1",
+        "title": "Meta-Moderator: Empowering Multi-Agent Debate with Meta-Cognition",
+        "url": "https://arxiv.org/abs/2608.23029v1",
+        "authors": [
+          "Wentao Hu",
+          "Zhuoyue Wan",
+          "Jinhao Shen",
+          "Chen Jason Zhang",
+          "Xiaoyong Wei",
+          "Qing Li"
+        ],
+        "snippet": "Multi-agent debate can improve large language model reasoning by eliciting diverse hypotheses and critiques, yet its performance is often constrained by weak moderation. Common pipelines rely on fixed budgets, agreement-based stopping, or untrained judges, leading to redundant deliberation and unreliable evidence aggregation. We cast moderation as a meta-cognitive process, monitoring debate utilit",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-08-24T09:33:53+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:large language model",
+          "keyword:agent",
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2608.22975v1",
+        "title": "Budget-Constrained Embodied Perception: Four Resource Walls and a Pre-Registered Evaluation of Access-Structured Perception on Open Models at less than 31B",
+        "url": "https://arxiv.org/abs/2608.22975v1",
+        "authors": [
+          "Defu Lin",
+          "Wenhui Chen",
+          "Ziyao Lin",
+          "Jianlin Chen",
+          "Peiji Long",
+          "Chi Man Vong"
+        ],
+        "snippet": "Embodied multimodal agents must answer from growing observation streams under a fixed per-decision token budget. We formalize this constraint through four resource walls: a perceptual Shannon wall for bounded state, a horizon wall for query-independent frame selection, a round wall for non-adaptive retrieval, and a conditional composition wall for fixed-depth inference. We introduce ASP, a trainin",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-08-24T08:34:57+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:benchmark",
+          "keyword:multimodal",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2608.22963v1",
+        "title": "Buried in Textual Debt: Context Pruning with Visual Evidence Preservation for MLLM Agents",
+        "url": "https://arxiv.org/abs/2608.22963v1",
+        "authors": [
+          "Yuchen Huang",
+          "Sijia Li",
+          "Jun Zhang",
+          "Yi R. Fung"
+        ],
+        "snippet": "Multimodal Large Language Models (MLLMs) are increasingly deployed as multi-step agents, where explicit reasoning supports task decomposition and tool coordination but also accumulates self-generated text. Over long trajectories, this text can dominate the context and suppress visual evidence, creating textual debt. We observe that reasoning becomes redundant once task-relevant visual evidence is ",
+        "categories": [
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-08-24T08:29:17+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:fine-tuning",
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2608.22899v1",
+        "title": "CDEG: Learning Decision-Critical Evidence for Long-Horizon Diagnostic Agents",
+        "url": "https://arxiv.org/abs/2608.22899v1",
+        "authors": [
+          "Xiwei Dai",
+          "Zijie Meng",
+          "Zhiting Fan",
+          "Yixuan Tang",
+          "Ziru Niu",
+          "Zuozhu Liu"
+        ],
+        "snippet": "Unlike static medical question answering, long-horizon diagnosis captures the sequential nature of clinical practice: evidence is progressively acquired, integrated, and evaluated over multiple rounds of interaction before reaching a final diagnosis. However, existing doctor agents often fail when critical evidence is either not acquired or not adequately incorporated into diagnostic reasoning. Re",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-08-24T07:30:22+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2608.22856v1",
+        "title": "Same Agent, Different Answers: A Repeat-Aware Audit of Corpus-Induced Answer Churn in Retrieval-Augmented QA",
+        "url": "https://arxiv.org/abs/2608.22856v1",
+        "authors": [
+          "Jingjie Ning",
+          "Xueqi Li"
+        ],
+        "snippet": "A retrieval-augmented QA system can return different answers after an index expansion even when its requested model identifier, prompt, retrieval policy, evidence depth, rendering, and exposed generation controls are held fixed. Aggregate accuracy may hide these changes when gains and losses cancel, while ordinary generation variability makes one-shot comparisons overstate update effects. We call ",
+        "categories": [
+          "cs.IR",
+          "cs.CL"
+        ],
+        "published": "2026-08-24T06:40:09+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:retrieval",
+          "keyword:prompt"
+        ]
+      }
+    ]
+  }
+}
