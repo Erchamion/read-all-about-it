@@ -1,0 +1,559 @@
+{
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T16:57:03+00:00",
+  "errors": [
+    {
+      "source": "google-ai",
+      "message": "500 Server Error: Internal Server Error for url: https://blog.google/technology/ai/rss/"
+    }
+  ],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+        "title": "Our decision on Cursor following its acquisition by SpaceX",
+        "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+        "source": "openai",
+        "published": "2026-08-28T06:00:00+00:00",
+        "snippet": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+        "score": 1.0,
+        "signals": []
+      }
+    ],
+    "github": [
+      {
+        "id": "DevnorsAI/devnors-data-mcp",
+        "title": "DevnorsAI/devnors-data-mcp",
+        "url": "https://github.com/DevnorsAI/devnors-data-mcp",
+        "description": "Devnors Data - MCP Server: MCP,Model Context Protocol,Claude,Cursor,WorkBuddy,接口,数据API,裁判文书,Legal Case,法律法规,法条,Law Article,企业工商,Company Registry,企业年报,Annual Report,税号开票,Tax Invoice,失信核查,被执行人,关键词指数,微信指数,WeChat Index,热搜榜,微博热搜,抖音热搜,快递查询,Express Tracking,统一查询,/v1/data/query,API Key,AI Agent,LLM",
+        "stars": 202,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-07-24T06:38:50Z",
+        "score": 10.67,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "MartinDelophy/ai-video-editor",
+        "title": "MartinDelophy/ai-video-editor",
+        "url": "https://github.com/MartinDelophy/ai-video-editor",
+        "description": "Open-source, local-first video editor where creators and AI agents edit the same real timeline.",
+        "stars": 617,
+        "language": "JavaScript",
+        "topics": [
+          "agent-skills",
+          "ai-music",
+          "ai-video-editor",
+          "ai-voiceover",
+          "automatic-captions",
+          "browser-ai",
+          "joyvasa",
+          "liveportrait"
+        ],
+        "created_at": "2026-07-09T04:43:11Z",
+        "score": 10.27,
+        "signals": [
+          "rising",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "JordyZomer/lemmalog",
+        "title": "JordyZomer/lemmalog",
+        "url": "https://github.com/JordyZomer/lemmalog",
+        "description": "A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
+        "stars": 109,
+        "language": "Rust",
+        "topics": [
+          "agent-memory",
+          "datalog",
+          "knowledge-graph",
+          "llm",
+          "llm-agents",
+          "mcp",
+          "neurosymbolic"
+        ],
+        "created_at": "2026-08-27T07:06:55Z",
+        "score": 9.78,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "usedotai/dot-reflex",
+        "title": "usedotai/dot-reflex",
+        "url": "https://github.com/usedotai/dot-reflex",
+        "description": "Open-source agent execution-recovery controller for coding and tool-using AI agents.",
+        "stars": 97,
+        "language": "Python",
+        "topics": [
+          "agent-supervision",
+          "ai-agents",
+          "coding-agents",
+          "llm",
+          "open-source",
+          "qlora",
+          "qwen3",
+          "recovery-controller"
+        ],
+        "created_at": "2026-08-28T14:00:16Z",
+        "score": 8.61,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "omaekumiko2-create/kru",
+        "title": "omaekumiko2-create/kru",
+        "url": "https://github.com/omaekumiko2-create/kru",
+        "description": "Local-first MCP password and credential manager for AI agents. Use passwords, API keys, SSH identities, and TOTP without exposing hidden plaintext to the model.",
+        "stars": 48,
+        "language": "Rust",
+        "topics": [
+          "ai-agents",
+          "ai-security",
+          "api-key-management",
+          "claude-code",
+          "codex",
+          "credential-manager",
+          "cross-platform",
+          "cursor"
+        ],
+        "created_at": "2026-08-24T21:23:11Z",
+        "score": 7.61,
+        "signals": [
+          "new",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "Emanuelel/dont-reinvent",
+        "title": "Emanuelel/dont-reinvent",
+        "url": "https://github.com/Emanuelel/dont-reinvent",
+        "description": "Stop your AI coding agent from reinventing the wheel. A Claude Skill that checks Free vs. Build vs. Buy before writing code, and actually vets what it finds (license, maintenance, security) instead of stopping at star count",
+        "stars": 19,
+        "language": "HTML",
+        "topics": [
+          "agent-skill",
+          "agent-skills",
+          "ai-agents",
+          "build-vs-buy",
+          "claude-code",
+          "claude-skill",
+          "mcp",
+          "open-source"
+        ],
+        "created_at": "2026-08-27T13:31:17Z",
+        "score": 7.32,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "CSPF-Founder/red-clippy",
+        "title": "CSPF-Founder/red-clippy",
+        "url": "https://github.com/CSPF-Founder/red-clippy",
+        "description": "open-source pentest management built to be operated by an AI agent",
+        "stars": 16,
+        "language": "Rust",
+        "topics": [
+          "ai-agents",
+          "ai-penetration-testing",
+          "ai-pentesting",
+          "ai-red-teaming",
+          "automated-pentesting",
+          "mcp",
+          "pentesting",
+          "redteam"
+        ],
+        "created_at": "2026-08-27T08:52:58Z",
+        "score": 6.09,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "Aloostor/dailybrief",
+        "title": "Aloostor/dailybrief",
+        "url": "https://github.com/Aloostor/dailybrief",
+        "description": "cli, ai-agent, productivity, claude-ai, anthropic, terminal, python,  personal-assistant, second-brain, local-first",
+        "stars": 16,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-08-26T00:21:25Z",
+        "score": 6.09,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:assistant"
+        ]
+      },
+      {
+        "id": "naderelewa/Product-to-Prod",
+        "title": "naderelewa/Product-to-Prod",
+        "url": "https://github.com/naderelewa/Product-to-Prod",
+        "description": "AI product management skills and plugin for Claude Code, Cowork, Codex and other AI agents: evidence-tagged PRDs, specs, requirements, RICE prioritization, backlog and roadmap scoring, product strategy, GTM launch plans, release verification, benchmark packs, UX/UI design prompts for web and mobile ",
+        "stars": 18,
+        "language": "Shell",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "ai-product-management",
+          "backlog",
+          "claude-code",
+          "claude-code-plugin",
+          "claude-skills",
+          "go-to-market"
+        ],
+        "created_at": "2026-08-28T10:18:19Z",
+        "score": 5.25,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "id": "2608.27455v1",
+        "title": "CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes",
+        "url": "https://arxiv.org/abs/2608.27455v1",
+        "authors": [
+          "Yufan Wu",
+          "Yinghui He",
+          "Zhengyi Hu",
+          "Lang Wei",
+          "Ruichen Li",
+          "Qifan Yang"
+        ],
+        "snippet": "Recent advances in inference-time scaling have significantly improved the reasoning performance of large language models (LLMs). However, these methods typically rely on repeated generation or external verification. To address this limitation, we introduce CritICL, a novel inference-time framework that improves reasoning while maintaining high efficiency. Our key insight is that LLM failure modes ",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-08-27T17:59:30+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2608.27454v1",
+        "title": "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution",
+        "url": "https://arxiv.org/abs/2608.27454v1",
+        "authors": [
+          "Liyan Tang",
+          "Cyrus Rashtchian",
+          "Chun-Sung Ferng",
+          "Andrew Tomkins",
+          "Da-Cheng Juan",
+          "Tu Vu"
+        ],
+        "snippet": "Agent skills package specialized knowledge and workflows into reusable resources that extend AI agent capabilities. Recent work automatically discovers such skills from agent experience, which enables agents to progressively adapt through interaction. However, the insights that guide skill development typically remain scattered across optimization histories, limiting their systematic reuse across ",
+        "categories": [
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-08-27T17:59:11+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2608.27449v1",
+        "title": "SWE-Prime: Fewer Trajectories, Better Performance",
+        "url": "https://arxiv.org/abs/2608.27449v1",
+        "authors": [
+          "Dewu Zheng",
+          "Ruizhe Ye",
+          "Yanlin Wang",
+          "Yang Ye",
+          "Hongyu Zhang",
+          "Ensheng Shi"
+        ],
+        "snippet": "To improve large language models' ability to resolve real-world software issues, prior work has focused on constructing large-scale agent trajectory datasets and performing supervised fine-tuning (SFT) on successful trajectories. However, task success does not guarantee high-quality supervision: successful trajectories may still contain ineffective, redundant, or risky steps. Directly using such t",
+        "categories": [
+          "cs.SE",
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-08-27T17:58:10+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2608.27427v1",
+        "title": "Persona-Execution Separation: An Architecture Pattern for Evolving LLM Agents under Execution Audit",
+        "url": "https://arxiv.org/abs/2608.27427v1",
+        "authors": [
+          "Yisen Xi"
+        ],
+        "snippet": "Large language model (LLM) agents in governed organizations must let the persona (instructions, tone, self-presentation) evolve freely, while keeping execution (stateful, audited work) traceable. A single trust domain does not satisfy both cheaply. We present Persona-Execution Separation (PES): persona and execution reside in different trust domains, connected by a governed contract bridge. The pe",
+        "categories": [
+          "cs.SE",
+          "cs.AI"
+        ],
+        "published": "2026-08-27T17:50:07+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model"
+        ]
+      },
+      {
+        "id": "2608.27420v1",
+        "title": "Boosting LLM Exploration via Weak-Model Guidance in RLVR",
+        "url": "https://arxiv.org/abs/2608.27420v1",
+        "authors": [
+          "Xingyu Shen",
+          "Huishuai Zhang",
+          "Peng Li",
+          "Yinchun Wang",
+          "Dongyan Zhao"
+        ],
+        "snippet": "Reinforcement Learning with Verifiable Rewards (RLVR) significantly improves LLM reasoning but often causes a drop in policy entropy, leading to narrowed reasoning coverage and degraded pass@$k$ for large $k$. While existing methods mitigate this entropy collapse through algorithmic regularizations, cross-model non-parametric perturbation is also neglected. In this work, we propose a simple yet ef",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-08-27T17:45:50+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2608.27448v1",
+        "title": "TTPO: Test-Time Policy Optimization",
+        "url": "https://arxiv.org/abs/2608.27448v1",
+        "authors": [
+          "Aozhe Wang",
+          "Zhengxi Lu",
+          "Jianze Wang",
+          "Shangke Lv",
+          "Ying Liu",
+          "Weiming Lu"
+        ],
+        "snippet": "Recent prominent post-training methods, such as Reinforcement Learning (RL) and On-Policy Self-Distillation (OPSD), have driven rapid progress in mathematical reasoning for large language models, yet their reliance on ground-truth labels precludes test-time training (TTT). Replacing ground truth with majority-vote pseudo-labels is a natural alternative, yet it is fragile: an incorrect vote corrupt",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-08-27T17:58:10+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2608.27442v1",
+        "title": "From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench",
+        "url": "https://arxiv.org/abs/2608.27442v1",
+        "authors": [
+          "Dewu Zheng",
+          "Yanlin Wang",
+          "Xiwen Wang",
+          "Kefeng Duan",
+          "Hongyu Zhang",
+          "Xilin Liu"
+        ],
+        "snippet": "In real-world software development, code review typically involves iterative interactions between developers and reviewers to improve software quality, making the process costly and time-consuming. Although recent work explores large language models (LLMs) for automated code review, most approaches oversimplify code review into a single-round, static decision task, which fails to capture the multi",
+        "categories": [
+          "cs.SE",
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-08-27T17:56:24+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2608.27429v1",
+        "title": "Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation",
+        "url": "https://arxiv.org/abs/2608.27429v1",
+        "authors": [
+          "Nguyen Xuan-Vu",
+          "Octavian Susanu",
+          "Daniel Armstrong",
+          "Philippe Schwaller"
+        ],
+        "snippet": "Chemical reactions are fundamentally transformations in electron space, yet most machine learning approaches model them either through \\textit{de novo} generation of product molecules or through heuristic graph edits that operate directly on molecular topology. We introduce MAELLE (\\textbf{M}ech\\textbf{A}nistic \\textbf{E}dit f\\textbf{L}ow-matching on e\\textbf{L}ectron r\\textbf{E}arrangements), whi",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-08-27T17:50:44+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2608.27424v1",
+        "title": "Beyond F1: Evaluating Coverage and Failure Recovery in AI Model Security Scanners",
+        "url": "https://arxiv.org/abs/2608.27424v1",
+        "authors": [
+          "Qianlong Lan",
+          "Vinothini Pandurangan",
+          "Anuj Kaul",
+          "Indranil Sanyal"
+        ],
+        "snippet": "Static scanners are increasingly used to identify executable or otherwise unsafe content in machine- learning artifacts, yet conventional evaluation metrics characterize only cases where a scanner yields a usable security judgment. We evaluate ModelScan, ModelAudit, and Fickling using a controlled, artifact-backed benchmark on a synthetic corpus of 170 Pickle and PyTorch focused artifacts across 1",
+        "categories": [
+          "cs.CR",
+          "cs.AI"
+        ],
+        "published": "2026-08-27T17:49:28+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2608.27409v1",
+        "title": "Consolidating RLVR Capabilities Across Domains: A Deep Dive into Fusion Paradigms",
+        "url": "https://arxiv.org/abs/2608.27409v1",
+        "authors": [
+          "Siye Wu",
+          "Kai Yang",
+          "Yuchen Cai",
+          "Xin Xu",
+          "Peng-Yuan Wang",
+          "Jiaxuan Wang"
+        ],
+        "snippet": "Reinforcement learning with verifiable rewards (RLVR) improves specific capabilities of large language models, but covering multiple capabilities often involves training separate domain experts and subsequently consolidating them. We organize three fusion paradigms by the artefacts they reuse: Merge combines expert task vectors, Mix RL pools their datasets, and multi-teacher on-policy distillation",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-08-27T17:38:04+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2608.27380v1",
+        "title": "D2C-Routing: Dimension-to-Composition Evidence Routing for Mixed-Origin AI-Generated Text Detection",
+        "url": "https://arxiv.org/abs/2608.27380v1",
+        "authors": [
+          "Xin Chen",
+          "Fuwei Zhang",
+          "Yiqi Tong",
+          "Wei Guo",
+          "Yutian Xiao",
+          "Fuzhen Zhuang"
+        ],
+        "snippet": "AI-generated text detection is commonly framed as a binary document-level judgment about whether a text is human-written or machine-generated. This framing breaks down for mixed-origin writing, where content origin and expression origin may differ. We cast mixed-origin detection as dimension-to-composition source attribution, inferring content origin and expression origin before composing them int",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-08-27T17:17:27+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2608.27367v1",
+        "title": "Successive Capacity Growth: Task-Complexity-Driven Width and Depth Expansion for Vision Transformer Encoders in JEPA World Models",
+        "url": "https://arxiv.org/abs/2608.27367v1",
+        "authors": [
+          "Frederik Berenz"
+        ],
+        "snippet": "Joint-Embedding Predictive Architectures (JEPAs) for world modeling typically employ fixed-size Vision Transformer encoders that are over-provisioned for simple tasks and under-provisioned for complex ones, with significant redundancy across attention heads. We propose Successive Capacity Growth (SCG), a method that starts from a minimal encoder (1 head, 2 layers, 283K parameters) and grows increm",
+        "categories": [
+          "cs.CV",
+          "cs.AI"
+        ],
+        "published": "2026-08-27T17:04:57+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:transformer"
+        ]
+      },
+      {
+        "id": "2608.27365v1",
+        "title": "KnockGS:interaction-Grounded Calibrationof Physical Gaussian Representations",
+        "url": "https://arxiv.org/abs/2608.27365v1",
+        "authors": [
+          "Chenchen Ge",
+          "Hanwen Shen",
+          "Bowen Jing",
+          "Jiyuan Cai",
+          "Xiaofeng Wang",
+          "Hongsen Lei"
+        ],
+        "snippet": "Physics-integrated 3D Gaussian representations now allow reconstructed deformable objects to be simulated and rendered under explicit material models. Existing pipelines, however, assume that material parameters are known or manually specified, limiting their applicability when these parameters must be inferred from observed object dynamics. We propose KnockGS, an interaction-response PhysicalGS f",
+        "categories": [
+          "cs.CV",
+          "cs.AI"
+        ],
+        "published": "2026-08-27T17:03:38+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2608.27364v1",
+        "title": "Sophistication in GenAI Use: Field Evidence from a Large Firm",
+        "url": "https://arxiv.org/abs/2608.27364v1",
+        "authors": [
+          "Nicholas J. Hallman",
+          "Zachary T. Kowaleski",
+          "Anu Puvvada",
+          "Jaime J. Schmidt"
+        ],
+        "snippet": "We study how sophistication in generative AI (genAI) use varies among the back-office workforce of a large firm. Using proprietary data, we observe 713,564 employee prompts and their corresponding large language model responses from nearly 4,000 back-office employees across 15 functional areas over eight months in 2025. We document three main findings. First, senior employees exhibit more sophisti",
+        "categories": [
+          "cs.AI",
+          "econ.GN"
+        ],
+        "published": "2026-08-27T17:03:10+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:large language model"
+        ]
+      },
+      {
+        "id": "2608.27358v1",
+        "title": "RCMN: Understanding Misleadingness in Influential Public Discourse",
+        "url": "https://arxiv.org/abs/2608.27358v1",
+        "authors": [
+          "Peiling Yi"
+        ],
+        "snippet": "Influential public discourse shapes public beliefs and can also mislead, not only through what is stated, but also through how information is framed, omitted, contextualised, and communicated. Yet less research has focused on how such misleadingness arises and shapes the interpretations formed by readers. To address this gap, we introduce Reader-Centric Misleadingness Understanding (RCMN), a frame",
+        "categories": [
+          "cs.CL",
+          "cs.AI"
+        ],
+        "published": "2026-08-27T16:57:40+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:multimodal"
+        ]
+      }
+    ]
+  }
+}
