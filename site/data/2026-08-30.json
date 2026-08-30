@@ -1,0 +1,83 @@
+{
+  "date": "2026-08-30",
+  "generated_at": "2026-08-30T17:10:07+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [],
+    "github": [
+      {
+        "id": "Harrypatria/Agentic-AI-Masterclass-Handbook-Usecases-Convergeni",
+        "title": "Harrypatria/Agentic-AI-Masterclass-Handbook-Usecases-Convergeni",
+        "url": "https://github.com/Harrypatria/Agentic-AI-Masterclass-Handbook-Usecases-Convergeni",
+        "description": "Building AI agents and retrieval systems, a masterclass in LLM agents, RAG, and production deployment.",
+        "stars": 17,
+        "language": "Jupyter Notebook",
+        "topics": [],
+        "created_at": "2026-08-23T21:06:33Z",
+        "score": 6.17,
+        "signals": [
+          "new",
+          "keyword:llm",
+          "keyword:rag"
+        ]
+      },
+      {
+        "id": "ujangkarim653-creator/CoRT-Reforged",
+        "title": "ujangkarim653-creator/CoRT-Reforged",
+        "url": "https://github.com/ujangkarim653-creator/CoRT-Reforged",
+        "description": "CoRT 2.0: Revolutionary Contextual Reasoning Toolkit for AI Agents 2026",
+        "stars": 55,
+        "language": "HTML",
+        "topics": [
+          "championsofregnum",
+          "regnumonline",
+          "trainer"
+        ],
+        "created_at": "2026-08-25T09:25:39Z",
+        "score": 5.81,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "Leb947/modernbert-multi-task-studio",
+        "title": "Leb947/modernbert-multi-task-studio",
+        "url": "https://github.com/Leb947/modernbert-multi-task-studio",
+        "description": "ModernBERT Multi-Task Fine-Tuning Hub 2026: Streamlined AI Workflows",
+        "stars": 55,
+        "language": "HTML",
+        "topics": [
+          "autotask",
+          "autotrain",
+          "bert",
+          "dataset",
+          "easy",
+          "extreme-multi-task",
+          "fine-tuning",
+          "huggingface-transformers"
+        ],
+        "created_at": "2026-08-25T10:35:22Z",
+        "score": 5.81,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "knx-ai/knx-ets-mcp",
+        "title": "knx-ai/knx-ets-mcp",
+        "url": "https://github.com/knx-ai/knx-ets-mcp",
+        "description": "MCP Server for KNX ETS 5/6 via ETS Addin",
+        "stars": 18,
+        "language": "C#",
+        "topics": [],
+        "created_at": "2026-08-29T14:24:38Z",
+        "score": 5.25,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
