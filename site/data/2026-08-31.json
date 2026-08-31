@@ -1,0 +1,153 @@
+{
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T19:21:39+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+        "title": "A milestone in expanding access to AI",
+        "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+        "source": "openai",
+        "published": "2026-08-31T04:00:00+00:00",
+        "snippet": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+        "score": 1.0,
+        "signals": []
+      }
+    ],
+    "github": [
+      {
+        "id": "tourmind-com/Tourmind-Booking-Skills",
+        "title": "tourmind-com/Tourmind-Booking-Skills",
+        "url": "https://github.com/tourmind-com/Tourmind-Booking-Skills",
+        "description": "AI agent skill for end-to-end hotel search and booking—compare live rates across leading OTAs and hotel suppliers, verify availability, book stays, and manage reservations, cancellations, and payments via the TourMind API.",
+        "stars": 562,
+        "language": "Python",
+        "topics": [
+          "agent-skills",
+          "ai-agent",
+          "booking-api",
+          "codex-skills",
+          "hotel-api",
+          "hotel-booking",
+          "hotel-price-comparison",
+          "hotel-search"
+        ],
+        "created_at": "2026-07-13T08:57:38Z",
+        "score": 11.14,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "Dicklesworthstone/dwarf_fortress_mcp",
+        "title": "Dicklesworthstone/dwarf_fortress_mcp",
+        "url": "https://github.com/Dicklesworthstone/dwarf_fortress_mcp",
+        "description": "A semantic, transactional, replayable MCP control plane that lets autonomous AI agents operate Dwarf Fortress as a long-lived civilization. Safe-Rust phase-0B scaffold: MVCC world state, witnessed semantic plans, evidence-backed effects, deterministic replay.",
+        "stars": 20,
+        "language": "Rust",
+        "topics": [
+          "ai-agents",
+          "autonomous-agents",
+          "control-plane",
+          "deterministic",
+          "dfhack",
+          "dwarf-fortress",
+          "game-automation",
+          "llm-tools"
+        ],
+        "created_at": "2026-08-29T23:22:51Z",
+        "score": 8.39,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp",
+          "keyword:autonomous"
+        ]
+      },
+      {
+        "id": "heyman333/agent-notion-template-docs",
+        "title": "heyman333/agent-notion-template-docs",
+        "url": "https://github.com/heyman333/agent-notion-template-docs",
+        "description": "Make your AI agent write documents like Notion — Claude Code skill that locks document structure & Notion visual style",
+        "stars": 36,
+        "language": "Python",
+        "topics": [
+          "ai-agent",
+          "claude",
+          "claude-code",
+          "documentation",
+          "notion",
+          "skill"
+        ],
+        "created_at": "2026-08-30T23:36:34Z",
+        "score": 7.21,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "howznguyen/pi-delegate-mcp",
+        "title": "howznguyen/pi-delegate-mcp",
+        "url": "https://github.com/howznguyen/pi-delegate-mcp",
+        "description": "MCP server that turns the pi coding agent into a steerable background worker: delegate a task, redirect it mid-run, and keep its context out of your own.",
+        "stars": 15,
+        "language": "TypeScript",
+        "topics": [
+          "ai-agents",
+          "claude-code",
+          "coding-agent",
+          "deepseek",
+          "llm",
+          "mcp",
+          "mcp-server",
+          "model-context-protocol"
+        ],
+        "created_at": "2026-08-25T18:17:41Z",
+        "score": 7.0,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "Tyche-MKR/scientific-agent-skills",
+        "title": "Tyche-MKR/scientific-agent-skills",
+        "url": "https://github.com/Tyche-MKR/scientific-agent-skills",
+        "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigrav",
+        "stars": 50,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-08-31T10:54:19Z",
+        "score": 6.67,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "tangshiyegit/agent-guide",
+        "title": "tangshiyegit/agent-guide",
+        "url": "https://github.com/tangshiyegit/agent-guide",
+        "description": "AI Agent 学习与实践指南，涵盖 WorkBuddy、豆包工作、千问办公等智能办公产品的使用技巧、工作流与实战案例。",
+        "stars": 15,
+        "language": "CSS",
+        "topics": [],
+        "created_at": "2026-08-25T11:40:22Z",
+        "score": 5.0,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
