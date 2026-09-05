@@ -1,0 +1,667 @@
+{
+  "date": "2026-09-05",
+  "generated_at": "2026-09-05T15:45:17+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/index/gpt-6-astra",
+        "title": "GPT-6 Astra: A new generation of intelligence",
+        "url": "https://openai.com/index/gpt-6-astra",
+        "source": "openai",
+        "published": "2026-09-03T11:00:00+00:00",
+        "snippet": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/",
+        "title": "GPT-6 Astra brings more capable AI to the workplace",
+        "url": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      }
+    ],
+    "github": [
+      {
+        "id": "PillCrew/claimchain",
+        "title": "PillCrew/claimchain",
+        "url": "https://github.com/PillCrew/claimchain",
+        "description": "Verify that an AI agent's on-chain claims are actually true. A claim-level groundedness checker for Solana / memecoin agents.",
+        "stars": 48,
+        "language": "Python",
+        "topics": [
+          "ai-agents",
+          "crypto-trading",
+          "dexscreener",
+          "elizaos",
+          "fact-checking",
+          "groundedness",
+          "hallucination-detection",
+          "memecoin"
+        ],
+        "created_at": "2026-09-02T23:40:59Z",
+        "score": 6.61,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "simonlin1212/FactReach",
+        "title": "simonlin1212/FactReach",
+        "url": "https://github.com/simonlin1212/FactReach",
+        "description": "面向 AI Agent 的互联网搜索 Skill：覆盖 23 个渠道（全网、X、小红书、抖音、微博、B站、Reddit、YouTube、GitHub、微信公众号等），零鉴权优先。Internet search skill for AI agents across 23 channels.",
+        "stars": 16,
+        "language": "Python",
+        "topics": [
+          "agent-search",
+          "ai-agents",
+          "browser-automation",
+          "claude-code",
+          "cli",
+          "codex",
+          "douyin",
+          "fact-checking"
+        ],
+        "created_at": "2026-09-02T08:04:21Z",
+        "score": 6.09,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "lattebbrook/agent-skiller",
+        "title": "lattebbrook/agent-skiller",
+        "url": "https://github.com/lattebbrook/agent-skiller",
+        "description": "agent-skiller is an open-source visual builder for skills an AI agent can follow, step by step.",
+        "stars": 30,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-09-05T03:16:32Z",
+        "score": 5.95,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "bubbadk/IRIS",
+        "title": "bubbadk/IRIS",
+        "url": "https://github.com/bubbadk/IRIS",
+        "description": "The spatial operating environment for autonomous AI agents.",
+        "stars": 17,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-08-30T21:53:22Z",
+        "score": 5.17,
+        "signals": [
+          "new",
+          "keyword:autonomous"
+        ]
+      },
+      {
+        "id": "affirmitv/cc-readback",
+        "title": "affirmitv/cc-readback",
+        "url": "https://github.com/affirmitv/cc-readback",
+        "description": "Read your Claude Code sessions from Claude Desktop. A local, read-only MCP server over ~/.claude with secret redaction.",
+        "stars": 17,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-09-03T18:39:28Z",
+        "score": 5.17,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "unpeel-com/unpeel",
+        "title": "unpeel-com/unpeel",
+        "url": "https://github.com/unpeel-com/unpeel",
+        "description": "Unpeel — a Rust multiplexer server for always-on terminal AI agents",
+        "stars": 32,
+        "language": "Rust",
+        "topics": [],
+        "created_at": "2026-09-04T09:30:12Z",
+        "score": 5.04,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "MohgaNabil/deutsch-lernpaket",
+        "title": "MohgaNabil/deutsch-lernpaket",
+        "url": "https://github.com/MohgaNabil/deutsch-lernpaket",
+        "description": "Three Claude skills for a weekly German B2 practice routine: conversation, quiz, translation.",
+        "stars": 20,
+        "language": "HTML",
+        "topics": [],
+        "created_at": "2026-09-02T10:26:03Z",
+        "score": 4.39,
+        "signals": [
+          "new"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "id": "2609.04189v1",
+        "title": "Robust PAC Learning of Concurrent Stochastic Games",
+        "url": "https://arxiv.org/abs/2609.04189v1",
+        "authors": [
+          "Angel Y. He",
+          "David Parker"
+        ],
+        "snippet": "We introduce the first Probably Approximately Correct (PAC) learning framework for general-sum concurrent stochastic games (CSGs) with transition uncertainty, while addressing the challenge of Nash equilibrium (NE) existence. Our algorithm maintains data-driven $L^1$ confidence sets over transition kernels and solves a robust CSG to compute a social-welfare optimal $\\varepsilon$-NE, using a robust",
+        "categories": [
+          "cs.LG",
+          "cs.GT",
+          "cs.LO",
+          "cs.MA"
+        ],
+        "published": "2026-09-03T17:58:57+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2609.04183v1",
+        "title": "Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video Captioning",
+        "url": "https://arxiv.org/abs/2609.04183v1",
+        "authors": [
+          "Ye-Chan Kim",
+          "Seunghee Choi",
+          "SeungJu Cha",
+          "Si-Woo Kim",
+          "Hwiseon Kim",
+          "Hyungee Kim"
+        ],
+        "snippet": "Weakly-Supervised Dense Video Captioning aims to localize and describe multiple events in untrimmed videos given only an ordered set of event-level captions per video. Recent work synthesizes auxiliary transition captions via LLM to provide additional vision-language alignment, but these captions lack visual grounding and are rigidly assigned to every inter-event gap at a fixed location and durati",
+        "categories": [
+          "cs.CV",
+          "cs.AI"
+        ],
+        "published": "2026-09-03T17:58:02+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2609.04172v1",
+        "title": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
+        "url": "https://arxiv.org/abs/2609.04172v1",
+        "authors": [
+          "Zixuan Fu",
+          "Bingxiang He",
+          "Yuxin Zuo",
+          "Haohuan Huang",
+          "Jinqian Zhang",
+          "Ruhang Xiao"
+        ],
+        "snippet": "On-policy distillation (OPD) combines student-generated rollouts with dense token-level supervision from a teacher. Existing work has mainly studied its algorithmic behavior, leaving the role of training data unclear. We examine this role at the data-minimal limit by training on a single query. One-shot OPD keeps improving for hundreds of steps and recovers most of full-data OPD's gain across task",
+        "categories": [
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-09-03T17:54:38+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:alignment",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2609.04170v1",
+        "title": "A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms",
+        "url": "https://arxiv.org/abs/2609.04170v1",
+        "authors": [
+          "Davide Paglieri",
+          "Logan Cross",
+          "Tim Genewein",
+          "Joel Z. Leibo",
+          "Nenad Tomasev",
+          "Alexander Sasha Vezhnevets"
+        ],
+        "snippet": "Multi-agent AI science ecosystems rely on agents possessing tools that allow them to communicate, coordinate, and build on each other's work. Yet this shared infrastructure can also introduce vulnerabilities by creating a substrate for the contagious spread of unintended and undesirable behaviors. We report a case study on a research collective of 100 autonomous LLM agents tasked with proving form",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-09-03T17:54:09+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "2609.04148v1",
+        "title": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
+        "url": "https://arxiv.org/abs/2609.04148v1",
+        "authors": [
+          "Jie Wu",
+          "Zhenru Zhang",
+          "Beichen Zhang",
+          "Xuwu Wang",
+          "Yuhui Su",
+          "Mouxiang Chen"
+        ],
+        "snippet": "As terminal-based code agents become prevalent, agent trajectories have accumulated at scale, while realistic, executable environments remain scarce. However, environments are what agent post-training actually requires: each can be re-queried into many verifiable tasks and provides execution feedback, whereas a trajectory is a single frozen demonstration. Rather than generating environments from s",
+        "categories": [
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-09-03T17:41:05+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2609.04098v1",
+        "title": "Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM",
+        "url": "https://arxiv.org/abs/2609.04098v1",
+        "authors": [
+          "Sergii Kozyrev",
+          "Davyd Maiboroda"
+        ],
+        "snippet": "Hybrid LLMs pair softmax attention with linear-attention layers such as Gated DeltaNet (GDN), whose recurrent state summarizes the context in fixed size. Early community 4-bit quantizations of Qwen3.8-27B (48 GDN layers, 16 attention layers) left the GDN block in 8- or 16-bit precision -- especially its decay and write-strength gates -- on the intuition that errors in a recurrence accumulate over ",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-09-03T17:04:26+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2609.04075v1",
+        "title": "PatchBench: Evaluating AI Agents for Vulnerability Patching",
+        "url": "https://arxiv.org/abs/2609.04075v1",
+        "authors": [
+          "Chihao Shen",
+          "Jiacheng Li",
+          "Aastha Mahajan",
+          "Jeffery Siyuan Tian",
+          "Yonghwi Kwon",
+          "Yizheng Chen"
+        ],
+        "snippet": "AI agents have recently demonstrated strong performance in automated vulnerability patching. However, existing evaluations often validate a patch only by testing whether the provided Proof-of-Concept (PoC) input still triggers a crash. This leaves two key threats to validity: agents may reproduce memorized historical developer patches, or they may generate surface-level fixes that only suppress th",
+        "categories": [
+          "cs.CR",
+          "cs.AI",
+          "cs.SE"
+        ],
+        "published": "2026-09-03T16:44:22+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2609.04071v1",
+        "title": "TAP-Path: Task-Adaptive Structural and Token Pruning for Efficient and Trustworthy Pathology Foundation Models",
+        "url": "https://arxiv.org/abs/2609.04071v1",
+        "authors": [
+          "Mehedi Hasan",
+          "Ashfak Yeafi",
+          "Md Khairul Islam"
+        ],
+        "snippet": "Pathology foundation models improve transferable representation learning for histopathology, but recent gains often rely on encoders with hundreds of millions of parameters and high inference cost. We propose TAP-Path, a task-adaptive compression framework that directly restructures a pretrained Virchow2 encoder rather than distilling it into a separate student. TAP-Path combines validation-driven",
+        "categories": [
+          "cs.CV",
+          "cs.AI"
+        ],
+        "published": "2026-09-03T16:43:36+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:benchmark",
+          "keyword:transformer"
+        ]
+      },
+      {
+        "id": "2609.04063v1",
+        "title": "Spurious Advantage Hidden in GRPO",
+        "url": "https://arxiv.org/abs/2609.04063v1",
+        "authors": [
+          "Jiamian Wang",
+          "Samyadeep Basu",
+          "Koustava Goswami",
+          "Tong Yu",
+          "Zhiqiang Tao"
+        ],
+        "snippet": "Group Relative Policy Optimization (GRPO) is widely studied for reinforcement learning with verifiable rewards, where its advantage estimator assigns each rollout a magnitude from within-group reward statistics. In the common case, this magnitude rewards rollouts that reach the correct answer through reasoning. Yet, an overlooked case shares the same surface: a rollout may land on it by guessing, ",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-09-03T16:37:31+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2609.04061v1",
+        "title": "When Models Edit Too Much: On the Fidelity of Minimal Code Edits",
+        "url": "https://arxiv.org/abs/2609.04061v1",
+        "authors": [
+          "Tongyao Zhu",
+          "Wei Hern Lim",
+          "Min-Yen Kan"
+        ],
+        "snippet": "Large language models (LLMs) are increasingly used to edit existing code, but correctness alone is not enough: useful repairs should also be minimal, reviewable, and faithful to the original implementation. We study over-editing, the tendency of a model to rewrite code beyond what is required to fix a bug. We construct an evaluation framework from 400 BigCodeBench problems by injecting controlled ",
+        "categories": [
+          "cs.SE",
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-09-03T16:36:05+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2609.04048v1",
+        "title": "Translation as a Decision Space: A Multi-Agent Perspective on Low-Resource Dialect Generation",
+        "url": "https://arxiv.org/abs/2609.04048v1",
+        "authors": [
+          "Hasan Alkhder",
+          "Mohammad Abboush",
+          "Igor Tchappi",
+          "Ahmet Zengin",
+          "Amro Najjar"
+        ],
+        "snippet": "Neural machine translation (NMT) systems typically produce a single output per input, obscuring the alternative decision trajectories implicitly available within multilingual decoding. This opacity becomes particularly problematic in low-resource dialect settings, where multiple linguistically valid realizations may differ in lexical authenticity, register, and structural stability. We propose ref",
+        "categories": [
+          "cs.CL",
+          "cs.AI"
+        ],
+        "published": "2026-09-03T16:22:18+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2609.04034v1",
+        "title": "Editable Visual Design",
+        "url": "https://arxiv.org/abs/2609.04034v1",
+        "authors": [
+          "Junyan Ye",
+          "Wei Liu",
+          "Dongzhi Jiang",
+          "Zichen Wen",
+          "HaoDong Li",
+          "Zhutao Lv"
+        ],
+        "snippet": "While diffusion base models such as GPT-Image-2 and Nano-Banana exhibit remarkable visual expressiveness, their end-to-end generation inherently yields flattened bitmaps with error-prone text, precluding layer-wise post-editing. Conversely, code-based visual generation via Coding Agents provides precise layout control and decoupled layers, yet remains constrained by a lack of global aesthetic intu",
+        "categories": [
+          "cs.CV",
+          "cs.CL"
+        ],
+        "published": "2026-09-03T16:10:12+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2609.04014v1",
+        "title": "InSituMeasure: Probing Situated Measurement Grounding in Industrial Scenes with Multimodal Large Language Models",
+        "url": "https://arxiv.org/abs/2609.04014v1",
+        "authors": [
+          "Chao Shen",
+          "Xinyuan Li",
+          "Yunfan Zhou",
+          "Jianguo Yao",
+          "Haibing Guan",
+          "Zhihai Wang"
+        ],
+        "snippet": "For trained operators, gauge reading requires little specialized knowledge, low cognitive effort, and high repeatability. Yet Multimodal Large Language Models (MLLMs) remain unreliable in continuous-valued measurement despite strong results on general multimodal benchmarks. Existing benchmarks expose this weakness but isolate measurement from realistic, knowledge-grounded settings, with limited si",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-09-03T15:54:21+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:multimodal",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2609.04013v1",
+        "title": "LLM4CKD: Large Language Models for Early Stage Chronic Kidney Disease Screening",
+        "url": "https://arxiv.org/abs/2609.04013v1",
+        "authors": [
+          "Muhammad Ashad Kabir",
+          "Sirajam Munira"
+        ],
+        "snippet": "Early screening of chronic kidney disease (CKD) is critical for timely intervention, yet most machine learning (ML) and deep learning (DL) approaches require labeled data and model training, limiting their use in real-world screening settings. This study evaluates the effectiveness of large language models (LLMs) for CKD screening under zero-shot and few-shot in-context learning settings and compa",
+        "categories": [
+          "cs.AI",
+          "cs.LG"
+        ],
+        "published": "2026-09-03T15:53:20+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2609.04198v1",
+        "title": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
+        "url": "https://arxiv.org/abs/2609.04198v1",
+        "authors": [
+          "Haoyaun Zhu",
+          "Jie Zhang"
+        ],
+        "snippet": "Language-model judges now gate training data, score generations, and drive leaderboards. The judge is then a measurement instrument, resting on one rarely stated assumption: the same request, sent to the same model name, reads the same tomorrow. We audited that assumption in two preregistered campaigns with every threshold fixed in advance; neither got past validating its instrument. Across 52,988",
+        "categories": [
+          "cs.AI",
+          "cs.LG"
+        ],
+        "published": "2026-09-03T17:59:43+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "2609.04197v1",
+        "title": "ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize",
+        "url": "https://arxiv.org/abs/2609.04197v1",
+        "authors": [
+          "Lihao Liu",
+          "Peng Tang",
+          "Kunwar Yashraj Singh",
+          "Shabnam Ghadar"
+        ],
+        "snippet": "Evolutionary prompt optimizers such as GEPA suffer from prompt bloat: each iteration appends rules and caveats, producing prompts up to 3$\\times$ longer yet no more accurate. We trace this to three deficiencies - incomplete error observation, limited search diversity, and unreliable selection - and propose ESPO (Error-Structured Prompt Optimization), which decomposes prompt optimization into three",
+        "categories": [
+          "cs.CL",
+          "cs.AI"
+        ],
+        "published": "2026-09-03T17:59:37+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2609.04173v1",
+        "title": "Last Translation Benchmark",
+        "url": "https://arxiv.org/abs/2609.04173v1",
+        "authors": [
+          "Vilém Zouhar",
+          "Niyati Bafna",
+          "Mukund Choudhary",
+          "Maike Züfle",
+          "Sara Rajaee",
+          "Pinzhen Chen"
+        ],
+        "snippet": "For scientific progress, we need benchmarks that test the limits of state-of-the-art models, and evaluation methods that inform us about failure cases. As models get stronger, standard benchmarks for machine translation are approaching saturation. Further, automatic translation metrics are unreliable, vulnerable to reward-hacking, and provide unactionable assessments. Even gold human evaluation is",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-09-03T17:54:45+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2609.04168v1",
+        "title": "Para-Pipe: Exploiting Hierarchical Operator Parallelism of ML Computational Graphs on SoCs",
+        "url": "https://arxiv.org/abs/2609.04168v1",
+        "authors": [
+          "Yujie Zhang",
+          "Huiying Lan",
+          "Ehsan Aghapour",
+          "Zhiyuan Ning",
+          "Peng Zan",
+          "Weidong Shao"
+        ],
+        "snippet": "As edge-based deep learning applications become more complex, optimizing performance on heterogeneous System-on-Chips (SoCs) presents unique challenges. Traditional pipelining techniques distributing the computation across different on-chip processing units, while effective for throughput, do not address the latency demands posed by modern neural networks with complex interdependencies and extensi",
+        "categories": [
+          "cs.DC",
+          "cs.LG",
+          "cs.PF"
+        ],
+        "published": "2026-09-03T17:53:44+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2609.04141v1",
+        "title": "Efficient Test-Time Adaptation through Human-AI Interaction",
+        "url": "https://arxiv.org/abs/2609.04141v1",
+        "authors": [
+          "Zora Zhiruo Wang",
+          "Apurva Gandhi",
+          "Rulin Shao",
+          "Aspen Chen",
+          "Jonas Mueller",
+          "Zhiqi Liang"
+        ],
+        "snippet": "AI agents are trained on population-scale data to encode broad capabilities spanning those of many practitioners. Yet the artifacts they produce rarely meet the personal bar professionals need to stake their reputation on. On realistic, open-ended tasks where success criteria are heterogeneous and insufficiently documented, individual expertise lives precisely in the elevation and departure from t",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-09-03T17:33:18+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "2609.04135v1",
+        "title": "The Natural Language Interaction Protocol and Standard for AI Agents",
+        "url": "https://arxiv.org/abs/2609.04135v1",
+        "authors": [
+          "Luyi Xing",
+          "Rasit Onur Topaloglu",
+          "Ranjan Sinha",
+          "Abhay Ratnaparkhi",
+          "Samuel Ndichu",
+          "Christopher Nguyen"
+        ],
+        "snippet": "AI agents are increasingly being developed and deployed across organizations using heterogeneous agent-development frameworks, AI models, tool interfaces, protocols, and execution environments. To realize their potential social and business impact, these agents must be able to interoperate through a common communication protocol. The Natural Language Interaction Protocol (NLIP), developed by resea",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-09-03T17:30:17+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "2609.04128v1",
+        "title": "Environment Evolution for Terminal Agents",
+        "url": "https://arxiv.org/abs/2609.04128v1",
+        "authors": [
+          "Zhiyuan Fan",
+          "Tinghao Yu",
+          "Yuanjun Cai",
+          "Jiang Zhou",
+          "Jiangtao Guan",
+          "Jincheng Liu"
+        ],
+        "snippet": "Scaling interactive and verifiable environments is critical for training terminal agents. As frontier models become more capable, environments synthesized from scratch become less challenging and thus provide limited learning signals. Recent co-evolution methods iteratively synthesize environments near the model's learnable frontier based on weaknesses exposed during rollouts. However, their depen",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-09-03T17:26:33+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "2609.04127v1",
+        "title": "Epistemic Warrant for LLM Recommendations: Characterizing the Basis for Reliance When Ground Truth Is Unavailable",
+        "url": "https://arxiv.org/abs/2609.04127v1",
+        "authors": [
+          "Shai Vardi",
+          "João Sedoc"
+        ],
+        "snippet": "Large language models are increasingly used to support organizational decisions, yet users often lack a principled basis for assessing whether to rely on a specific recommendation. Existing approaches typically evaluate broad model properties, such as reliability, uncertainty, or robustness, or focus on user trust, rather than the underlying basis for relying on an individual recommendation. Adapt",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-09-03T17:25:20+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "2609.04108v1",
+        "title": "Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR",
+        "url": "https://arxiv.org/abs/2609.04108v1",
+        "authors": [
+          "Boyan Li",
+          "Bingsen Chen",
+          "Chenghao Yang",
+          "Ping Nie",
+          "Chen Zhao",
+          "Xi Ye"
+        ],
+        "snippet": "Reinforcement learning with verifiable rewards (RLVR) and on-policy distillation (OPD) have emerged as two dominant methods for post-training reasoning LLMs. Prior work uses OPD's dense token-level supervision to complement the sparse RL reward, fusing the two signals within a single step: either as a \\emph{weighted-additive combination} or a \\emph{teacher-modulated rescaling} of the RL advantage.",
+        "categories": [
+          "cs.CL",
+          "cs.AI",
+          "cs.LG"
+        ],
+        "published": "2026-09-03T17:14:27+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:reasoning"
+        ]
+      }
+    ]
+  }
+}
