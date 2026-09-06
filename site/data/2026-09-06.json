@@ -1,0 +1,157 @@
+{
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06T15:57:14+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [],
+    "github": [
+      {
+        "id": "okf-memory/okf-agent-memory",
+        "title": "okf-memory/okf-agent-memory",
+        "url": "https://github.com/okf-memory/okf-agent-memory",
+        "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
+        "stars": 285,
+        "language": "Go",
+        "topics": [],
+        "created_at": "2026-09-05T21:26:04Z",
+        "score": 10.16,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "DITlieD/ELAI-archive",
+        "title": "DITlieD/ELAI-archive",
+        "url": "https://github.com/DITlieD/ELAI-archive",
+        "description": "Abandoned, unsupported research archive for a local-first, model-agnostic LLM agent harness exploring orchestration, code retrieval, off-agent verification, deterministic replay, sandboxing, context management, and model routing. MIT.",
+        "stars": 17,
+        "language": "Rust",
+        "topics": [
+          "agent-orchestration",
+          "agent-verification",
+          "ai-agents",
+          "coding-agents",
+          "deterministic-replay",
+          "llm-agent",
+          "local-llm",
+          "multi-agent-systems"
+        ],
+        "created_at": "2026-09-05T23:21:22Z",
+        "score": 8.17,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:orchestration",
+          "keyword:rag"
+        ]
+      },
+      {
+        "id": "trinity1994/MCP-Server-Aster-DEX",
+        "title": "trinity1994/MCP-Server-Aster-DEX",
+        "url": "https://github.com/trinity1994/MCP-Server-Aster-DEX",
+        "description": "MCP server for Aster DEX — a Model Context Protocol server that gives Claude, Cursor and Cline structured access to Aster DEX market data, volume, points and airdrop eligibility via natural language. Read-only tools — no trading, no keys. Unofficial community project, not affiliated with Aster.",
+        "stars": 41,
+        "language": "Python",
+        "topics": [
+          "airdrop-tracker-aster",
+          "api-aster-dex",
+          "aster",
+          "aster-ai-mcp",
+          "aster-api-mcp",
+          "aster-dex",
+          "aster-dex-bot",
+          "aster-dex-sdk"
+        ],
+        "created_at": "2026-09-04T22:52:26Z",
+        "score": 7.39,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "sakhadib/IUT-Thesis-Skill-for-AI",
+        "title": "sakhadib/IUT-Thesis-Skill-for-AI",
+        "url": "https://github.com/sakhadib/IUT-Thesis-Skill-for-AI",
+        "description": "Reusable AI-agent skill for drafting, expanding, revising, and maintaining an Islamic University of Technology BSc thesis",
+        "stars": 32,
+        "language": "TeX",
+        "topics": [
+          "claude",
+          "iut",
+          "latex",
+          "openai",
+          "skill-md",
+          "skills",
+          "thesis"
+        ],
+        "created_at": "2026-09-03T17:03:07Z",
+        "score": 7.04,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "jangtrinh/design-os-3d-blender",
+        "title": "jangtrinh/design-os-3d-blender",
+        "url": "https://github.com/jangtrinh/design-os-3d-blender",
+        "description": "AI-agent operating system for Blender 5.2: skills, verified bpy knowledge base, AGENT_OK/AGENT_FAIL execution contract, production gate for 3D-printable parts, robot-arm demo",
+        "stars": 24,
+        "language": "Python",
+        "topics": [
+          "3d-printing",
+          "ai-agent",
+          "blender",
+          "bpy",
+          "claude-code",
+          "codex",
+          "mcp",
+          "robotics"
+        ],
+        "created_at": "2026-09-06T00:18:05Z",
+        "score": 6.64,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "pigeonlabsHQ/pigeon",
+        "title": "pigeonlabsHQ/pigeon",
+        "url": "https://github.com/pigeonlabsHQ/pigeon",
+        "description": "Delegated authority for AI agents. A Pigeon Pass says what an agent may do.",
+        "stars": 15,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-09-06T06:39:01Z",
+        "score": 5.0,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "ai-evals-course/cartwheel-homeworks",
+        "title": "ai-evals-course/cartwheel-homeworks",
+        "url": "https://github.com/ai-evals-course/cartwheel-homeworks",
+        "description": "Homework assignments for Evaluating and Improving AI Agents",
+        "stars": 27,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-09-02T21:24:42Z",
+        "score": 4.81,
+        "signals": [
+          "new"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
