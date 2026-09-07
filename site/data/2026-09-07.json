@@ -1,0 +1,439 @@
+{
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T18:04:01+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+        "title": "Supporting independent journalism in Ukraine",
+        "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+        "source": "openai",
+        "published": "2026-09-07T00:00:00+00:00",
+        "snippet": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/an-alien-mind",
+        "title": "An Alien Mind",
+        "url": "https://openai.com/index/an-alien-mind",
+        "source": "openai",
+        "published": "2026-09-06T09:00:00+00:00",
+        "snippet": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/research-acceleration-view-inside-openai",
+        "title": "Research acceleration: The view inside OpenAI",
+        "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+        "source": "openai",
+        "published": "2026-09-06T08:00:00+00:00",
+        "snippet": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+        "score": 1.0,
+        "signals": []
+      }
+    ],
+    "github": [
+      {
+        "id": "redhat-et/ripwire",
+        "title": "redhat-et/ripwire",
+        "url": "https://github.com/redhat-et/ripwire",
+        "description": "The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server giving coding agents a ranked, deterministic map of any repo, blast radius, tests-to-run and quality deltas. Signatures at 80% fewer bytes than bodies; ~5% of a grep-and-read pass's tokens.",
+        "stars": 1181,
+        "language": "C++",
+        "topics": [
+          "ai-agents",
+          "call-graph",
+          "claude",
+          "claude-code",
+          "cli",
+          "code-navigation",
+          "codex",
+          "coding-agents"
+        ],
+        "created_at": "2026-07-29T15:58:33Z",
+        "score": 12.21,
+        "signals": [
+          "rising",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "RankSpotAI/awesome-seo-mcp",
+        "title": "RankSpotAI/awesome-seo-mcp",
+        "url": "https://github.com/RankSpotAI/awesome-seo-mcp",
+        "description": "A curated list of MCP servers for SEO. Search Console, keywords, backlinks, crawling, SERPs and AI search visibility, verified with install details and auth requirements.",
+        "stars": 86,
+        "language": "Python",
+        "topics": [
+          "aeo",
+          "ai-seo",
+          "awesome",
+          "awesome-list",
+          "claude",
+          "generative-engine-optimization",
+          "geo",
+          "mcp"
+        ],
+        "created_at": "2026-09-06T12:32:34Z",
+        "score": 7.44,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "bsab/france-mcp-servers",
+        "title": "bsab/france-mcp-servers",
+        "url": "https://github.com/bsab/france-mcp-servers",
+        "description": "A curated catalog of Model Context Protocol servers for French data, laws, and services.",
+        "stars": 79,
+        "language": "Python",
+        "topics": [
+          "france",
+          "mcp",
+          "mcp-servers",
+          "model-context-protocol",
+          "open-data"
+        ],
+        "created_at": "2026-09-06T17:30:00Z",
+        "score": 7.32,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "ucsandman/declick",
+        "title": "ucsandman/declick",
+        "url": "https://github.com/ucsandman/declick",
+        "description": "Compile an API, an MCP server, a database or a web page into a CLI your agent can run. Ten engines, one output contract, 4.1x less context than raw MCP.",
+        "stars": 16,
+        "language": "JavaScript",
+        "topics": [
+          "agent-tools",
+          "ai-agents",
+          "ai-coding",
+          "claude-code",
+          "cli",
+          "codex",
+          "cursor",
+          "developer-tools"
+        ],
+        "created_at": "2026-09-02T17:15:18Z",
+        "score": 7.09,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "umlink/python-ai-agent",
+        "title": "umlink/python-ai-agent",
+        "url": "https://github.com/umlink/python-ai-agent",
+        "description": "Python AI Agent 学习计划（精简大纲 + 学习详情）",
+        "stars": 43,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-09-04T15:05:22Z",
+        "score": 6.46,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "ictinnovations/ictfax-mcp",
+        "title": "ictinnovations/ictfax-mcp",
+        "url": "https://github.com/ictinnovations/ictfax-mcp",
+        "description": "MCP server for ICTFax — list and track faxes, upload documents and send faxes over ICTCore REST. By ICT Innovations.",
+        "stars": 17,
+        "language": "TypeScript",
+        "topics": [
+          "ai-agent",
+          "claude",
+          "fax",
+          "fax-server",
+          "ictcore",
+          "ictfax",
+          "mcp",
+          "model-context-protocol"
+        ],
+        "created_at": "2026-09-01T08:56:06Z",
+        "score": 6.17,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "TokenHungryMash/personalized-travel-guide-skill",
+        "title": "TokenHungryMash/personalized-travel-guide-skill",
+        "url": "https://github.com/TokenHungryMash/personalized-travel-guide-skill",
+        "description": "Open-source AI Agent skill for generating personalized, mobile-friendly travel handbook webpages.",
+        "stars": 16,
+        "language": "HTML",
+        "topics": [
+          "ai-agent",
+          "codex",
+          "html",
+          "open-source",
+          "travel-guide",
+          "workbuddy"
+        ],
+        "created_at": "2026-09-04T12:41:20Z",
+        "score": 6.09,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "Archive228/warden",
+        "title": "Archive228/warden",
+        "url": "https://github.com/Archive228/warden",
+        "description": "Agentic vetting for new token launches — on-chain risk signals + repo/social authenticity fingerprinting, judged by an LLM agent",
+        "stars": 16,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-09-05T17:40:06Z",
+        "score": 6.09,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "ictinnovations/ictcontact-mcp",
+        "title": "ictinnovations/ictcontact-mcp",
+        "url": "https://github.com/ictinnovations/ictcontact-mcp",
+        "description": "MCP server for ICTContact / ICTDialer — monitor outbound campaigns and start/stop them. By ICT Innovations.",
+        "stars": 16,
+        "language": "TypeScript",
+        "topics": [
+          "ai-agent",
+          "claude",
+          "contact-center",
+          "ictcontact",
+          "ictdialer",
+          "mcp",
+          "model-context-protocol",
+          "predictive-dialer"
+        ],
+        "created_at": "2026-09-01T08:28:22Z",
+        "score": 6.09,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "ictinnovations/ictdialer-mcp",
+        "title": "ictinnovations/ictdialer-mcp",
+        "url": "https://github.com/ictinnovations/ictdialer-mcp",
+        "description": "MCP server for ICTDialer — monitor cloud auto-dialer campaigns and start/stop them. By ICT Innovations.",
+        "stars": 16,
+        "language": "TypeScript",
+        "topics": [
+          "ai-agent",
+          "auto-dialer",
+          "claude",
+          "ictdialer",
+          "mcp",
+          "model-context-protocol",
+          "predictive-dialer",
+          "voip"
+        ],
+        "created_at": "2026-09-01T10:51:26Z",
+        "score": 6.09,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "ictinnovations/ictbroadcast-mcp",
+        "title": "ictinnovations/ictbroadcast-mcp",
+        "url": "https://github.com/ictinnovations/ictbroadcast-mcp",
+        "description": "MCP server for ICTBroadcast — monitor outbound voice/SMS/fax campaigns and start/stop them. By ICT Innovations.",
+        "stars": 16,
+        "language": "TypeScript",
+        "topics": [
+          "ai-agent",
+          "call-center",
+          "claude",
+          "ictbroadcast",
+          "mcp",
+          "model-context-protocol",
+          "predictive-dialer",
+          "voice-broadcast"
+        ],
+        "created_at": "2026-09-01T10:12:17Z",
+        "score": 6.09,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "ictinnovations/ictexam-mcp",
+        "title": "ictinnovations/ictexam-mcp",
+        "url": "https://github.com/ictinnovations/ictexam-mcp",
+        "description": "MCP server for ICTExam — read exams, gradebooks and item analysis; parse papers with AI and publish exams. By ICT Innovations.",
+        "stars": 16,
+        "language": "TypeScript",
+        "topics": [
+          "ai-agent",
+          "assessment",
+          "claude",
+          "edtech",
+          "ictexam",
+          "lti",
+          "mcp",
+          "model-context-protocol"
+        ],
+        "created_at": "2026-09-01T07:58:02Z",
+        "score": 6.09,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "ictinnovations/ictpbx-mcp",
+        "title": "ictinnovations/ictpbx-mcp",
+        "url": "https://github.com/ictinnovations/ictpbx-mcp",
+        "description": "Read-only MCP server for ICTPBX — extensions, DIDs, SIP trunks, tenants and PBX statistics over ICTCore REST. By ICT Innovations.",
+        "stars": 16,
+        "language": "TypeScript",
+        "topics": [
+          "ai-agent",
+          "claude",
+          "ictcore",
+          "ictpbx",
+          "mcp",
+          "model-context-protocol",
+          "pbx",
+          "sip"
+        ],
+        "created_at": "2026-09-01T08:21:19Z",
+        "score": 6.09,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "Q00/ai-agent-engineering-101",
+        "title": "Q00/ai-agent-engineering-101",
+        "url": "https://github.com/Q00/ai-agent-engineering-101",
+        "description": "AI Agent Engineering 101 — SeoulTech 2026 Fall. Lecture notes and PR-based assignment submission.",
+        "stars": 15,
+        "language": "HTML",
+        "topics": [
+          "agentic-ai",
+          "course",
+          "llm-agents",
+          "seoultech",
+          "teaching"
+        ],
+        "created_at": "2026-09-01T06:45:53Z",
+        "score": 6.0,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "AlekseiUL/humanlike",
+        "title": "AlekseiUL/humanlike",
+        "url": "https://github.com/AlekseiUL/humanlike",
+        "description": "Humanlike — deterministic persona, context, memory and privacy controls for conversational AI agents · Детерминированное поведение ИИ-агентов",
+        "stars": 15,
+        "language": "Python",
+        "topics": [
+          "agent-framework",
+          "agent-memory",
+          "agent-personality",
+          "ai-agent",
+          "ai-agents",
+          "ai-safety",
+          "artificial-intelligence",
+          "context-management"
+        ],
+        "created_at": "2026-09-01T19:44:23Z",
+        "score": 6.0,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "dualface/kander",
+        "title": "dualface/kander",
+        "url": "https://github.com/dualface/kander",
+        "description": "用看板调度多个 AI Agent 的任务编排工具",
+        "stars": 27,
+        "language": "Go",
+        "topics": [],
+        "created_at": "2026-09-05T20:23:17Z",
+        "score": 5.81,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "0nicell/data-deletion-skill",
+        "title": "0nicell/data-deletion-skill",
+        "url": "https://github.com/0nicell/data-deletion-skill",
+        "description": "A Claude skill for running structured personal-data erasure campaigns — 329 data brokers, OSINT tools and breach-search engines with verified privacy contacts, request templates for 13 privacy regimes, and escalation paths to 21 regulators.",
+        "stars": 15,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-09-03T00:19:12Z",
+        "score": 5.0,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "vimalinx/LocalRouter",
+        "title": "vimalinx/LocalRouter",
+        "url": "https://github.com/vimalinx/LocalRouter",
+        "description": "Loopback-first universal API gateway for local AI Agents.",
+        "stars": 15,
+        "language": "Go",
+        "topics": [
+          "ai-agents",
+          "api-gateway",
+          "local-ai",
+          "openai-compatible",
+          "protocol-adapters"
+        ],
+        "created_at": "2026-09-02T11:37:20Z",
+        "score": 4.0,
+        "signals": [
+          "new"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
