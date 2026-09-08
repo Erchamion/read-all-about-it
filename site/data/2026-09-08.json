@@ -1,0 +1,283 @@
+{
+  "date": "2026-09-08",
+  "generated_at": "2026-09-08T17:02:32+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/index/the-work-now-within-reach",
+        "title": "The Work Now Within Reach",
+        "url": "https://openai.com/index/the-work-now-within-reach",
+        "source": "openai",
+        "published": "2026-09-08T13:00:00+00:00",
+        "snippet": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+        "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+        "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+        "source": "openai",
+        "published": "2026-09-08T00:00:00+00:00",
+        "snippet": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+        "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+        "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+        "source": "deepmind",
+        "published": "2026-09-08T14:00:15+00:00",
+        "snippet": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://news.microsoft.com/source/emea/features/building-africas-ai-future-on-trust/",
+        "title": "Building Africa’s AI future on trust",
+        "url": "https://news.microsoft.com/source/emea/features/building-africas-ai-future-on-trust/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+        "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+        "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+        "source": "huggingface",
+        "published": "2026-09-08T14:23:07+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+        "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+        "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+        "title": "Company Mistral raises €3B to make sovereign, open-weight AI the technology frontier Mistral today announced that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion. September 8, 2026 By Mistral",
+        "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      }
+    ],
+    "github": [
+      {
+        "id": "FerroxLabs/fuigo",
+        "title": "FerroxLabs/fuigo",
+        "url": "https://github.com/FerroxLabs/fuigo",
+        "description": "A general-purpose, multi-provider AI agent engine. Tools, orchestration, persistent memory, and application integration through terminal, headless, and ACP interfaces.",
+        "stars": 17,
+        "language": "Rust",
+        "topics": [
+          "agent-runtime",
+          "ai-agent",
+          "automation",
+          "coding-agent",
+          "llm",
+          "mcp",
+          "multi-agent",
+          "rust"
+        ],
+        "created_at": "2026-09-01T11:25:11Z",
+        "score": 8.17,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp",
+          "keyword:orchestration"
+        ]
+      },
+      {
+        "id": "noskillish/bankmcp",
+        "title": "noskillish/bankmcp",
+        "url": "https://github.com/noskillish/bankmcp",
+        "description": "BankMCP™: your AI can now read your bank. Self-hosted, read-only MCP server for your own bank accounts via open banking (Enable Banking). Standard MCP; tested with Claude and Ollama.",
+        "stars": 143,
+        "language": "TypeScript",
+        "topics": [
+          "chatgpt",
+          "claude",
+          "enable-banking",
+          "mcp",
+          "mcp-server",
+          "ollama",
+          "open-banking",
+          "personal-finance"
+        ],
+        "created_at": "2026-09-07T09:06:03Z",
+        "score": 8.17,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "javen-wangjunren/elementor-website-skill",
+        "title": "javen-wangjunren/elementor-website-skill",
+        "url": "https://github.com/javen-wangjunren/elementor-website-skill",
+        "description": "A suite of AI agent skills for planning, designing, validating, and building credible B2B websites with maintainable custom Elementor widgets.",
+        "stars": 25,
+        "language": "HTML",
+        "topics": [
+          "agent-skills",
+          "ai-web-design",
+          "b2b-website",
+          "codex-skills",
+          "elementor",
+          "elementor-widget",
+          "wordpress",
+          "workflow-automation"
+        ],
+        "created_at": "2026-09-05T02:43:41Z",
+        "score": 7.7,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:workflow",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "Jakeschincariol/linkedin-agent-skill",
+        "title": "Jakeschincariol/linkedin-agent-skill",
+        "url": "https://github.com/Jakeschincariol/linkedin-agent-skill",
+        "description": "Eleven free Claude skills that run a LinkedIn account: posts off 21 hook formulas, comments, replies, profile score, weekly plan, and a humanizer that strips the AI fingerprint and scores the draft before it goes out.",
+        "stars": 27,
+        "language": "Python",
+        "topics": [
+          "agent-skills",
+          "ai-humanizer",
+          "claude",
+          "claude-code",
+          "claude-skills",
+          "content-marketing",
+          "linkedin"
+        ],
+        "created_at": "2026-09-07T22:58:16Z",
+        "score": 6.81,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "MahdiKordian/MahdiKordian",
+        "title": "MahdiKordian/MahdiKordian",
+        "url": "https://github.com/MahdiKordian/MahdiKordian",
+        "description": "Machine Learning Engineer | Deep Learning | Generative AI | Agentic AI",
+        "stars": 61,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-09-04T20:46:09Z",
+        "score": 5.95,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "Shehabov/pm-resume-builder-skill",
+        "title": "Shehabov/pm-resume-builder-skill",
+        "url": "https://github.com/Shehabov/pm-resume-builder-skill",
+        "description": "A Claude Skill that builds a sharp, ATS guaranteed product manager resume. It reads your old CV, asks the right questions, and ships it in one of 5 templates.",
+        "stars": 26,
+        "language": "HTML",
+        "topics": [
+          "anthropic",
+          "ats",
+          "career",
+          "claude-skill",
+          "cv",
+          "product-management",
+          "product-manager",
+          "resume"
+        ],
+        "created_at": "2026-09-06T13:19:45Z",
+        "score": 5.75,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "punkpeye/awesome-remote-mcp-servers",
+        "title": "punkpeye/awesome-remote-mcp-servers",
+        "url": "https://github.com/punkpeye/awesome-remote-mcp-servers",
+        "description": "A collection of remote MCP servers.",
+        "stars": 20,
+        "language": null,
+        "topics": [
+          "mcp"
+        ],
+        "created_at": "2026-09-08T00:43:30Z",
+        "score": 5.39,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "Zvyan/PromptForge",
+        "title": "Zvyan/PromptForge",
+        "url": "https://github.com/Zvyan/PromptForge",
+        "description": "PromptForge: An enterprise-grade, multi-platform Prompt Engineering framework for AI Agents. Featuring 56 structured templates across 9 domains, 118 ready-to-use presets, and native adapters for Cursor, ZCode, DeepSeek Harness, Claude, and OpenAI. Built with FastAPI Web UI & Typer CLI.",
+        "stars": 19,
+        "language": "Python",
+        "topics": [
+          "ai-agents",
+          "claude-api",
+          "cursorrules",
+          "deepseek-harness",
+          "developer-tools",
+          "fastapi",
+          "llm-tools",
+          "openai"
+        ],
+        "created_at": "2026-09-05T08:34:19Z",
+        "score": 5.32,
+        "signals": [
+          "new",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "zijie1024/autryn",
+        "title": "zijie1024/autryn",
+        "url": "https://github.com/zijie1024/autryn",
+        "description": "A lightweight, composable Agent Runtime for building extensible AI agents.",
+        "stars": 16,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-09-06T02:14:50Z",
+        "score": 5.09,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
