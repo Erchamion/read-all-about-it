@@ -1,0 +1,528 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T15:58:34+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+        "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+        "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+        "source": "openai",
+        "published": "2026-09-14T00:00:00+00:00",
+        "snippet": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+        "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+        "source": "openai",
+        "published": "2026-09-11T10:00:00+00:00",
+        "snippet": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/cognition-devin-testing-with-astra",
+        "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+        "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+        "source": "openai",
+        "published": "2026-09-11T16:00:00+00:00",
+        "snippet": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+        "score": 1.0,
+        "signals": []
+      }
+    ],
+    "github": [
+      {
+        "id": "Tencent/wave-mcp",
+        "title": "Tencent/wave-mcp",
+        "url": "https://github.com/Tencent/wave-mcp",
+        "description": "Open-source, license-free MCP server for RTL waveform debug: reads FST waveforms (VCD/FSDB auto-convert) plus a SystemVerilog netlist, with 34 tools covering driver analysis, value/X tracing, pass-fail waveform diff, a browser wave viewer the agent drives, and pre-simulation static analysis.",
+        "stars": 200,
+        "language": "Python",
+        "topics": [
+          "chip-verification",
+          "debug",
+          "eda",
+          "fsdb",
+          "fst",
+          "llm-tools",
+          "mcp",
+          "pyslang"
+        ],
+        "created_at": "2026-07-27T11:35:28Z",
+        "score": 10.65,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "dondai44423/donsetch",
+        "title": "dondai44423/donsetch",
+        "url": "https://github.com/dondai44423/donsetch",
+        "description": "Web fetch, search, and crawl for AI agents. Built from scratch in Rust. No keys, no accounts. AGPL v3.",
+        "stars": 665,
+        "language": "Rust",
+        "topics": [
+          "agpl",
+          "ai-agents",
+          "anti-bot",
+          "crawling",
+          "mcp",
+          "pdf",
+          "rust",
+          "web-scraper"
+        ],
+        "created_at": "2026-08-07T10:13:16Z",
+        "score": 10.38,
+        "signals": [
+          "rising",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "20000419/fauxnix",
+        "title": "20000419/fauxnix",
+        "url": "https://github.com/20000419/fauxnix",
+        "description": "Run Linux-style commands on Windows via deterministic bash→PowerShell translation. No VM, no WSL. MCP server + CLI built for AI agents (Claude Code, Codex, OpenCode...). GNU-style output, bash-style errors, UTF-8/GBK handled.",
+        "stars": 200,
+        "language": "TypeScript",
+        "topics": [
+          "ai-agents",
+          "bash",
+          "claude-code",
+          "cli",
+          "codex",
+          "coreutils",
+          "mcp",
+          "mcp-server"
+        ],
+        "created_at": "2026-08-16T02:03:17Z",
+        "score": 8.65,
+        "signals": [
+          "rising",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "ZeroDayEvil/ai-security-tool",
+        "title": "ZeroDayEvil/ai-security-tool",
+        "url": "https://github.com/ZeroDayEvil/ai-security-tool",
+        "description": "🛡️ Free open-source AI-powered security terminal & vulnerability scanner (CVE, SBOM). Supports SSH, SFTP, RDP, VNC, Serial, and 12+ autonomous AI agents (DeepSeek, OpenAI) for automated security workflows, CTF & DevSecOps. Cross-platform & Web UI.",
+        "stars": 17,
+        "language": "HTML",
+        "topics": [
+          "ai-agent",
+          "ctf",
+          "cve",
+          "cve-scanner",
+          "cybersecurity",
+          "deepseek",
+          "mcp",
+          "mcp-server"
+        ],
+        "created_at": "2026-09-10T09:38:49Z",
+        "score": 7.17,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp",
+          "keyword:autonomous"
+        ]
+      },
+      {
+        "id": "zachsaw/graphify-csharp",
+        "title": "zachsaw/graphify-csharp",
+        "url": "https://github.com/zachsaw/graphify-csharp",
+        "description": "Give your LLM agents the power of JetBrains Rider IDE! Supports C# 15 Syntax!",
+        "stars": 46,
+        "language": "C#",
+        "topics": [],
+        "created_at": "2026-09-08T08:49:25Z",
+        "score": 6.55,
+        "signals": [
+          "new",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "cth9191/skill-audit",
+        "title": "cth9191/skill-audit",
+        "url": "https://github.com/cth9191/skill-audit",
+        "description": "Audit AI agent skills, review usage evidence, and compare original, simplified, and baseline workflows.",
+        "stars": 15,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-09-09T01:26:54Z",
+        "score": 6.0,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "wannabeyourfriend/awesome-harness-evolution",
+        "title": "wannabeyourfriend/awesome-harness-evolution",
+        "url": "https://github.com/wannabeyourfriend/awesome-harness-evolution",
+        "description": "Awesome Research Paper List for AI agent harness evolution: Foundation, Benchmark, Recipe, Position",
+        "stars": 22,
+        "language": "Python",
+        "topics": [
+          "agent-harness",
+          "agent-skills",
+          "ai-agents",
+          "awesome-list",
+          "harness-engineering",
+          "recursive-self-improvement",
+          "self-improvement"
+        ],
+        "created_at": "2026-09-12T03:59:48Z",
+        "score": 5.52,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "panda-sandeep/dearagent",
+        "title": "panda-sandeep/dearagent",
+        "url": "https://github.com/panda-sandeep/dearagent",
+        "description": "Email inbox API for AI agents, self-hosted on Cloudflare Workers. Open source, with an MCP server. AgentMail alternative.",
+        "stars": 19,
+        "language": "TypeScript",
+        "topics": [
+          "agentmail",
+          "ai-agents",
+          "cloudflare",
+          "cloudflare-workers",
+          "d1",
+          "email-api",
+          "emailrouting",
+          "inbox"
+        ],
+        "created_at": "2026-09-11T11:06:45Z",
+        "score": 5.32,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "id": "2609.11897v1",
+        "title": "CausalArena: Benchmarking Causal Discovery in the Foundation Model Era",
+        "url": "https://arxiv.org/abs/2609.11897v1",
+        "authors": [
+          "Zi-Rong Li",
+          "Si-Yang Liu",
+          "Tian-Zuo Wang",
+          "Han-Jia Ye"
+        ],
+        "snippet": "Causal discovery aims to uncover causal structures from data and is fundamental to scientific reasoning and intervention-based decision making. Its evaluation relies heavily on structural causal models (SCMs), which specify a causal graph together with the mechanisms that generate data, yet existing studies differ substantially in graph families, mechanisms, and evaluation protocols. The emergence",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-09-10T17:53:15+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2609.11892v1",
+        "title": "Nuha-Speech: Building General-Purpose Arabic Speech-LLMs",
+        "url": "https://arxiv.org/abs/2609.11892v1",
+        "authors": [
+          "Yingzhi Wang",
+          "Reem Alhazzani",
+          "Muhammad Alqurishi"
+        ],
+        "snippet": "As Speech Large Language Models (speech-LLMs) become increasingly multilingual, Arabic remains significantly underrepresented, highlighting the need for dedicated infrastructure to train and evaluate Arabic speech-LLMs. To address this gap, we introduce Nuha-Speech, a comprehensive initiative to develop general-purpose Arabic speech-LLMs spanning dataset construction, model training, and systemati",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-09-10T17:50:35+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:fine-tuning",
+          "keyword:instruction tuning"
+        ]
+      },
+      {
+        "id": "2609.11872v1",
+        "title": "Evaluating Time-Series Foundation Models and Multimodal Dietary Context for CGM Forecasting",
+        "url": "https://arxiv.org/abs/2609.11872v1",
+        "authors": [
+          "Bowen Zhang",
+          "Hsiu-Wen Cheng",
+          "Hongyu Yang",
+          "Evie L. Shen",
+          "Joleen Vansomphone",
+          "Yuna Li"
+        ],
+        "snippet": "Continuous glucose monitoring (CGM) provides high-frequency measurements of glucose dynamics and enables short-term glucose forecasting for diabetes management. Although time-series foundation models have shown strong general forecasting ability, their effectiveness for CGM prediction and the added value of multimodal dietary context remain unclear. We conduct a comprehensive empirical study using",
+        "categories": [
+          "stat.ML",
+          "cs.LG"
+        ],
+        "published": "2026-09-10T17:43:29+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:fine-tuning",
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2609.11851v1",
+        "title": "IndicTriMix: Developing Language Identification Datasets and Models for Tri-Language Code-Mixing",
+        "url": "https://arxiv.org/abs/2609.11851v1",
+        "authors": [
+          "Pruthwik Mishra",
+          "Rudra Trivedi",
+          "Avi Patel",
+          "Ashok Urlana",
+          "Shrikant Malviya"
+        ],
+        "snippet": "Language identification in code-mixed text, largely observed in social media, is highly essential when users frequently switch between multiple languages within a single utterance. Accurately identifying the languages of code-mixed tokens becomes an urgent necessity. Traditional language identification models, designed for monolingual text, are not well suited for token-level language identificati",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-09-10T17:36:12+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:benchmark",
+          "keyword:transformer"
+        ]
+      },
+      {
+        "id": "2609.11772v1",
+        "title": "Whisper-Based Speech Transcription from Videos Across Multiple Languages for Cross-Cultural Understanding",
+        "url": "https://arxiv.org/abs/2609.11772v1",
+        "authors": [
+          "Michael Picheny"
+        ],
+        "snippet": "Cross-cultural understanding has become increasingly important in today's highly connected, cross-national world. The success of LLM-based technologies is now driving the development of automated tools to aid understanding for nonnative people trying to succeed in cross-cultural environments. Building such automated tools is often done by leveraging in-thewild text, audio, and video data. This pap",
+        "categories": [
+          "eess.AS",
+          "cs.CL"
+        ],
+        "published": "2026-09-10T16:27:47+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2609.11870v1",
+        "title": "Augustinian BabyLM: What Ostensive Definition Can and Cannot Teach a Small Language Model",
+        "url": "https://arxiv.org/abs/2609.11870v1",
+        "authors": [
+          "Lisa Bylinina"
+        ],
+        "snippet": "A language model normally begins training with random word embeddings: whatever 'banana' means must be learned from training corpora. I implement St. Augustine's picture of word learning, meaning by ostension, for a small masked language model (DeBERTa) trained on 10M words: before training, visually grounded tokens receive embeddings derived from the image regions they label; other tokens start r",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-09-10T17:43:09+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2609.11867v1",
+        "title": "AdamX: Cosine similarity meets gradient descent",
+        "url": "https://arxiv.org/abs/2609.11867v1",
+        "authors": [
+          "Francisco Caldas",
+          "Ruben Belo",
+          "Cláudia Soares"
+        ],
+        "snippet": "We introduce AdamX, a first-order optimizer that incorporates cosine similarity as an adaptive mechanism for controlling update magnitudes. The proposed method is scalable, model-agnostic, and straightforward to integrate into existing training pipelines. We further introduce a variance rectification scheme that promotes smoother optimization during the early stages of training. Overall, we provid",
+        "categories": [
+          "cs.LG",
+          "math.OC"
+        ],
+        "published": "2026-09-10T17:42:50+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2609.11860v1",
+        "title": "Explainability Assistant: A Conversational XAI Interface for Interpreting Energy Consumption Models",
+        "url": "https://arxiv.org/abs/2609.11860v1",
+        "authors": [
+          "Rodion Krjutškov",
+          "Eduard Barbu",
+          "Nikos Sakkas",
+          "Sofia Yfanti"
+        ],
+        "snippet": "Energy consumption forecasting relies on increasingly complex machine learning (ML) models, such as Genetic Programming-based symbolic regressors, whose predictions can be difficult for facility managers and building operators to interpret. Explainable Artificial Intelligence (XAI) techniques address this opacity, but traditional XAI dashboards require substantial technical expertise and provide l",
+        "categories": [
+          "cs.AI",
+          "cs.LG"
+        ],
+        "published": "2026-09-10T17:40:11+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2609.11807v1",
+        "title": "Near-Optimal Reinforcement Learning with Multi-Step Transition Lookahead",
+        "url": "https://arxiv.org/abs/2609.11807v1",
+        "authors": [
+          "Corentin Pla",
+          "Hugo Richard",
+          "Marc Abeille",
+          "Vianney Perchet"
+        ],
+        "snippet": "We study reinforcement learning (RL) with transition look-ahead, where the agent may observe which states would be visited upon playing any sequence of $\\ell$ actions before deciding its course of action. Although look-ahead can substantially improve achievable performance, it is known that optimal planning with multi-step transition look-ahead is NP-hard, but this hardness was established using d",
+        "categories": [
+          "stat.ML",
+          "cs.LG"
+        ],
+        "published": "2026-09-10T16:58:21+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "2609.11801v1",
+        "title": "Thinking with Looped Flows",
+        "url": "https://arxiv.org/abs/2609.11801v1",
+        "authors": [
+          "Ayhan Suleymanzade",
+          "Chanhyuk Lee",
+          "Floor Eijkelboom",
+          "Nicholas M. Boffi",
+          "İsmail İlkan Ceylan",
+          "Jinwoo Kim"
+        ],
+        "snippet": "Humans and machines often solve harder problems by spending more time on computation. In deep learning, looped models implement this idea during inference by recurrently updating a hidden state. In practice, however, their training backpropagates through only one or a few updates, making it hard to train early updates to support future ones. We propose looped flows, an approach that sidesteps this",
+        "categories": [
+          "cs.LG",
+          "cs.AI"
+        ],
+        "published": "2026-09-10T16:52:54+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2609.11799v1",
+        "title": "SpecGuard: Inference-Time Backdoor Detection For Free",
+        "url": "https://arxiv.org/abs/2609.11799v1",
+        "authors": [
+          "Rui Wen",
+          "Ahmed Salem",
+          "Andrew Paverd",
+          "Mark Russinovich",
+          "Zheng Li"
+        ],
+        "snippet": "Large language models are often fine-tuned, shared, or downloaded from third parties, so a deployed model may carry a hidden backdoor that behaves normally on benign inputs but switches to attacker-controlled behavior when a secret trigger appears. While backdoors can be audited before deployment, runtime monitoring remains important for models that are frequently updated. The challenge is that LL",
+        "categories": [
+          "cs.CR",
+          "cs.CL"
+        ],
+        "published": "2026-09-10T16:51:59+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "2609.11786v1",
+        "title": "Beyond Word Error Rate: A Switch Aware Evaluation of ASR and Audio Language Models on English Yoruba Code-Switched Speech",
+        "url": "https://arxiv.org/abs/2609.11786v1",
+        "authors": [
+          "Chibuzor Okocha",
+          "Christan Earl Grant"
+        ],
+        "snippet": "Automatic speech recognition (ASR) systems and audio language models (audio LMs) now report low error rates on monolingual benchmarks, but their behavior on code switched speech in low resource, diacritic rich languages remains poorly characterized. We present a switch aware evaluation of eleven modern systems (six ASR models and five audio LMs) on English Yoruba code-switched speech, using a dete",
+        "categories": [
+          "cs.CL",
+          "cs.AI"
+        ],
+        "published": "2026-09-10T16:36:19+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2609.11770v1",
+        "title": "The widening evaluation gap in medical large language model research 2023 to 2026",
+        "url": "https://arxiv.org/abs/2609.11770v1",
+        "authors": [
+          "Raad Bin Tareaf",
+          "Murad Al-Rajab",
+          "Samia Loucif"
+        ],
+        "snippet": "Large language models are superseded every few quarters; clinical evidence takes years. We asked whether medical research is keeping pace with the systems it evaluates. PubMed returned 11,628 records for January 2023 to June 2026 across fourteen clinical domains, growing 45-fold; 2.5% used a randomised, controlled or prospective design. Evaluation lag, from a study's newest named model release to ",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-09-10T16:25:01+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:large language model"
+        ]
+      },
+      {
+        "id": "2609.11762v1",
+        "title": "Component-Aware Differential Privacy for Federated Multilingual Speech-LLMs",
+        "url": "https://arxiv.org/abs/2609.11762v1",
+        "authors": [
+          "Jordi Luque",
+          "Fernando López",
+          "Aleix Sant"
+        ],
+        "snippet": "Per-layer differential privacy (DP) clipping improves gradient fidelity in federated learning by allocating per-matrix clipping budgets proportional to parameter count. We show that this recipe breaks for speech large language models (speech-LLMs), when the acoustic encoder and the language decoder differ by an order of magnitude in update norm. Single-pool per-layer methods suffer \\emph{cross-com",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-09-10T16:17:19+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "2609.11744v1",
+        "title": "Building py-kvcache: A Performance Characterization of External KV Caching for vLLM with NVMe SSDs",
+        "url": "https://arxiv.org/abs/2609.11744v1",
+        "authors": [
+          "Joseph Kanichai",
+          "Tiziano De Matteis",
+          "Animesh Trivedi"
+        ],
+        "snippet": "Prefix caching can reduce the time to first token (TTFT) of long-context LLM requests by reusing previously computed key-value (KV) states, but for short prefixes or fast GPUs, recomputation can be faster than loading from an external cache. We characterize this tradeoff in vLLM across GPU, CPU, and NVMe tiers using synthetic workloads, long-context benchmarks, production traces, and find that cac",
+        "categories": [
+          "cs.DC",
+          "cs.LG"
+        ],
+        "published": "2026-09-10T16:00:35+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:llm"
+        ]
+      }
+    ]
+  }
+}
