@@ -1,0 +1,499 @@
+{
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T18:19:19+00:00",
+  "errors": [
+    {
+      "source": "arxiv",
+      "message": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat%3Acs.AI+OR+cat%3Acs.CL+OR+cat%3Acs.LG&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/index/fyxer",
+        "title": "How Fyxer built an AI executive assistant people trust",
+        "url": "https://openai.com/index/fyxer",
+        "source": "openai",
+        "published": "2026-09-14T12:00:00+00:00",
+        "snippet": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+        "title": "DevFest is back",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+        "source": "google-ai",
+        "published": "2026-09-14T16:00:00+00:00",
+        "snippet": "Animation of the text \"{DevFest} 2026 Join us! Google Developer Groups\" with a globe icon, asterisk icon, < icon, and > icon",
+        "score": 1.0,
+        "signals": []
+      }
+    ],
+    "github": [
+      {
+        "id": "youngyangyang04/llm-master",
+        "title": "youngyangyang04/llm-master",
+        "url": "https://github.com/youngyangyang04/llm-master",
+        "description": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
+        "stars": 65,
+        "language": null,
+        "topics": [
+          "agent",
+          "large-language-models",
+          "llm",
+          "llm-learning",
+          "llm-tutorial",
+          "rag"
+        ],
+        "created_at": "2026-09-12T07:33:31Z",
+        "score": 10.04,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp",
+          "keyword:rag"
+        ]
+      },
+      {
+        "id": "Matthew0822/ToolReplay",
+        "title": "Matthew0822/ToolReplay",
+        "url": "https://github.com/Matthew0822/ToolReplay",
+        "description": "Audit AI agent tool-call transcripts: hash-chain sealing, deterministic replay, and scope overreach checks. Dependency-free Python CLI.",
+        "stars": 171,
+        "language": "Python",
+        "topics": [
+          "ai-agents",
+          "audit",
+          "cli",
+          "determinism",
+          "hash-chain",
+          "jsonl",
+          "permissions",
+          "python"
+        ],
+        "created_at": "2026-09-14T10:11:00Z",
+        "score": 8.43,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "Kerneta/daidocs",
+        "title": "Kerneta/daidocs",
+        "url": "https://github.com/Kerneta/daidocs",
+        "description": "Open plain-text file format for AI memory. Your assistant's long-term memory as .dai files on your disk: readable by Claude, GPT, Gemini, Cursor, local models and grep (all LLM models work). MCP server + hooks for Claude Code, Claude Desktop, Cursor, Windsurf, Codex. 83% LongMemEval-S (GPT-4o), 92% ",
+        "stars": 20,
+        "language": "JavaScript",
+        "topics": [
+          "agent-memory",
+          "ai-agents",
+          "ai-memory",
+          "chatgpt",
+          "claude",
+          "claude-code",
+          "context-engineering",
+          "cursor"
+        ],
+        "created_at": "2026-09-13T08:29:01Z",
+        "score": 8.39,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp",
+          "keyword:assistant"
+        ]
+      },
+      {
+        "id": "agentverse-os/AgentVerse-OS",
+        "title": "agentverse-os/AgentVerse-OS",
+        "url": "https://github.com/agentverse-os/AgentVerse-OS",
+        "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothi",
+        "stars": 160,
+        "language": "Rust",
+        "topics": [],
+        "created_at": "2026-09-12T18:20:00Z",
+        "score": 7.33,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "bsab/sweden-mcp-servers",
+        "title": "bsab/sweden-mcp-servers",
+        "url": "https://github.com/bsab/sweden-mcp-servers",
+        "description": "A curated catalog of Model Context Protocol servers for Swedish data, laws and services.",
+        "stars": 72,
+        "language": "Python",
+        "topics": [
+          "awesome-list",
+          "mcp",
+          "model-context-protocol",
+          "open-data",
+          "sweden",
+          "swedish"
+        ],
+        "created_at": "2026-09-14T09:25:33Z",
+        "score": 7.19,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "HasData/bing-mcp",
+        "title": "HasData/bing-mcp",
+        "url": "https://github.com/HasData/bing-mcp",
+        "description": "MCP server for Bing search: organic results, the ad block and the Copilot answer, with geo, market and language targeting. No Azure subscription. 1,000 free credits every month.",
+        "stars": 15,
+        "language": "JavaScript",
+        "topics": [
+          "ai-agents",
+          "bing",
+          "bing-mcp",
+          "claude",
+          "cursor",
+          "hasdata",
+          "llm-tools",
+          "mcp"
+        ],
+        "created_at": "2026-09-10T05:28:01Z",
+        "score": 7.0,
+        "signals": [
+          "new",
+          "keyword:llm",
+          "keyword:mcp",
+          "keyword:copilot"
+        ]
+      },
+      {
+        "id": "Jakeschincariol/instagram-agent-skill",
+        "title": "Jakeschincariol/instagram-agent-skill",
+        "url": "https://github.com/Jakeschincariol/instagram-agent-skill",
+        "description": "Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formulas, a viral research skill, a caption linter, and a humanizer. Free, MIT.",
+        "stars": 29,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-09-13T14:09:50Z",
+        "score": 6.91,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "HarrisonYangKuang/agent-gpu-pool",
+        "title": "HarrisonYangKuang/agent-gpu-pool",
+        "url": "https://github.com/HarrisonYangKuang/agent-gpu-pool",
+        "description": "Persistent GPU jobs for AI agents. MCP + CLI, hardware-aware scheduling, Kaggle adapter, and recoverable artifacts for Codex and Claude Code.",
+        "stars": 18,
+        "language": "Python",
+        "topics": [
+          "ai-agents",
+          "claude-code",
+          "codex",
+          "gpu",
+          "job-scheduler",
+          "kaggle",
+          "mcp",
+          "python"
+        ],
+        "created_at": "2026-09-08T09:18:56Z",
+        "score": 6.25,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "HasData/yelp-mcp",
+        "title": "HasData/yelp-mcp",
+        "url": "https://github.com/HasData/yelp-mcp",
+        "description": "MCP server for Yelp: business search, place details and the full review feed as JSON. Hosted, no Yelp Fusion key. 1,000 free credits every month.",
+        "stars": 16,
+        "language": "JavaScript",
+        "topics": [
+          "ai-agents",
+          "claude",
+          "cursor",
+          "hasdata",
+          "llm-tools",
+          "local-business",
+          "local-seo",
+          "mcp"
+        ],
+        "created_at": "2026-09-09T11:13:37Z",
+        "score": 6.09,
+        "signals": [
+          "new",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "HasData/glassdoor-mcp",
+        "title": "HasData/glassdoor-mcp",
+        "url": "https://github.com/HasData/glassdoor-mcp",
+        "description": "MCP server for Glassdoor: search job listings by keyword and location, read one posting in full with the employer rating and the salary figure with its provenance. 1,000 free credits every month.",
+        "stars": 16,
+        "language": "JavaScript",
+        "topics": [
+          "ai-agents",
+          "claude",
+          "cursor",
+          "glassdoor",
+          "glassdoor-mcp",
+          "hasdata",
+          "job-search",
+          "jobs"
+        ],
+        "created_at": "2026-09-09T14:43:59Z",
+        "score": 6.09,
+        "signals": [
+          "new",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "HasData/yellowpages-mcp",
+        "title": "HasData/yellowpages-mcp",
+        "url": "https://github.com/HasData/yellowpages-mcp",
+        "description": "MCP server for Yellow Pages: search local businesses by keyword and location, read one listing in full with services, brands and payment methods. 1,000 free credits every month.",
+        "stars": 15,
+        "language": "JavaScript",
+        "topics": [
+          "ai-agents",
+          "claude",
+          "cursor",
+          "hasdata",
+          "lead-generation",
+          "llm-tools",
+          "local-business",
+          "local-seo"
+        ],
+        "created_at": "2026-09-09T14:52:33Z",
+        "score": 6.0,
+        "signals": [
+          "new",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "HasData/walmart-mcp",
+        "title": "HasData/walmart-mcp",
+        "url": "https://github.com/HasData/walmart-mcp",
+        "description": "MCP server for Walmart: keyword and category search, product pages with the buy box and other sellers, and the review feed with its filter block. 1,000 free credits every month.",
+        "stars": 15,
+        "language": "JavaScript",
+        "topics": [
+          "ai-agents",
+          "claude",
+          "cursor",
+          "ecommerce",
+          "hasdata",
+          "llm-tools",
+          "mcp",
+          "mcp-server"
+        ],
+        "created_at": "2026-09-09T14:37:40Z",
+        "score": 6.0,
+        "signals": [
+          "new",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "HasData/facebook-mcp",
+        "title": "HasData/facebook-mcp",
+        "url": "https://github.com/HasData/facebook-mcp",
+        "description": "MCP server for Facebook: a public page or profile by handle with likes, followers, contact details and the post feed with reactions. No Meta developer app. 1,000 free credits every month.",
+        "stars": 15,
+        "language": "JavaScript",
+        "topics": [
+          "ai-agents",
+          "claude",
+          "cursor",
+          "facebook",
+          "facebook-mcp",
+          "hasdata",
+          "lead-enrichment",
+          "llm-tools"
+        ],
+        "created_at": "2026-09-10T11:34:19Z",
+        "score": 6.0,
+        "signals": [
+          "new",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "HasData/google-scholar-mcp",
+        "title": "HasData/google-scholar-mcp",
+        "url": "https://github.com/HasData/google-scholar-mcp",
+        "description": "MCP server for Google Scholar: search papers with Scholar operators, year ranges, cited-by and all-versions lookups, plus citations in five styles with BibTeX export. 1,000 free credits every month.",
+        "stars": 15,
+        "language": "JavaScript",
+        "topics": [
+          "academic",
+          "ai-agents",
+          "bibliometrics",
+          "citations",
+          "claude",
+          "cursor",
+          "google-scholar",
+          "hasdata"
+        ],
+        "created_at": "2026-09-10T05:35:29Z",
+        "score": 6.0,
+        "signals": [
+          "new",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "HasData/redfin-mcp",
+        "title": "HasData/redfin-mcp",
+        "url": "https://github.com/HasData/redfin-mcp",
+        "description": "MCP server for Redfin: search for-sale, for-rent and sold listings with the full filter set, and read one property page in full. No MLS licence. 1,000 free credits every month.",
+        "stars": 15,
+        "language": "JavaScript",
+        "topics": [
+          "ai-agents",
+          "claude",
+          "cursor",
+          "hasdata",
+          "llm-tools",
+          "mcp",
+          "mcp-server",
+          "mls"
+        ],
+        "created_at": "2026-09-09T12:47:14Z",
+        "score": 6.0,
+        "signals": [
+          "new",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "HasData/shopify-mcp",
+        "title": "HasData/shopify-mcp",
+        "url": "https://github.com/HasData/shopify-mcp",
+        "description": "MCP server for Shopify storefronts: pull the public product catalogue and collections of any store by URL, with variants, SKUs and prices. No app, no merchant token. 1,000 free credits every month.",
+        "stars": 15,
+        "language": "JavaScript",
+        "topics": [
+          "ai-agents",
+          "claude",
+          "cursor",
+          "ecommerce",
+          "hasdata",
+          "llm-tools",
+          "mcp",
+          "mcp-server"
+        ],
+        "created_at": "2026-09-09T12:31:24Z",
+        "score": 6.0,
+        "signals": [
+          "new",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "luseye/voix",
+        "title": "luseye/voix",
+        "url": "https://github.com/luseye/voix",
+        "description": "Voice Agent Framework",
+        "stars": 26,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-09-11T09:51:41Z",
+        "score": 5.75,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "everclear077/awesome-ai-x-accounts",
+        "title": "everclear077/awesome-ai-x-accounts",
+        "url": "https://github.com/everclear077/awesome-ai-x-accounts",
+        "description": "A categorized directory of X accounts covering AI, LLMs, agents, and technology, with original profile bios and follower counts. Available in 7 languages.",
+        "stars": 25,
+        "language": "Python",
+        "topics": [
+          "ai-agents",
+          "ai-coding",
+          "artificial-intelligence",
+          "awesome",
+          "awesome-list",
+          "llm",
+          "multilingual",
+          "technology"
+        ],
+        "created_at": "2026-09-13T08:57:52Z",
+        "score": 5.7,
+        "signals": [
+          "new",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "Shass27/stem-notes",
+        "title": "Shass27/stem-notes",
+        "url": "https://github.com/Shass27/stem-notes",
+        "description": "A Claude skill that transforms STEM lecture slides, textbooks, problem sheets, and documents into LaTeX formula sheets, fully worked solutions, and summary notes. Automates the creation of professional study materials from any PDF, image, or office file.",
+        "stars": 16,
+        "language": "TeX",
+        "topics": [],
+        "created_at": "2026-09-11T19:35:01Z",
+        "score": 5.09,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "fanqi99-creator/taobao-mcp-server",
+        "title": "fanqi99-creator/taobao-mcp-server",
+        "url": "https://github.com/fanqi99-creator/taobao-mcp-server",
+        "description": "",
+        "stars": 15,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-09-07T09:01:21Z",
+        "score": 5.0,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "AxelFooley/MnemoBrain",
+        "title": "AxelFooley/MnemoBrain",
+        "url": "https://github.com/AxelFooley/MnemoBrain",
+        "description": "Two-engine memory stack for AI agents: Mnemosyne (reflex memory) + GBrain (knowledge brain). Installer, launcher, doctor — one command, any host.",
+        "stars": 20,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-09-12T19:19:16Z",
+        "score": 4.39,
+        "signals": [
+          "new"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
