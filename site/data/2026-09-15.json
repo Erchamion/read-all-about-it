@@ -1,0 +1,361 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T17:27:02+00:00",
+  "errors": [
+    {
+      "source": "arxiv",
+      "message": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat%3Acs.AI+OR+cat%3Acs.CL+OR+cat%3Acs.LG&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+        "title": "AI for Societal Impact",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+        "source": "google-ai",
+        "published": "2026-09-15T16:00:00+00:00",
+        "snippet": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+        "title": "Building AI to accelerate science and improve lives",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+        "source": "google-ai",
+        "published": "2026-09-15T16:00:00+00:00",
+        "snippet": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+        "title": "AI for everyone in every language",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+        "source": "google-ai",
+        "published": "2026-09-15T16:00:00+00:00",
+        "snippet": "Animation of several words in different languages slowly zooming past",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+        "title": "New insights from Google’s AI & Economy ATLAS",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+        "source": "google-ai",
+        "published": "2026-09-15T13:00:00+00:00",
+        "snippet": "Text \"AI & Economy Atlas v1.0 2026\" with the Google G and a spinning globe illustration",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+        "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+        "source": "google-ai",
+        "published": "2026-09-14T19:00:00+00:00",
+        "snippet": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+        "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+        "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+        "source": "deepmind",
+        "published": "2026-09-15T17:05:57+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://www.microsoft.com/en-us/microsoft-cloud/blog/healthcare/2026/09/14/the-ai-shift-is-real-how-pharmaceutical-leaders-are-operationalizing-ai/",
+        "title": "Inside the pharmaceutical industry’s AI shift",
+        "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/healthcare/2026/09/14/the-ai-shift-is-real-how-pharmaceutical-leaders-are-operationalizing-ai/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://news.microsoft.com/source/emea/features/almost-half-47-of-irish-workers-say-they-are-considering-new-career-paths-as-ai-shapes-the-future-of-work-microsoft-ireland-study-finds/",
+        "title": "Nearly half of Irish workers reassess careers as AI reshapes work",
+        "url": "https://news.microsoft.com/source/emea/features/almost-half-47-of-irish-workers-say-they-are-considering-new-career-paths-as-ai-shapes-the-future-of-work-microsoft-ireland-study-finds/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+        "title": "Your Agent Aced the Task. Will It Do It Again?",
+        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+        "source": "huggingface",
+        "published": "2026-09-15T16:00:44+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      }
+    ],
+    "github": [
+      {
+        "id": "hypit-ai/hypit",
+        "title": "hypit-ai/hypit",
+        "url": "https://github.com/hypit-ai/hypit",
+        "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
+        "stars": 3028,
+        "language": "TypeScript",
+        "topics": [
+          "agentic-ai",
+          "ai",
+          "ai-agents",
+          "ai-video",
+          "compiler",
+          "dsl",
+          "ffmpeg",
+          "generative-ai"
+        ],
+        "created_at": "2026-07-29T18:49:19Z",
+        "score": 13.56,
+        "signals": [
+          "rising",
+          "keyword:llm",
+          "keyword:workflow"
+        ]
+      },
+      {
+        "id": "AetherLabsAI/RSIAgent",
+        "title": "AetherLabsAI/RSIAgent",
+        "url": "https://github.com/AetherLabsAI/RSIAgent",
+        "description": "A training-free multi-agent framework for recursive self-improvement in new environments through broad-then-deep autonomous exploration and reusable memory.",
+        "stars": 153,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-09-13T01:48:25Z",
+        "score": 9.27,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:autonomous"
+        ]
+      },
+      {
+        "id": "QiantangCredit/heimdall-pentest",
+        "title": "QiantangCredit/heimdall-pentest",
+        "url": "https://github.com/QiantangCredit/heimdall-pentest",
+        "description": "An autonomous AI agent framework for authorized penetration testing",
+        "stars": 39,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-09-14T09:29:07Z",
+        "score": 7.32,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:autonomous"
+        ]
+      },
+      {
+        "id": "Heyosseus/sloppy",
+        "title": "Heyosseus/sloppy",
+        "url": "https://github.com/Heyosseus/sloppy",
+        "description": "Laravel-aware static analysis for the debt AI coding agents leave behind. 24 rules, git-diff review, a Rector and Pint fix pass, Pest expectations, CI annotations, agent rulesets and an MCP server. Deterministic, local, no LLM.",
+        "stars": 15,
+        "language": "PHP",
+        "topics": [
+          "ai",
+          "code-quality",
+          "filament",
+          "laravel",
+          "linter",
+          "mcp",
+          "pest",
+          "php"
+        ],
+        "created_at": "2026-09-10T07:41:59Z",
+        "score": 7.0,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "riesaexe/r-doc",
+        "title": "riesaexe/r-doc",
+        "url": "https://github.com/riesaexe/r-doc",
+        "description": "AI agent skill for maintaining project AGENTS.md and docs/ documentation systems.",
+        "stars": 24,
+        "language": "Python",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "codex",
+          "codex-skill",
+          "developer-tools",
+          "documentation",
+          "documentation-governance",
+          "markdown"
+        ],
+        "created_at": "2026-09-14T02:10:52Z",
+        "score": 6.64,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "kina-cmd/agent-skill-sync",
+        "title": "kina-cmd/agent-skill-sync",
+        "url": "https://github.com/kina-cmd/agent-skill-sync",
+        "description": "Scan, classify (A/B/C/D) and sync AI-agent SKILL.md files across toolchains (Codex, Claude Code, WorkBuddy). Zero-dependency Python CLI.",
+        "stars": 18,
+        "language": "Python",
+        "topics": [
+          "ai-agents",
+          "claude-code",
+          "cli",
+          "codex",
+          "developer-tools",
+          "python",
+          "skills",
+          "sync"
+        ],
+        "created_at": "2026-09-12T01:50:30Z",
+        "score": 6.25,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "nexscope-ai/ecommerce-ai-tools",
+        "title": "nexscope-ai/ecommerce-ai-tools",
+        "url": "https://github.com/nexscope-ai/ecommerce-ai-tools",
+        "description": "AI video generator for product images, Amazon review analysis, keyword research, ecommerce SEO audits, and AI agent APIs. Official workflows and support. New users get 1,000 free credits.",
+        "stars": 18,
+        "language": null,
+        "topics": [
+          "ai-agents",
+          "ai-video-generator",
+          "amazon-review-analysis",
+          "amazon-seller-tools",
+          "ecommerce-api",
+          "ecommerce-seo-audit",
+          "image-to-video",
+          "keyword-research"
+        ],
+        "created_at": "2026-09-14T09:35:50Z",
+        "score": 6.25,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "Qiuner/agent-isles",
+        "title": "Qiuner/agent-isles",
+        "url": "https://github.com/Qiuner/agent-isles",
+        "description": "An explorable island world to learn AI coding and build real projects with AI agents. Powered by DeepSeek Harness.",
+        "stars": 31,
+        "language": "TypeScript",
+        "topics": [
+          "ai-agents",
+          "ai-coding",
+          "deepseek",
+          "developer-tools",
+          "gamification",
+          "godot",
+          "learn-to-code",
+          "vibe-coding"
+        ],
+        "created_at": "2026-09-14T10:50:30Z",
+        "score": 6.0,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "js713-lab/sonic-match-mcp",
+        "title": "js713-lab/sonic-match-mcp",
+        "url": "https://github.com/js713-lab/sonic-match-mcp",
+        "description": "MCP server that watches video footage and returns license-safe BGM matches, hook windows, and ffmpeg ducking specs for agents.",
+        "stars": 21,
+        "language": "Python",
+        "topics": [
+          "ai-agents",
+          "bgm",
+          "ffmpeg",
+          "mcp",
+          "model-context-protocol",
+          "music-matching",
+          "python",
+          "video"
+        ],
+        "created_at": "2026-09-10T05:26:25Z",
+        "score": 5.46,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "AlchemyInCode/plumloom-autoeval-oss",
+        "title": "AlchemyInCode/plumloom-autoeval-oss",
+        "url": "https://github.com/AlchemyInCode/plumloom-autoeval-oss",
+        "description": "Open-source CLI and MCP server for evaluating AI applications and gating releases with reliability evidence.",
+        "stars": 17,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-09-14T20:52:52Z",
+        "score": 5.17,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "WangChaohong04/ai-longflow-workbench",
+        "title": "WangChaohong04/ai-longflow-workbench",
+        "url": "https://github.com/WangChaohong04/ai-longflow-workbench",
+        "description": "开源、可复用的长程 AI Agent Harness 与任务工作台。",
+        "stars": 16,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-09-08T05:38:13Z",
+        "score": 5.09,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "KevinCL16/awesome-longitudinal-ai-agents",
+        "title": "KevinCL16/awesome-longitudinal-ai-agents",
+        "url": "https://github.com/KevinCL16/awesome-longitudinal-ai-agents",
+        "description": "A curated literature map on AI agents and Human–AI systems that learn, adapt, and evolve across tasks and interactions",
+        "stars": 16,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-09-11T10:59:10Z",
+        "score": 4.09,
+        "signals": [
+          "new"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
