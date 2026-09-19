@@ -1,0 +1,485 @@
+{
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T16:12:07+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/index/australian-youth-safety-blueprint",
+        "title": "Introducing the Australian Youth Safety Blueprint",
+        "url": "https://openai.com/index/australian-youth-safety-blueprint",
+        "source": "openai",
+        "published": "2026-09-18T12:00:00+00:00",
+        "snippet": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://www.microsoft.com/en-us/security/blog/2026/09/17/from-guidance-to-action-security-fundamentals-that-materially-reduce-risk/",
+        "title": "Why the basics still matter for cybersecurity in the AI era",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/09/17/from-guidance-to-action-security-fundamentals-that-materially-reduce-risk/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+        "title": "Sep 18, 2026 Announcements Partnering with Accenture on embedded evaluation",
+        "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+        "source": "anthropic",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      }
+    ],
+    "github": [
+      {
+        "id": "mrmps/classifier-dev",
+        "title": "mrmps/classifier-dev",
+        "url": "https://github.com/mrmps/classifier-dev",
+        "description": "Zero-shot text classification over plain HTTP — no API key, no account. One Cloudflare Worker, a CLI, and an MCP server. https://classifier.dev",
+        "stars": 206,
+        "language": "TypeScript",
+        "topics": [
+          "api",
+          "classification",
+          "cli",
+          "cloudflare-workers",
+          "llm",
+          "mcp",
+          "text-classification",
+          "zero-shot"
+        ],
+        "created_at": "2026-08-13T03:19:57Z",
+        "score": 9.69,
+        "signals": [
+          "rising",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "Station-Sciences/bot-crossing",
+        "title": "Station-Sciences/bot-crossing",
+        "url": "https://github.com/Station-Sciences/bot-crossing",
+        "description": "A video game for AI agents. Created by Jarren Rocks",
+        "stars": 624,
+        "language": "JavaScript",
+        "topics": [],
+        "created_at": "2026-09-01T19:56:46Z",
+        "score": 9.29,
+        "signals": [
+          "rising"
+        ]
+      },
+      {
+        "id": "RectangleStory/Superpowers_Multi_AI",
+        "title": "RectangleStory/Superpowers_Multi_AI",
+        "url": "https://github.com/RectangleStory/Superpowers_Multi_AI",
+        "description": "⚡ Modular prompt-engineering framework for AI Agents (Cursor, Claude Code, Copilot). Forces structured SDLC, linear execution, context isolation, and systematic debugging via a standalone Windows launcher. Stop vibe coding, start agentic discipline! 🚀",
+        "stars": 100,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agent",
+          "ai-agents",
+          "ai-coding",
+          "ai-tools",
+          "claude",
+          "claude-code",
+          "claude-skills"
+        ],
+        "created_at": "2026-09-14T20:11:30Z",
+        "score": 8.66,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:copilot"
+        ]
+      },
+      {
+        "id": "Mayuqi-crypto/everything-search-skill",
+        "title": "Mayuqi-crypto/everything-search-skill",
+        "url": "https://github.com/Mayuqi-crypto/everything-search-skill",
+        "description": "⚡ Ultra-fast, index-powered local file search skill for AI agents (Cursor, Codex, PI-Desktop) using Voidtools Everything",
+        "stars": 41,
+        "language": "PowerShell",
+        "topics": [
+          "agent-skill",
+          "codex",
+          "cursor",
+          "everything",
+          "file-search",
+          "linux-do"
+        ],
+        "created_at": "2026-09-19T06:08:37Z",
+        "score": 7.39,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "runninwithitmarketing/hermes-skill-deck",
+        "title": "runninwithitmarketing/hermes-skill-deck",
+        "url": "https://github.com/runninwithitmarketing/hermes-skill-deck",
+        "description": "Local macOS dashboard for your Hermes Agent skills — auto-syncs SKILL.md files from ~/.hermes, customizable top menu bar (pick your own on first launch), custom skill boxes, and a Terminal Mode AI agent. Tauri + FastAPI + React.",
+        "stars": 21,
+        "language": "JavaScript",
+        "topics": [
+          "ai-agents",
+          "claude",
+          "dashboard",
+          "deepseek",
+          "fastapi",
+          "macos",
+          "openai",
+          "react"
+        ],
+        "created_at": "2026-09-16T01:52:32Z",
+        "score": 6.46,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "Continuum-AI-Corp/OrcaPromptVault",
+        "title": "Continuum-AI-Corp/OrcaPromptVault",
+        "url": "https://github.com/Continuum-AI-Corp/OrcaPromptVault",
+        "description": "The open archive of how AI agents actually work.  A versioned, verifiable archive of system prompts, developer instructions, tool schemas and agent harnesses powering today's AI products. Captured with OrcaReplay.",
+        "stars": 16,
+        "language": null,
+        "topics": [
+          "agent-harness",
+          "ai-agents",
+          "ai-transparency",
+          "anthropic",
+          "chatgpt",
+          "claude",
+          "claude-code",
+          "codex"
+        ],
+        "created_at": "2026-09-15T11:03:31Z",
+        "score": 6.09,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "missuo/wisp",
+        "title": "missuo/wisp",
+        "url": "https://github.com/missuo/wisp",
+        "description": "Wisp: computer use for agents on macOS (accessibility tree + synthesized input + DevTools), with a CLI and MCP server",
+        "stars": 15,
+        "language": "Swift",
+        "topics": [],
+        "created_at": "2026-09-14T14:19:04Z",
+        "score": 5.0,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "id": "2609.20630v1",
+        "title": "UniPolicy: Unified Objective-Specific Policies for Generative Search Advertising",
+        "url": "https://arxiv.org/abs/2609.20630v1",
+        "authors": [
+          "Kun Yao",
+          "Yuhang Zhou",
+          "Yichi Zhang",
+          "Zeliang Tong",
+          "Shengri Xue",
+          "Haitao Wang"
+        ],
+        "snippet": "Search advertising connects user intent with commercial content and plays a critical role in platform monetization. Recent systems typically align pretrained generative models with a single business reward, such as eCPM, or use naive reward fusion for preliminary multi-objective alignment. However, an ideal search advertising system must jointly account for heterogeneous objectives, including rele",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-09-17T16:17:00+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:retrieval",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2609.20821v1",
+        "title": "Embedding Models Measure in Peculiar Ways",
+        "url": "https://arxiv.org/abs/2609.20821v1",
+        "authors": [
+          "Juri Opitz",
+          "Andrianos Michail"
+        ],
+        "snippet": "Embedding spaces define notions of semantic similarity and distance. We study whether those embeddings reflect physical measurements of mass, distance, time and volume, which admit a unique, objective notion of semantic equivalence and distance. We find that physical measurement is only weakly modeled in the embedding space, and that instead quite peculiar measurement patterns can be observed. Fur",
+        "categories": [
+          "cs.CL",
+          "cs.LG"
+        ],
+        "published": "2026-09-17T17:59:54+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2609.20820v1",
+        "title": "Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision",
+        "url": "https://arxiv.org/abs/2609.20820v1",
+        "authors": [
+          "Nitish Dashora",
+          "Douglas Chen",
+          "Idan Shenfeld",
+          "John Marangola",
+          "Pulkit Agrawal",
+          "Max Simchowitz"
+        ],
+        "snippet": "Complex robotic manipulation tasks frequently require a long-term memory of past events and actions. As conditioning on full histories renders policies prone to spurious correlations and degrades performance, many approaches to policy memory involve compressing historical information through expensive VLM queries in-the-loop to process only task-salient information. In this paper, we propose an al",
+        "categories": [
+          "cs.RO",
+          "cs.AI"
+        ],
+        "published": "2026-09-17T17:59:53+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2609.20817v1",
+        "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
+        "url": "https://arxiv.org/abs/2609.20817v1",
+        "authors": [
+          "Kevin Qu",
+          "Tao Sun",
+          "Massimiliano Viola",
+          "Liyuan Zhu",
+          "Zhizhuo Zhou",
+          "Sayan Deb Sarkar"
+        ],
+        "snippet": "Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence. Most feed-forward methods infer articulation from a single observation and therefore rely heavily on learned category-level shape priors. We present FAMOS, a feed-forward model that predicts movable-part segmentation and joint parameters from a sparse,",
+        "categories": [
+          "cs.CV",
+          "cs.AI",
+          "cs.RO"
+        ],
+        "published": "2026-09-17T17:59:40+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:transformer"
+        ]
+      },
+      {
+        "id": "2609.20784v1",
+        "title": "RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2609.20784v1",
+        "authors": [
+          "Yan Yu",
+          "Zhengxi Lu",
+          "Yizhou Liu",
+          "Yichen Pan",
+          "Aozhe Wang",
+          "Qipeng Chen"
+        ],
+        "snippet": "Multi-turn agents trained with reinforcement learning (RL) receive a single scalar reward per trajectory, which motivates self on-policy distillation (OPD) to supply dense token-level supervision from a self-teacher with privileged task skills, letting a skill-free student internalize them. This recipe, however, is undermined by two findings in agentic tasks: privileged information alone does not ",
+        "categories": [
+          "cs.CL",
+          "cs.AI"
+        ],
+        "published": "2026-09-17T17:52:08+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:agentic"
+        ]
+      },
+      {
+        "id": "2609.20779v1",
+        "title": "Harm Laundering in GPT Models: Evidence That Gender Discrimination Is Transformed Rather Than Reduced Across Safety-Trained Generations",
+        "url": "https://arxiv.org/abs/2609.20779v1",
+        "authors": [
+          "Sarah Wyer",
+          "Sue Black",
+          "Noura Al Moubayed"
+        ],
+        "snippet": "Safety evaluations for large language models rely on surface-form classifiers that report declining harm scores across model generations. We provide evidence that this methodology is systematically incomplete: explicit discriminatory content is transformed rather than removed. We call this \\emph{harm laundering}. Analysing 450,000 gender-directed completions across 15 models spanning GPT-2 through",
+        "categories": [
+          "cs.CL",
+          "cs.AI"
+        ],
+        "published": "2026-09-17T17:49:28+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2609.20761v1",
+        "title": "Agile-WAM: An Agile Tactile World Action Model for Contact-Rich Robot Control",
+        "url": "https://arxiv.org/abs/2609.20761v1",
+        "authors": [
+          "Hanchu Zhou",
+          "Brendan Lynch",
+          "Raman Goyal",
+          "Dechen Gao",
+          "Begum Kasap",
+          "Boqi Zhao"
+        ],
+        "snippet": "World Action Models (WAMs) advance beyond conventional visuomotor policies by jointly predicting future world states and robot actions, enabling the policy to learn physical dynamics that support effective control. However, recent tactile WAMs often rely on large-scale pretrained generative backbones to capture contact-rich physical dynamics, which limit their inference efficiency and flexible dep",
+        "categories": [
+          "cs.RO",
+          "cs.LG"
+        ],
+        "published": "2026-09-17T17:43:51+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2609.20756v1",
+        "title": "OPTED: On-Policy Fine-Tuning for End-to-End Driving using a Render-Free Teacher",
+        "url": "https://arxiv.org/abs/2609.20756v1",
+        "authors": [
+          "Damiano Da Col",
+          "Maximilian Igl",
+          "Peter Karkus",
+          "Kashyap Chitta",
+          "Boris Ivanovic",
+          "Marco Pavone"
+        ],
+        "snippet": "As scaling pre-training data alone yields diminishing returns, post-training is becoming increasingly important across physical AI domains such as autonomous driving. End-to-end driving policies are pre-trained in open loop with behavior cloning on human demonstrations. However, compounding errors during closed-loop deployment can take the vehicle outside the training data distribution, increasing",
+        "categories": [
+          "cs.RO",
+          "cs.CV",
+          "cs.LG"
+        ],
+        "published": "2026-09-17T17:41:51+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2609.20751v1",
+        "title": "dQwen3.5: Hybrid-Attention Diffusion Language Models",
+        "url": "https://arxiv.org/abs/2609.20751v1",
+        "authors": [
+          "Anton Xue",
+          "Litu Rout",
+          "Aditya Akella",
+          "Adam Klivans",
+          "Sujay Sanghavi",
+          "Sanjay Shakkottai"
+        ],
+        "snippet": "Adapting a pretrained autoregressive (AR) model is a cost-efficient route to a diffusion language model (DLM). While nearly all such adaptations start from a full-attention transformer, AR modeling has shifted toward hybrid architectures that interleave attention and RNN layers. This creates an obstacle for adaptation: unlike attention, RNNs are structurally causal and nontrivial to bidirectionali",
+        "categories": [
+          "cs.CL",
+          "cs.LG"
+        ],
+        "published": "2026-09-17T17:39:46+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:transformer"
+        ]
+      },
+      {
+        "id": "2609.20747v1",
+        "title": "MILER: Semantic Mid-Level Representation for Sim-to-Real Reinforcement Learning in Unstructured Autonomous Driving",
+        "url": "https://arxiv.org/abs/2609.20747v1",
+        "authors": [
+          "Thomas Steinecker",
+          "Denis Trescher",
+          "Alexander Bienemann",
+          "Thorsten Luettel",
+          "Mirko Maehlisch"
+        ],
+        "snippet": "Reinforcement learning constitutes a promising approach owing to its potential for superhuman performance and self-learned policies. However, its application to real-world autonomous driving remains scarce, particularly in unstructured environments, because of the challenges associated with sim-to-real transfer for unstructured environments. In this work, we present MILER, an end-to-end policy fra",
+        "categories": [
+          "cs.RO",
+          "cs.LG"
+        ],
+        "published": "2026-09-17T17:35:22+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2609.20744v1",
+        "title": "Video DeltaNet: A Video-Native Hybrid Attention for Livestream Video Generation",
+        "url": "https://arxiv.org/abs/2609.20744v1",
+        "authors": [
+          "Haocheng Xi",
+          "Yiming Xie",
+          "Hexu Zhao",
+          "Yiwen Zhang",
+          "Michael Liu",
+          "Thomas Creavin"
+        ],
+        "snippet": "Video diffusion models repeatedly process long spatiotemporal token sequences during denoising, making attention a major computational bottleneck. Linear attention offers an appealing alternative and has been widely adopted in recent large language models, but directly applying it to video models often fails to preserve the fine-grained interactions required for high-quality generation. We present",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-09-17T17:33:15+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2609.20712v1",
+        "title": "Summarization Bias: The Directional Collapse of Objective Projection into Told-Mode Labels in Large Language Models --- A Conceptual Framework and Registered Test Protocol",
+        "url": "https://arxiv.org/abs/2609.20712v1",
+        "authors": [
+          "Levent Bulut"
+        ],
+        "snippet": "This paper introduces and operationalizes summarization bias: a proposed systematic tendency of large language models (LLMs) to represent narrative meaning as an abstract summary label rather than as the reconstructable inferential structure that produces it. Within the Bulut Doctrine, narrative effect is theorized along a told-shown axis: in told mode, emotional and informational content is decla",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-09-17T17:09:58+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "2609.20659v1",
+        "title": "HIL-UMI: Bringing Human-in-the-Loop Post-Training of Vision-Language-Action Models to Universal Manipulation Interface",
+        "url": "https://arxiv.org/abs/2609.20659v1",
+        "authors": [
+          "Zimu Han",
+          "Yiming Zeng",
+          "Jiyao Zhang",
+          "Zihao Zhao",
+          "Yuanfei Wang",
+          "Yixiang Jin"
+        ],
+        "snippet": "Large-scale vision-language-action (VLA) models provide powerful priors for robot manipulation, yet adapting them to a specific deployment remains challenging. Supervised fine-tuning (SFT) on task-specific demonstrations provides a step toward deployment, but faces two persistent limitations: static data provide limited coverage of out-of-distribution states, and standard imitation objectives do n",
+        "categories": [
+          "cs.RO",
+          "cs.AI"
+        ],
+        "published": "2026-09-17T16:38:37+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:fine-tuning"
+        ]
+      }
+    ]
+  }
+}
