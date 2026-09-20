@@ -1,0 +1,273 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T16:40:11+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [],
+    "github": [
+      {
+        "id": "aoci-spec/aoci-code",
+        "title": "aoci-spec/aoci-code",
+        "url": "https://github.com/aoci-spec/aoci-code",
+        "description": "A persistent, Git-versioned map of your whole codebase and database schema that coding agents read before they touch anything. Local-first MCP server + CLI in Go: a governed repository index of code knowledge that gives Claude Code, Codex, Cursor, and opencode long-term context, memory, and code int",
+        "stars": 447,
+        "language": "Go",
+        "topics": [
+          "agent-memory",
+          "agents-md",
+          "ai-coding",
+          "ai-context",
+          "claude-code",
+          "code-indexing",
+          "code-intelligence",
+          "codex"
+        ],
+        "created_at": "2026-08-08T11:33:08Z",
+        "score": 11.81,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "BarneyD66/clipmivo-tools",
+        "title": "BarneyD66/clipmivo-tools",
+        "url": "https://github.com/BarneyD66/clipmivo-tools",
+        "description": "ClipmivoAI video generation tools: REST API, CLI, local MCP server and Agent Skill.",
+        "stars": 90,
+        "language": "JavaScript",
+        "topics": [],
+        "created_at": "2026-09-14T09:02:04Z",
+        "score": 9.51,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "QiantangCredit/heimdall-agent",
+        "title": "QiantangCredit/heimdall-agent",
+        "url": "https://github.com/QiantangCredit/heimdall-agent",
+        "description": "An autonomous AI agent framework for authorized CTF and security labs",
+        "stars": 73,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-09-14T09:29:07Z",
+        "score": 8.21,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:autonomous"
+        ]
+      },
+      {
+        "id": "Ying-Kai-Liao/jev-browser",
+        "title": "Ying-Kai-Liao/jev-browser",
+        "url": "https://github.com/Ying-Kai-Liao/jev-browser",
+        "description": "Browser automation where an LLM plans and Jev (Typesafe System One) decides. Library, CLI and MCP server.",
+        "stars": 46,
+        "language": "JavaScript",
+        "topics": [
+          "browser-automation",
+          "llm-agents",
+          "mcp",
+          "mcp-server",
+          "playwright"
+        ],
+        "created_at": "2026-09-16T15:13:23Z",
+        "score": 7.55,
+        "signals": [
+          "new",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "INSANE0777/Awwards-mcp",
+        "title": "INSANE0777/Awwards-mcp",
+        "url": "https://github.com/INSANE0777/Awwards-mcp",
+        "description": "Free, open-source MCP server that gives AI coding agents (Claude Code, Codex, Cursor, OpenCode, ZCode…) design inspiration from award-winning websites — search with real screenshots, pull design DNA, capture and record live sites. A Mobbin alternative. No API key.",
+        "stars": 39,
+        "language": "TypeScript",
+        "topics": [
+          "ai-agents",
+          "awwwards",
+          "claude-code",
+          "codex",
+          "coding-agent",
+          "cursor",
+          "design-inspiration",
+          "mcp"
+        ],
+        "created_at": "2026-09-18T10:57:09Z",
+        "score": 7.32,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "khadir-syed/k_ai-agent-skills",
+        "title": "khadir-syed/k_ai-agent-skills",
+        "url": "https://github.com/khadir-syed/k_ai-agent-skills",
+        "description": "Reusable AI skills for Codex, Claude Code & Copilot CLI — Markdown-only, safety-first samples for diagnosing bugs, drafting changelogs, and pre-merge checks.",
+        "stars": 15,
+        "language": "Markdown",
+        "topics": [
+          "ai-agents",
+          "ai-skills",
+          "claude-code",
+          "codex",
+          "github-copilot",
+          "llm-agents",
+          "prompt-engineering"
+        ],
+        "created_at": "2026-09-14T11:43:40Z",
+        "score": 7.0,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:copilot"
+        ]
+      },
+      {
+        "id": "AkashPriyadarshii/jev-seo",
+        "title": "AkashPriyadarshii/jev-seo",
+        "url": "https://github.com/AkashPriyadarshii/jev-seo",
+        "description": "100% free ₹0 agent-first SEO & GEO CLI suite and MCP server in Rust replacing Semrush and OpenSEO via DuckDuckGo and TypeSafe Jev System One",
+        "stars": 16,
+        "language": "Rust",
+        "topics": [
+          "ahrefs-alternative",
+          "claude-code",
+          "cli",
+          "decision-oracle",
+          "duckduckgo",
+          "generative-engine-optimization",
+          "geo",
+          "jev"
+        ],
+        "created_at": "2026-09-18T13:02:32Z",
+        "score": 6.09,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "Lin-Murphy/Awesome-Robot-Agents",
+        "title": "Lin-Murphy/Awesome-Robot-Agents",
+        "url": "https://github.com/Lin-Murphy/Awesome-Robot-Agents",
+        "description": "A source-aware directory of Embodied AI agents, LLM/VLM systems, VLA models, and robotic manipulation projects.",
+        "stars": 26,
+        "language": null,
+        "topics": [
+          "astra",
+          "embodied-ai",
+          "gpt-astra",
+          "llm-agents",
+          "real-world-robotics",
+          "robot-arm",
+          "robot-learning",
+          "robot-manipulation"
+        ],
+        "created_at": "2026-09-15T22:20:45Z",
+        "score": 5.75,
+        "signals": [
+          "new",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "burnigtm/jev-mcp",
+        "title": "burnigtm/jev-mcp",
+        "url": "https://github.com/burnigtm/jev-mcp",
+        "description": "MCP server that puts TypeSafe Jev on the coding loop in Cursor, Codex, and any MCP client",
+        "stars": 26,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-09-17T14:22:01Z",
+        "score": 5.75,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "ueboxai/uebox",
+        "title": "ueboxai/uebox",
+        "url": "https://github.com/ueboxai/uebox",
+        "description": "Open-source AI agent that operates the Unreal Editor — levels, blueprints, materials, C++.",
+        "stars": 24,
+        "language": "TypeScript",
+        "topics": [
+          "agent",
+          "harness",
+          "unreal-engine"
+        ],
+        "created_at": "2026-09-17T12:49:14Z",
+        "score": 5.64,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "YuniqueUnic/a2ui-ask",
+        "title": "YuniqueUnic/a2ui-ask",
+        "url": "https://github.com/YuniqueUnic/a2ui-ask",
+        "description": "Interactive UI for AI agents — turn structured questions into browser forms.",
+        "stars": 19,
+        "language": "Python",
+        "topics": [
+          "a2ui",
+          "agent-skills",
+          "agent-ui",
+          "ai-agent",
+          "claude-code",
+          "codex",
+          "cursor",
+          "form"
+        ],
+        "created_at": "2026-09-15T17:28:35Z",
+        "score": 5.32,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "shoemoney/shoemoneyx",
+        "title": "shoemoney/shoemoneyx",
+        "url": "https://github.com/shoemoney/shoemoneyx",
+        "description": "SMX · the ShoeMoneyX crypto trading desk. Backtest farm, walk-forward optimizer, built-in AI agent, 110 exchanges. Star it if you want it open-sourced.",
+        "stars": 15,
+        "language": null,
+        "topics": [
+          "algo-trading",
+          "backtesting",
+          "ccxt",
+          "coinbase",
+          "crypto",
+          "laravel",
+          "open-source",
+          "paper-trading"
+        ],
+        "created_at": "2026-09-19T19:02:50Z",
+        "score": 5.0,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
