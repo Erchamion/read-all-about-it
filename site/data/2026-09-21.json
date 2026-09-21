@@ -1,0 +1,216 @@
+{
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T18:26:28+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+        "title": "Advisory Group on Mathematics and Artificial Intelligence",
+        "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+        "source": "openai",
+        "published": "2026-09-21T12:00:00+00:00",
+        "snippet": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/building-standards-next-phase-ai",
+        "title": "Building standards for the next phase of AI",
+        "url": "https://openai.com/index/building-standards-next-phase-ai",
+        "source": "openai",
+        "published": "2026-09-21T10:00:00+00:00",
+        "snippet": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+        "title": "Expanding OpenAI Academy with new learning paths",
+        "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+        "source": "openai",
+        "published": "2026-09-21T07:00:00+00:00",
+        "snippet": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/v7",
+        "title": "How V7 gives AI agents institutional memory",
+        "url": "https://openai.com/index/v7",
+        "source": "openai",
+        "published": "2026-09-21T00:00:00+00:00",
+        "snippet": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://news.microsoft.com/source/asia/2026/09/21/ai-ambition-into-action-microsoft-brings-ai-ready-capabilities-across-its-india-cloud-infrastructure-establishes-india-south-central-region-as-a-strategic-hub-for-asia-and-global-south/",
+        "title": "Microsoft brings AI-ready capabilities across its India cloud infrastructure",
+        "url": "https://news.microsoft.com/source/asia/2026/09/21/ai-ambition-into-action-microsoft-brings-ai-ready-capabilities-across-its-india-cloud-infrastructure-establishes-india-south-central-region-as-a-strategic-hub-for-asia-and-global-south/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://news.microsoft.com/source/features/ai/retrochimera-new-research-advances-ai-assisted-molecule-synthesis/",
+        "title": "RetroChimera: New research advances AI-assisted molecule synthesis",
+        "url": "https://news.microsoft.com/source/features/ai/retrochimera-new-research-advances-ai-assisted-molecule-synthesis/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+        "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+        "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+        "source": "huggingface",
+        "published": "2026-09-21T13:44:34+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/tokenizers-v1",
+        "title": "tokenizers v1: encode, decode and scaling, measured",
+        "url": "https://huggingface.co/blog/tokenizers-v1",
+        "source": "huggingface",
+        "published": "2026-09-21T00:00:00+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      }
+    ],
+    "github": [
+      {
+        "id": "zeronezer/bidcraft",
+        "title": "zeronezer/bidcraft",
+        "url": "https://github.com/zeronezer/bidcraft",
+        "description": "标书匠 BidCraft · 对话式标书编制系统：AI 智能编制技术标，支持招标文件解析、标段选择、标书编写、知识库提炼与学习对话式改稿。LLM-Wiki 路线，基于LangGraph实现。Open-source AI agent for construction tender & bid documents.",
+        "stars": 18,
+        "language": "Python",
+        "topics": [
+          "ai-agent",
+          "ai-document-generator",
+          "ai-writing",
+          "bid",
+          "bidding",
+          "chinese",
+          "chinese-llm",
+          "construction"
+        ],
+        "created_at": "2026-09-17T03:42:48Z",
+        "score": 7.25,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:rag"
+        ]
+      },
+      {
+        "id": "255308153/CtxGuard",
+        "title": "255308153/CtxGuard",
+        "url": "https://github.com/255308153/CtxGuard",
+        "description": "面向 AI Agent 的高并发、低延迟上下文治理与 Prompt Cache 守护网关 (Tree-sitter AST / Tool Delta / 50%~80% Token 削减)",
+        "stars": 17,
+        "language": "Python",
+        "topics": [
+          "ai-agent",
+          "claude-code",
+          "context-compression",
+          "cursor",
+          "fastapi",
+          "llm",
+          "prompt-cache",
+          "proxy"
+        ],
+        "created_at": "2026-09-14T18:23:49Z",
+        "score": 6.17,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "blakestone-x/jev-mcp",
+        "title": "blakestone-x/jev-mcp",
+        "url": "https://github.com/blakestone-x/jev-mcp",
+        "description": "MCP server for TypeSafe Jev: typed classify, score, check, match and screen for any agent, with confidence on every answer",
+        "stars": 16,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-09-16T17:24:16Z",
+        "score": 6.09,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "freestylefly/WeChatBridge",
+        "title": "freestylefly/WeChatBridge",
+        "url": "https://github.com/freestylefly/WeChatBridge",
+        "description": "微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具",
+        "stars": 26,
+        "language": "Swift",
+        "topics": [
+          "ai-agent",
+          "chat-history",
+          "macos",
+          "obsidian",
+          "share-extension",
+          "swift",
+          "wechat"
+        ],
+        "created_at": "2026-09-21T02:54:51Z",
+        "score": 5.75,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "bebabinlarsson-blip/Godot-MCP",
+        "title": "bebabinlarsson-blip/Godot-MCP",
+        "url": "https://github.com/bebabinlarsson-blip/Godot-MCP",
+        "description": "Universal Model Context Protocol (MCP) Server and Official Plugin for the Godot Engine",
+        "stars": 16,
+        "language": "GDScript",
+        "topics": [],
+        "created_at": "2026-09-17T12:12:37Z",
+        "score": 5.09,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "Brainwires/jevwire",
+        "title": "Brainwires/jevwire",
+        "url": "https://github.com/Brainwires/jevwire",
+        "description": "Jev decision layer for agents: MCP server, embeddable DecisionModel library, and an escalate-only Claude Code plugin (TypeSafe AI's Jev)",
+        "stars": 15,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-09-17T20:56:27Z",
+        "score": 5.0,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
