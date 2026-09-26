@@ -1,0 +1,725 @@
+{
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T16:51:48+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://commandline.microsoft.com/run-assert-eval-responsible-ai-agent-risk-discovery-at-runtime/",
+        "title": "A new skill finds AI agent risks, fixes them, and proves the fix worked",
+        "url": "https://commandline.microsoft.com/run-assert-eval-responsible-ai-agent-risk-discovery-at-runtime/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      }
+    ],
+    "github": [
+      {
+        "id": "scenario-labs/skills",
+        "title": "scenario-labs/skills",
+        "url": "https://github.com/scenario-labs/skills",
+        "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+        "stars": 564,
+        "language": "Python",
+        "topics": [
+          "3d-generation",
+          "agent-skills",
+          "blender",
+          "claude-code",
+          "claude-skills",
+          "codex",
+          "game-assets",
+          "game-development"
+        ],
+        "created_at": "2026-08-12T10:08:49Z",
+        "score": 11.14,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "JoinArtisanVent/x-scraper-no-api",
+        "title": "JoinArtisanVent/x-scraper-no-api",
+        "url": "https://github.com/JoinArtisanVent/x-scraper-no-api",
+        "description": "Free, self-hosted X (Twitter) scraper no API key, no credits. Uses your own browser session via Playwright. Export tweets, search results & timelines as LLM-ready JSON/CSV/Markdown. Ships an AI agent Skill for OpenClaw & Hermes.",
+        "stars": 64,
+        "language": "JavaScript",
+        "topics": [
+          "hermes",
+          "nitter",
+          "openclaw",
+          "openclaw-plugin",
+          "openclaw-tools",
+          "scrape-twitter-without-api",
+          "tweet-scraper",
+          "twitter"
+        ],
+        "created_at": "2026-09-26T01:57:59Z",
+        "score": 9.02,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "graygnatconsole/mcp-audit-tool",
+        "title": "graygnatconsole/mcp-audit-tool",
+        "url": "https://github.com/graygnatconsole/mcp-audit-tool",
+        "description": "🛡️ Security audit CLI for Model Context Protocol (MCP) servers — scan AI agent configs for tool poisoning, rug pulls, hardcoded secrets, command injection & supply-chain risks. Pure Python, SARIF + CI ready.",
+        "stars": 61,
+        "language": "Python",
+        "topics": [
+          "agent-security",
+          "agentic-ai",
+          "ai-security",
+          "cursor",
+          "llm-guardrails",
+          "llm-security",
+          "mcp",
+          "mcp-audit"
+        ],
+        "created_at": "2026-09-26T02:42:57Z",
+        "score": 8.95,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "breakstageaxe61/genspark-claw",
+        "title": "breakstageaxe61/genspark-claw",
+        "url": "https://github.com/breakstageaxe61/genspark-claw",
+        "description": "🦀⚡ Community skill pack & CLI for Genspark Claw, OpenClaw & Hermes agents — 5 production-ready SKILL.md skills (deep research, reports, slides, browser automation, AI call prep), zero-dependency Node.js installer, MCP server, one-line install",
+        "stars": 61,
+        "language": "JavaScript",
+        "topics": [
+          "agent-skills",
+          "ai-agent",
+          "ai-assistants",
+          "ai-tools",
+          "awesome-genspark",
+          "genspark-agent",
+          "genspark-claw",
+          "genspark-mcp"
+        ],
+        "created_at": "2026-09-26T02:18:05Z",
+        "score": 8.95,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "tomascupr/reelql",
+        "title": "tomascupr/reelql",
+        "url": "https://github.com/tomascupr/reelql",
+        "description": "Give your agent eyes: any video link in, one typed JSON out. A Claude skill + API.",
+        "stars": 21,
+        "language": "Python",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "claude-code",
+          "claude-skills",
+          "llm",
+          "multimodal",
+          "tiktok",
+          "typesafe"
+        ],
+        "created_at": "2026-09-25T19:40:04Z",
+        "score": 7.46,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "mvanhorn/agent-tincan",
+        "title": "mvanhorn/agent-tincan",
+        "url": "https://github.com/mvanhorn/agent-tincan",
+        "description": "Let your AI agents ask each other for help, over Tailscale. Wherever they run.",
+        "stars": 75,
+        "language": "Go",
+        "topics": [],
+        "created_at": "2026-09-22T22:50:16Z",
+        "score": 7.25,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "springvoiceswell/semrush-ai-tool",
+        "title": "springvoiceswell/semrush-ai-tool",
+        "url": "https://github.com/springvoiceswell/semrush-ai-tool",
+        "description": "Semrush SEO AI-powered analysis tool MCP server & CLI for keyword research, domain analytics, backlink analysis",
+        "stars": 65,
+        "language": "JavaScript",
+        "topics": [
+          "ai-seo",
+          "backlink-analysis",
+          "claude-desktop",
+          "cursor-pro",
+          "semrush",
+          "semrush-alternative",
+          "semrush-api",
+          "semrush-features"
+        ],
+        "created_at": "2026-09-25T04:00:09Z",
+        "score": 7.04,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "CogFlux/farhand",
+        "title": "CogFlux/farhand",
+        "url": "https://github.com/CogFlux/farhand",
+        "description": "Remote hands for coding agents: an MCP server that runs OpenCode / Claude Code / Codex work on a remote host over SSH, keeps credentials and the local machine closed, and audits everything",
+        "stars": 15,
+        "language": "Rust",
+        "topics": [
+          "ai-agents",
+          "claude-code",
+          "codex",
+          "coding-agent",
+          "mcp",
+          "mcp-server",
+          "opencode",
+          "remote-development"
+        ],
+        "created_at": "2026-09-19T05:46:43Z",
+        "score": 6.0,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "meskhetian/linkedin-applicants-mcp",
+        "title": "meskhetian/linkedin-applicants-mcp",
+        "url": "https://github.com/meskhetian/linkedin-applicants-mcp",
+        "description": "MCP server that exports your LinkedIn job applicants (lists, resumes, profiles) through your own Chrome, paced like a person, with a local dashboard",
+        "stars": 28,
+        "language": "TypeScript",
+        "topics": [
+          "applicants",
+          "hiring",
+          "linkedin",
+          "mcp",
+          "model-context-protocol",
+          "patchright",
+          "playwright",
+          "recruiting"
+        ],
+        "created_at": "2026-09-26T05:19:57Z",
+        "score": 5.86,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "PinoyFreeCoder/deployment-checklist",
+        "title": "PinoyFreeCoder/deployment-checklist",
+        "url": "https://github.com/PinoyFreeCoder/deployment-checklist",
+        "description": "Language-agnostic pre-deployment checklist for web & mobile apps — security-heavy, with human and AI-agent versions.",
+        "stars": 23,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-09-26T00:58:58Z",
+        "score": 5.58,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "AndyShiu/claude-skill-playwright-browser",
+        "title": "AndyShiu/claude-skill-playwright-browser",
+        "url": "https://github.com/AndyShiu/claude-skill-playwright-browser",
+        "description": "Claude Code skill: a background Playwright browser for screenshots (desktop/tablet/mobile), frontend health checks, visual diffs, scripted UI flows and logged-in pages — in any project. ｜ 讓 Claude Code 擁有背景瀏覽器：多尺寸截圖、前端健檢、視覺比對、操作流程與登入頁面，適用任何專案。",
+        "stars": 20,
+        "language": "JavaScript",
+        "topics": [
+          "accessibility",
+          "browser-automation",
+          "claude",
+          "claude-code",
+          "claude-skills",
+          "e2e-testing",
+          "frontend",
+          "playwright"
+        ],
+        "created_at": "2026-09-24T17:54:42Z",
+        "score": 5.39,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "dseditor/comfy-workflow-landing",
+        "title": "dseditor/comfy-workflow-landing",
+        "url": "https://github.com/dseditor/comfy-workflow-landing",
+        "description": "Procedure for landing someone else's ComfyUI workflow on your own machine. A guide for AI agents — no scripts.",
+        "stars": 17,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-09-24T02:53:25Z",
+        "score": 5.17,
+        "signals": [
+          "new",
+          "keyword:workflow"
+        ]
+      },
+      {
+        "id": "bvdr/daily-planner-skill-remarkable",
+        "title": "bvdr/daily-planner-skill-remarkable",
+        "url": "https://github.com/bvdr/daily-planner-skill-remarkable",
+        "description": "Modular daily-planner Claude skill: builds an e-ink one-sheet and sends it to your reMarkable / Supernote / Kindle Scribe via Folio",
+        "stars": 15,
+        "language": "Python",
+        "topics": [
+          "claude-code",
+          "claude-code-plugin",
+          "claude-code-skill",
+          "claude-code-skills",
+          "daily-planner",
+          "daily-planner-app",
+          "daily-planning",
+          "eink"
+        ],
+        "created_at": "2026-09-21T18:05:25Z",
+        "score": 5.0,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "id": "2609.30266v1",
+        "title": "LLM Agents Can Easily Tamper With Their Own Traces",
+        "url": "https://arxiv.org/abs/2609.30266v1",
+        "authors": [
+          "Jeremy Qin",
+          "David Schmotz",
+          "Derck Prinzhorn",
+          "Luca Beurer-Kellner",
+          "Ameya Prabhu",
+          "Maksym Andriushchenko"
+        ],
+        "snippet": "Asynchronous monitoring, incident investigations, and compliance audits primarily rely on agent traces to reconstruct what happened. These analyses assume that LLM agents cannot tamper with their own execution traces. We show that local LLM agents such as Claude Code, Codex, Antigravity, Open Code and Grok Build fail to enforce this boundary. All tested harnesses, except Muse Code, allowed agents ",
+        "categories": [
+          "cs.CR",
+          "cs.AI"
+        ],
+        "published": "2026-09-24T17:59:54+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "2609.30249v1",
+        "title": "RAPID: Robot Agentic Programming from Demonstrations",
+        "url": "https://arxiv.org/abs/2609.30249v1",
+        "authors": [
+          "Yuyao Liu",
+          "Jiayuan Mao",
+          "David Hsu",
+          "Leslie Pack Kaelbling",
+          "Tomás Lozano-Pérez"
+        ],
+        "snippet": "Coding agents have demonstrated enormous success in solving complex programming problems. To leverage their potential for robot systems, this work introduces Robot Agentic Programming from Demonstrations (RAPID), which automatically generates, verifies, and refines robot programs, given a single visual human demonstration. The iterative agentic loop of code refinement requires several key ingredie",
+        "categories": [
+          "cs.RO",
+          "cs.AI",
+          "cs.CV"
+        ],
+        "published": "2026-09-24T17:58:21+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:agentic",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2609.30219v1",
+        "title": "Requirement-Bound Verified Commissioning: A Frozen Four-Billion-Parameter Local Model as a Candidate Generator under an External Acceptance Layer with Verification and Release Authority",
+        "url": "https://arxiv.org/abs/2609.30219v1",
+        "authors": [
+          "Mehmet Iscan"
+        ],
+        "snippet": "An acceptance protocol is developed for sensor-coordinate and polarity binding in mechatronic commissioning. Candidate generation is separated from release authority. Requirements unsupported by a deterministic parser are routed to a frozen local language model with four billion parameters. Plans are released only when both facts can be derived by an external gate under a sealed grammar. One canon",
+        "categories": [
+          "cs.SE",
+          "cs.AI",
+          "eess.SY"
+        ],
+        "published": "2026-09-24T17:46:53+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2609.30210v1",
+        "title": "The Alignment Illusion in Multimodal Large Language Models",
+        "url": "https://arxiv.org/abs/2609.30210v1",
+        "authors": [
+          "Hong-Han Wang",
+          "Yuntao Wang",
+          "Hu Ding"
+        ],
+        "snippet": "Layer-wise visual-text similarity in Multimodal Large Language Models (MLLMs) is widely interpreted as evidence that the language model progressively integrates visual content into a shared representation space. This reading rests on the assumption that scalar alignment scores reflect content-level cross-modal interaction. To test this assumption, we apply controlled interventions to the visual st",
+        "categories": [
+          "cs.CV",
+          "cs.LG"
+        ],
+        "published": "2026-09-24T17:42:29+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:multimodal",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2609.30186v1",
+        "title": "Jev-Mobile: Jev as an Executor for Mobile GUI Agents",
+        "url": "https://arxiv.org/abs/2609.30186v1",
+        "authors": [
+          "Linghua Zhang"
+        ],
+        "snippet": "Vision-language models (VLMs) have become a common foundation for autonomous mobile GUI agents, but most existing systems rely on the VLM for both planning and action grounding at nearly every interaction step, leading to substantial latency and model-serving cost. We introduce Jev-Mobile, which shifts this paradigm to low-frequency VLM planning and high-frequency lightweight execution: the VLM sp",
+        "categories": [
+          "cs.AI",
+          "cs.SE"
+        ],
+        "published": "2026-09-24T17:30:32+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2609.30177v1",
+        "title": "Search-Aware Reinforcement Learning for Multi-Component Query Understanding in Roblox Game Search",
+        "url": "https://arxiv.org/abs/2609.30177v1",
+        "authors": [
+          "Nayoung Choi",
+          "Shengjian Chen",
+          "Xiaokai Wei",
+          "Wenzheng Zhang",
+          "Daiyao Yi",
+          "Rachit Pareek"
+        ],
+        "snippet": "Query understanding (QU) plays a critical role in production search systems, translating raw user queries into search execution plans that drive downstream retrieval and ranking. While large language models (LLMs) have enabled QU to be framed as a structured multi-task generation problem (e.g., intent classification, query expansion), optimizing such models to produce search-engine-coupled outputs",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-09-24T17:26:46+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:fine-tuning",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2609.30157v1",
+        "title": "Learning and interpreting policies for simultaneous entanglement requests in quantum networks",
+        "url": "https://arxiv.org/abs/2609.30157v1",
+        "authors": [
+          "Leon Rode",
+          "Sumeet Khatri",
+          "Supartha Podder"
+        ],
+        "snippet": "Future quantum networks will make use of entanglement to perform numerous tasks, such as sending quantum information over long distances, distributed quantum computing, and quantum sensing. In general, these tasks will need to be performed simultaneously in various regions of a network, while minimizing resources and latency. We will thus require policies for scheduling link-level entanglement res",
+        "categories": [
+          "quant-ph",
+          "cs.LG"
+        ],
+        "published": "2026-09-24T17:16:00+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model"
+        ]
+      },
+      {
+        "id": "2609.30123v1",
+        "title": "HEXIS: Compiling Skills into Extended Finite State Machines",
+        "url": "https://arxiv.org/abs/2609.30123v1",
+        "authors": [
+          "Minghao LI"
+        ],
+        "snippet": "Agent skills provide reusable knowledge and instructions, yet agents must repeatedly infer how to apply them and which operation should follow. This couples task reasoning with control decisions, allowing prescribed steps to be omitted or applied incorrectly. We introduce HEXIS, which compiles agent skills into extended finite state machines that separate knowledge from control flow. Skill knowled",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-09-24T16:58:18+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2609.30258v1",
+        "title": "Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2609.30258v1",
+        "authors": [
+          "Sudip Bhujel",
+          "Shanghao Shi",
+          "Ruiquan Huang",
+          "Ning Zhang",
+          "Yang Xiao"
+        ],
+        "snippet": "Distributed learning in embodied reinforcement-learning agents offers a degree of privacy by retaining raw sensor data on-device and transmitting only policy gradients to the server. Yet temporal structure can amplify this leakage beyond single-frame attacks. We introduce Temporal Reconstruction Attack on Consecutive Encodings (TRACE), an amortized temporal gradient-inversion attack that autoregre",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-09-24T17:59:18+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:transformer"
+        ]
+      },
+      {
+        "id": "2609.30226v1",
+        "title": "PoEM: Predicting RL Outcomes from Existing Policies",
+        "url": "https://arxiv.org/abs/2609.30226v1",
+        "authors": [
+          "Kimia Hamidieh",
+          "Giannis Daras",
+          "Antonio Torralba"
+        ],
+        "snippet": "Foundation models are post-trained with reinforcement learning (RL) to maximize specific rewards, such as human alignment, correctness, or instruction following. This post-training process is computationally intensive, sometimes unstable, and has to be run from scratch every time the reward model changes or when we want to combine multiple rewards. We hence ask: given a new reward function, is it ",
+        "categories": [
+          "cs.LG",
+          "cs.AI",
+          "cs.CL",
+          "cs.CV"
+        ],
+        "published": "2026-09-24T17:50:25+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2609.30214v1",
+        "title": "Underwater C3-JEPA: An Object-Centric Cross-View World Model for ROV Salvage",
+        "url": "https://arxiv.org/abs/2609.30214v1",
+        "authors": [
+          "Yuncong Yang",
+          "Jinlong Li",
+          "Yulong Xue",
+          "Feng Wu",
+          "Chunwen Zhang",
+          "Lei Qiao"
+        ],
+        "snippet": "We present Underwater C$^{3}$-JEPA (cross-view, control-conditioned, context-extended), an object-centric multi-view predictive world model for near-field heavy-load underwater ROV salvage. Without contact sensors, it predicts in latent space how the task-object state evolves through contact interaction and under the hydrodynamic lag of the vehicle, from synchronized multi-view RGB observations an",
+        "categories": [
+          "cs.RO",
+          "cs.AI"
+        ],
+        "published": "2026-09-24T17:45:42+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "2609.30199v1",
+        "title": "ExplorationBench: Measuring AI Systems' Exploration in Verifiable Alien Worlds",
+        "url": "https://arxiv.org/abs/2609.30199v1",
+        "authors": [
+          "Ming Zhang",
+          "Zhenghao Xiang",
+          "Peizhong Gao",
+          "Yujiong Shen",
+          "Yuhui Wang",
+          "Zhonghan Yue"
+        ],
+        "snippet": "Scientific discovery begins where known problems end. There, AI systems must engage in exploration: framing hypotheses, designing experiments, and iterating on the results. However, evaluating this ability is difficult: (1) how to verify whether a genuinely new hypothesis holds, and (2) how to determine whether a system has discovered it through exploration or merely recalled related knowledge fro",
+        "categories": [
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-09-24T17:37:14+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2609.30198v1",
+        "title": "Beyond Compression: Training Latent Representations for Stable Long-Horizon Rollout in Neural Surrogate Solvers",
+        "url": "https://arxiv.org/abs/2609.30198v1",
+        "authors": [
+          "Andreas E. Robertson",
+          "Ashley T. Lenau",
+          "John D. Shimanek",
+          "Benjamin A. Jasperson",
+          "Vivek Oommen",
+          "David L. Damm"
+        ],
+        "snippet": "Latent neural surrogate solvers, or latent dynamics models, accelerate simulations of time-dependent physical systems by evolving a compressed latent space rather than resolving full-resolution fields directly. In principle this reduces computational cost and simplifies learning, but in practice errors often accumulate rapidly during long autoregressive rollouts, limiting predictive utility. We sh",
+        "categories": [
+          "cs.LG",
+          "cond-mat.mtrl-sci",
+          "cs.CE"
+        ],
+        "published": "2026-09-24T17:36:46+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2609.30192v1",
+        "title": "SAGE: Mitigating Long-Horizon Reasoning Biases via Topological Guidance",
+        "url": "https://arxiv.org/abs/2609.30192v1",
+        "authors": [
+          "Xinyue Zeng",
+          "Jiawei Zhang",
+          "Yujun Yan",
+          "Dawei Zhou"
+        ],
+        "snippet": "Long-horizon reasoning remains a central challenge for large language models (LLMs) under sparse-reward regimes. We argue that this brittleness arises from two biases induced by complex reasoning spaces: an exploration bias, where models are drawn toward locally plausible but structurally unstable branches, and a compounding bias, where small local deviations accumulate across depth and suppress r",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-09-24T17:33:29+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2609.30173v1",
+        "title": "GridSFM: A Foundation Model for Solving AC Optimal Power Flow",
+        "url": "https://arxiv.org/abs/2609.30173v1",
+        "authors": [
+          "Luke Bhan",
+          "Weiwei Yang",
+          "Margaret Capetz",
+          "Baosen Zhang"
+        ],
+        "snippet": "We introduce GridSFM, a framework that combines a pretrained foundation model across grid topologies with physics-informed fine-tuning for solving AC Optimal Power Flow (AC-OPF) at scale. It is a $15$ million parameter physics-inspired graph neural network pretrained across $54$ topologies of $500$ to $4{,}000$ buses. Our model attains a $2.45\\%$ zero-shot generation-cost error on a $10{,}000$ bus",
+        "categories": [
+          "eess.SY",
+          "cs.LG",
+          "math.OC"
+        ],
+        "published": "2026-09-24T17:25:06+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2609.30160v1",
+        "title": "A Training Criterion with Token-Level Tolerance to Transcription Ambiguity for Automatic Speech Recognition",
+        "url": "https://arxiv.org/abs/2609.30160v1",
+        "authors": [
+          "Saurabh Kumar",
+          "Diptiman Mohanta",
+          "Prasanta Kumar Ghosh"
+        ],
+        "snippet": "Automatic speech recognition is typically trained assuming that the reference transcript is the only valid labeling of an utterance, yet even nominally verbatim transcripts contain localized differences in pronunciation, spelling, or lexical realization that the acoustics do not uniquely determine. Omni-temporal Classification (OTC) tolerates such noise by adding wildcard paths to the connectionis",
+        "categories": [
+          "cs.CL",
+          "eess.AS"
+        ],
+        "published": "2026-09-24T17:17:55+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2609.30150v1",
+        "title": "Graph-Based Inference and Topology-Aware Multi-Agent Reinforcement Learning for Large-Scale Railway Network Management",
+        "url": "https://arxiv.org/abs/2609.30150v1",
+        "authors": [
+          "Giacomo Arcieri",
+          "Gregory Duthé",
+          "Christophe Muller",
+          "Konstantinos G. Papakonstantinou",
+          "Daniel Straub",
+          "Eleni Chatzi"
+        ],
+        "snippet": "Modern infrastructure asset management constitutes a complex sequential decision-making problem, characterized by long planning horizons and system-level interactions, such as spatial deterioration correlations and economies of scale. While deep reinforcement learning has shown promise in optimizing maintenance policies, scaling to real-world networks remains challenging. Centralized approaches be",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-09-24T17:12:39+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "2609.30144v1",
+        "title": "EnigmaForge: The Question Is Hidden in the Story",
+        "url": "https://arxiv.org/abs/2609.30144v1",
+        "authors": [
+          "Daniel Eisner"
+        ],
+        "snippet": "Most benchmarks hand the model a question. EnigmaForge hands it a stack of old documents and no question at all. Buried in the letters, receipts, and logbook margins is a small logic puzzle whose solution is unique - proved by a SAT solver at generation time, with an ablation certificate showing every clue is load-bearing. Because instances are generated rather than collected, the corpus renews fo",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-09-24T17:10:03+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2609.30121v1",
+        "title": "What, When, and How: Audio Description as Constrained Global Optimization",
+        "url": "https://arxiv.org/abs/2609.30121v1",
+        "authors": [
+          "Igor Sterner",
+          "Mirella Lapata",
+          "Alex Lascarides",
+          "Frank Keller"
+        ],
+        "snippet": "Audio Description (AD) makes movies accessible to blind and visually impaired audiences by narrating visual information in gaps between dialogue. Existing automatic AD systems largely treat generation as a local video-to-text problem, assuming that the content to describe and its temporal location are already provided. Realistic AD instead requires coupled decisions about what visual information i",
+        "categories": [
+          "cs.CL",
+          "cs.CV"
+        ],
+        "published": "2026-09-24T16:56:50+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:benchmark"
+        ]
+      }
+    ]
+  }
+}
