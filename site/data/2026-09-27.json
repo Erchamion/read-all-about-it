@@ -1,0 +1,266 @@
+{
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T17:26:01+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [],
+    "github": [
+      {
+        "id": "jianruntech/geo-score",
+        "title": "jianruntech/geo-score",
+        "url": "https://github.com/jianruntech/geo-score",
+        "description": "Can AI engines cite your site, and do they? Free 0–100 readiness score on an open GEO rubric, plus citation tracking via the OpenAI, Perplexity, Gemini and Claude APIs with your own keys. Zero dependencies, MCP server.",
+        "stars": 551,
+        "language": "Python",
+        "topics": [
+          "aeo",
+          "ai-search",
+          "ai-visibility",
+          "answer-engine-optimization",
+          "chatgpt",
+          "claude-code",
+          "claude-skill",
+          "cli"
+        ],
+        "created_at": "2026-09-08T05:03:27Z",
+        "score": 12.11,
+        "signals": [
+          "rising",
+          "keyword:llm",
+          "keyword:mcp",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "HexRaysSA/ida-mcp",
+        "title": "HexRaysSA/ida-mcp",
+        "url": "https://github.com/HexRaysSA/ida-mcp",
+        "description": "Official Hex-Rays IDA MCP Server.",
+        "stars": 270,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-08-27T12:44:28Z",
+        "score": 9.08,
+        "signals": [
+          "rising",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "AgriciDaniel/gatekeeper",
+        "title": "AgriciDaniel/gatekeeper",
+        "url": "https://github.com/AgriciDaniel/gatekeeper",
+        "description": "Routes each request to the right AI agent or skill before your AI picks one. Your rules decide what code can; Jev (TypeSafe) makes the typed call. Installs as Claude Code hooks.",
+        "stars": 17,
+        "language": "Python",
+        "topics": [
+          "agent-orchestration",
+          "agent-routing",
+          "ai-agents",
+          "ai-router",
+          "claude-code",
+          "claude-code-hooks",
+          "developer-tools",
+          "jev"
+        ],
+        "created_at": "2026-09-23T18:32:44Z",
+        "score": 8.17,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:skill",
+          "keyword:orchestration"
+        ]
+      },
+      {
+        "id": "admte/orc-claude-plugin",
+        "title": "admte/orc-claude-plugin",
+        "url": "https://github.com/admte/orc-claude-plugin",
+        "description": "Claude plugin for the ORC8R Cloud MCP server",
+        "stars": 120,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-09-26T20:16:59Z",
+        "score": 7.92,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "xsoway/codebase-graph-prd-rules",
+        "title": "xsoway/codebase-graph-prd-rules",
+        "url": "https://github.com/xsoway/codebase-graph-prd-rules",
+        "description": "Two source-verified AI-agent skills that turn project code into traceable business-rule documents (whole-project + single-module). Graph-guided, evidence-graded, evaluation-backed.",
+        "stars": 17,
+        "language": "HTML",
+        "topics": [
+          "agent",
+          "ai",
+          "code-graph",
+          "graphify",
+          "llm",
+          "persona",
+          "self-memory",
+          "skill"
+        ],
+        "created_at": "2026-09-21T07:18:49Z",
+        "score": 7.17,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "1612535983/deepresearchagent",
+        "title": "1612535983/deepresearchagent",
+        "url": "https://github.com/1612535983/deepresearchagent",
+        "description": "Recoverable and auditable deep-research agent built with LangGraph. It plans research, searches the web, manages evidence and context, resumes interrupted runs, and generates cited reports—also designed as a learning reference for AI Agent enthusiasts.",
+        "stars": 47,
+        "language": "Python",
+        "topics": [
+          "ai-agent",
+          "deep-research"
+        ],
+        "created_at": "2026-09-22T01:34:20Z",
+        "score": 6.58,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "ALbum3270/excel-assistant",
+        "title": "ALbum3270/excel-assistant",
+        "url": "https://github.com/ALbum3270/excel-assistant",
+        "description": "An AI agent in the Excel side panel: reads and edits the open workbook, runs locally, works with an Anthropic API key or any Anthropic-compatible API. Assembled from open-source parts.",
+        "stars": 15,
+        "language": "JavaScript",
+        "topics": [],
+        "created_at": "2026-09-20T14:18:24Z",
+        "score": 6.0,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:assistant"
+        ]
+      },
+      {
+        "id": "petershifi123-wq/solve-lite",
+        "title": "petershifi123-wq/solve-lite",
+        "url": "https://github.com/petershifi123-wq/solve-lite",
+        "description": "Local decision runtime for AI agents · 本地 AI Agent 决策运行时 · CPU-first · 20 decision workflows · frozen local core · replaceable adapters",
+        "stars": 26,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-09-25T03:51:33Z",
+        "score": 5.75,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "JuniorXcoder/hermes-virtual-office",
+        "title": "JuniorXcoder/hermes-virtual-office",
+        "url": "https://github.com/JuniorXcoder/hermes-virtual-office",
+        "description": "A 3D virtual office for your AI agent fleet — desks, meetings with auto-generated minutes, live screen-peeking, and a Kanban board synced to Hermes. Next.js + Three.js, stateless, no DB.",
+        "stars": 25,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-09-27T06:34:11Z",
+        "score": 5.7,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "maximilianfeix/proxy-scraper",
+        "title": "maximilianfeix/proxy-scraper",
+        "url": "https://github.com/maximilianfeix/proxy-scraper",
+        "description": "Free proxies that actually work: 700+ sources, every hit verified (honeypots, injected scripts, TLS), a live list every hour, a rotating proxy server and an MCP server for AI agents.",
+        "stars": 19,
+        "language": "Python",
+        "topics": [
+          "ai-agents",
+          "cli",
+          "discord-bot",
+          "free-proxy",
+          "hacktoberfest",
+          "honeypot-detection",
+          "http-proxy",
+          "mcp"
+        ],
+        "created_at": "2026-09-24T12:33:28Z",
+        "score": 5.32,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "Junjue-Wang/DORA",
+        "title": "Junjue-Wang/DORA",
+        "url": "https://github.com/Junjue-Wang/DORA",
+        "description": "[NeurIPS 2026 Oral] DORA: Can LLM Agents Respond to Disasters? Benchmarking Heterogeneous Geospatial Reasoning in Emergency Operations",
+        "stars": 15,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-09-25T11:37:40Z",
+        "score": 5.0,
+        "signals": [
+          "new",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "binders-io/app",
+        "title": "binders-io/app",
+        "url": "https://github.com/binders-io/app",
+        "description": "Binders for macOS: local-first dictation, meeting notes and memory, with an MCP server for your AI tools. Private by design, free, open source.",
+        "stars": 15,
+        "language": "Swift",
+        "topics": [
+          "apple-silicon",
+          "dictation",
+          "knowledge-base",
+          "local-ai",
+          "local-first",
+          "macos",
+          "mcp",
+          "mcp-server"
+        ],
+        "created_at": "2026-09-21T04:45:41Z",
+        "score": 5.0,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "promptclickrun/bighelp",
+        "title": "promptclickrun/bighelp",
+        "url": "https://github.com/promptclickrun/bighelp",
+        "description": "bighelp: a native iOS app for your personal AI agents on Hermes",
+        "stars": 15,
+        "language": "Swift",
+        "topics": [
+          "ai-agents",
+          "hermes",
+          "ios",
+          "swiftui"
+        ],
+        "created_at": "2026-09-26T21:13:48Z",
+        "score": 4.0,
+        "signals": [
+          "new"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
