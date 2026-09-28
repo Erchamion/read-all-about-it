@@ -1,0 +1,206 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T19:58:05+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+        "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+        "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+        "source": "openai",
+        "published": "2026-09-28T07:00:00+00:00",
+        "snippet": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+        "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+        "source": "google-ai",
+        "published": "2026-09-28T19:00:00+00:00",
+        "snippet": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://news.microsoft.com/source/features/digital-transformation/at-nasa-ai-is-helping-scientists-unlock-discoveries-hidden-in-decades-of-data/",
+        "title": "At NASA, AI is helping scientists unlock discoveries hidden in decades of data",
+        "url": "https://news.microsoft.com/source/features/digital-transformation/at-nasa-ai-is-helping-scientists-unlock-discoveries-hidden-in-decades-of-data/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://machinelearning.apple.com/research/federated-variational-inequalities",
+        "title": "Faster Rates for Federated Variational Inequalities",
+        "url": "https://machinelearning.apple.com/research/federated-variational-inequalities",
+        "source": "apple-ml",
+        "published": "2026-09-28T00:00:00+00:00",
+        "snippet": "In this paper, we study federated optimization for solving stochastic variational inequalities (VIs), a problem that has attracted growing attention in recent years. Despite substantial progress, a significant gap remains between existing convergence rates and the state-of-the-art bounds known for f",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/Hcompany/holo4",
+        "title": "Holo4: powering generalist computer-use agents",
+        "url": "https://huggingface.co/blog/Hcompany/holo4",
+        "source": "huggingface",
+        "published": "2026-09-28T09:44:05+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://mistral.ai/news/hallo-deutschland",
+        "title": "Hallo, Deutschland!",
+        "url": "https://mistral.ai/news/hallo-deutschland",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://mistral.ai/news/hallo-deutschland/",
+        "title": "Company Hallo, Deutschland! Mistral Opens German Hub in Munich to Advance Industrial AI in Europe’s Largest Economy September 28, 2026 By Mistral",
+        "url": "https://mistral.ai/news/hallo-deutschland/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      }
+    ],
+    "github": [
+      {
+        "id": "aliyun/ai-agent-handbook",
+        "title": "aliyun/ai-agent-handbook",
+        "url": "https://github.com/aliyun/ai-agent-handbook",
+        "description": "A practical guide to building enterprise AI agents across their full lifecycle.",
+        "stars": 831,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-09-11T07:02:17Z",
+        "score": 10.7,
+        "signals": [
+          "rising",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "kaankiziltug/logo-design-skill",
+        "title": "kaankiziltug/logo-design-skill",
+        "url": "https://github.com/kaankiziltug/logo-design-skill",
+        "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
+        "stars": 372,
+        "language": "HTML",
+        "topics": [
+          "agent-skills",
+          "branding",
+          "claude",
+          "claude-skills",
+          "codex",
+          "gemini-cli",
+          "logo-design",
+          "svg"
+        ],
+        "created_at": "2026-09-26T08:23:34Z",
+        "score": 10.54,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "raqueeb/e_return_nbr",
+        "title": "raqueeb/e_return_nbr",
+        "url": "https://github.com/raqueeb/e_return_nbr",
+        "description": "An agentic playbook for pre-filling the Bangladesh NBR e-Return (etaxnbr.gov.bd) using Opencode (but anything will work) + Playwright MCP: an AI agent walks the return wizard, patches your draft against your own data files, and stops at Save draft — you review, pay, and submit yourself.",
+        "stars": 20,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-09-25T04:07:53Z",
+        "score": 6.39,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "grizlizora/reverse-cad",
+        "title": "grizlizora/reverse-cad",
+        "url": "https://github.com/grizlizora/reverse-cad",
+        "description": "⚙️ Industrial-grade deterministic STL ➔ STEP AP242 solid B-Rep converter & semantic CAD Features JSON engine with built-in MCP server for AI agents. Sub-second speed, ISO threads (M2–M24), Print-in-Place kinematics, and 99.958% RSVS mathematical fidelity across macOS, Windows, and Linux.",
+        "stars": 24,
+        "language": "TypeScript",
+        "topics": [
+          "3d-printing",
+          "ai-agents",
+          "b-rep",
+          "cad",
+          "computational-geometry",
+          "mcp-server",
+          "mesh-processing",
+          "model-context-protocol"
+        ],
+        "created_at": "2026-09-26T17:28:48Z",
+        "score": 5.64,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "ateymoori/oh-my-android",
+        "title": "ateymoori/oh-my-android",
+        "url": "https://github.com/ateymoori/oh-my-android",
+        "description": "Android emulator & ADB GUI for Mac: dark mode, font size, RTL, TalkBack, network, GPS, Layout Inspector in dp. Built-in MCP server lets Claude Code, Codex and Cursor drive the emulator.",
+        "stars": 19,
+        "language": "Swift",
+        "topics": [
+          "accessibility",
+          "adb",
+          "adb-gui",
+          "ai-agents",
+          "ai-coding",
+          "android",
+          "android-emulator",
+          "android-studio"
+        ],
+        "created_at": "2026-09-24T08:31:01Z",
+        "score": 5.32,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "codebase/amiga-game-kit",
+        "title": "codebase/amiga-game-kit",
+        "url": "https://github.com/codebase/amiga-game-kit",
+        "description": "Build real Commodore Amiga games with AI agents: C toolchain, headless emulator tests, and art, sound and video pipelines.",
+        "stars": 19,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-09-25T15:30:53Z",
+        "score": 4.32,
+        "signals": [
+          "new"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
