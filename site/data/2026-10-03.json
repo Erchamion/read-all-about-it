@@ -1,0 +1,207 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T16:56:43+00:00",
+  "errors": [
+    {
+      "source": "arxiv",
+      "message": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat%3Acs.AI+OR+cat%3Acs.CL+OR+cat%3Acs.LG&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://machinelearning.apple.com/research/limits-confidence-diffusion",
+        "title": "Limits of Confidence in Diffusion",
+        "url": "https://machinelearning.apple.com/research/limits-confidence-diffusion",
+        "source": "apple-ml",
+        "published": "2026-10-02T00:00:00+00:00",
+        "snippet": "Discrete diffusion, including remasking and uniform-state samplers, generate a sequence by writing multiple token positions per step, drawing each from a per-position distribution and choosing which positions to write from those same distributions. For domains of general interest (pixels, phonemes, ",
+        "score": 1.0,
+        "signals": []
+      }
+    ],
+    "github": [
+      {
+        "id": "QingYunA/answer-me-with-html",
+        "title": "QingYunA/answer-me-with-html",
+        "url": "https://github.com/QingYunA/answer-me-with-html",
+        "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+        "stars": 261,
+        "language": "JavaScript",
+        "topics": [
+          "agent-skill",
+          "ai-agent",
+          "claude-code",
+          "cli",
+          "diagram",
+          "explainer",
+          "html",
+          "llm"
+        ],
+        "created_at": "2026-10-02T09:57:40Z",
+        "score": 11.03,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "nuglifeleoji/Sentry",
+        "title": "nuglifeleoji/Sentry",
+        "url": "https://github.com/nuglifeleoji/Sentry",
+        "description": "Learning to Recover from LLM Agent Failures at Test Time",
+        "stars": 24,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-10-02T00:54:32Z",
+        "score": 6.64,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "haimu0427/Startidy",
+        "title": "haimu0427/Startidy",
+        "url": "https://github.com/haimu0427/Startidy",
+        "description": "Turn messy GitHub Stars into organized Lists automatically with AI agent skills and npm CLI.",
+        "stars": 23,
+        "language": "TypeScript",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "claude-code",
+          "developer-tools",
+          "github-lists",
+          "github-stars",
+          "github-stars-api",
+          "github-stars-manager"
+        ],
+        "created_at": "2026-09-29T07:35:02Z",
+        "score": 6.58,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "Jakeschincariol/replica-skill",
+        "title": "Jakeschincariol/replica-skill",
+        "url": "https://github.com/Jakeschincariol/replica-skill",
+        "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+        "stars": 20,
+        "language": "Python",
+        "topics": [
+          "agent",
+          "agent-skills",
+          "app-clone",
+          "claude",
+          "claude-code",
+          "claude-skills",
+          "indie-hacker",
+          "reverse-engineering"
+        ],
+        "created_at": "2026-10-03T12:07:49Z",
+        "score": 6.39,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "agent-wow/agent-wow",
+        "title": "agent-wow/agent-wow",
+        "url": "https://github.com/agent-wow/agent-wow",
+        "description": "AzerothCore WoW client designed for autonomous AI agent players.",
+        "stars": 18,
+        "language": "Go",
+        "topics": [],
+        "created_at": "2026-09-26T04:00:48Z",
+        "score": 6.25,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:autonomous"
+        ]
+      },
+      {
+        "id": "doronp/gitmemory",
+        "title": "doronp/gitmemory",
+        "url": "https://github.com/doronp/gitmemory",
+        "description": "Git-versioned, contiguity-checked memory for AI agents: verbatim transcripts, byte-offset recall, no LLM",
+        "stars": 18,
+        "language": "Python",
+        "topics": [
+          "agent-memory",
+          "ai-agents",
+          "bm25",
+          "claude-code",
+          "git",
+          "llm",
+          "longmemeval",
+          "memory"
+        ],
+        "created_at": "2026-09-28T09:36:22Z",
+        "score": 6.25,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "evergreen-it-dev/folio",
+        "title": "evergreen-it-dev/folio",
+        "url": "https://github.com/evergreen-it-dev/folio",
+        "description": "The AI-assisted, open-source alternative to Notion and Confluence: a team wiki that lives in Git, with real-time editing, data tables, whiteboards, offline mode, and first-class AI agents.",
+        "stars": 20,
+        "language": "TypeScript",
+        "topics": [
+          "collaboration",
+          "documentation",
+          "excalidraw",
+          "git",
+          "knowledge-base",
+          "markdown",
+          "mcp",
+          "self-hosted"
+        ],
+        "created_at": "2026-09-29T18:57:20Z",
+        "score": 5.39,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "Raynan00/cell-use",
+        "title": "Raynan00/cell-use",
+        "url": "https://github.com/Raynan00/cell-use",
+        "description": "On-device iPhone automation for AI agents. Open-source Swift SDK for screenshots, taps, swipes, text input and an embedded local tunnel.",
+        "stars": 19,
+        "language": "Swift",
+        "topics": [
+          "ai-agents",
+          "computer-use",
+          "ios",
+          "ios-automation",
+          "ios-sdk",
+          "iphone",
+          "iphone-automation",
+          "mobile-agents"
+        ],
+        "created_at": "2026-09-28T03:06:47Z",
+        "score": 4.32,
+        "signals": [
+          "new"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
