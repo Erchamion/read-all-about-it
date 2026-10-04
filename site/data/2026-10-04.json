@@ -1,0 +1,250 @@
+{
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T17:15:39+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://huggingface.co/blog/microsoft/thinkingbox",
+        "title": "The Agent Said It Was Done. The Database Disagreed.",
+        "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+        "source": "huggingface",
+        "published": "2026-10-03T22:56:48+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      }
+    ],
+    "github": [
+      {
+        "id": "caglarutkuguler/cubicle",
+        "title": "caglarutkuguler/cubicle",
+        "url": "https://github.com/caglarutkuguler/cubicle",
+        "description": "Cubicle: a live pixel-art office for your AI agents (Paperclip, Claude Code, Codex, Gemini CLI). See who works, who needs you, who failed; KPI board, Telegram alerts, HD themes. Zero dependencies, read-only.",
+        "stars": 22,
+        "language": "HTML",
+        "topics": [
+          "agent-dashboard",
+          "agent-monitoring",
+          "agent-orchestration",
+          "ai-agents",
+          "ai-office",
+          "claude-code",
+          "codex-cli",
+          "cursor"
+        ],
+        "created_at": "2026-09-27T09:46:49Z",
+        "score": 7.52,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:orchestration"
+        ]
+      },
+      {
+        "id": "adityaagarw/Pantheon",
+        "title": "adityaagarw/Pantheon",
+        "url": "https://github.com/adityaagarw/Pantheon",
+        "description": "A 3D world where AI agents live, work and teach, and you can watch everything they do. Self-hosted, works with local models.",
+        "stars": 22,
+        "language": "Python",
+        "topics": [
+          "agent-office",
+          "agent-simulation",
+          "agent-world",
+          "ai-agents",
+          "langgraph",
+          "llm",
+          "local-llm",
+          "multi-agent"
+        ],
+        "created_at": "2026-09-30T13:20:44Z",
+        "score": 6.52,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "jeonjw85/kenfold",
+        "title": "jeonjw85/kenfold",
+        "url": "https://github.com/jeonjw85/kenfold",
+        "description": "Self-hosted memory server for AI agents. Share context across Claude Code, Codex, OpenCode, and ChatGPT over MCP.",
+        "stars": 21,
+        "language": "Go",
+        "topics": [
+          "agent-memory",
+          "ai-agents",
+          "chatgpt",
+          "claude-code",
+          "codex",
+          "golang",
+          "mcp",
+          "mcp-server"
+        ],
+        "created_at": "2026-09-27T07:05:58Z",
+        "score": 6.46,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "MrBongoC/ai-iso-skill",
+        "title": "MrBongoC/ai-iso-skill",
+        "url": "https://github.com/MrBongoC/ai-iso-skill",
+        "description": "Claude skill that draws interactive isometric figures in a single HTML file",
+        "stars": 35,
+        "language": null,
+        "topics": [
+          "claude",
+          "claude-code",
+          "claude-skills",
+          "isometric",
+          "svg"
+        ],
+        "created_at": "2026-10-04T02:38:15Z",
+        "score": 6.17,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "cn0xroot/ArgusBPF",
+        "title": "cn0xroot/ArgusBPF",
+        "url": "https://github.com/cn0xroot/ArgusBPF",
+        "description": "eBPF-based system & AI-agent activity monitor with a bilingual professional/plain-language web dashboard",
+        "stars": 27,
+        "language": "C",
+        "topics": [],
+        "created_at": "2026-10-02T04:40:54Z",
+        "score": 5.81,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "yogesharc/thinking-orbs",
+        "title": "yogesharc/thinking-orbs",
+        "url": "https://github.com/yogesharc/thinking-orbs",
+        "description": "A React component library of animated AI agent status orbs. Thinking, searching, compacting and more, built with attention to detail on every state and variant.",
+        "stars": 24,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-09-28T15:58:08Z",
+        "score": 5.64,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "sepehr071/snapp-mcp",
+        "title": "sepehr071/snapp-mcp",
+        "url": "https://github.com/sepehr071/snapp-mcp",
+        "description": "Unofficial read-only MCP server for Snappfood & SnappMarket: search food and groceries, compare prices, find deals.",
+        "stars": 23,
+        "language": "Python",
+        "topics": [
+          "iran",
+          "mcp",
+          "mcp-server",
+          "model-context-protocol",
+          "python",
+          "snappfood",
+          "snappmarket"
+        ],
+        "created_at": "2026-10-02T21:12:20Z",
+        "score": 5.58,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "sebastianhaba/book-to-course-skill",
+        "title": "sebastianhaba/book-to-course-skill",
+        "url": "https://github.com/sebastianhaba/book-to-course-skill",
+        "description": "Claude skill that turns a book (EPUB, PDF, HTML, DOCX, Markdown) into an interactive beginner-friendly course: step-by-step lessons, animations, quizzes, chapter tests, flashcards and coding exercises checked by unit tests, with progress saved to files.",
+        "stars": 23,
+        "language": "Python",
+        "topics": [
+          "ai",
+          "ai-skill",
+          "ai-skill-file",
+          "ai-skills",
+          "books",
+          "claude",
+          "claude-ai",
+          "claude-code"
+        ],
+        "created_at": "2026-10-03T13:36:54Z",
+        "score": 5.58,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "Shashankss1205/OpenDots",
+        "title": "Shashankss1205/OpenDots",
+        "url": "https://github.com/Shashankss1205/OpenDots",
+        "description": "An open-source agent runtime inspired by OpenAI’s Dots: persistent AI agents that pursue goals, react to events, and keep work moving 24×7.",
+        "stars": 19,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-10-01T08:26:38Z",
+        "score": 5.32,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "Sumit-exe/building-ai-agents-and-rag",
+        "title": "Sumit-exe/building-ai-agents-and-rag",
+        "url": "https://github.com/Sumit-exe/building-ai-agents-and-rag",
+        "description": "",
+        "stars": 18,
+        "language": "Jupyter Notebook",
+        "topics": [],
+        "created_at": "2026-09-28T14:40:13Z",
+        "score": 5.25,
+        "signals": [
+          "new",
+          "keyword:rag"
+        ]
+      },
+      {
+        "id": "sjespersen/homelab-agent",
+        "title": "sjespersen/homelab-agent",
+        "url": "https://github.com/sjespersen/homelab-agent",
+        "description": "Turn a €70 used mini PC into an always-on AI agent server: Hermes, n8n, Pi-hole, monitoring, Tailscale and encrypted backups, all as code.",
+        "stars": 18,
+        "language": "Shell",
+        "topics": [
+          "ai-agent",
+          "docker-compose",
+          "hermes-agent",
+          "homelab",
+          "n8n",
+          "pihole",
+          "self-hosted",
+          "tailscale"
+        ],
+        "created_at": "2026-10-01T11:21:31Z",
+        "score": 5.25,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
