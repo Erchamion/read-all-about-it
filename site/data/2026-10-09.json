@@ -1,0 +1,236 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T18:37:46+00:00",
+  "errors": [
+    {
+      "source": "arxiv",
+      "message": "503 Server Error: Service Unavailable for url: https://export.arxiv.org/api/query?search_query=cat%3Acs.AI+OR+cat%3Acs.CL+OR+cat%3Acs.LG&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/index/sophos",
+        "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+        "url": "https://openai.com/index/sophos",
+        "source": "openai",
+        "published": "2026-10-09T07:00:00+00:00",
+        "snippet": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/asana-browser-agent",
+        "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+        "url": "https://openai.com/index/asana-browser-agent",
+        "source": "openai",
+        "published": "2026-10-09T07:00:00+00:00",
+        "snippet": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/legalon-halves-codex-costs",
+        "title": "LegalOn halves Codex costs while maintaining development speed",
+        "url": "https://openai.com/index/legalon-halves-codex-costs",
+        "source": "openai",
+        "published": "2026-10-08T12:00:00+00:00",
+        "snippet": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://developer.microsoft.com/blog/introducing-the-agent-experience-ax-practitioner-playbook/",
+        "title": "How to make AI coding agents better at using your technology",
+        "url": "https://developer.microsoft.com/blog/introducing-the-agent-experience-ax-practitioner-playbook/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://huggingface.co/blog/allenai/impactful-scheduling",
+        "title": "Impactful scheduling for GPU clusters",
+        "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+        "source": "huggingface",
+        "published": "2026-10-09T15:20:29+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/building-with-ml-intern",
+        "title": "The model that didn't exist, so you made it yourself",
+        "url": "https://huggingface.co/blog/building-with-ml-intern",
+        "source": "huggingface",
+        "published": "2026-10-08T00:00:00+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      }
+    ],
+    "github": [
+      {
+        "id": "with-pebbly/aseprite-ai-artist",
+        "title": "with-pebbly/aseprite-ai-artist",
+        "url": "https://github.com/with-pebbly/aseprite-ai-artist",
+        "description": "Your coding agent paints pixel art in the Aseprite window you already have open. MCP server + skills for Claude Code, omp, Codex, Gemini CLI and Cursor — draws, looks at its work, animates and exports. Gallery and benchmark: pixeli.pebbly.space",
+        "stars": 217,
+        "language": "TypeScript",
+        "topics": [
+          "ai-agents",
+          "aseprite",
+          "benchmark",
+          "claude-code",
+          "gamedev",
+          "lua",
+          "mcp",
+          "model-context-protocol"
+        ],
+        "created_at": "2026-09-08T09:41:33Z",
+        "score": 9.77,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "franzenzenhofer/big-arrow-on-the-screen",
+        "title": "franzenzenhofer/big-arrow-on-the-screen",
+        "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+        "description": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
+        "stars": 354,
+        "language": "Swift",
+        "topics": [
+          "accessibility",
+          "ai-agents",
+          "claude-code",
+          "cli",
+          "codex",
+          "macos",
+          "swift"
+        ],
+        "created_at": "2026-10-08T08:39:15Z",
+        "score": 9.47,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "BinceQu/RoboHarness",
+        "title": "BinceQu/RoboHarness",
+        "url": "https://github.com/BinceQu/RoboHarness",
+        "description": "A robotic harness that gives LLM agents a visual-geometric control panel so that they can directly understand and invoke embodied tasks.",
+        "stars": 222,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-10-07T04:39:45Z",
+        "score": 8.8,
+        "signals": [
+          "new",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "mrsarac/ff-tracking",
+        "title": "mrsarac/ff-tracking",
+        "url": "https://github.com/mrsarac/ff-tracking",
+        "description": "A virtual camera films an AI agent's screen while a tracker locks onto every glyph. Two fframes passes, one SkSL shader, all sound synthesized.",
+        "stars": 83,
+        "language": "Rust",
+        "topics": [
+          "fframes",
+          "generative-video",
+          "hud",
+          "motion-graphics",
+          "rust",
+          "shader",
+          "skia",
+          "sksl"
+        ],
+        "created_at": "2026-10-09T11:12:47Z",
+        "score": 7.39,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "avi691/linkedin-agent-skill",
+        "title": "avi691/linkedin-agent-skill",
+        "url": "https://github.com/avi691/linkedin-agent-skill",
+        "description": "Eleven free Claude skills that run a LinkedIn account: posts off 21 hook formulas, comments, replies, profile score, weekly plan, and a humanizer that strips the AI fingerprint.",
+        "stars": 20,
+        "language": "Python",
+        "topics": [
+          "ai-agents",
+          "claude",
+          "claude-code",
+          "claude-skills",
+          "linkedin"
+        ],
+        "created_at": "2026-10-06T22:06:54Z",
+        "score": 6.39,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "Nexilume-AI/nexus-cloud",
+        "title": "Nexilume-AI/nexus-cloud",
+        "url": "https://github.com/Nexilume-AI/nexus-cloud",
+        "description": "An Execution Fabric for AI Agents Across Cloud, Edge, and Devices",
+        "stars": 19,
+        "language": "Python",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "agents",
+          "ai",
+          "ai-infra",
+          "ai-infrastructure",
+          "cliproxyapi",
+          "cliproxyapi-plugin"
+        ],
+        "created_at": "2026-10-03T15:16:12Z",
+        "score": 5.32,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "bherbruck/solvecraft",
+        "title": "bherbruck/solvecraft",
+        "url": "https://github.com/bherbruck/solvecraft",
+        "description": "Parametric 3D CAD in pure Rust: sketches, constraints, a feature timeline, B-rep solids. Desktop, browser and an MCP server so AI agents can model too.",
+        "stars": 15,
+        "language": "Rust",
+        "topics": [
+          "3d-modeling",
+          "brep",
+          "cad",
+          "egui",
+          "mcp",
+          "parametric-cad",
+          "rust",
+          "step"
+        ],
+        "created_at": "2026-10-07T18:57:48Z",
+        "score": 5.0,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
