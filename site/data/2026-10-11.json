@@ -1,0 +1,210 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T17:53:09+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [],
+    "github": [
+      {
+        "id": "aindeev/agent-chrome-relay",
+        "title": "aindeev/agent-chrome-relay",
+        "url": "https://github.com/aindeev/agent-chrome-relay",
+        "description": "Let your AI agents use your Chrome, signed in as you, in background tabs. By Alexey Indeev · blog: read.aindeev.com · X: @AlexeyIndeev",
+        "stars": 251,
+        "language": "Go",
+        "topics": [
+          "agent-browser",
+          "ai-agents",
+          "browser-automation",
+          "cdp",
+          "chrome-extension",
+          "claude",
+          "claude-code",
+          "codex"
+        ],
+        "created_at": "2026-10-10T07:38:27Z",
+        "score": 8.98,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "lawrencewzen/wx-bot",
+        "title": "lawrencewzen/wx-bot",
+        "url": "https://github.com/lawrencewzen/wx-bot",
+        "description": "把微信接入你的 AI Agent（Grok / Muse / Claude 等）· Connect WeChat to your personal AI agent via official iLink",
+        "stars": 107,
+        "language": "TypeScript",
+        "topics": [
+          "ai-agent",
+          "bun",
+          "claude-code",
+          "llm",
+          "typescript",
+          "wechat",
+          "wechat-bot"
+        ],
+        "created_at": "2026-10-09T12:51:25Z",
+        "score": 8.75,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "LingCore/WinShun",
+        "title": "LingCore/WinShun",
+        "url": "https://github.com/LingCore/WinShun",
+        "description": "Win顺：免费开源的 Windows 快速搜索启动器。双击 Ctrl，拼音秒搜文件、全文搜索 Word/Excel/PDF、剪贴板历史（代替 Win+V）、对话框搜索、任务栏搜索、插件、AI 助手 MCP。Free Windows search launcher: pinyin file search, full-text search, clipboard history, MCP server. Everything/Listary alternative.",
+        "stars": 182,
+        "language": "C++",
+        "topics": [
+          "chinese",
+          "clipboard-history",
+          "clipboard-manager",
+          "cpp",
+          "everything",
+          "file-search",
+          "full-text-search",
+          "launcher"
+        ],
+        "created_at": "2026-10-08T03:18:00Z",
+        "score": 8.52,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "daimonia-ai/STC-Simplified-Technical-Chinese",
+        "title": "daimonia-ai/STC-Simplified-Technical-Chinese",
+        "url": "https://github.com/daimonia-ai/STC-Simplified-Technical-Chinese",
+        "description": "STC 简明技术性中文：给 AI 用的中文写作规范 · Simplified Technical Chinese: writing rules, a dictionary, and a CLI that help AI agents write and check Chinese text.",
+        "stars": 18,
+        "language": "JavaScript",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "chinese",
+          "claude-code",
+          "llm",
+          "simplified-technical-chinese",
+          "style-guide",
+          "technical-writing"
+        ],
+        "created_at": "2026-10-05T17:31:29Z",
+        "score": 6.25,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "gnipbao/jev-highlight-cutter",
+        "title": "gnipbao/jev-highlight-cutter",
+        "url": "https://github.com/gnipbao/jev-highlight-cutter",
+        "description": "按个人偏好与目标时长剪辑长视频高光：Jev 评分、可追溯选片、本地 FFmpeg 粗剪。AI agent skill with evidence-based highlight selection.",
+        "stars": 15,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-10-06T16:07:20Z",
+        "score": 6.0,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "KnifeLemon/Droidline",
+        "title": "KnifeLemon/Droidline",
+        "url": "https://github.com/KnifeLemon/Droidline",
+        "description": "Android automation from code. Test your apps on real phones, script the tasks you repeat, run a shelf of phones, or let an AI agent use one, from Python, Node.js, the CLI, HTTP or Appium clients. No ADB, no USB cable, no root.",
+        "stars": 15,
+        "language": "Go",
+        "topics": [
+          "accessibility-service",
+          "adb-alternative",
+          "ai-agents",
+          "android",
+          "android-automation",
+          "android-testing",
+          "appium",
+          "device-farm"
+        ],
+        "created_at": "2026-10-07T04:54:21Z",
+        "score": 6.0,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "Adicodes270/Study-AI-Agent",
+        "title": "Adicodes270/Study-AI-Agent",
+        "url": "https://github.com/Adicodes270/Study-AI-Agent",
+        "description": "Making An AI agent to automate studying stuff for me",
+        "stars": 17,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-10-11T07:50:53Z",
+        "score": 5.17,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "AbdullaAlzarooni/ultimate-real-estate-calculator",
+        "title": "AbdullaAlzarooni/ultimate-real-estate-calculator",
+        "url": "https://github.com/AbdullaAlzarooni/ultimate-real-estate-calculator",
+        "description": "Claude skills that turn Dubai / UAE property deals into client-ready evaluation reports — real market data, clear verdicts, every calculation shown.",
+        "stars": 20,
+        "language": "HTML",
+        "topics": [
+          "claude",
+          "claude-code",
+          "claude-skills",
+          "dubai",
+          "investment-analysis",
+          "off-plan",
+          "property-analysis",
+          "real-estate"
+        ],
+        "created_at": "2026-10-08T19:38:00Z",
+        "score": 4.39,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "laurent512/opencalque",
+        "title": "laurent512/opencalque",
+        "url": "https://github.com/laurent512/opencalque",
+        "description": "Open-source 2D architectural editor with a Figma-like interface, a local CLI, and practical workflows for humans and AI agents.",
+        "stars": 16,
+        "language": "TypeScript",
+        "topics": [
+          "2d",
+          "ai-agents",
+          "architecture",
+          "cad",
+          "editor",
+          "electron",
+          "floor-plan",
+          "floorplan"
+        ],
+        "created_at": "2026-10-09T11:19:43Z",
+        "score": 4.09,
+        "signals": [
+          "new"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
