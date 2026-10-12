@@ -1,0 +1,302 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T21:31:43+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+        "title": "Simulating student learning for better AI tutoring",
+        "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/",
+        "title": "Microsoft to expand Maia chip for the AI era",
+        "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      }
+    ],
+    "github": [
+      {
+        "id": "oil-oil/oil-ui",
+        "title": "oil-oil/oil-ui",
+        "url": "https://github.com/oil-oil/oil-ui",
+        "description": "UI design skill for Claude Code, Codex and other AI agents: explore distinct directions, compare them side by side, refine against real screenshots. 给 AI Agent 用的 UI 设计 Skill。",
+        "stars": 1367,
+        "language": "Python",
+        "topics": [
+          "agent-skills",
+          "ai-design",
+          "claude-code",
+          "claude-skills",
+          "codex",
+          "frontend",
+          "ui-design",
+          "ux-design"
+        ],
+        "created_at": "2026-09-30T03:55:35Z",
+        "score": 12.42,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "liaosiliangCodeLife/harness-mate-plat",
+        "title": "liaosiliangCodeLife/harness-mate-plat",
+        "url": "https://github.com/liaosiliangCodeLife/harness-mate-plat",
+        "description": "端到端智能体平台：把本机的 AI Agent 变成人人可用的 Web 产品（Vue 3 + Flask + Go WS 网关 + Docker 部署）",
+        "stars": 21,
+        "language": "Python",
+        "topics": [
+          "ai-agent",
+          "ai-agents",
+          "autonomous-agents",
+          "chatbot",
+          "deepseek",
+          "dsh",
+          "harness",
+          "harness-agent"
+        ],
+        "created_at": "2026-10-08T02:03:17Z",
+        "score": 9.46,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp",
+          "keyword:autonomous",
+          "keyword:rag"
+        ]
+      },
+      {
+        "id": "zhutoumeme/mcd-git",
+        "title": "zhutoumeme/mcd-git",
+        "url": "https://github.com/zhutoumeme/mcd-git",
+        "description": "用 git 命令点麦当劳：add 放购物车，rebase 凑最省，push 确认后才下单；card 生成 1024 吃麦贡献图（3D 汉堡天际线 / 年度小票）。基于麦当劳 MCP Server，附 --demo 无 Token 试玩和 Agent Skill。非官方参赛作品。",
+        "stars": 74,
+        "language": "Python",
+        "topics": [
+          "agent-skills",
+          "claude-code",
+          "cli",
+          "git",
+          "mcdonalds",
+          "mcp",
+          "mcp-client",
+          "model-context-protocol"
+        ],
+        "created_at": "2026-10-10T14:46:47Z",
+        "score": 9.23,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "sepehr071/awesome-iran-mcp",
+        "title": "sepehr071/awesome-iran-mcp",
+        "url": "https://github.com/sepehr071/awesome-iran-mcp",
+        "description": "19 open-source MCP servers (308 tools) that give AI agents the Iranian web: Digikala, Snappfood, Jabama, MrBilit, Paziresh24, Taaghche and more. Prices in Toman.",
+        "stars": 61,
+        "language": "Python",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "awesome",
+          "claude",
+          "claude-code-plugin",
+          "digikala",
+          "iran",
+          "llm"
+        ],
+        "created_at": "2026-10-11T12:42:59Z",
+        "score": 8.95,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "TedHaley/pensieve",
+        "title": "TedHaley/pensieve",
+        "url": "https://github.com/TedHaley/pensieve",
+        "description": "Local search across your files, git repos and AI agent sessions on your Mac. An MCP server gives your agents the best context, a 3D map shows your work by topic, and git blame shows who knows what.",
+        "stars": 54,
+        "language": "Python",
+        "topics": [
+          "ai-agents",
+          "claude-code",
+          "code-search",
+          "developer-tools",
+          "git-blame",
+          "local-first",
+          "macos",
+          "mcp"
+        ],
+        "created_at": "2026-10-08T04:00:50Z",
+        "score": 7.78,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "Emily2040/gravitas",
+        "title": "Emily2040/gravitas",
+        "url": "https://github.com/Emily2040/gravitas",
+        "description": "Gravitas is a free add-on for Google Antigravity that makes its AI agent check what your answer depends on, tell you kindly when something you assumed is wrong, and still give you what you came for.",
+        "stars": 24,
+        "language": "Python",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "antigravity",
+          "fact-checking",
+          "gemini",
+          "google-antigravity",
+          "llm",
+          "multilingual"
+        ],
+        "created_at": "2026-10-11T21:01:41Z",
+        "score": 6.64,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "herval/littleguys",
+        "title": "herval/littleguys",
+        "url": "https://github.com/herval/littleguys",
+        "description": "A small, free, open-source Mac menu bar app that puts your AI agents (OpenClaw, Hermes, Claude Code, Codex and any ACP agent) on every machine in one calm place: one glance shows who needs you, one click answers.",
+        "stars": 23,
+        "language": "Rust",
+        "topics": [
+          "acp",
+          "agent-client-protocol",
+          "agent-orchestration",
+          "agentic-ai",
+          "agents",
+          "ai-agents",
+          "claude-code",
+          "codex"
+        ],
+        "created_at": "2026-10-06T19:10:27Z",
+        "score": 6.58,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:orchestration"
+        ]
+      },
+      {
+        "id": "HelloBommmb/AutotestHub",
+        "title": "HelloBommmb/AutotestHub",
+        "url": "https://github.com/HelloBommmb/AutotestHub",
+        "description": "A local-first automation testing workbench unifying API testing, AI-Agent evaluation & observability, and UI automation | 本地优先的自动化测试工作台：统一 API 测试、AI Agent 评测与可观测、UI 自动化三通道",
+        "stars": 21,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-10-09T01:20:48Z",
+        "score": 5.46,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "RenasDemirbas/BlockBenchMCP",
+        "title": "RenasDemirbas/BlockBenchMCP",
+        "url": "https://github.com/RenasDemirbas/BlockBenchMCP",
+        "description": "MCP server + Blockbench plugin that lets AI agents build, texture, animate and render Minecraft-style and low-poly 3D models in Blockbench.",
+        "stars": 17,
+        "language": "TypeScript",
+        "topics": [
+          "3d-modeling",
+          "blockbench",
+          "mcp",
+          "minecraft"
+        ],
+        "created_at": "2026-10-09T18:58:23Z",
+        "score": 5.17,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "argofowl/FowlBrowser",
+        "title": "argofowl/FowlBrowser",
+        "url": "https://github.com/argofowl/FowlBrowser",
+        "description": "Let your AI agents use your real Chrome, in background tabs, without getting in your way.",
+        "stars": 16,
+        "language": "JavaScript",
+        "topics": [
+          "ai-agents",
+          "browser-automation",
+          "chrome-extension",
+          "claude-code",
+          "mcp"
+        ],
+        "created_at": "2026-10-11T07:06:20Z",
+        "score": 5.09,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "IAmJSD/OpenComputerUse",
+        "title": "IAmJSD/OpenComputerUse",
+        "url": "https://github.com/IAmJSD/OpenComputerUse",
+        "description": "Background computer use for agents, as an MCP server",
+        "stars": 15,
+        "language": "Rust",
+        "topics": [],
+        "created_at": "2026-10-07T12:29:28Z",
+        "score": 5.0,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "aimardcr/asc-mcp",
+        "title": "aimardcr/asc-mcp",
+        "url": "https://github.com/aimardcr/asc-mcp",
+        "description": "A fast, read-only MCP server for AI-assisted analysis of APK, DEX, JAR, and other Android artifacts, powered by ASC.",
+        "stars": 15,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-10-08T20:12:42Z",
+        "score": 5.0,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
