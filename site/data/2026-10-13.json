@@ -1,0 +1,264 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T19:43:18+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/index/higgsfield-longer-videos-voice",
+        "title": "Higgsfield takes AI video from 1 minute to over 10",
+        "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+        "source": "openai",
+        "published": "2026-10-13T12:00:00+00:00",
+        "snippet": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+        "title": "Gemini 4 Argon: Built to solve your hardest problems",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+        "source": "google-ai",
+        "published": "2026-10-13T16:00:00+00:00",
+        "snippet": "TBD",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+        "title": "Developing Gemini 4 Argon responsibly and safely",
+        "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+        "source": "deepmind",
+        "published": "2026-10-13T19:43:07+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+        "title": "Gemini 4 Argon for Robotics",
+        "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+        "source": "deepmind",
+        "published": "2026-10-13T16:01:58+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+        "title": "Gemini 4 Argon: Built to solve your hardest problems",
+        "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+        "source": "deepmind",
+        "published": "2026-10-13T16:01:52+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://commandline.microsoft.com/ai-agent-copilot-autopilot-layered-model-production-network-incidents-on-call-engineers/",
+        "title": "What it takes to trust AI with real-world fixes",
+        "url": "https://commandline.microsoft.com/ai-agent-copilot-autopilot-layered-model-production-network-incidents-on-call-engineers/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://machinelearning.apple.com/research/mix-dont-tune",
+        "title": "Mix, Don't Tune: Bilingual Pre-Training Outperforms Hyperparameter Search in Data-Constrained Settings",
+        "url": "https://machinelearning.apple.com/research/mix-dont-tune",
+        "source": "apple-ml",
+        "published": "2026-10-13T00:00:00+00:00",
+        "snippet": "For most languages of the world, language model pre-training operates in a data-constrained regime where models must repeat their training data many times, degrading generalization. Two remedies exist: aggressive hyperparameter tuning such as high weight decay, and mixing in data from a high-resourc",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://machinelearning.apple.com/research/llm-translation-quality-annotation",
+        "title": "Large Language Models for Machine Translation Quality Annotation: Humans and Models Are Both Challenged",
+        "url": "https://machinelearning.apple.com/research/llm-translation-quality-annotation",
+        "source": "apple-ml",
+        "published": "2026-10-12T00:00:00+00:00",
+        "snippet": "Large Language Models (LLMs) are considered to be a more efficient and cost-effective alternative to human judgment for Machine Translation (MT) evaluation. With MT evaluation spanning a large number of language pairs, domains and levels of annotation granularity, LLMs must be thoroughly evaluated a",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+        "title": "Minions: A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
+        "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+        "source": "apple-ml",
+        "published": "2026-10-12T00:00:00+00:00",
+        "snippet": "The increasing demand for GPU-accelerated machine learning inference has exposed limitations in centralized GPU infrastructures, including high cost, limited elasticity, and long wait times under resource constraints. At the same time, modern Apple Silicon–based macOS devices are equipped with power",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://machinelearning.apple.com/research/self-compacting-language-agents",
+        "title": "Self-Compacting Language Model Agents",
+        "url": "https://machinelearning.apple.com/research/self-compacting-language-agents",
+        "source": "apple-ml",
+        "published": "2026-10-12T00:00:00+00:00",
+        "snippet": "Long agent traces composed of chains of thought and tool calls accumulate stale content that anchor subsequent generations, and eventually outgrow the context window. Existing scaffolds mitigate it with fixed-interval compaction triggered at a token threshold. Such triggers pay no heed to trajectory",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+        "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+        "source": "huggingface",
+        "published": "2026-10-13T17:05:48+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      }
+    ],
+    "github": [
+      {
+        "id": "vakandi/opencode-rust",
+        "title": "vakandi/opencode-rust",
+        "url": "https://github.com/vakandi/opencode-rust",
+        "description": "The open source AI coding agent, in Rust. CLI, TUI and HTTP server for local AI agents — no Docker required.",
+        "stars": 53,
+        "language": "Rust",
+        "topics": [
+          "ai",
+          "cli",
+          "coding-agent",
+          "llm",
+          "lsp",
+          "mcp",
+          "opencode",
+          "rust"
+        ],
+        "created_at": "2026-10-13T03:36:43Z",
+        "score": 8.75,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "yeyuxin777/baoyan-agent-benchmark",
+        "title": "yeyuxin777/baoyan-agent-benchmark",
+        "url": "https://github.com/yeyuxin777/baoyan-agent-benchmark",
+        "description": "Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.",
+        "stars": 127,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-10-12T09:15:11Z",
+        "score": 8.0,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "pycodebr/heditor",
+        "title": "pycodebr/heditor",
+        "url": "https://github.com/pycodebr/heditor",
+        "description": "Creative vertical video editing skill for AI agents (Claude Code, Codex, OpenCode, Cursor, Hermes): named styles, creative mode, HyperFrames + voice-first mix.",
+        "stars": 41,
+        "language": "Python",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "claude-code",
+          "codex",
+          "ffmpeg",
+          "hyperframes",
+          "motion-graphics",
+          "opencode"
+        ],
+        "created_at": "2026-10-13T17:30:04Z",
+        "score": 7.39,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "alibaba/qz-browser-agent",
+        "title": "alibaba/qz-browser-agent",
+        "url": "https://github.com/alibaba/qz-browser-agent",
+        "description": "Local-first AI agent for Chrome: browser automation, web research, and data extraction with your own model.",
+        "stars": 40,
+        "language": "JavaScript",
+        "topics": [
+          "ai-agent",
+          "browser-agent",
+          "browser-automation",
+          "chrome-extension",
+          "web-scraping"
+        ],
+        "created_at": "2026-10-12T01:31:14Z",
+        "score": 6.36,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "mishafyi/Apple-Docs-2.0-MCP",
+        "title": "mishafyi/Apple-Docs-2.0-MCP",
+        "url": "https://github.com/mishafyi/Apple-Docs-2.0-MCP",
+        "description": "MCP server for Apple Developer Documentation: API reference, Human Interface Guidelines, App Store Connect Help, sample code and 1,700 WWDC sessions with transcripts and code. A fork of Apple Docs MCP.",
+        "stars": 19,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-10-11T17:33:55Z",
+        "score": 5.32,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "MalganisWu/red-bean-nian-gao",
+        "title": "MalganisWu/red-bean-nian-gao",
+        "url": "https://github.com/MalganisWu/red-bean-nian-gao",
+        "description": "AI Agent 对话平台 —— 流式对话、工具调用、子 Agent 委派、定时任务，以及每一次运行的完整审计轨迹。",
+        "stars": 18,
+        "language": "TypeScript",
+        "topics": [
+          "agent-platform",
+          "ai-agent",
+          "fastify",
+          "postgresql",
+          "react",
+          "sse",
+          "typescript"
+        ],
+        "created_at": "2026-10-11T11:48:03Z",
+        "score": 5.25,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "VortexJer/PC-Control",
+        "title": "VortexJer/PC-Control",
+        "url": "https://github.com/VortexJer/PC-Control",
+        "description": "Let an AI see and operate Windows apps cheaply, without stealing focus or moving your mouse. MCP server for Claude Code.",
+        "stars": 15,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-10-08T19:07:23Z",
+        "score": 5.0,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
