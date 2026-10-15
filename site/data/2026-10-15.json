@@ -1,0 +1,1181 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T17:34:16+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+        "title": "Teaching students to think and learn through questions",
+        "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+        "source": "openai",
+        "published": "2026-10-15T13:00:00+00:00",
+        "snippet": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/sentinelone",
+        "title": "SentinelOne cuts malware analysis from weeks to hours",
+        "url": "https://openai.com/index/sentinelone",
+        "source": "openai",
+        "published": "2026-10-14T12:00:00+00:00",
+        "snippet": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/block-ai-powered-security",
+        "title": "How Block is building AI-powered security with OpenAI technology",
+        "url": "https://openai.com/index/block-ai-powered-security",
+        "source": "openai",
+        "published": "2026-10-14T07:00:00+00:00",
+        "snippet": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+        "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+        "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+        "source": "deepmind",
+        "published": "2026-10-15T16:08:03+00:00",
+        "snippet": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://commandline.microsoft.com/praise-preceptor-ai-accelerated-software-engineering-cmu/",
+        "title": "What will the next generation of developers do when AI writes the code?",
+        "url": "https://commandline.microsoft.com/praise-preceptor-ai-accelerated-software-engineering-cmu/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+        "title": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
+        "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+        "source": "apple-ml",
+        "published": "2026-10-15T00:00:00+00:00",
+        "snippet": "MLX on Mac with Apple silicon lets AI researchers and developers experiment locally with the latest models and methods in a private environment. The open-source array framework leverages the unified memory architecture of Apple silicon, enabling anyone to run new inference and fine-tuning methods on",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+        "title": "Apertus 1.5 Release Notes",
+        "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+        "source": "huggingface",
+        "published": "2026-10-15T09:08:45+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/meta-muse-spark-open",
+        "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+        "url": "https://huggingface.co/blog/meta-muse-spark-open",
+        "source": "huggingface",
+        "published": "2026-10-15T00:00:00+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/flux-3",
+        "title": "Welcome FLUX.3 Image Klein in Diffusers",
+        "url": "https://huggingface.co/blog/flux-3",
+        "source": "huggingface",
+        "published": "2026-10-15T00:00:00+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://mistral.ai/news/timestral/",
+        "title": "Research Introducing Timestral State-of-the-art probabilistic forecasts with just 209M parameters, outperforming larger models on CPU. October 15, 2026 By Mistral",
+        "url": "https://mistral.ai/news/timestral/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+        "title": "Oct 15, 2026 Announcements An update on independent evaluators",
+        "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+        "source": "anthropic",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://www.anthropic.com/news/2026-us-midterms",
+        "title": "Oct 14, 2026 Policy Preparing for the 2026 US midterms",
+        "url": "https://www.anthropic.com/news/2026-us-midterms",
+        "source": "anthropic",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      }
+    ],
+    "github": [
+      {
+        "id": "kajisho5/ffmpeg-skill",
+        "title": "kajisho5/ffmpeg-skill",
+        "url": "https://github.com/kajisho5/ffmpeg-skill",
+        "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+        "stars": 1957,
+        "language": "Python",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "audio-processing",
+          "captions",
+          "claude-code",
+          "codex",
+          "coding-agent",
+          "cursor"
+        ],
+        "created_at": "2026-09-03T14:33:38Z",
+        "score": 13.94,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:mcp",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "1173591564/Dynamics-memory",
+        "title": "1173591564/Dynamics-memory",
+        "url": "https://github.com/1173591564/Dynamics-memory",
+        "description": "LLM agent 的有界自纠错长期记忆层：把连续、含矛盾的项目交互日志蒸馏成有界、可自更新的记忆库。Bounded, self-correcting long-term memory for LLM agents — candidate pool + value dynamics + tension adjudication + causal-replay evals.",
+        "stars": 203,
+        "language": "TypeScript",
+        "topics": [
+          "agent-memory",
+          "agents",
+          "llm",
+          "llm-agents",
+          "long-term-memory",
+          "memory",
+          "memory-management",
+          "python"
+        ],
+        "created_at": "2026-09-15T11:16:41Z",
+        "score": 10.67,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:rag"
+        ]
+      },
+      {
+        "id": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+        "title": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+        "url": "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+        "description": "AI 跨境电商运营智能体工具箱 · 把运营 SOP 拆成 7 个可复用的 AI Agent 工作流，含 Prompt、模板与真实案例",
+        "stars": 168,
+        "language": "Python",
+        "topics": [
+          "ai-agents",
+          "cross-border-ecommerce",
+          "ecommerce",
+          "llm",
+          "mercado-livre",
+          "prompt-engineering",
+          "shopee",
+          "sop"
+        ],
+        "created_at": "2026-10-13T10:13:21Z",
+        "score": 10.4,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:workflow"
+        ]
+      },
+      {
+        "id": "aiwithremy/content-principles",
+        "title": "aiwithremy/content-principles",
+        "url": "https://github.com/aiwithremy/content-principles",
+        "description": "A Claude skill that teaches AI how to think about short-form content, instead of filling in a template.",
+        "stars": 104,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-10-13T17:28:19Z",
+        "score": 7.71,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "Avijit07x/cursorcam",
+        "title": "Avijit07x/cursorcam",
+        "url": "https://github.com/Avijit07x/cursorcam",
+        "description": "Ask your AI agent for a demo video. CursorCam clicks through your web app and renders a polished MP4 that zooms in on each click, from any MCP agent, Claude Code or the CLI.",
+        "stars": 50,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-10-09T11:16:53Z",
+        "score": 7.67,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "neatlogs/neatroots",
+        "title": "neatlogs/neatroots",
+        "url": "https://github.com/neatlogs/neatroots",
+        "description": "neatroots: see, check and replay your AI agent's runs on your machine while you build it. Local-first, by Neatlogs.",
+        "stars": 23,
+        "language": "TypeScript",
+        "topics": [
+          "ai-agents",
+          "evals",
+          "llm",
+          "local-first",
+          "mcp",
+          "observability",
+          "opentelemetry"
+        ],
+        "created_at": "2026-10-09T07:50:18Z",
+        "score": 7.58,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "GabrieleLozupone/kokon",
+        "title": "GabrieleLozupone/kokon",
+        "url": "https://github.com/GabrieleLozupone/kokon",
+        "description": "Edit photos by describing the change, on your own GPU. One installer, no Python, no cloud. Qwen-Image 2.1 for Windows and Mac, with an MCP server for AI agents.",
+        "stars": 65,
+        "language": "Rust",
+        "topics": [
+          "image-editing",
+          "image-generation",
+          "local-ai",
+          "macos",
+          "mcp",
+          "mcp-server",
+          "offline",
+          "privacy"
+        ],
+        "created_at": "2026-10-08T20:33:25Z",
+        "score": 7.04,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "graphersal/graphersal",
+        "title": "graphersal/graphersal",
+        "url": "https://github.com/graphersal/graphersal",
+        "description": "In-memory graph database and Gremlin traversal engine in Rust: browser playground, CLI, MCP server for AI agents, durable store, Python bindings.",
+        "stars": 15,
+        "language": "Rust",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "graph",
+          "graph-database",
+          "graph-traversal",
+          "graphrag",
+          "gremlin",
+          "knowledge-graph"
+        ],
+        "created_at": "2026-10-11T14:33:39Z",
+        "score": 7.0,
+        "signals": [
+          "new",
+          "keyword:llm",
+          "keyword:mcp",
+          "keyword:rag"
+        ]
+      },
+      {
+        "id": "lalalamdbf/AgentSafeEvo",
+        "title": "lalalamdbf/AgentSafeEvo",
+        "url": "https://github.com/lalalamdbf/AgentSafeEvo",
+        "description": "An Adversarial Co-Evolution Framework for LLM Agent Safety",
+        "stars": 27,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-10-12T09:02:57Z",
+        "score": 6.81,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "G36maid/moodle-mcp",
+        "title": "G36maid/moodle-mcp",
+        "url": "https://github.com/G36maid/moodle-mcp",
+        "description": "MCP server that lets AI agents operate Moodle: courses, assignments, forums, grades and files-as-markdown.",
+        "stars": 19,
+        "language": "Rust",
+        "topics": [
+          "ai-agents",
+          "e-learning",
+          "edtech",
+          "llm",
+          "lms",
+          "mcp",
+          "mcp-server",
+          "model-context-protocol"
+        ],
+        "created_at": "2026-10-12T23:17:38Z",
+        "score": 6.32,
+        "signals": [
+          "new",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "shuyu-labs/transwork",
+        "title": "shuyu-labs/transwork",
+        "url": "https://github.com/shuyu-labs/transwork",
+        "description": "企业级桌面 AI Agent 工作台，让技能、知识与任务在同一处协作。",
+        "stars": 35,
+        "language": null,
+        "topics": [
+          "agent",
+          "agent-desktop",
+          "harness",
+          "harness-ai"
+        ],
+        "created_at": "2026-10-14T13:19:33Z",
+        "score": 6.17,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "Jakeschincariol/trader-skill",
+        "title": "Jakeschincariol/trader-skill",
+        "url": "https://github.com/Jakeschincariol/trader-skill",
+        "description": "11 Claude skills that copy the investors you trust, watch the news and Congress, size every trade to your budget, and never place an order without your yes.",
+        "stars": 26,
+        "language": "Python",
+        "topics": [
+          "13f",
+          "claude",
+          "claude-skills",
+          "investing",
+          "stock-market"
+        ],
+        "created_at": "2026-10-14T21:12:28Z",
+        "score": 5.75,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "MartinPuli/taste-library",
+        "title": "MartinPuli/taste-library",
+        "url": "https://github.com/MartinPuli/taste-library",
+        "description": "Design references from Cosign's top 40 High Taste Companies, extracted with TasteLabs and indexed for AI agents.",
+        "stars": 43,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-10-14T09:10:54Z",
+        "score": 5.46,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "SakanaAI/AutoIllustrate",
+        "title": "SakanaAI/AutoIllustrate",
+        "url": "https://github.com/SakanaAI/AutoIllustrate",
+        "description": "Generate publication-ready, editable draw.io figures for research papers from a methods section, using LLM agents.",
+        "stars": 17,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-10-14T07:06:38Z",
+        "score": 5.17,
+        "signals": [
+          "new",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "MBratkowski/deweloperuch-mcp",
+        "title": "MBratkowski/deweloperuch-mcp",
+        "url": "https://github.com/MBratkowski/deweloperuch-mcp",
+        "description": "Unofficial MCP server and CLI for Polish new-build apartment prices: developers' asking prices with history, RCN transaction prices and GUS/NBP statistics (data from deweloperuch.pl)",
+        "stars": 16,
+        "language": "Python",
+        "topics": [
+          "claude",
+          "cli",
+          "mcp",
+          "mcp-server",
+          "model-context-protocol",
+          "poland",
+          "python",
+          "real-estate"
+        ],
+        "created_at": "2026-10-14T17:55:07Z",
+        "score": 5.09,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "id": "2610.20085v1",
+        "title": "Designing Textual Interfaces To Enhance Llm Reasoning On Audio-Visual Question Answering",
+        "url": "https://arxiv.org/abs/2610.20085v1",
+        "authors": [
+          "Yi Wang",
+          "Tianzi Wang",
+          "Tong Lei",
+          "Dahan Wang",
+          "Peter Bell"
+        ],
+        "snippet": "Automatic prompt optimization (APO) has shown strong effectiveness for text-based LLMs and LLM systems, but its application to audio-visual understanding systems requires suitable textual interfaces through which multimodal reasoning can be exposed to text-based optimizers. We investigate how the design of textual interfaces affects prompt optimization for multimodal reasoning, on the audio-visual",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "eess.AS"
+        ],
+        "published": "2026-10-14T12:23:59+00:00",
+        "score": 7.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:reasoning",
+          "keyword:multimodal",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2610.20560v1",
+        "title": "PhySGA: A Physics-Space Grounded Agentic Framework for Generalizable and Interactive 3D Composition",
+        "url": "https://arxiv.org/abs/2610.20560v1",
+        "authors": [
+          "Weichen Lyu",
+          "Chong Xia",
+          "Mingyu Dong",
+          "Long Xu",
+          "Shengjun Zhang",
+          "Yueqi Duan"
+        ],
+        "snippet": "3D object composition is pivotal to digital content creation and robot simulation, while also serving as a critical testbed for physical intelligence in foundation models. Previous methods either leverage large language models to directly predict object coordinates, or utilize generative diffusion priors to synthesize composite images for visual alignment, both of which rely on static priors in di",
+        "categories": [
+          "cs.AI",
+          "cs.CV"
+        ],
+        "published": "2026-10-14T17:47:24+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:reasoning",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2610.20457v1",
+        "title": "Same Claim, Different Interpretations: How LLM Agents Resolve Ambiguity in Scientific Claims",
+        "url": "https://arxiv.org/abs/2610.20457v1",
+        "authors": [
+          "Delip Rao",
+          "Ahmed Muharram",
+          "Chris Callison-Burch"
+        ],
+        "snippet": "Co-scientists and agentic scientific claim verifiers are increasingly used to assess claims across the sciences. Natural-language scientific claims, written for human experts, are often underspecified and so admit several defensible interpretations. Such verifiers usually pick one, often tacitly, and benchmarks score their verdicts against expert labels without recording the expert's interpretatio",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-10-14T16:42:05+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2610.20245v1",
+        "title": "P2Patch: Exploit-Guided Vulnerability Repair",
+        "url": "https://arxiv.org/abs/2610.20245v1",
+        "authors": [
+          "Mohsen Iranmanesh",
+          "Sina Moradi Sabet",
+          "Sina Marefat",
+          "Ali Javidi Ghasr",
+          "Maxime Newman Nereyabagabo",
+          "Kousha Amouzesh"
+        ],
+        "snippet": "Large language models are increasingly deployed as autonomous agents for automated program repair, patching software vulnerabilities through multi-step reasoning and tool use. Yet these systems typically validate a patch against the same evidence used to construct it -- a static alert, sanitizer trace, published exploit, or test suite. A patch that blocks that one piece of evidence can therefore l",
+        "categories": [
+          "cs.CR",
+          "cs.AI",
+          "cs.SE"
+        ],
+        "published": "2026-10-14T14:19:21+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:reasoning",
+          "keyword:tool use"
+        ]
+      },
+      {
+        "id": "2610.20099v1",
+        "title": "EvalBuilder: Can LLMs Build Efficient Benchmarks?",
+        "url": "https://arxiv.org/abs/2610.20099v1",
+        "authors": [
+          "Huaisheng Zhu",
+          "Hangfan Zhang",
+          "Teng Xiao",
+          "Siyuan Xu",
+          "Shijie Zhou",
+          "Zhimeng Guo"
+        ],
+        "snippet": "Large language model (LLM) agents are increasingly used for long-horizon research and engineering, yet evaluating these capabilities remains expensive, time-consuming, and heavily dependent on human expertise. This motivates a natural question: can LLM agents themselves construct efficient benchmarks that preserve the conclusions of costly reference evaluations? We study this capability by formula",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-10-14T12:35:02+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:agent",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2610.19906v1",
+        "title": "Beyond Benchmark Accuracy: A Diagnostic Test for LLM Chemical Prediction",
+        "url": "https://arxiv.org/abs/2610.19906v1",
+        "authors": [
+          "Yanyi Su",
+          "Yu Zeng",
+          "Hongshuai Wang",
+          "Chenyan Wang",
+          "Zhifeng Gao",
+          "Xiaohui Yang"
+        ],
+        "snippet": "LLMs have achieved strong performance on chemical prediction benchmarks. However, existing evaluation methods typically provide target entity identity information directly, making it difficult to determine whether model predictions arise from transferable structure-property reasoning capabilities or rely on target-related contextual information or memory retrieval. We propose the Identity-Blinded ",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-10-14T10:03:05+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2610.20587v1",
+        "title": "Price of Anarchy of First-Price Auctions in Agentic Markets",
+        "url": "https://arxiv.org/abs/2610.20587v1",
+        "authors": [
+          "Shubhendu Trivedi",
+          "Jacob Eisenstein",
+          "Alekh Agarwal",
+          "Ian Gemp",
+          "Michael Kaisers",
+          "Adam Fisch"
+        ],
+        "snippet": "An agentic market is a decentralized serving-time market where AI agents bid to claim each user prompt. An agent's bid is based on its expected value for the prompt, which is the expectation of the reward for its response minus its inference costs. First-price auctions (FPAs), in which the highest bidder pays its bid and receives the prompt, are a natural way to allocate prompts in such a market, ",
+        "categories": [
+          "cs.GT",
+          "cs.AI",
+          "cs.LG"
+        ],
+        "published": "2026-10-14T17:57:57+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2610.20576v1",
+        "title": "One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves LLM Agent Robustness",
+        "url": "https://arxiv.org/abs/2610.20576v1",
+        "authors": [
+          "Artin Tajdini",
+          "Manpreet Kaur",
+          "Peng Qi"
+        ],
+        "snippet": "Post-training binds the competence of an LLM agent to the interface it was trained on. Semantics-preserving perturbations of that interface, such as renaming an action or changing the notation, leave the underlying task unchanged yet make the agent worse at it. Scoring each sample independently means interface randomization only broadens this dependence from a single interface to the training inte",
+        "categories": [
+          "cs.LG",
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-10-14T17:56:06+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:agentic"
+        ]
+      },
+      {
+        "id": "2610.20548v1",
+        "title": "PerSo: Investigating Facets of LLMs' Social Intelligence in Real-World Persuasion Scenarios",
+        "url": "https://arxiv.org/abs/2610.20548v1",
+        "authors": [
+          "Ali Zamani",
+          "Soroush Esfahanian",
+          "Erfan Shahabi",
+          "Mohammad Taher Pilehvar",
+          "Azadeh Shakery",
+          "Yadollah Yaghoobzadeh"
+        ],
+        "snippet": "Understanding the social intelligence of large language models (LLMs) is increasingly important for applications involving human-AI interaction and multi-agent environments. Social intelligence comprises two aspects: cognitive intelligence, the ability to infer others' mental states, and behavioral intelligence, the ability to select appropriate social actions based on these inferences to achieve ",
+        "categories": [
+          "cs.CL",
+          "cs.AI",
+          "cs.SI"
+        ],
+        "published": "2026-10-14T17:39:35+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2610.20503v1",
+        "title": "ReaDy: Recurrent States as Dynamic Context for Speculative Drafting in Hybrid Linear Attention Large Language Models",
+        "url": "https://arxiv.org/abs/2610.20503v1",
+        "authors": [
+          "Bohan Sun",
+          "Zunhai Su",
+          "Xialie Zhuang",
+          "Jianjin Li",
+          "Ngai Wong",
+          "Chuan-Wei Kuo"
+        ],
+        "snippet": "Speculative decoding accelerates autoregressive generation by drafting multiple tokens per step, yet feature-based drafters rely on target hidden features whose contextual emphasis may not align with the needs of subsequent draft positions. Hybrid linear attention (HLA) models maintain compact recurrent states that accumulate historical associations, offering an efficient source of complementary c",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-10-14T17:08:52+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:benchmark",
+          "keyword:retrieval",
+          "keyword:code generation"
+        ]
+      },
+      {
+        "id": "2610.20497v1",
+        "title": "Hindsight-Privileged RLVR: Single-Rollout Token Credit Without Group Sampling",
+        "url": "https://arxiv.org/abs/2610.20497v1",
+        "authors": [
+          "Wei Chen",
+          "Yubing Wu",
+          "Zhou Xu",
+          "Haoyue Zhang",
+          "Delu Zeng",
+          "Jiahao Wang"
+        ],
+        "snippet": "Reinforcement learning with verifiable rewards (RLVR) trains language models from checked task outcomes, but assigning a terminal reward to individual reasoning tokens or actions remains difficult. Group-relative methods such as Group Relative Policy Optimization (GRPO) sample several attempts per prompt, but lose their reward-based learning signal when all attempts receive the same outcome. We pr",
+        "categories": [
+          "cs.LG",
+          "cs.AI"
+        ],
+        "published": "2026-10-14T17:06:59+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:prompt",
+          "keyword:code generation"
+        ]
+      },
+      {
+        "id": "2610.20472v1",
+        "title": "ChronoCulture: Evaluating Cultural Awareness Across Time in Large Language Models",
+        "url": "https://arxiv.org/abs/2610.20472v1",
+        "authors": [
+          "Rusali Saha",
+          "Nitya Khurana",
+          "Ruihong Huang",
+          "Kuan-Hao Huang"
+        ],
+        "snippet": "Cultural attitudes and social norms evolve over time, yet most cultural benchmarks for large language models (LLMs) treat culture as a static attribute of a country or region. We introduce ChronoCulture, a benchmark of 10,360 temporal pairs built from longitudinal survey data across 72 countries. Each pair contains the same survey question asked in the same country in an older and a newer year, wi",
+        "categories": [
+          "cs.CL",
+          "cs.CY"
+        ],
+        "published": "2026-10-14T16:50:35+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:benchmark",
+          "keyword:alignment",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2610.20437v1",
+        "title": "From Training to Escalation: Forensic Analysis and Local Recreation of RL/RLHF-Induced Privilege Escalation in AI Agents (CVE-2026-65616)",
+        "url": "https://arxiv.org/abs/2610.20437v1",
+        "authors": [
+          "Alicia Colmenero-Fernández"
+        ],
+        "snippet": "Mid-2026 reporting on autonomous AI evaluation incidents claimed that frontier large language model (LLM) agents escaped server containment through emergent coordination and cloud infrastructure attacks. This paper contextualizes those claims through forensic analysis and containerized recreation of both the Highly Persistent Internal Model (HPIM) training-case conditions and the Phase One privile",
+        "categories": [
+          "cs.MA",
+          "cs.AI",
+          "cs.CR"
+        ],
+        "published": "2026-10-14T16:28:09+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:rlhf"
+        ]
+      },
+      {
+        "id": "2610.20370v1",
+        "title": "From Triage to Impact: A Multi-Hop Reasoning Benchmark for Explainable Persian Hate Speech",
+        "url": "https://arxiv.org/abs/2610.20370v1",
+        "authors": [
+          "Ghazal Kalhor",
+          "Sima Kamandloo",
+          "Mehrsa Shamsian",
+          "Behnam Bahrak"
+        ],
+        "snippet": "Hate speech has become increasingly prevalent on social media, raising concerns about its detection, interpretation, and moderation. Persian, a relatively low-resource language, lacks sufficient annotated data and computational resources for fine-grained hate speech analysis. In this study, we introduce a fine-grained, multi-hop benchmark for explainable Persian hate speech analysis, covering cont",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-10-14T15:42:15+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:reasoning",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2610.20334v1",
+        "title": "TreeFlex: Agents Navigating Their Own Search Trees",
+        "url": "https://arxiv.org/abs/2610.20334v1",
+        "authors": [
+          "Dongzhuo Li",
+          "Fangzhou Cheng",
+          "Weiwei Li",
+          "Kevin Han",
+          "Haixu Ma",
+          "Zhongchang Sun"
+        ],
+        "snippet": "A ReAct-style agent accumulates observations, intermediate results, and failed attempts in a single context. As this context grows, stale and off-path information consumes its limited capacity and obscures relevant evidence, making focused reasoning increasingly difficult. We introduce TreeFlex, a framework in which the agent's own policy decides where to search. The agent records each intermediat",
+        "categories": [
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-10-14T15:16:50+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:reasoning",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2610.20279v1",
+        "title": "Neural POS Tagging for the Low-Resource Saraiki",
+        "url": "https://arxiv.org/abs/2610.20279v1",
+        "authors": [
+          "Usman Nawaz",
+          "Muhammad Junaid Iqbal",
+          "Muhammad Asaf",
+          "Mariam Munsif Mir",
+          "Faisal Rehman",
+          "Tahir Alyas"
+        ],
+        "snippet": "Part-of-speech tagging is a fundamental sequence labeling task and an important component for many downstream natural language processing applications. However, Saraiki, written from right to left in a Perso-Arabic script, remains an under-resourced Indo-Aryan language, despite being spoken as a mother tongue by 28,849,579 people (approximately 28.9 million) according to Pakistan 7th Population an",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-10-14T14:38:17+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:benchmark",
+          "keyword:fine-tuning",
+          "keyword:transformer"
+        ]
+      },
+      {
+        "id": "2610.20195v1",
+        "title": "What Makes a Social Agent's Interactions Effective? Learning from Verifiable Outcomes in Paired Worlds",
+        "url": "https://arxiv.org/abs/2610.20195v1",
+        "authors": [
+          "Caixin Kang",
+          "Ke Wang",
+          "Yuchuan Wu",
+          "Xiaoqiang Wang",
+          "Ling Li",
+          "Bingxue Qiu"
+        ],
+        "snippet": "Effective social interaction requires more than fluent responses: agents must reach plans that fit the participants' needs and circumstances. Existing evaluations of social agents mainly rely on LLM judges that rate the conversation, without checking the resulting plan. We introduce HICO-Bench, a benchmark of 180 everyday coordination scenarios, such as resource allocation, scheduling, and authori",
+        "categories": [
+          "cs.CL",
+          "cs.AI",
+          "cs.SI"
+        ],
+        "published": "2026-10-14T13:44:30+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2610.20191v1",
+        "title": "HEM-Med: A Hierarchical Agentic Memory Framework for Safe Multi-Center Medication Recommendation",
+        "url": "https://arxiv.org/abs/2610.20191v1",
+        "authors": [
+          "Min Xiao",
+          "Jin Li",
+          "Shoujin Wang",
+          "Yeguang Zhen",
+          "Yishuo Li",
+          "Wenpeng Lu"
+        ],
+        "snippet": "Medication recommendation (MR) is critical for clinical decision support. While existing MR methods are mostly designed for single-center learning, where only one independent hospital is involved, multi-center MR with hospitals of different scales has become increasingly demanding in practice. In multi center settings, abundant data from large medical centers can improve recommendation performance",
+        "categories": [
+          "cs.AI",
+          "cs.IR"
+        ],
+        "published": "2026-10-14T13:39:34+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agentic",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2610.20051v1",
+        "title": "FACES: Fine-grained Gated Semantic Alignment for Multimodal Emotional Support Conversation",
+        "url": "https://arxiv.org/abs/2610.20051v1",
+        "authors": [
+          "Hang Ren",
+          "Peidong Wang",
+          "Yichen Gao",
+          "Wen Zhang",
+          "Jiayang Yu",
+          "Xiaocui Yang"
+        ],
+        "snippet": "In recent years, with advances in multimodal interaction technologies and the growing demand for intelligent emotional support, Multimodal Emotional Support Conversation (MESC) has emerged as an important task. However, existing systems still suffer from shallow responses and inappropriate support strategies due to weak semantic feedback, cross-dimension reward compensation, and coarse reasoning s",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-10-14T11:54:06+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:multimodal",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2610.20012v1",
+        "title": "ChemArgus: Automated Scientific Diagnostics for Lab-Grade Multimodal Chemistry Reasoning: A Frontier Benchmark",
+        "url": "https://arxiv.org/abs/2610.20012v1",
+        "authors": [
+          "Hanyao Guo",
+          "Mo Cui",
+          "Zihan Tan",
+          "Leixin Sun",
+          "Yichun Wang",
+          "Yinan Shen"
+        ],
+        "snippet": "Chemistry evaluation has moved past multiple-choice probes toward open-ended expert problems, yet the benchmarks that define the current frontier still score answer endpoints alone. Such scoring conflates memorized facts with stepwise derivation, treats visual and textual inputs as interchangeable, and confounds long-horizon planning with stepwise execution. These blind spots prevent any diagnosis",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-10-14T11:24:56+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2610.19928v1",
+        "title": "MemDuet: Learning Dual-Process Memory for Long-Context Reasoning",
+        "url": "https://arxiv.org/abs/2610.19928v1",
+        "authors": [
+          "Jiangcheng Song",
+          "Haodong Jing",
+          "Yulin Mu",
+          "Lesong Tao",
+          "Jixin Wang",
+          "Jin Cui"
+        ],
+        "snippet": "Reasoning over infinitely long documents is becoming a reality with recurrent memory agents. However, increasing context length exacerbates the trade-off between reasoning performance and inference efficiency. Inspired by Kahneman's account of fast and slow thinking, we propose MemDuet, a dual-process memory framework that learns to coordinate a small language model for fast, parallel evidence sel",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-10-14T10:16:13+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:large language model",
+          "keyword:reasoning",
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2610.19920v1",
+        "title": "MolHop: Scaffold-Hopping Molecular Design with Agentic Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2610.19920v1",
+        "authors": [
+          "Yanyi Su",
+          "Chenyan Wang",
+          "Yulei Gong",
+          "Yeyun Chen",
+          "Xiaohui Yang",
+          "Jun Cheng"
+        ],
+        "snippet": "Molecular design is often formulated as an optimization problem over existing molecular spaces. However, molecular optimization and the discovery of structurally distinct replacement molecules represent two fundamentally different search problems. LLM-based molecular design agents typically perform the former, conducting local refinement within the neighborhood of existing structures to improve ta",
+        "categories": [
+          "cs.LG",
+          "cs.CL"
+        ],
+        "published": "2026-10-14T10:11:10+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:agentic"
+        ]
+      },
+      {
+        "id": "2610.20607v1",
+        "title": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
+        "url": "https://arxiv.org/abs/2610.20607v1",
+        "authors": [
+          "Zhefei Gong",
+          "Hefeifei Jiang",
+          "Zehao Wang",
+          "Jiachen Li"
+        ],
+        "snippet": "Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet real-world fine-tuning remains a formidable challenge because of high-dimensional action spaces and intricate coupling between heterogeneous modules. In this paper, we propose HiRe-MoMa (Hierarchical Residual Mobile Manipulation), a systematic framework for stable and sample-efficient real-world fine-tuning of complex M",
+        "categories": [
+          "cs.RO",
+          "cs.AI",
+          "cs.LG"
+        ],
+        "published": "2026-10-14T17:59:52+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:fine-tuning",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2610.20585v1",
+        "title": "Learnable Hodge-Laplacian Driven Mixture of Experts for Steady-PDE Surrogates on Coarse Unstructured Meshes",
+        "url": "https://arxiv.org/abs/2610.20585v1",
+        "authors": [
+          "Stavros Nousias",
+          "Akis Nousias",
+          "Konstantinos Gkrispanis"
+        ],
+        "snippet": "Current approaches for steady partial differential equations surrogate models on unstructured meshes apply a single mixing mechanism to the whole solution. This paper proposes an architecture that partitions the solution among vanilla transformer experts, each focused on a different spectral scale. The partition is built from a discrete Hodge Laplacian $L_0=\\star_0^{-1} d_0^{\\top}\\star_1 d_0$, tha",
+        "categories": [
+          "cs.LG",
+          "cs.CV"
+        ],
+        "published": "2026-10-14T17:57:24+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:benchmark",
+          "keyword:transformer"
+        ]
+      },
+      {
+        "id": "2610.20584v1",
+        "title": "Player-1: Learning to Play from Synthetic Experience",
+        "url": "https://arxiv.org/abs/2610.20584v1",
+        "authors": [
+          "Mingyu Ouyang",
+          "Yiran Wang",
+          "Siyuan Hu",
+          "Xingyilang Yin",
+          "Huiqiang Sun",
+          "Guangzhi Wang"
+        ],
+        "snippet": "Computer-use agents have demonstrated strong capabilities in interpreting screens and executing keyboard and mouse actions. However, games, with their visually rich worlds and diverse mechanics, remain challenging and offer a demanding next step toward general digital control. Current game-agent learning pipelines often rely on large-scale demonstrations with limited coverage of dynamic game state",
+        "categories": [
+          "cs.CV",
+          "cs.AI",
+          "cs.HC"
+        ],
+        "published": "2026-10-14T17:57:12+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2610.20573v1",
+        "title": "Beyond LLM Judge: Mechanical Verification for Agentic Autoformalization",
+        "url": "https://arxiv.org/abs/2610.20573v1",
+        "authors": [
+          "Anna Mei",
+          "Michael R. Douglas"
+        ],
+        "snippet": "We introduce a novel method for verifying Lean formalizations that goes beyond LLM-judged faithfulness. Unlike most verification methods, which rely on LLMs or trained models, our method combines LLM-based semantic review with mechanical numerical and vacuity checks, providing checkable feedback and detecting errors missed by LLM judges. We apply this method, along with our Extract-Verify-Proof au",
+        "categories": [
+          "cs.LO",
+          "cs.AI"
+        ],
+        "published": "2026-10-14T17:54:48+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agentic"
+        ]
+      },
+      {
+        "id": "2610.20570v1",
+        "title": "Manacá-1B-Instruct-2: Reproducible Safety Alignment for a Native Brazilian-Portuguese LLM. Negative DPO Results, a Controlled Composition Scan, and a Silent Failure Mode of the LLM Judge",
+        "url": "https://arxiv.org/abs/2610.20570v1",
+        "authors": [
+          "Bruno Leonardo Santos Menezes",
+          "Carlos Leonardo Souza Cardoso",
+          "Fabio André Machado Porto"
+        ],
+        "snippet": "Brazilian Portuguese remains underserved by open-source language models, and the few that are safety-aligned rarely document what did not work or validate comparisons with statistical significance. We present Manacá-1B-Instruct-2, the second-generation post-training alignment of Manacá-1B (1.72B parameters, trained from scratch for PT-BR), with an SFT corpus of 291,223 examples. We document three ",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-10-14T17:53:46+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2610.20563v1",
+        "title": "Scaling Discovery Requires Forgetting",
+        "url": "https://arxiv.org/abs/2610.20563v1",
+        "authors": [
+          "Shangyin Tan",
+          "Ben Zhou",
+          "Lakshya A Agrawal",
+          "Jialin Zhang",
+          "Yilin Chen",
+          "Qiuyang Mang"
+        ],
+        "snippet": "Automated research with LLM agents has shown promising results in various domains. Through iterative refinement and scored verifiers, LLM agents are capable of discovering new ideas. There are different ways to scale automated research: let one agent iterate for longer, run several agents in parallel, or further let the parallel agents communicate and build on one another's candidates. However, we",
+        "categories": [
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-10-14T17:49:37+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "2610.20532v1",
+        "title": "ActiveEvidence: Decision-Focused Evidence Graphs with Verifiable Acquisition Gaps",
+        "url": "https://arxiv.org/abs/2610.20532v1",
+        "authors": [
+          "Miaobo Hu",
+          "Shuhao Hu",
+          "Xiaobo Guo",
+          "Xin Wang",
+          "Bokun Wang",
+          "Peng Zhang"
+        ],
+        "snippet": "A multimodal agent must decide whether visual evidence is worth acquiring, which candidate or resolution to query, and when further interaction can no longer change its decision. We study this problem under a strict free-metadata/paid-observation boundary, stochastic vector costs, and a frozen execution trace, and treat it as decision-certifiable active evidence acquisition. A Counterfactual Evide",
+        "categories": [
+          "cs.AI",
+          "cs.CV",
+          "cs.LG"
+        ],
+        "published": "2026-10-14T17:29:06+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2610.20518v1",
+        "title": "The Wealth of Agents: Scaling Agentic AI Across Developers",
+        "url": "https://arxiv.org/abs/2610.20518v1",
+        "authors": [
+          "Austin W. Hanjie",
+          "Carlos E. Jimenez",
+          "Zirui Wang",
+          "Karthik Narasimhan"
+        ],
+        "snippet": "Today's agentic systems are typically designed, built, and deployed by single developers with full control over all participating agents. While this simplifies development, it limits the potential scale of agentic systems. We study multi-developer agentic systems (MDAs) which enable developers to collaboratively build agentic systems to push frontier capability beyond what any individual developer",
+        "categories": [
+          "cs.AI",
+          "cs.MA"
+        ],
+        "published": "2026-10-14T17:19:11+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:agentic",
+          "keyword:benchmark"
+        ]
+      }
+    ]
+  }
+}
