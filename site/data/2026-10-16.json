@@ -1,0 +1,364 @@
+{
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T17:08:59+00:00",
+  "errors": [
+    {
+      "source": "arxiv",
+      "message": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat%3Acs.AI+OR+cat%3Acs.CL+OR+cat%3Acs.LG&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+        "title": "Bringing GPT-Rosalind to academic research labs",
+        "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+        "source": "openai",
+        "published": "2026-10-15T19:00:00+00:00",
+        "snippet": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/sullivan-cromwell",
+        "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+        "url": "https://openai.com/index/sullivan-cromwell",
+        "source": "openai",
+        "published": "2026-10-15T00:00:00+00:00",
+        "snippet": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://machinelearning.apple.com/research/selection-structured-reasoning",
+        "title": "Selection-Based Structured Reasoning: Toward Efficient Multimodal Search Agents",
+        "url": "https://machinelearning.apple.com/research/selection-structured-reasoning",
+        "source": "apple-ml",
+        "published": "2026-10-15T00:00:00+00:00",
+        "snippet": "Multimodal agents commonly generate freeform reasoning before each action. For small models, limited model capacity can result in lengthy reasoning that provides little useful guidance for action generation while incurring substantial inference cost. To address this challenge, we introduce Selection",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://machinelearning.apple.com/research/plan-retrieve-tool-discovery",
+        "title": "Plan or Retrieve First? A Scale Study of Tool Discovery Architectures",
+        "url": "https://machinelearning.apple.com/research/plan-retrieve-tool-discovery",
+        "source": "apple-ml",
+        "published": "2026-10-15T00:00:00+00:00",
+        "snippet": "Tool-augmented LLM agents discover relevant APIs from large registries before planning execution, yet finite context windows prohibit injecting all tool definitions into a single prompt. The dominant approach, which we term Retrieve-then-Plan (RtP), embeds the user query and retrieves similar tools ",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+        "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+        "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+        "source": "huggingface",
+        "published": "2026-10-16T01:44:47+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/reflection-beam",
+        "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+        "url": "https://huggingface.co/blog/reflection-beam",
+        "source": "huggingface",
+        "published": "2026-10-16T00:00:00+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+        "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+        "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+        "source": "huggingface",
+        "published": "2026-10-15T20:34:01+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      }
+    ],
+    "github": [
+      {
+        "id": "hanzohanzhe/Grandet",
+        "title": "hanzohanzhe/Grandet",
+        "url": "https://github.com/hanzohanzhe/Grandet",
+        "description": "Find the cheapest API for any model and connect it from your AI agent: Grandet Skill and an anonymous MCP server, backed by listed prices from 1,800+ official, inference and relay providers on grandet.ai.",
+        "stars": 206,
+        "language": "JavaScript",
+        "topics": [
+          "agent-skills",
+          "ai",
+          "ai-agents",
+          "api-credits",
+          "api-pricing",
+          "api-relay",
+          "claude-code",
+          "codex"
+        ],
+        "created_at": "2026-10-05T06:50:33Z",
+        "score": 11.69,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "feder-cr/git-ai",
+        "title": "feder-cr/git-ai",
+        "url": "https://github.com/feder-cr/git-ai",
+        "description": "Git designed for AI agents.",
+        "stars": 1040,
+        "language": "Go",
+        "topics": [
+          "ai-agents",
+          "coding-agents",
+          "git",
+          "golang",
+          "scion",
+          "version-control"
+        ],
+        "created_at": "2026-10-15T13:12:02Z",
+        "score": 10.02,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "anujasid/mcp-for-blender-pro",
+        "title": "anujasid/mcp-for-blender-pro",
+        "url": "https://github.com/anujasid/mcp-for-blender-pro",
+        "description": "AI assistant and MCP server for Blender: visual chat, scene tools, model selection, multi-agent workflows. Works with OpenAI, Claude, Gemini, Ollama and OpenCode. Blender AI automation, bpy scripting, 3D modeling, geometry nodes and MCP integration.",
+        "stars": 125,
+        "language": "Python",
+        "topics": [
+          "3d",
+          "3d-automation",
+          "3d-modeling",
+          "ai-agents",
+          "ai-assistant",
+          "blender",
+          "blender-addon",
+          "blender-ai"
+        ],
+        "created_at": "2026-10-15T22:30:47Z",
+        "score": 9.98,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp",
+          "keyword:assistant"
+        ]
+      },
+      {
+        "id": "scenario-labs/blender-plugin",
+        "title": "scenario-labs/blender-plugin",
+        "url": "https://github.com/scenario-labs/blender-plugin",
+        "description": "Scenario for Blender: AI images, video, 3D and PBR materials in the viewport, plus a local MCP server for agents. Blender 5.0+ extension, GPL-3.0-or-later.",
+        "stars": 390,
+        "language": "Python",
+        "topics": [
+          "3d",
+          "agentic-ai",
+          "ai",
+          "blender",
+          "blender-addon",
+          "blender-extension",
+          "generative-ai",
+          "mcp"
+        ],
+        "created_at": "2026-08-30T10:06:41Z",
+        "score": 9.61,
+        "signals": [
+          "rising",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "lgwrightlab/schematic-figure",
+        "title": "lgwrightlab/schematic-figure",
+        "url": "https://github.com/lgwrightlab/schematic-figure",
+        "description": "Skill for AI agents that draws publication-quality scientific schematic figures as vector code",
+        "stars": 27,
+        "language": "JavaScript",
+        "topics": [
+          "agent-skill",
+          "claude-code",
+          "codex",
+          "llm",
+          "schematic",
+          "scientific-figures",
+          "svg"
+        ],
+        "created_at": "2026-10-14T13:52:56Z",
+        "score": 7.81,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "touri-ai/touri",
+        "title": "touri-ai/touri",
+        "url": "https://github.com/touri-ai/touri",
+        "description": "touri: open-source desktop app for AI agent bots (Codex, Claude, OpenCode) with isolated VMs, browser and computer use.",
+        "stars": 44,
+        "language": "TypeScript",
+        "topics": [
+          "ai-agents",
+          "claude",
+          "codex",
+          "desktop-app",
+          "macos",
+          "opencode",
+          "tauri"
+        ],
+        "created_at": "2026-10-15T13:13:07Z",
+        "score": 6.49,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "LBEILC/Multiplane",
+        "title": "LBEILC/Multiplane",
+        "url": "https://github.com/LBEILC/Multiplane",
+        "description": "Local headless HTML-to-video renderer for AI agents. Shots are plain web pages driven by render(t); includes determinism checks, cut-aware motion blur, and a 3D layer with accumulated depth of field.",
+        "stars": 51,
+        "language": "JavaScript",
+        "topics": [],
+        "created_at": "2026-10-11T04:38:04Z",
+        "score": 5.7,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "nemo22/retrokit",
+        "title": "nemo22/retrokit",
+        "url": "https://github.com/nemo22/retrokit",
+        "description": "Headless-Ghidra toolkit for reverse engineering 32-bit DOS and Win32 games (1993-2010): own LE/LX loader, Watcom calling conventions, library signatures, MCP server",
+        "stars": 25,
+        "language": "Python",
+        "topics": [
+          "decompiler",
+          "dos",
+          "ghidra",
+          "mcp",
+          "retro-gaming",
+          "reverse-engineering",
+          "watcom"
+        ],
+        "created_at": "2026-10-13T22:02:32Z",
+        "score": 5.7,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "btahir/reelbird",
+        "title": "btahir/reelbird",
+        "url": "https://github.com/btahir/reelbird",
+        "description": "Free, open-source screen recorder for macOS. A share link the moment you stop, then auto-zoom, smooth cursor and captions under the same link. Native Swift, your own S3/R2 bucket, CLI and MCP server. A Loom and Screen Studio alternative.",
+        "stars": 20,
+        "language": "Swift",
+        "topics": [
+          "auto-zoom",
+          "captions",
+          "cloudflare-r2",
+          "loom-alternative",
+          "macos",
+          "macos-app",
+          "mcp",
+          "mcp-server"
+        ],
+        "created_at": "2026-10-13T04:22:38Z",
+        "score": 5.39,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "andredelgado/continente-mcp",
+        "title": "andredelgado/continente-mcp",
+        "url": "https://github.com/andredelgado/continente-mcp",
+        "description": "Unofficial MCP server for Continente.pt: search products, check sale rules, read favorites and orders, and make verified cart changes from Claude and other AI assistants.",
+        "stars": 16,
+        "language": "TypeScript",
+        "topics": [
+          "claude",
+          "continente",
+          "groceries",
+          "mcp",
+          "mcp-server",
+          "mcpb",
+          "model-context-protocol",
+          "playwright"
+        ],
+        "created_at": "2026-10-15T10:48:48Z",
+        "score": 5.09,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "Generated-Computers/Locals",
+        "title": "Generated-Computers/Locals",
+        "url": "https://github.com/Generated-Computers/Locals",
+        "description": "Run many AI agents at once on your Mac, about three times faster.",
+        "stars": 26,
+        "language": "Python",
+        "topics": [
+          "agents",
+          "apple-silicon",
+          "artificial-intelligence",
+          "coding-agents",
+          "inference-acceleration",
+          "inference-engine",
+          "macos",
+          "mlx-lm"
+        ],
+        "created_at": "2026-10-12T17:40:28Z",
+        "score": 4.75,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "s3onghyun/bulchimbeon",
+        "title": "s3onghyun/bulchimbeon",
+        "url": "https://github.com/s3onghyun/bulchimbeon",
+        "description": "🪖 불침번 — Your Mac's night-watch soldier. Keeps your Mac awake only while AI agents work. No hooks, no daemon, macOS 13+.",
+        "stars": 24,
+        "language": "Swift",
+        "topics": [
+          "ai-agents",
+          "amphetamine",
+          "caffeinate",
+          "clamshell",
+          "claude-code",
+          "codex",
+          "coding-agents",
+          "keep-awake"
+        ],
+        "created_at": "2026-10-13T02:28:24Z",
+        "score": 4.64,
+        "signals": [
+          "new"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
