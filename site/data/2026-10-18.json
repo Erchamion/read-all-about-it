@@ -1,0 +1,219 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T16:20:04+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [],
+    "github": [
+      {
+        "id": "LiCinCan/blender-ai-mcp-addon",
+        "title": "LiCinCan/blender-ai-mcp-addon",
+        "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
+        "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+        "stars": 751,
+        "language": "Python",
+        "topics": [
+          "ai-assistant",
+          "blender",
+          "blender-addon",
+          "blender-ai",
+          "blender-automation",
+          "blender-extension",
+          "blender-mcp",
+          "blender-plugin"
+        ],
+        "created_at": "2026-10-15T22:30:47Z",
+        "score": 14.55,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp",
+          "keyword:copilot",
+          "keyword:assistant"
+        ]
+      },
+      {
+        "id": "jwuthri-cloud/Tracely-ai",
+        "title": "jwuthri-cloud/Tracely-ai",
+        "url": "https://github.com/jwuthri-cloud/Tracely-ai",
+        "description": "Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression tests, and block PRs that regress. Self-hostable.",
+        "stars": 1001,
+        "language": "Python",
+        "topics": [
+          "agent-evaluation",
+          "ai-agents",
+          "ai-testing",
+          "ci-cd",
+          "clickhouse",
+          "developer-tools",
+          "llm-evaluation",
+          "llm-observability"
+        ],
+        "created_at": "2026-10-11T15:38:03Z",
+        "score": 12.97,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "stkoecn/im-mcp",
+        "title": "stkoecn/im-mcp",
+        "url": "https://github.com/stkoecn/im-mcp",
+        "description": "Fast, local, read-only MCP Server for WeChat (4.x/3.x) & DingTalk (7.x V2/V3) chat history with FTS5 search",
+        "stars": 29,
+        "language": "Python",
+        "topics": [
+          "ai-agent",
+          "claude-desktop",
+          "cursor",
+          "dingtalk",
+          "llm",
+          "mcp",
+          "model-context-protocol",
+          "wechat"
+        ],
+        "created_at": "2026-10-17T07:41:51Z",
+        "score": 7.91,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "fzn0x/idx",
+        "title": "fzn0x/idx",
+        "url": "https://github.com/fzn0x/idx",
+        "description": "Analyze the Indonesian stock market (IDX/IHSG) from web terminal, CLI, or any AI agents via MCP server. IHSG Prices, Fundamentals, and Screening. Free and No API keys required. Changelog: https://github.com/fzn0x/idx/blob/main/CHANGELOG.md",
+        "stars": 104,
+        "language": "Rust",
+        "topics": [
+          "analytics",
+          "cli",
+          "finance",
+          "idx",
+          "ihsg",
+          "indonesia",
+          "mcp",
+          "rust"
+        ],
+        "created_at": "2026-10-16T17:51:21Z",
+        "score": 7.71,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "robonuggets/be-ambitious",
+        "title": "robonuggets/be-ambitious",
+        "url": "https://github.com/robonuggets/be-ambitious",
+        "description": "A Claude skill that makes your agent more ambitious: Felix Rieseberg's altitude, depth and range, as steps.",
+        "stars": 34,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-10-17T00:33:49Z",
+        "score": 7.13,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "HarnessMD/awesome-agent-capabilities",
+        "title": "HarnessMD/awesome-agent-capabilities",
+        "url": "https://github.com/HarnessMD/awesome-agent-capabilities",
+        "description": "MCP servers, skills, plugins and tools for AI agents. The list behind the Capabilities screen of Munder Difflin.",
+        "stars": 18,
+        "language": "JavaScript",
+        "topics": [],
+        "created_at": "2026-10-16T10:10:56Z",
+        "score": 6.25,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "Fazmin/cve-intel",
+        "title": "Fazmin/cve-intel",
+        "url": "https://github.com/Fazmin/cve-intel",
+        "description": "Local security intelligence for CVE triage — 31 tools, 25 sources, risk scores and an MCP server for AI agents, all in native Rust. Private by default.",
+        "stars": 32,
+        "language": "Rust",
+        "topics": [
+          "artificial-intelligence",
+          "cve-search",
+          "cyber",
+          "cybersecurity",
+          "cybersecurity-education",
+          "cybersecurity-tools",
+          "local-first",
+          "privacy"
+        ],
+        "created_at": "2026-10-18T04:20:37Z",
+        "score": 6.04,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "AIshihzong/awesome-reverse-engineer-anything",
+        "title": "AIshihzong/awesome-reverse-engineer-anything",
+        "url": "https://github.com/AIshihzong/awesome-reverse-engineer-anything",
+        "description": "Awesome list of AI reverse engineering and rebuilds: what AI agents took apart and recreated, and which ones really used REA (Reverse Engineer Anything).",
+        "stars": 28,
+        "language": null,
+        "topics": [
+          "ai-agents",
+          "awesome",
+          "awesome-list",
+          "claude-code",
+          "clean-room",
+          "decompiler",
+          "mcp",
+          "rea"
+        ],
+        "created_at": "2026-10-13T13:04:16Z",
+        "score": 5.86,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "JoasASantos/Malvex",
+        "title": "JoasASantos/Malvex",
+        "url": "https://github.com/JoasASantos/Malvex",
+        "description": "AI-driven malware analysis framework with 30+ integrated tools, web REPL, and MCP server",
+        "stars": 21,
+        "language": "Rust",
+        "topics": [
+          "ai",
+          "cybersecurity",
+          "dynamic-analysis",
+          "incident-response",
+          "malware",
+          "malware-analysis",
+          "mcp",
+          "repl"
+        ],
+        "created_at": "2026-10-14T15:49:55Z",
+        "score": 5.46,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
