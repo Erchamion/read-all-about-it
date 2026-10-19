@@ -1,0 +1,565 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T18:57:30+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider/",
+        "title": "Securing the agentic insider",
+        "url": "https://blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://www.anthropic.com/news/public-benefit-fund",
+        "title": "Oct 18, 2026 Announcements Investing in the public benefit",
+        "url": "https://www.anthropic.com/news/public-benefit-fund",
+        "source": "anthropic",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      }
+    ],
+    "github": [
+      {
+        "id": "finereli/whatsapp-mcp",
+        "title": "finereli/whatsapp-mcp",
+        "url": "https://github.com/finereli/whatsapp-mcp",
+        "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+        "stars": 281,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-10-18T21:01:54Z",
+        "score": 10.14,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "missuo/tamio",
+        "title": "missuo/tamio",
+        "url": "https://github.com/missuo/tamio",
+        "description": "Native SSH client for macOS: Ghostty terminal, dual-pane SFTP, live server status, E2EE iCloud sync and an MCP server for agents.",
+        "stars": 69,
+        "language": "Swift",
+        "topics": [],
+        "created_at": "2026-10-17T16:07:59Z",
+        "score": 7.13,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "ChengminLi/AI-PCB-layout",
+        "title": "ChengminLi/AI-PCB-layout",
+        "url": "https://github.com/ChengminLi/AI-PCB-layout",
+        "description": "AI agent skill for designing and reviewing power-electronics PCBs, with a human review gate after every step",
+        "stars": 25,
+        "language": null,
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "claude-code",
+          "cursor",
+          "kicad",
+          "pcb-design",
+          "pcb-layout",
+          "power-electronics"
+        ],
+        "created_at": "2026-10-14T17:39:35Z",
+        "score": 6.7,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "zigansh1n/imnotarobot",
+        "title": "zigansh1n/imnotarobot",
+        "url": "https://github.com/zigansh1n/imnotarobot",
+        "description": "I am not a robot — a captcha solver for macOS: local model, Gemini vision, a stealth browser for checkbox captchas, RuCaptcha as the last resort. 2Captcha-compatible API and an MCP server.",
+        "stars": 44,
+        "language": "Python",
+        "topics": [
+          "2captcha",
+          "captcha",
+          "captcha-solver",
+          "gemini",
+          "hcaptcha",
+          "macos",
+          "mcp-server",
+          "menubar-app"
+        ],
+        "created_at": "2026-10-19T00:56:29Z",
+        "score": 6.49,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "ry0narushima/bettersearch",
+        "title": "ry0narushima/bettersearch",
+        "url": "https://github.com/ry0narushima/bettersearch",
+        "description": "Deep research for any AI agent on DeepSeek's new Search API. Subagents, fact-checking, and a clean HTML report.",
+        "stars": 37,
+        "language": "Python",
+        "topics": [
+          "agent-skills",
+          "claude-code",
+          "codex",
+          "deepseek",
+          "research"
+        ],
+        "created_at": "2026-10-18T12:55:04Z",
+        "score": 6.25,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "weidu12123/vps-switch",
+        "title": "weidu12123/vps-switch",
+        "url": "https://github.com/weidu12123/vps-switch",
+        "description": "Rust + GPUI 原生的轻量级 VPS 管理器与面向 AI Agent 远程操控 VPS 的 MCP Server。",
+        "stars": 16,
+        "language": "Rust",
+        "topics": [],
+        "created_at": "2026-10-13T08:36:34Z",
+        "score": 6.09,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "MiHjy12138/DSH-agent-procedures",
+        "title": "MiHjy12138/DSH-agent-procedures",
+        "url": "https://github.com/MiHjy12138/DSH-agent-procedures",
+        "description": "文件化经验库：让 AI agent 不再重复踩同一个坑。方法论 + 模板 + 可选工具。",
+        "stars": 29,
+        "language": "JavaScript",
+        "topics": [
+          "agent-memory",
+          "agents-md",
+          "ai-agents",
+          "context-engineering",
+          "deepseek-harness",
+          "dsh",
+          "knowledge-base",
+          "lessons-learned"
+        ],
+        "created_at": "2026-10-14T13:35:06Z",
+        "score": 5.91,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "dansugc/reverse-engineer-marketing",
+        "title": "dansugc/reverse-engineer-marketing",
+        "url": "https://github.com/dansugc/reverse-engineer-marketing",
+        "description": "Paste a link, get the whole marketing machine behind it: paid ads, organic social, SEO, Reddit, founders, funnel — evidence-cited. CLI, MCP server and a local web app that uses your Claude Code or Codex plan.",
+        "stars": 29,
+        "language": "TypeScript",
+        "topics": [
+          "ad-library",
+          "ai-agents",
+          "claude-code",
+          "codex",
+          "competitor-analysis",
+          "growth",
+          "marketing",
+          "mcp"
+        ],
+        "created_at": "2026-10-18T14:30:57Z",
+        "score": 5.91,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "ctoldigital/axuse",
+        "title": "ctoldigital/axuse",
+        "url": "https://github.com/ctoldigital/axuse",
+        "description": "Accessibility-first browser & computer use for AI agents — one MCP server for every harness (Codex, Claude Code, OpenCode, Antigravity). Instruments the DOM/accessibility tree via CDP instead of screenshot loops: diffed snapshots, stable element refs, trusted input, typed errors. Zero dependencies",
+        "stars": 21,
+        "language": "JavaScript",
+        "topics": [
+          "agentic-automation",
+          "ai-agents",
+          "browser-automation",
+          "browser-use",
+          "cdp",
+          "chrome-devtools-protocol",
+          "computer-use",
+          "cua"
+        ],
+        "created_at": "2026-10-14T19:55:37Z",
+        "score": 5.46,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "Jakeschincariol/hunter-skill",
+        "title": "Jakeschincariol/hunter-skill",
+        "url": "https://github.com/Jakeschincariol/hunter-skill",
+        "description": "11 Claude skills that land you the job: listings, resume, research, LinkedIn and warm intros to the hiring manager.",
+        "stars": 20,
+        "language": "Python",
+        "topics": [
+          "ai-agents",
+          "career",
+          "claude",
+          "claude-skills",
+          "job-search"
+        ],
+        "created_at": "2026-10-15T14:41:07Z",
+        "score": 5.39,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "IntersectSponsor/windows-cuda-local-ai-setup-helper",
+        "title": "IntersectSponsor/windows-cuda-local-ai-setup-helper",
+        "url": "https://github.com/IntersectSponsor/windows-cuda-local-ai-setup-helper",
+        "description": "Windows utility focused on cuda setup, nvidia local AI, and cuda environment for local AI workflows.",
+        "stars": 20,
+        "language": "CSS",
+        "topics": [
+          "2026",
+          "ai-setup",
+          "cuda",
+          "cudnn",
+          "gpu-acceleration",
+          "llm",
+          "local-ai",
+          "nvidia"
+        ],
+        "created_at": "2026-10-19T12:43:43Z",
+        "score": 5.39,
+        "signals": [
+          "new",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "MagistrateUpgrade/local-ai-model-download-queue-manager",
+        "title": "MagistrateUpgrade/local-ai-model-download-queue-manager",
+        "url": "https://github.com/MagistrateUpgrade/local-ai-model-download-queue-manager",
+        "description": "Windows utility focused on model download manager, resumable downloads, and local model queue for local AI workflows.",
+        "stars": 20,
+        "language": "CSS",
+        "topics": [
+          "2026",
+          "ai-models",
+          "download-manager",
+          "file-verification",
+          "huggingface",
+          "llm",
+          "local-ai",
+          "model-download"
+        ],
+        "created_at": "2026-10-19T12:43:41Z",
+        "score": 5.39,
+        "signals": [
+          "new",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "GuruRefinery/local-llm-vram-budget-optimizer",
+        "title": "GuruRefinery/local-llm-vram-budget-optimizer",
+        "url": "https://github.com/GuruRefinery/local-llm-vram-budget-optimizer",
+        "description": "Windows utility focused on vram optimization, llm memory usage, and gpu memory budget for local AI workflows.",
+        "stars": 20,
+        "language": "CSS",
+        "topics": [
+          "2026",
+          "amd",
+          "gpu-memory",
+          "llm-tools",
+          "local-ai",
+          "local-llm",
+          "nvidia",
+          "optimization"
+        ],
+        "created_at": "2026-10-19T12:43:42Z",
+        "score": 5.39,
+        "signals": [
+          "new",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "MagentaHokageType/ollama-windows-model-library-manager",
+        "title": "MagentaHokageType/ollama-windows-model-library-manager",
+        "url": "https://github.com/MagentaHokageType/ollama-windows-model-library-manager",
+        "description": "Windows utility focused on ollama model manager, model library, and download local models for local AI workflows.",
+        "stars": 20,
+        "language": "CSS",
+        "topics": [
+          "2026",
+          "ai-models",
+          "download-manager",
+          "llm",
+          "local-ai",
+          "model-library",
+          "model-manager",
+          "offline-ai"
+        ],
+        "created_at": "2026-10-19T12:43:43Z",
+        "score": 5.39,
+        "signals": [
+          "new",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "courtelksoul/local-llm-performance-profile-switcher",
+        "title": "courtelksoul/local-llm-performance-profile-switcher",
+        "url": "https://github.com/courtelksoul/local-llm-performance-profile-switcher",
+        "description": "Windows utility focused on llm performance profiles, generation speed, and low vram profile for local AI workflows.",
+        "stars": 20,
+        "language": "CSS",
+        "topics": [
+          "2026",
+          "generation-speed",
+          "llm-tools",
+          "local-ai",
+          "local-llm",
+          "optimization",
+          "pc-ai",
+          "performance"
+        ],
+        "created_at": "2026-10-19T12:43:42Z",
+        "score": 5.39,
+        "signals": [
+          "new",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "Neutronkrebond/local-ai-vram-oom-recovery-helper",
+        "title": "Neutronkrebond/local-ai-vram-oom-recovery-helper",
+        "url": "https://github.com/Neutronkrebond/local-ai-vram-oom-recovery-helper",
+        "description": "Windows utility focused on out of memory recovery, vram error, and local AI crash for local AI workflows.",
+        "stars": 20,
+        "language": "CSS",
+        "topics": [
+          "2026",
+          "gpu-memory",
+          "llm",
+          "local-ai",
+          "oom",
+          "out-of-memory",
+          "pc-ai",
+          "recovery"
+        ],
+        "created_at": "2026-10-19T12:43:41Z",
+        "score": 5.39,
+        "signals": [
+          "new",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "soulblademask/local-ai-model-cache-storage-cleaner",
+        "title": "soulblademask/local-ai-model-cache-storage-cleaner",
+        "url": "https://github.com/soulblademask/local-ai-model-cache-storage-cleaner",
+        "description": "Windows utility focused on model storage cleanup, unused local models, and AI cache cleanup for local AI workflows.",
+        "stars": 20,
+        "language": "CSS",
+        "topics": [
+          "2026",
+          "cache-cleaner",
+          "cleanup-tool",
+          "disk-space",
+          "llm",
+          "local-ai",
+          "model-cleanup",
+          "model-manager"
+        ],
+        "created_at": "2026-10-19T12:43:40Z",
+        "score": 5.39,
+        "signals": [
+          "new",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "ChaserMeadowlark/local-ai-api-endpoint-manager-windows",
+        "title": "ChaserMeadowlark/local-ai-api-endpoint-manager-windows",
+        "url": "https://github.com/ChaserMeadowlark/local-ai-api-endpoint-manager-windows",
+        "description": "Windows utility focused on local AI API server, local endpoint manager, and OpenAI compatible API for local AI workflows.",
+        "stars": 20,
+        "language": "CSS",
+        "topics": [
+          "2026",
+          "api-server",
+          "developer-tools",
+          "endpoints",
+          "integration",
+          "llm-api",
+          "local-ai",
+          "localhost"
+        ],
+        "created_at": "2026-10-19T12:43:39Z",
+        "score": 5.39,
+        "signals": [
+          "new",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "desertmoosespindle/windows-local-ai-one-click-runtime",
+        "title": "desertmoosespindle/windows-local-ai-one-click-runtime",
+        "url": "https://github.com/desertmoosespindle/windows-local-ai-one-click-runtime",
+        "description": "Windows utility focused on one-click local AI setup, local AI runtime, and Windows AI setup for local AI workflows.",
+        "stars": 20,
+        "language": "CSS",
+        "topics": [
+          "2026",
+          "ai-runtime",
+          "gpu-acceleration",
+          "llm",
+          "local-ai",
+          "offline-ai",
+          "ollama",
+          "one-click-installer"
+        ],
+        "created_at": "2026-10-19T12:43:44Z",
+        "score": 5.39,
+        "signals": [
+          "new",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "purple-sunset-now/kitty-has-a-job",
+        "title": "purple-sunset-now/kitty-has-a-job",
+        "url": "https://github.com/purple-sunset-now/kitty-has-a-job",
+        "description": "Claude skill that automates your job search: scores postings, tailors your CV, tracks applications.",
+        "stars": 19,
+        "language": "Python",
+        "topics": [
+          "claude-code",
+          "claude-skill",
+          "job-search"
+        ],
+        "created_at": "2026-10-18T20:17:20Z",
+        "score": 5.32,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "HeyPCB/heypcb-mcp",
+        "title": "HeyPCB/heypcb-mcp",
+        "url": "https://github.com/HeyPCB/heypcb-mcp",
+        "description": "HeyPCB for AI agents: an MCP server that gives Claude Code, Codex, Cursor and claude.ai a PCB engineer. npx -y @heypcb/mcp",
+        "stars": 18,
+        "language": "TypeScript",
+        "topics": [
+          "ai-agents",
+          "autorouter",
+          "claude-code",
+          "codex",
+          "cursor",
+          "eda",
+          "electronics",
+          "jlcpcb"
+        ],
+        "created_at": "2026-10-12T20:56:50Z",
+        "score": 5.25,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "two35s/reclaude",
+        "title": "two35s/reclaude",
+        "url": "https://github.com/two35s/reclaude",
+        "description": "Claude.ai in your terminal: streaming chat, OpenAI proxy, MCP server. No API key.",
+        "stars": 18,
+        "language": "Python",
+        "topics": [
+          "api",
+          "chatgpt",
+          "claude",
+          "mcp",
+          "open-source",
+          "opencode"
+        ],
+        "created_at": "2026-10-13T14:42:30Z",
+        "score": 5.25,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "adnvli/vfxskill",
+        "title": "adnvli/vfxskill",
+        "url": "https://github.com/adnvli/vfxskill",
+        "description": "A Claude skill for creating polished Roblox VFX animations, including particles, beams, trails, and tweened effects. Drop it in and generate high-quality effects fast. Free and open source.",
+        "stars": 15,
+        "language": "JavaScript",
+        "topics": [],
+        "created_at": "2026-10-19T02:14:56Z",
+        "score": 5.0,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "edgeduelistdisplay/local-ai-gpu-readiness-checker",
+        "title": "edgeduelistdisplay/local-ai-gpu-readiness-checker",
+        "url": "https://github.com/edgeduelistdisplay/local-ai-gpu-readiness-checker",
+        "description": "Windows utility focused on gpu compatibility, local AI hardware check, and vram check for local AI workflows.",
+        "stars": 20,
+        "language": "CSS",
+        "topics": [
+          "2026",
+          "amd",
+          "compatibility",
+          "diagnostics",
+          "gpu",
+          "hardware-check",
+          "intel-arc",
+          "local-ai"
+        ],
+        "created_at": "2026-10-19T12:43:40Z",
+        "score": 4.39,
+        "signals": [
+          "new"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
