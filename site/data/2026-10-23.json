@@ -1,0 +1,1140 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T17:40:15+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+        "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+        "source": "openai",
+        "published": "2026-10-23T17:00:00+00:00",
+        "snippet": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+        "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+        "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+        "source": "openai",
+        "published": "2026-10-23T00:00:00+00:00",
+        "snippet": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/decisions-api",
+        "title": "Build more responsive apps with the Decisions API",
+        "url": "https://openai.com/index/decisions-api",
+        "source": "openai",
+        "published": "2026-10-22T19:00:00+00:00",
+        "snippet": "Fast, focused, low-cost decisions for any application.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://microsoft.ai/news/building-medical-superintelligence/",
+        "title": "Can AI diagnose like a team of doctors? New research puts it to the test",
+        "url": "https://microsoft.ai/news/building-medical-superintelligence/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
+        "title": "Beyond static charts: Helping AI create visualizations you can explore",
+        "url": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://blogs.microsoft.com/on-the-issues/2026/10/22/expanding-ai-literacy-with-the-american-library-association-and-community-based-programs/",
+        "title": "Microsoft and the Public Library Association expand free AI literacy training",
+        "url": "https://blogs.microsoft.com/on-the-issues/2026/10/22/expanding-ai-literacy-with-the-american-library-association-and-community-based-programs/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://huggingface.co/blog/allenai/litpivot",
+        "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+        "url": "https://huggingface.co/blog/allenai/litpivot",
+        "source": "huggingface",
+        "published": "2026-10-23T16:15:50+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/torch-neuronx-model-support",
+        "title": "Does Your Model Run on AWS Trainium? Look It Up",
+        "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+        "source": "huggingface",
+        "published": "2026-10-23T00:00:00+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+        "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+        "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+        "source": "huggingface",
+        "published": "2026-10-22T22:24:34+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+        "title": "Donating Agent Skills to the Agentic AI Foundation",
+        "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+        "source": "anthropic",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+        "title": "Open call for guest investigators in the life sciences",
+        "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+        "source": "anthropic",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      }
+    ],
+    "github": [
+      {
+        "id": "alexgaoth/awesome-reverse-engineered",
+        "title": "alexgaoth/awesome-reverse-engineered",
+        "url": "https://github.com/alexgaoth/awesome-reverse-engineered",
+        "description": "Don't reverse engineer it twice. 16,000+ open-source tools built by reverse engineering closed apps, APIs, devices, protocols, file formats, games and AI tools. Search site + agent skill + MCP server, refreshed nightly.",
+        "stars": 626,
+        "language": "Python",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "awesome",
+          "awesome-list",
+          "claude-code",
+          "decompilation",
+          "file-formats",
+          "game-decompilation"
+        ],
+        "created_at": "2026-10-11T17:30:10Z",
+        "score": 13.29,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:mcp",
+          "keyword:assistant",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "ollaya-dev/ollaya",
+        "title": "ollaya-dev/ollaya",
+        "url": "https://github.com/ollaya-dev/ollaya",
+        "description": "Jev-compatible API server for open decision models. Ollama for decision models: pull and serve 24 model families (Laya, pplx-decider, Clef, Winnow, Kev...) locally or self-hosted behind /v1/systemone. TypeSafe SDK works by changing one env var. CLI, daemon, desktop app, Docker, MCP server, public be",
+        "stars": 1386,
+        "language": "Rust",
+        "topics": [
+          "calibration",
+          "decision-model",
+          "decision-models",
+          "inference-server",
+          "jev",
+          "jev-alternative",
+          "jev-compatible",
+          "laya"
+        ],
+        "created_at": "2026-09-23T22:11:15Z",
+        "score": 11.44,
+        "signals": [
+          "rising",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "blendi-remade/agentcraft",
+        "title": "blendi-remade/agentcraft",
+        "url": "https://github.com/blendi-remade/agentcraft",
+        "description": "Manage your real AI agents, using Minecraft as your interface!",
+        "stars": 883,
+        "language": "Java",
+        "topics": [],
+        "created_at": "2026-10-03T00:59:54Z",
+        "score": 9.79,
+        "signals": [
+          "rising"
+        ]
+      },
+      {
+        "id": "liyupi/dafeiyu-cleaner",
+        "title": "liyupi/dafeiyu-cleaner",
+        "url": "https://github.com/liyupi/dafeiyu-cleaner",
+        "description": "DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comments.",
+        "stars": 37,
+        "language": "JavaScript",
+        "topics": [
+          "ai",
+          "ai-agent",
+          "ai-content-detection",
+          "ai-detection",
+          "aigc",
+          "anti-spam",
+          "bilibili",
+          "bilibili-comments"
+        ],
+        "created_at": "2026-10-23T03:39:33Z",
+        "score": 7.25,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "haplollc/Vesalius",
+        "title": "haplollc/Vesalius",
+        "url": "https://github.com/haplollc/Vesalius",
+        "description": "A map of your codebase for Claude Code: an on-device code graph with an MCP server, a CLI, a Mac app and a VS Code extension.",
+        "stars": 54,
+        "language": "Swift",
+        "topics": [
+          "claude-code",
+          "code-graph",
+          "developer-tools",
+          "macos",
+          "mcp",
+          "static-analysis",
+          "swift",
+          "swiftui"
+        ],
+        "created_at": "2026-10-22T05:01:30Z",
+        "score": 6.78,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "kiyoakii/xinliqiu-sdk",
+        "title": "kiyoakii/xinliqiu-sdk",
+        "url": "https://github.com/kiyoakii/xinliqiu-sdk",
+        "description": "Unofficial SDK for the OPPO AI 心力球: pair from any computer, sync and decrypt your own recordings, optional ciphertext-only storage, MCP server for agents.",
+        "stars": 39,
+        "language": "Python",
+        "topics": [
+          "ble",
+          "mcp",
+          "oppo",
+          "recorder",
+          "sdk"
+        ],
+        "created_at": "2026-10-23T10:56:01Z",
+        "score": 6.32,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "Jakeschincariol/console-skill",
+        "title": "Jakeschincariol/console-skill",
+        "url": "https://github.com/Jakeschincariol/console-skill",
+        "description": "11 Claude skills that port PlayStation 2 games you own to PC: reverse engineer the code, rebuild the graphics and backend, any controller, play it anywhere, then mod it however you want.",
+        "stars": 37,
+        "language": "Python",
+        "topics": [
+          "claude",
+          "claude-skills",
+          "game-dev",
+          "gamepad",
+          "modding",
+          "ps2",
+          "reverse-engineering",
+          "static-recompilation"
+        ],
+        "created_at": "2026-10-22T14:12:44Z",
+        "score": 6.25,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "Juwan-Hwang/omni2api",
+        "title": "Juwan-Hwang/omni2api",
+        "url": "https://github.com/Juwan-Hwang/omni2api",
+        "description": "Anything to API (万物皆可2API): put an AI agent, a script, or even yourself behind an OpenAI-compatible API",
+        "stars": 31,
+        "language": "Rust",
+        "topics": [],
+        "created_at": "2026-10-22T03:36:13Z",
+        "score": 6.0,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "ValhallaHelheim/pc-game-performance-analyzer-resp-skill",
+        "title": "ValhallaHelheim/pc-game-performance-analyzer-resp-skill",
+        "url": "https://github.com/ValhallaHelheim/pc-game-performance-analyzer-resp-skill",
+        "description": "Claude skill that checks if your PC or laptop can run a game, rates your hardware, finds bottlenecks, and gives the best settings for more FPS and better graphics.",
+        "stars": 29,
+        "language": "HTML",
+        "topics": [
+          "bootcamp-drivers",
+          "fps-booster-no-lag",
+          "frame-rate-boost",
+          "game",
+          "game-booster-free",
+          "optimize-windows",
+          "optimizer-tool",
+          "pc"
+        ],
+        "created_at": "2026-10-23T07:07:17Z",
+        "score": 5.91,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "Mason-Levyy/garmin-personal-mcp",
+        "title": "Mason-Levyy/garmin-personal-mcp",
+        "url": "https://github.com/Mason-Levyy/garmin-personal-mcp",
+        "description": "MCP server for Garmin Connect on Garmin's official Personal API: sleep, HRV, body battery, activities, and more from Claude or any MCP client",
+        "stars": 27,
+        "language": "Python",
+        "topics": [
+          "ai-agents",
+          "claude",
+          "claude-code",
+          "claude-desktop",
+          "fitness",
+          "garmin",
+          "garmin-api",
+          "garmin-connect"
+        ],
+        "created_at": "2026-10-22T07:03:04Z",
+        "score": 5.81,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "zoefix/agent-speed",
+        "title": "zoefix/agent-speed",
+        "url": "https://github.com/zoefix/agent-speed",
+        "description": "Agent Speed — A lightweight, real-time token speed monitor for Codex and Claude Code. Track tokens per second (TPS), detect slowdowns, and monitor AI agent performance at a glance.",
+        "stars": 25,
+        "language": "C#",
+        "topics": [],
+        "created_at": "2026-10-21T02:52:05Z",
+        "score": 5.7,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "ck-ys/SmartDock",
+        "title": "ck-ys/SmartDock",
+        "url": "https://github.com/ck-ys/SmartDock",
+        "description": "SmartDock 是开源通用智能体（AI Agent）引擎与事件源用户画像引擎：支持多 agent 注册、ReAct 工具调用、工具 SPI、HITL 写操作确认、PII 脱敏与计费；内置 AI 助手应用与行为分析，Java 21 / Spring Boot 3.5 / Vue 3.5 / RuoYi，附完整后台基座。",
+        "stars": 25,
+        "language": "Java",
+        "topics": [
+          "agentscope",
+          "agentscope-java",
+          "ai-agent",
+          "ruoyi",
+          "ruoyi-ai",
+          "ruoyi-vue",
+          "ruoyi-vue-plus"
+        ],
+        "created_at": "2026-10-20T07:44:50Z",
+        "score": 5.7,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "riza/ai-disk-cleanup",
+        "title": "riza/ai-disk-cleanup",
+        "url": "https://github.com/riza/ai-disk-cleanup",
+        "description": "Reclaim disk space with an AI agent: measure top-down, group findings by risk, and delete only what you approve. Prompts in 7 languages. macOS, Linux, Windows.",
+        "stars": 24,
+        "language": null,
+        "topics": [
+          "claude",
+          "codex",
+          "cursor",
+          "disk-cleanup",
+          "prompt"
+        ],
+        "created_at": "2026-10-22T16:15:26Z",
+        "score": 5.64,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "imetn/calends",
+        "title": "imetn/calends",
+        "url": "https://github.com/imetn/calends",
+        "description": "The settlement day for everything you subscribe to — a self-hosted, AI-native subscription ledger with multi-currency, shared plans, reminders and a built-in MCP server.",
+        "stars": 20,
+        "language": "TypeScript",
+        "topics": [
+          "cloudflare-workers",
+          "docker",
+          "mcp",
+          "multi-currency",
+          "personal-finance",
+          "react",
+          "self-hosted",
+          "subscription-tracker"
+        ],
+        "created_at": "2026-10-21T11:27:57Z",
+        "score": 5.39,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "666ghj/auday-skill",
+        "title": "666ghj/auday-skill",
+        "url": "https://github.com/666ghj/auday-skill",
+        "description": "Bring your Auday memories and recordings into your AI workflows.",
+        "stars": 16,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-10-19T17:23:48Z",
+        "score": 5.09,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "id": "2610.31376v1",
+        "title": "Certified Execution Harness for Agentic AI: Safe and Least-Intrusive Petri-Net Supervisory Control Between Reasoning and Action",
+        "url": "https://arxiv.org/abs/2610.31376v1",
+        "authors": [
+          "Chao Gu",
+          "Quanyan Zhu"
+        ],
+        "snippet": "This paper studies the problem of safe tool execution for large language model (LLM) agents under prompt injection. Using Petri nets, we formalize the execution harness between the LLM and its tools as a supervisory control problem, in which marks represent capabilities, approvals and budgets. Since a transition fires only if the marks it needs are present, an injected request whose preconditions ",
+        "categories": [
+          "cs.AI",
+          "eess.SY"
+        ],
+        "published": "2026-10-22T14:48:16+00:00",
+        "score": 6.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:reasoning",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2610.31467v1",
+        "title": "From Structured Records to Patient Narratives: Preserving Clinical Alignment in LLM-Generated Health Summaries",
+        "url": "https://arxiv.org/abs/2610.31467v1",
+        "authors": [
+          "Bayram Ayadi",
+          "Florian Geissler",
+          "Johanna Schmidhuber"
+        ],
+        "snippet": "As wearable and digital health systems increasingly generate longitudinal physiological records, communicating these observations in patient-accessible language remains a significant challenge. Large Language Models (LLMs) offer a promising mechanism for translating structured clinical information into readable narratives, but this process may introduce semantic drift, where clinically precise mea",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-10-22T15:58:57+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:retrieval",
+          "keyword:alignment",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2610.31355v1",
+        "title": "Muffin - A Shared Memory Buffer for Asynchronous AI Agents",
+        "url": "https://arxiv.org/abs/2610.31355v1",
+        "authors": [
+          "Ping-Lin Kuo",
+          "Suman Navaratnarajah",
+          "Christian Frey",
+          "Gresa Shala",
+          "Josif Grabocka"
+        ],
+        "snippet": "The rise of Agentic AI systems has changed the landscape of artificial intelligence by enabling strong reasoning capabilities through specialized multi-agent interaction with structured self-reflection. However, in target-driven reasoning tasks, single- and multi-agent systems are often on par in terms of performance gains. A major challenge is that failures often arise from an ineffective exchang",
+        "categories": [
+          "cs.AI",
+          "cs.MA"
+        ],
+        "published": "2026-10-22T14:36:46+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:reasoning",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2610.31062v1",
+        "title": "SCOPE: Compiling Natural-Language Policies into Neurosymbolic Predicate Programs",
+        "url": "https://arxiv.org/abs/2610.31062v1",
+        "authors": [
+          "Arnon Mazza",
+          "Elad Levi"
+        ],
+        "snippet": "Policy enforcement for LLM agents has shifted from single-turn content moderation to compound, application-specific policies evaluated over multi-turn transcripts and tool-call trajectories. Fine-tuned guardrail models are efficient but degrade on compound policies, and while LLM-as-a-judge approaches achieve higher accuracy, they incur high inference cost and tend to produce unstable predictions.",
+        "categories": [
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-10-22T10:41:13+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2610.31650v1",
+        "title": "EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence",
+        "url": "https://arxiv.org/abs/2610.31650v1",
+        "authors": [
+          "Qijin Zhang",
+          "Hanzhen Wang",
+          "Yuehan Zhao",
+          "Haoyu Dai",
+          "Yao Shu",
+          "Zhongxiang Dai"
+        ],
+        "snippet": "Tool-using language model agents rely on environmental facts to decide whether an action is permitted. When a tool response omits a safety-relevant fact, an agent may carry out a prohibited action even though the user request is benign and every returned statement is true. We introduce \\bench{}, an executable benchmark for evaluating unsafe execution, safety boundaries, and evidence recovery in LL",
+        "categories": [
+          "cs.AI",
+          "cs.LG"
+        ],
+        "published": "2026-10-22T17:57:04+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2610.31636v1",
+        "title": "Can an Agent Debug a Web Corpus? Agentic Auditing of Slovak FineWeb2",
+        "url": "https://arxiv.org/abs/2610.31636v1",
+        "authors": [
+          "Marek Šuppa",
+          "Ivan Vykopal",
+          "Jaroslav Kopčan"
+        ],
+        "snippet": "Multilingual pipelines such as FineWeb2 apply one recipe across a thousand languages, leaving the failure modes of individual languages unanticipated. We use an LLM once, as a corpus debugger rather than a classifier: a tool-using agent explores the corpus through a read-only, budgeted API and compiles each finding into an executable test, which a native speaker then validates. On the 26.5M-docume",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-10-22T17:52:22+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:agentic"
+        ]
+      },
+      {
+        "id": "2610.31606v1",
+        "title": "How Ground Truth Shapes Retrieval Scores: Evidence-Aware Evaluation of a Retrieval-Augmented Generation System for Breast Lesions",
+        "url": "https://arxiv.org/abs/2610.31606v1",
+        "authors": [
+          "Miguel Mochizuki Silva",
+          "Samuel Ismael",
+          "Mateus C. Dias",
+          "Thaís Gaudêncio",
+          "Yuri Malheiros",
+          "Barufaldi"
+        ],
+        "snippet": "Purpose: To describe an evidence-aware retrieval evaluation protocol for a clinical retrieval-augmented generation (RAG) system over breast lesion management literature, addressing the dependence of retrieval scores on annotation coverage. Methods: An 18-document corpus and an 18-query development benchmark, with one Yes/No or WH-question per document, were used. Retrieval combined dense embedding",
+        "categories": [
+          "cs.CL",
+          "cs.AI"
+        ],
+        "published": "2026-10-22T17:36:14+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:benchmark",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2610.31586v1",
+        "title": "Would an LLM Match into a Residency? Uncertainty, Reasoning and Image Use of Open Language Models on the Spanish MIR Examination",
+        "url": "https://arxiv.org/abs/2610.31586v1",
+        "authors": [
+          "Miguel Fernandez-de-Retana",
+          "Unai Zulaika",
+          "Ruben Sanchez-Corcuera",
+          "Aritz Bilbao-Jayo",
+          "Aitor Almeida"
+        ],
+        "snippet": "Accuracy on medical examinations is common evidence offered for the clinical use of language models, yet a health system that intends to run an open model on its own hardware needs to know considerably more: whether the model recognizes when it is likely to be wrong, whether medical fine-tuning improves this ability, whether its correct answers rest on sound clinical reasoning, or whether it actua",
+        "categories": [
+          "cs.CL",
+          "cs.AI",
+          "cs.CY",
+          "cs.LG"
+        ],
+        "published": "2026-10-22T17:23:11+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:reasoning",
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2610.31572v1",
+        "title": "On the Token Collapse Phenomenon in Textual Graph Soft Prompting",
+        "url": "https://arxiv.org/abs/2610.31572v1",
+        "authors": [
+          "Andrea Giuseppe Di Francesco",
+          "Rishabh Jain",
+          "Franco Maria Nardini",
+          "Nicola Tonellotto",
+          "Pietro Liò",
+          "Fabrizio Silvestri"
+        ],
+        "snippet": "Recent methods for injecting graph structure into LLM prompts include graph soft prompting, in which a graph neural network (GNN) learns graph-specific tokens that capture relational information among entities in textual prompts. G-Retriever combines graph soft prompts with a verbalized description of the same graph to strengthen the textual prompt signal. We conduct an in-depth analysis of G-Retr",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-10-22T17:13:03+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:alignment",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2610.31436v1",
+        "title": "Conservative Meta-Agent Search: Architecture Adaptation under Non-Stationarity",
+        "url": "https://arxiv.org/abs/2610.31436v1",
+        "authors": [
+          "Ali Atiah Alzahrani"
+        ],
+        "snippet": "Automated agentic-system design is typically evaluated on static task suites with immediate scalar rewards. Deployed systems face persistent shift, delayed dependent feedback, correlated component failures, and costly architecture changes. We formalize meta-agent architecture search as sequential incumbent replacement with switching costs and hard risk constraints and introduce Conservative Meta-A",
+        "categories": [
+          "cs.AI",
+          "cs.LG",
+          "cs.MA"
+        ],
+        "published": "2026-10-22T15:32:06+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2610.31404v1",
+        "title": "AgentPhishing: A Benchmark of LLM Email Agents Under Adaptive Attack",
+        "url": "https://arxiv.org/abs/2610.31404v1",
+        "authors": [
+          "Justin Tan",
+          "Miao Li",
+          "Ding Zhao"
+        ],
+        "snippet": "Computer-use agents increasingly handle private information and act on users' behalf across desktop and web applications, including email. Phishing therefore poses privacy and security risks that depend not only on whether agents recognize malicious messages, but also on how they respond. Existing phishing datasets were developed primarily for conventional detection, leaving agent susceptibility t",
+        "categories": [
+          "cs.CR",
+          "cs.AI"
+        ],
+        "published": "2026-10-22T15:07:49+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2610.31397v1",
+        "title": "Parameter-Efficient Adaptation of Large Language Models to a Low-Resource Agglutinative Language: A Corpus, Datasets, and a Reproducible Benchmark for the Bashkir Language",
+        "url": "https://arxiv.org/abs/2610.31397v1",
+        "authors": [
+          "Mullosharaf K. Arabov",
+          "Svetlana S. Khaybullina"
+        ],
+        "snippet": "Bashkir is a low-resource agglutinative language written in Cyrillic and remains poorly represented in modern LLMs. We present an open resource suite and a systematic benchmark of adaptation methods: the Bashkir Web Corpus (71,567 documents, 46.9M tokens, 16 sources) and three labelled datasets for binary, multiclass and multilabel text classification; the benchmark covers the first two. Experimen",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-10-22T14:59:55+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:benchmark",
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2610.31280v1",
+        "title": "Beyond Accuracy: Disentangling Decomposition from Typed-State Quality Assurance in Multi-Agent LLM Pipelines",
+        "url": "https://arxiv.org/abs/2610.31280v1",
+        "authors": [
+          "Maria Gabriela Alves Zuppardo",
+          "Vinicius Cardoso Garcia"
+        ],
+        "snippet": "Multi-agent LLM pipelines are often credited with gains in software engineering tasks, but it is rarely clear whether a gain stems from the typed contract between agents or from the specialized prompts that decomposition enables. We study this attribution problem in Requirements Engineering, comparing three architectures for classifying requirements as functional or non-functional and then priorit",
+        "categories": [
+          "cs.SE",
+          "cs.AI",
+          "cs.ET",
+          "cs.LG"
+        ],
+        "published": "2026-10-22T13:46:20+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2610.31277v1",
+        "title": "CoWriter: Guiding Methodological and Synergetic Human-LLM Co-Authoring",
+        "url": "https://arxiv.org/abs/2610.31277v1",
+        "authors": [
+          "Shmuel Amar",
+          "Benjamin Lieber",
+          "Ori Shapira",
+          "Debanjana Kar",
+          "Sebastian Maximilian Dennerlein",
+          "Yufang Hou"
+        ],
+        "snippet": "While LLMs have transformed text generation, standard chat-and-canvas interfaces often reduce human authoring to quite passive supervision, causing review fatigue, over-reliance on AI, and the sidelining of the human role in long-form, source-grounded writing. Prior systems typically address isolated writing phases, leaving comprehensive end-to-end human-LLM collaboration largely unexplored. In th",
+        "categories": [
+          "cs.CL",
+          "cs.AI",
+          "cs.HC"
+        ],
+        "published": "2026-10-22T13:45:47+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:agentic"
+        ]
+      },
+      {
+        "id": "2610.31256v1",
+        "title": "IndoNutriQA: An Indonesian Clinical Nutrition Question Answering Benchmark",
+        "url": "https://arxiv.org/abs/2610.31256v1",
+        "authors": [
+          "Tirana Noor Fatyanosa",
+          "Ummu Ditya Erliana",
+          "Mahendra Data",
+          "Muhammad Nurwegiono",
+          "Eleazar Tadeo Eman",
+          "Alham Fikri Aji"
+        ],
+        "snippet": "Clinical Question Answering (QA) underpins Clinical Intelligent Decision Support Systems, but progress is severely limited for low-resource languages such as Indonesian by the absence of public domain-specific data. We introduce IndoNutriQA, an expert-curated Indonesian clinical QA benchmark of 911 question-answer pairs built from real clinical-nutrition reports. Rather than a large-scale training",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-10-22T13:34:29+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:benchmark",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2610.31172v1",
+        "title": "Prompting Strategy Effects Depend on the Judge: A Multilingual Study of LLM-as-a-Judge Robustness",
+        "url": "https://arxiv.org/abs/2610.31172v1",
+        "authors": [
+          "Asal Mehrabi",
+          "Mohammad Aliannejadi",
+          "Clemencia Siro"
+        ],
+        "snippet": "LLM-as-a-Judge evaluation is increasingly applied to multilingual tasks, yet prompting strategies such as Chain-of-Thought and Role Conditioning are recommended based solely on English benchmarks. Whether their effectiveness transfers across judge models and languages remains unknown: prompt-sensitivity studies are largely English-centric, while existing multilingual judge studies fix the prompt t",
+        "categories": [
+          "cs.CL",
+          "cs.AI",
+          "cs.LG"
+        ],
+        "published": "2026-10-22T12:27:05+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:benchmark",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2610.31135v1",
+        "title": "Mixing Matters: Evidence Position Bias Across Sequence Mixers in Long-Context Question Answering",
+        "url": "https://arxiv.org/abs/2610.31135v1",
+        "authors": [
+          "Aman Behera",
+          "Namit Solanki",
+          "Mehul Anand"
+        ],
+        "snippet": "Long-context models often use answer-bearing evidence less effectively when it appears away from a prompt boundary. We compare this position bias across Transformer, state-space, and hybrid Mamba architectures by moving one gold document through a fixed set of nine distractors. The evaluated Transformers show a beginning advantage that the evaluated state-space models lack, while both families fav",
+        "categories": [
+          "cs.CL",
+          "cs.AI",
+          "cs.LG"
+        ],
+        "published": "2026-10-22T11:54:30+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:retrieval",
+          "keyword:transformer",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2610.31117v1",
+        "title": "Through a PRISM, Clearly: Step-Sequence Reasoning for Mistake Recognition in Procedural Videos",
+        "url": "https://arxiv.org/abs/2610.31117v1",
+        "authors": [
+          "Olga Loginova",
+          "Oleksandr Bezrukov",
+          "Frank Keller"
+        ],
+        "snippet": "Procedural mistake recognition requires identifying deviations from valid multi-step activities. We study post-completion recognition from videos with benchmark-provided step boundaries. We introduce PRISM (Procedural mistake Recognition via Interpretable Semantic Modeling), which grounds video segments in language and maps their descriptions to procedural states using a lightweight hidden Markov ",
+        "categories": [
+          "cs.CV",
+          "cs.CL"
+        ],
+        "published": "2026-10-22T11:32:37+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2610.31113v1",
+        "title": "Can AI Co-Design Structures? An AI Agent for Early-Stage Structural Design",
+        "url": "https://arxiv.org/abs/2610.31113v1",
+        "authors": [
+          "Ricardo Maia Avelino",
+          "Mennatallah El-Assady",
+          "Tom Van Mele",
+          "Philippe Block"
+        ],
+        "snippet": "Recent advances in large language models and agentic workflows offer a new paradigm to early-stage structural design translating design intent into structural models. Although text-to-3D approaches have demonstrated that natural language can be used to produce visual, mesh-based geometric models, structural design requires domain-specific geometric arrangements and semantically rich data types. Th",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-10-22T11:27:22+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2610.31080v1",
+        "title": "nnInteractive Agent: General-Purpose AI Agents as 3D Image Annotators",
+        "url": "https://arxiv.org/abs/2610.31080v1",
+        "authors": [
+          "Fabian Isensee",
+          "Constantin Ulrich Harsy",
+          "Maximilian Rokuss",
+          "Benjamin Hamm",
+          "Philipp Vollmuth",
+          "Klaus H. Maier-Hein"
+        ],
+        "snippet": "Interactive 3D segmentation models such as nnInteractive turn a few spatial prompts (points, scribbles, boxes) into accurate volumetric masks, but a human still does the annotation work: finding each structure, placing prompts, checking the result and correcting it. General-purpose AI agents can now interpret images, call tools and write code. We show that such agents can take over this work witho",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-10-22T10:55:15+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:benchmark",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2610.31005v1",
+        "title": "Mitigating Saliency Collapse: Robust Saliency-Aware Long-Text Image-Text Alignment",
+        "url": "https://arxiv.org/abs/2610.31005v1",
+        "authors": [
+          "Qiuyu Kong",
+          "Zanxi Ruan",
+          "Marco Cristani",
+          "Yiming Wang"
+        ],
+        "snippet": "Long-text image-text alignment is essential for fine-grained scene understanding, yet existing methods mainly focus on extending context length or improving local alignment. We identify an overlooked failure mode, saliency collapse, where models over-rely on text that features visual prominence while underutilizing non-salient context. Consequently, retrieval performance degrades sharply when sali",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-10-22T09:44:57+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:retrieval",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2610.31000v1",
+        "title": "SecLog-Bench: A Scalable Benchmark for Cybersecurity Log Reasoning with Scaffolded Evidence",
+        "url": "https://arxiv.org/abs/2610.31000v1",
+        "authors": [
+          "Yifan Wang",
+          "Dongliang Xu",
+          "Xiaoyong Li",
+          "Jing Li",
+          "Peter S. Pan",
+          "Yue Yao"
+        ],
+        "snippet": "Large language models (LLMs) have shown strong potential for cybersecurity, leading to growing interest in LLM-based automated cybersecurity log analysis. However, current datasets (1) are limited in scale; (2) rely mainly on single-source evidence; and (3) have only binary or multi-class attack labels, without dense annotations of the reasoning process. To address these limitations, SecLog-Bench ",
+        "categories": [
+          "cs.CR",
+          "cs.AI"
+        ],
+        "published": "2026-10-22T09:41:16+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:reasoning",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2610.30963v1",
+        "title": "ReDence: A Hybrid Agentic and Decision-Model Framework for Rapid, Evidence-Grounded Detection of Modern Social Engineering Scams",
+        "url": "https://arxiv.org/abs/2610.30963v1",
+        "authors": [
+          "Jaishnoor Kaur",
+          "Josef Horáček",
+          "Ian Waskom",
+          "Sayak Saha Roy"
+        ],
+        "snippet": "Detecting online social engineering (SE) scams often requires examining website workflows, verifying claims against external sources, and connecting evidence across multiple pages. Existing detectors provide limited support for these investigations, leaving analysts to manually gather and validate evidence, which inevitably delays detection and subsequent takedown of these attacks. To address this",
+        "categories": [
+          "cs.CR",
+          "cs.LG"
+        ],
+        "published": "2026-10-22T09:08:33+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agentic",
+          "keyword:reasoning",
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2610.31670v1",
+        "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
+        "url": "https://arxiv.org/abs/2610.31670v1",
+        "authors": [
+          "Yunfei Xie",
+          "Howard H. Qian",
+          "Shiyi Lan",
+          "Kaiyu Hang",
+          "Chen Wei"
+        ],
+        "snippet": "Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests that as representations improve, different modalities such as vision and language converge toward a shared statistical model of reality. We ask whether motion trajectories form another such modality:",
+        "categories": [
+          "cs.CV",
+          "cs.LG",
+          "cs.RO"
+        ],
+        "published": "2026-10-22T17:59:51+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:fine-tuning",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2610.31657v1",
+        "title": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
+        "url": "https://arxiv.org/abs/2610.31657v1",
+        "authors": [
+          "Sachin Gupta"
+        ],
+        "snippet": "Wrong automatic routing of an IT support ticket can cost more than human triage. We evaluate cost-aware abstention as an offline, cost-conditional readiness assessment: select a routing policy on calibration data under explicit costs, then evaluate that frozen policy once on held-out test data. On a public 47,837-ticket, eight-class corpus, we compare four trained non-LLM classifiers with four lar",
+        "categories": [
+          "cs.LG",
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-10-22T17:58:52+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2610.31624v1",
+        "title": "Questioning Instrumental Convergence in RLVR: Checkpoint Evidence from OLMo-3",
+        "url": "https://arxiv.org/abs/2610.31624v1",
+        "authors": [
+          "Barış Alparslan",
+          "Sandy Tanwisuth",
+          "Caleb Petterson"
+        ],
+        "snippet": "Instrumental convergence is often invoked as a general reason to expect capable agents to acquire or express power-seeking subgoals: self-preservation, resource acquisition, deception, or resistance to oversight which poses an important threat to the society. For LLMs, reinforcement learning is the first stage of post-training that directly optimizes behavior against an objective; therefore, it is",
+        "categories": [
+          "cs.LG",
+          "cs.AI"
+        ],
+        "published": "2026-10-22T17:44:41+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:benchmark",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2610.31594v1",
+        "title": "CRANE: Post-Hoc Counterfactual Retrieval for Multimodal Classifiers",
+        "url": "https://arxiv.org/abs/2610.31594v1",
+        "authors": [
+          "Franco Rugolon",
+          "Ioanna Miliou",
+          "Panagiotis Papapetrou"
+        ],
+        "snippet": "Counterfactual explanation methods have been introduced for unimodal settings, with dedicated frameworks for tabular, timeseries, text, and image data, yet no post-hoc method has been designed for classifiers that learn from multimodal inputs. Existing explainability methods for multimodal classifiers apply modality-specific attribution independently to each input, which fails to yield coherent ex",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-10-22T17:26:58+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:multimodal",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2610.31588v1",
+        "title": "VERA: A Responsible AI Dashboard for Assessing LLM Deployments in Light of the EU AI Act",
+        "url": "https://arxiv.org/abs/2610.31588v1",
+        "authors": [
+          "Robin Quériaux",
+          "Solveig Bachellery",
+          "Léa Déléris",
+          "Saurabhsingh Rajput",
+          "Mariam Barry",
+          "Tushar Sharma"
+        ],
+        "snippet": "Institutions that deploy large language models in regulated settings often need technical evidence of responsible AI practices before approving a deployment. COMPL-AI provides a technical interpretation of the EU AI Act that organises this evidence under six principle groups and eighteen technical requirements, twelve of which current benchmarks can measure. The benchmark suites that produce this ",
+        "categories": [
+          "cs.SE",
+          "cs.AI",
+          "cs.CY"
+        ],
+        "published": "2026-10-22T17:23:39+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2610.31573v1",
+        "title": "Social-HUMINT: An LLM-Augmented Unified Framework for Measuring Social Media Exposure",
+        "url": "https://arxiv.org/abs/2610.31573v1",
+        "authors": [
+          "Pellegrino Casoria",
+          "Simon Pietro Romano"
+        ],
+        "snippet": "In the post-API landscape, social-media profiling has become inexpensive and automated: Large Language Models (LLMs) can extract structured information from unstructured content and deduce attributes users never disclosed. A person's true exposure is not what they post but what can be inferred from it. As these practices become routine, exposure to social engineering attacks becomes an operational",
+        "categories": [
+          "cs.CR",
+          "cs.AI",
+          "cs.SI"
+        ],
+        "published": "2026-10-22T17:13:46+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "2610.31539v1",
+        "title": "PYTHIA, a transferable machine learning framework for simultaneous defect and adsorption site optimization",
+        "url": "https://arxiv.org/abs/2610.31539v1",
+        "authors": [
+          "Ioannis Kouroudis",
+          "Zhaosu Gu",
+          "Poonam",
+          "Leon Muller",
+          "Alessio Gagliardi"
+        ],
+        "snippet": "Machine learning has permeated material optimization, providing high value. Nevertheless, its re- liance on a high number of samples limits its applicability to relatively explored material families. In this paper we extend the applicability of machine learning to novel and understudied materials through the PYTHIA (Probabilistic Yet Transferable Hierarchical Interaction Architecture) framework. P",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-10-22T16:46:46+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:transformer",
+          "keyword:alignment"
+        ]
+      }
+    ]
+  }
+}
