@@ -1,0 +1,629 @@
+{
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T16:25:13+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/index/securing-our-frontier-model-training-environment",
+        "title": "Securing our frontier model training environment",
+        "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+        "source": "openai",
+        "published": "2026-10-23T10:00:00+00:00",
+        "snippet": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+        "score": 1.0,
+        "signals": []
+      }
+    ],
+    "github": [
+      {
+        "id": "keptinventory/kept",
+        "title": "keptinventory/kept",
+        "url": "https://github.com/keptinventory/kept",
+        "description": "Self-hosted, open-source inventory of everything you own and where it is. AI assistant and MCP server built in.",
+        "stars": 249,
+        "language": "TypeScript",
+        "topics": [
+          "3d",
+          "home-inventory",
+          "homelab",
+          "inventory",
+          "inventory-management",
+          "mcp",
+          "react",
+          "self-hosted"
+        ],
+        "created_at": "2026-09-25T15:16:39Z",
+        "score": 9.97,
+        "signals": [
+          "rising",
+          "keyword:mcp",
+          "keyword:assistant"
+        ]
+      },
+      {
+        "id": "kling01/RubricLoop",
+        "title": "kling01/RubricLoop",
+        "url": "https://github.com/kling01/RubricLoop",
+        "description": "Rubric-driven evaluation for AI agents. Executable criteria, code and model judges, and inspectable trace reports.",
+        "stars": 23,
+        "language": "Python",
+        "topics": [
+          "agent-evaluation",
+          "data-quality",
+          "human-in-the-loop",
+          "llm-evaluation",
+          "python",
+          "rubrics"
+        ],
+        "created_at": "2026-10-20T07:47:40Z",
+        "score": 6.58,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "JialaoLiu/dsh-baton",
+        "title": "JialaoLiu/dsh-baton",
+        "url": "https://github.com/JialaoLiu/dsh-baton",
+        "description": "Pass the baton from Claude Code or Codex to a local DeepSeek Harness. An MCP server that hands off tasks and brings the result back.",
+        "stars": 23,
+        "language": "JavaScript",
+        "topics": [
+          "claude-code",
+          "codex",
+          "deepseek",
+          "deepseek-harness",
+          "developer-tools",
+          "dsh-plugin",
+          "mcp",
+          "mcp-server"
+        ],
+        "created_at": "2026-10-18T10:26:22Z",
+        "score": 6.58,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "sepehr071/toolsmelt",
+        "title": "sepehr071/toolsmelt",
+        "url": "https://github.com/sepehr071/toolsmelt",
+        "description": "Turn an OpenAPI file or a recorded website into a curated, tested MCP server; your agent designs the tools.",
+        "stars": 16,
+        "language": "Python",
+        "topics": [
+          "agent-skills",
+          "android",
+          "claude-code",
+          "code-generation",
+          "electron",
+          "har",
+          "mcp",
+          "model-context-protocol"
+        ],
+        "created_at": "2026-10-20T19:44:33Z",
+        "score": 6.09,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "e14tech/flag.txt",
+        "title": "e14tech/flag.txt",
+        "url": "https://github.com/e14tech/flag.txt",
+        "description": "flag.txt file to deter AI agents",
+        "stars": 54,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-10-23T19:33:46Z",
+        "score": 5.78,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "edigeh/broll-mcp",
+        "title": "edigeh/broll-mcp",
+        "url": "https://github.com/edigeh/broll-mcp",
+        "description": "MCP server to find, preview and cut public-domain b-roll from the Internet Archive, with a provenance record for every clip",
+        "stars": 24,
+        "language": "Python",
+        "topics": [
+          "b-roll",
+          "ffmpeg",
+          "internet-archive",
+          "mcp",
+          "model-context-protocol",
+          "public-domain",
+          "python",
+          "stock-footage"
+        ],
+        "created_at": "2026-10-23T12:33:05Z",
+        "score": 5.64,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "aigamedevs/awesome-ai-tools-for-game-dev",
+        "title": "aigamedevs/awesome-ai-tools-for-game-dev",
+        "url": "https://github.com/aigamedevs/awesome-ai-tools-for-game-dev",
+        "description": "Curated list of AI tools for game developers: 3D/2D assets, sprites, animation, voice, music, AI NPCs, engine assistants & MCP servers, playtesting. 2026 refresh of simoninithomas' list.",
+        "stars": 23,
+        "language": null,
+        "topics": [
+          "ai",
+          "awesome",
+          "awesome-list",
+          "game-development",
+          "gamedev",
+          "generative-ai",
+          "godot",
+          "indie-game-dev"
+        ],
+        "created_at": "2026-10-23T20:34:43Z",
+        "score": 5.58,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "robbin/agent-relay",
+        "title": "robbin/agent-relay",
+        "url": "https://github.com/robbin/agent-relay",
+        "description": "Git-backed task handoff between local and cloud AI agents. An agent-assisted deployment reference with Markdown tasks, macOS sync, and webhooks.",
+        "stars": 21,
+        "language": "Shell",
+        "topics": [],
+        "created_at": "2026-10-19T07:59:54Z",
+        "score": 5.46,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "Magiczerowxy/magpie-chat",
+        "title": "Magiczerowxy/magpie-chat",
+        "url": "https://github.com/Magiczerowxy/magpie-chat",
+        "description": "A chat page inside magpie's window: use magpie's own models, MCP servers, instructions and skills — with images, files and LaTeX.",
+        "stars": 18,
+        "language": "JavaScript",
+        "topics": [
+          "chat",
+          "magpie",
+          "magpie-page",
+          "magpie-plugin",
+          "opencode-plugin"
+        ],
+        "created_at": "2026-10-24T03:52:42Z",
+        "score": 5.25,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "gdgcblr/open-source-agents",
+        "title": "gdgcblr/open-source-agents",
+        "url": "https://github.com/gdgcblr/open-source-agents",
+        "description": "A community-driven collection of practical, documented, and open-source AI agents and developer tools, built with diverse frameworks and technologies.",
+        "stars": 28,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-10-20T22:28:25Z",
+        "score": 4.86,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "uilianks/loom",
+        "title": "uilianks/loom",
+        "url": "https://github.com/uilianks/loom",
+        "description": "Seamless game textures and PBR materials as code for AI agents: noise, bricks, planks, weathering; albedo/normal/height/roughness/AO/ORM maps, lit previews and a live viewer.",
+        "stars": 19,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-10-21T23:28:01Z",
+        "score": 4.32,
+        "signals": [
+          "new"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "id": "2610.31529v1",
+        "title": "An Empirical Study of Recent Large Language Models for Knowledge Graph to Text Generation on Standard Benchmarks",
+        "url": "https://arxiv.org/abs/2610.31529v1",
+        "authors": [
+          "Priyanka",
+          "Renaud Delbru",
+          "Souhail Bakkali",
+          "Mickaël Coustaty",
+          "Antoine Doucet"
+        ],
+        "snippet": "Knowledge graph-to-text (KG-to-text) generation verbalizes a set of knowledge graph triples into fluent natural language. While fine-tuned encoder-decoder models have long been the standard approach, recent LLMs are becoming increasingly competitive. We benchmark recent LLMs against fine-tuned encoder-decoder models, using reference-based metrics and graph-grounded reference-free LLM-based evaluat",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-10-22T16:36:35+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2610.31519v1",
+        "title": "From Prompt Rules to Golden Data Model: Production-Scale Generation of Personalized, Compliant Pharmaceutical Claims",
+        "url": "https://arxiv.org/abs/2610.31519v1",
+        "authors": [
+          "Suyash Mishra",
+          "Qiang Li",
+          "Subhabrata Adak",
+          "Upender Phogat",
+          "Srikanth Patil",
+          "Satyanarayan Pati"
+        ],
+        "snippet": "Large language models (LLMs) are increasingly used to generate domain-specific commercial & medical content (e.g., claims, statements, and promotional phrases) in regulated industries such as pharmaceuticals. However, ensuring its regulatory compliance, factual accuracy, and audience-specific personalization remains a major challenge. We report a production case study asking whether moving complia",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-10-22T16:31:36+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:retrieval",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2610.31511v1",
+        "title": "DuoCook: An Overcooked-Inspired Benchmark for Visual Planning and Coordination",
+        "url": "https://arxiv.org/abs/2610.31511v1",
+        "authors": [
+          "Ziyi Jiao",
+          "Heng Zhang",
+          "Drishti Regmi",
+          "Xiaokang Ye",
+          "Lianhui Qin",
+          "Peter Yichen Chen"
+        ],
+        "snippet": "Coordinating two players in a cooking task requires a vision-language agent to track changing scene states, sequence recipe steps, and allocate shared resources under a time budget. We introduce an Overcooked-inspired benchmark for evaluating these capabilities in Unreal Engine environments constructed using coding agents. A single vision-language model controls both players from top-down visual o",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-10-22T16:26:38+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2610.31667v1",
+        "title": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
+        "url": "https://arxiv.org/abs/2610.31667v1",
+        "authors": [
+          "Mahdi Salmani",
+          "Adel Javanmard",
+          "Devansh Gupta",
+          "Meisam Razaviyayn"
+        ],
+        "snippet": "Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Running all candidate solutions to completion can be computationally demanding, so recent work prunes the candidate pool after generating only a short prefix, committing further computation only to the su",
+        "categories": [
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-10-22T17:59:48+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2610.31662v1",
+        "title": "Reliable AI-Assisted Decisions via Selective Auditing",
+        "url": "https://arxiv.org/abs/2610.31662v1",
+        "authors": [
+          "Isaac Gibbs",
+          "Elise L. Han",
+          "Ryan J. Tibshirani",
+          "Tijana Zrnic"
+        ],
+        "snippet": "We consider online monitoring of an AI system that produces a sequence of decisions. At each round, the system outputs a proposed decision together with a confidence score estimating the trustworthiness of the decision. The decision and confidence score need not be produced by the same model: for example, one agent may propose a decision, while a separate verifier agent evaluates it and outputs a ",
+        "categories": [
+          "stat.ML",
+          "cs.LG",
+          "stat.ME"
+        ],
+        "published": "2026-10-22T17:59:22+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "2610.31656v1",
+        "title": "METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2610.31656v1",
+        "authors": [
+          "Ali Najar",
+          "Hosein Hasani",
+          "Amir Kooshan Fattah",
+          "Yasamin Rajabi",
+          "Mahdieh Soleymani Baghshah"
+        ],
+        "snippet": "Meta-reinforcement learning aims to train agents that adapt quickly to unseen tasks from limited interaction, but this requires representing task evidence over long interaction histories. Classical recurrent agents compress experience into hidden states, while transformer-based agents retrieve from past trajectories at quadratic memory and computation cost. In this work, we propose Memory-Enhanced",
+        "categories": [
+          "cs.LG",
+          "cs.AI"
+        ],
+        "published": "2026-10-22T17:58:27+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:transformer"
+        ]
+      },
+      {
+        "id": "2610.31646v1",
+        "title": "Low-Bit N-Gram Embeddings for Language Models",
+        "url": "https://arxiv.org/abs/2610.31646v1",
+        "authors": [
+          "Stephen Chung",
+          "Wenyu Du"
+        ],
+        "snippet": "Many recent open-weight language models use n-gram embedding tables to improve performance. These tables store learned representations of short token sequences, such as pairs or triples of consecutive tokens, which the model retrieves during processing. However, they can require substantial memory: DeepSeek-V4.1-Flash, for example, allocates 196 billion parameters to its Engram n-gram memory. We t",
+        "categories": [
+          "cs.CL",
+          "cs.AI"
+        ],
+        "published": "2026-10-22T17:56:13+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2610.31639v1",
+        "title": "Causal Chain of Thought: Mitigating Attention Leakage via Context Isolation",
+        "url": "https://arxiv.org/abs/2610.31639v1",
+        "authors": [
+          "Gabriele Dominici",
+          "Teague McMillan",
+          "Fazl Barez",
+          "Marc Langheinrich",
+          "Martin Gjoreski"
+        ],
+        "snippet": "Chain-of-thought (CoT) prompting elicits step-by-step rationales that appear to explain model predictions, but there is no guarantee these steps causally drive the final answer. In standard autoregressive generation, dense attention allows each reasoning step to attend to the full context, enabling the model to derive answers through direct lookup while generating plausible-sounding but post-hoc j",
+        "categories": [
+          "cs.LG",
+          "cs.AI"
+        ],
+        "published": "2026-10-22T17:52:56+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2610.31593v1",
+        "title": "Simulated Control Evals",
+        "url": "https://arxiv.org/abs/2610.31593v1",
+        "authors": [
+          "Jeffrey Olmo",
+          "David Zhang",
+          "Tyler Tracy"
+        ],
+        "snippet": "Control evaluations measure whether safeguards can prevent an AI model from causing undesired outcomes even when it is intentionally trying to do so. These evaluations typically use purpose-built control settings and extrapolate their results to a model's deployment. However, the effectiveness of safeguards in deployment can depend on features of environments and tasks that control settings do not",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-10-22T17:26:42+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2610.31592v1",
+        "title": "Beyond Best-of-$k$: Prior-Consistent DAPS for Ambiguous Nonlinear Inverse Problems",
+        "url": "https://arxiv.org/abs/2610.31592v1",
+        "authors": [
+          "Merve Kocabas",
+          "Benjamin A. Burns",
+          "Andreas Geiger",
+          "Kent Gauen",
+          "Sara Fridovich-Keil"
+        ],
+        "snippet": "Diffusion models have become strong priors for solving inverse problems. However, nonlinear inverse problems such as phase retrieval remain challenging when multiple measurement-consistent solutions are distinguishable only by the prior; we call such measurements ambiguous. Existing diffusion-based samplers rely on local approximations during reconstruction. For an ambiguous measurement, these app",
+        "categories": [
+          "cs.CV",
+          "cs.LG"
+        ],
+        "published": "2026-10-22T17:26:34+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2610.31585v1",
+        "title": "Action Learning for Scientific Simulations",
+        "url": "https://arxiv.org/abs/2610.31585v1",
+        "authors": [
+          "Sarah Liaw",
+          "Yuanqi Du",
+          "Yilun Du"
+        ],
+        "snippet": "Understanding and controlling how systems evolve is central to science and engineering, where many problems require reasoning about complete trajectories. Existing approaches typically learn local dynamics or generate trajectories, but objectives constructed from individual transitions can miss dependencies across time, while generative models do not necessarily provide a tractable objective for e",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-10-22T17:22:08+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2610.31579v1",
+        "title": "Who Is Sycophantic to Whom? Confident LLMs, Human Deference, and the Collapse of Trust Calibration",
+        "url": "https://arxiv.org/abs/2610.31579v1",
+        "authors": [
+          "Deepthika S",
+          "Pawni Yadav",
+          "B. Sankar"
+        ],
+        "snippet": "Research on sycophancy asks whether large language models (LLMs) bend towards what their users want to hear. We ask the reverse question: when an LLM is confident, consistent, and wrong, do users bend towards it? In a within-subjects experiment, 32 participants learned up to five science topics by chatting with five assistants built on the same model (GPT-5-mini). Unknown to participants, each ass",
+        "categories": [
+          "cs.AI",
+          "cs.HC"
+        ],
+        "published": "2026-10-22T17:15:59+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "2610.31574v1",
+        "title": "Rethinking Sequence Compression with Test-time Regression",
+        "url": "https://arxiv.org/abs/2610.31574v1",
+        "authors": [
+          "Sihan Yang",
+          "Jie Huang",
+          "Hanxuan Li",
+          "Yifan Guo",
+          "Weigao Sun",
+          "Yiran Zhong"
+        ],
+        "snippet": "Sequence compression is a fundamental operation and a critical information bottleneck in efficient language and multimodal models, and yet prevailing approaches based on pooling or learned projections remain underperforming. We revisit sequence compression through the lens of test-time regression: input tokens define a regression problem whose fitted coefficients form the compressed representation",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-10-22T17:14:38+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2610.31563v1",
+        "title": "When to Follow the Teacher: Advantage-Based On-Policy Distillation",
+        "url": "https://arxiv.org/abs/2610.31563v1",
+        "authors": [
+          "Mahdi Sabbaghi",
+          "George Pappas",
+          "Hamed Hassani",
+          "Adel Javanmard"
+        ],
+        "snippet": "Online Policy Distillation (OPD) often outperforms offline methods such as Supervised Fine-Tuning (SFT) by training on trajectories sampled directly from the student. However, standard OPD trains the student to follow the teacher at every state of the trajectory, assuming that teacher guidance is always beneficial. We instead distinguish between what the teacher prefers and what actually helps the",
+        "categories": [
+          "cs.LG",
+          "cs.AI",
+          "stat.ML"
+        ],
+        "published": "2026-10-22T17:05:21+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2610.31551v1",
+        "title": "Fine-Grained Analysis of Catastrophic Forgetting in Continual Learning via Algorithmic Stability",
+        "url": "https://arxiv.org/abs/2610.31551v1",
+        "authors": [
+          "Guodong Zheng",
+          "Yan Sun",
+          "Peng Wang",
+          "Enneng Yang",
+          "Jiafei Lyu",
+          "Xiaochun Cao"
+        ],
+        "snippet": "Understanding catastrophic forgetting, in which learning new tasks degrades performance on previously learned tasks, remains a fundamental challenge in continual learning (CL). Existing theoretical analyses often rely on specific model or task structures and offer limited insight into how iterative optimization affects forgetting. To address this gap, we develop an algorithmic stability framework ",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-10-22T16:54:40+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2610.31544v1",
+        "title": "Same Luck, Different Choice: Twin-World Credit Assignment for Agentic Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2610.31544v1",
+        "authors": [
+          "Zeropy Surio",
+          "Tobias Engel",
+          "Mei-Lin Chou",
+          "Anika Raman",
+          "Samuel Okafor"
+        ],
+        "snippet": "Agentic reinforcement learning rewards a complete episode, yet the policy needs credit for every decision inside it. Counterfactual branching estimates this credit by re-running the episode after an alternative decision, but the branch draws its sampling noise independently of the factual episode, so the outcome difference mixes the effect of the decision with the luck of everything that follows. ",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-10-22T16:51:27+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:agentic"
+        ]
+      },
+      {
+        "id": "2610.31538v1",
+        "title": "LACToS: Local Anomaly Detection via Conditional Typicality of Superpixels",
+        "url": "https://arxiv.org/abs/2610.31538v1",
+        "authors": [
+          "Jihoon Hong",
+          "Alireza Kheirandish",
+          "Rohan Sanda",
+          "Sara Fridovich-Keil"
+        ],
+        "snippet": "Local anomaly detection is the task of identifying spatially confined anomalous or out-of-distribution (OOD) regions within an otherwise in-distribution (ID) image. Most existing methods are designed for a specific context, with a strong focus on industrial defect detection, where they achieve excellent performance on well-established benchmarks. However, we observe that these methods can exhibit ",
+        "categories": [
+          "cs.CV",
+          "cs.LG"
+        ],
+        "published": "2026-10-22T16:46:09+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2610.31526v1",
+        "title": "Direct Inference on Admissible Sets (Diona)",
+        "url": "https://arxiv.org/abs/2610.31526v1",
+        "authors": [
+          "Lorenzo Sabug",
+          "Eric Kerrigan"
+        ],
+        "snippet": "We propose a new regression method named Direct Inference on Admissible Sets (Diona) that directly uses samples to estimate the state and its derivatives at a query point, along with their admissible bounds, without long global training. By casting the values and derivatives at the query and neighbouring samples as latent variables in a constrained optimisation problem, the burden of long training",
+        "categories": [
+          "math.OC",
+          "cs.LG",
+          "eess.SY"
+        ],
+        "published": "2026-10-22T16:35:47+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:benchmark"
+        ]
+      }
+    ]
+  }
+}
