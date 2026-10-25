@@ -1,0 +1,219 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T16:56:33+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [],
+    "github": [
+      {
+        "id": "DenisSergeevitch/ex-ussr-kinship-research",
+        "title": "DenisSergeevitch/ex-ussr-kinship-research",
+        "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+        "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+        "stars": 388,
+        "language": "Python",
+        "topics": [
+          "agent-skills",
+          "archives",
+          "claude-code",
+          "codex",
+          "family-history",
+          "familysearch",
+          "genealogy",
+          "ussr"
+        ],
+        "created_at": "2026-10-25T10:05:56Z",
+        "score": 10.6,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "ChinaOpenClaw/mcd-nutrition-expert",
+        "title": "ChinaOpenClaw/mcd-nutrition-expert",
+        "url": "https://github.com/ChinaOpenClaw/mcd-nutrition-expert",
+        "description": "身材管控期也想吃麦当劳？这个专家会帮你根据每日消耗搭配麦麦套餐。基于 SP 矩阵理论，打通麦当劳官方 MCP Server 的营养选型与点餐闭环（35 个官方工具 · 14 个 REST 接口 · 零第三方前端依赖）。",
+        "stars": 105,
+        "language": "Python",
+        "topics": [
+          "canvas",
+          "diet",
+          "fastapi",
+          "fitness",
+          "hackathon",
+          "health",
+          "mcd-mcp",
+          "mcdonalds"
+        ],
+        "created_at": "2026-10-24T18:06:01Z",
+        "score": 8.73,
+        "signals": [
+          "new",
+          "keyword:mcp",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "CRFXN5C/mcd-mcp-kit",
+        "title": "CRFXN5C/mcd-mcp-kit",
+        "url": "https://github.com/CRFXN5C/mcd-mcp-kit",
+        "description": "MCP integration health check and measured pitfalls for McDonald's China MCP Server",
+        "stars": 122,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-10-23T12:56:18Z",
+        "score": 7.94,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "doomsday-network/bounty-guard",
+        "title": "doomsday-network/bounty-guard",
+        "url": "https://github.com/doomsday-network/bounty-guard",
+        "description": "Zero-dependency Python CLI, GitHub Action, and MCP server scanning untrusted GitHub issues and repositories for prompt injection, CI secret exfiltration, and cryptographic bounty escrow.",
+        "stars": 18,
+        "language": "Python",
+        "topics": [
+          "agent-framework",
+          "agent-skills",
+          "ai-agents",
+          "ai-security",
+          "base",
+          "bounty",
+          "bug-bounty",
+          "claude-code"
+        ],
+        "created_at": "2026-10-20T21:02:44Z",
+        "score": 7.25,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "MIC-DKFZ/nninteractive-agent",
+        "title": "MIC-DKFZ/nninteractive-agent",
+        "url": "https://github.com/MIC-DKFZ/nninteractive-agent",
+        "description": "nnInteractive as a tool for AI agents: say what to segment, the agent does the rest (Claude Code, Codex, any MCP client)",
+        "stars": 20,
+        "language": "Python",
+        "topics": [
+          "3d",
+          "ai-agents",
+          "claude-code",
+          "codex",
+          "interactive-segmentation",
+          "mcp",
+          "medical-imaging",
+          "nninteractive"
+        ],
+        "created_at": "2026-10-19T13:59:07Z",
+        "score": 6.39,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "jamesalmeida/agent-honeypot",
+        "title": "jamesalmeida/agent-honeypot",
+        "url": "https://github.com/jamesalmeida/agent-honeypot",
+        "description": "A honeypot and guestbook for AI agents that land on a machine they weren't invited to",
+        "stars": 23,
+        "language": "PowerShell",
+        "topics": [
+          "ai-agents",
+          "flag",
+          "honeypot",
+          "linux",
+          "macos",
+          "prompt-injection",
+          "security",
+          "windows"
+        ],
+        "created_at": "2026-10-23T21:44:38Z",
+        "score": 5.58,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "RoderickGrc/agentic-edition-studio",
+        "title": "RoderickGrc/agentic-edition-studio",
+        "url": "https://github.com/RoderickGrc/agentic-edition-studio",
+        "description": "Teach an AI agent to edit video: perception (sureshot), Remotion editing, wiki-based judgment. By RodGrc.",
+        "stars": 20,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-10-24T19:22:50Z",
+        "score": 5.39,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "JYU-412/Academic-paper-formatting-skill",
+        "title": "JYU-412/Academic-paper-formatting-skill",
+        "url": "https://github.com/JYU-412/Academic-paper-formatting-skill",
+        "description": "Claude skill for academic paper formatting",
+        "stars": 20,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-10-21T04:31:09Z",
+        "score": 5.39,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "Liamrjohnston/offer-master-skill",
+        "title": "Liamrjohnston/offer-master-skill",
+        "url": "https://github.com/Liamrjohnston/offer-master-skill",
+        "description": "A Claude skill that fixes an offer that isn't selling. Paste the link into Claude Code and say: Clone this and add the skill.",
+        "stars": 16,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-10-23T07:04:05Z",
+        "score": 5.09,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "HackBepa/claude-skills-hub",
+        "title": "HackBepa/claude-skills-hub",
+        "url": "https://github.com/HackBepa/claude-skills-hub",
+        "description": "🧠 Powerful, tested skills for Claude. Featuring CertMaster OS: turn PDFs, syllabi and lecture transcripts into Obsidian/Notion study notes with quizzes and anti-hallucination guardrails.",
+        "stars": 15,
+        "language": null,
+        "topics": [
+          "certification",
+          "claude",
+          "claude-ai",
+          "claude-code",
+          "claude-skills",
+          "notion",
+          "obsidian",
+          "obsidian-md"
+        ],
+        "created_at": "2026-10-19T10:53:27Z",
+        "score": 4.0,
+        "signals": [
+          "new"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
