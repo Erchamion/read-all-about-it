@@ -1,0 +1,476 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T18:59:54+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/index/chatgpt-expanding-world-of-work",
+        "title": "ChatGPT’s expanding world of work",
+        "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+        "source": "openai",
+        "published": "2026-10-26T10:00:00+00:00",
+        "snippet": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/fanatics-streamline-fan-experience",
+        "title": "How Fanatics and OpenAI streamline the fan experience",
+        "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+        "source": "openai",
+        "published": "2026-10-26T07:00:00+00:00",
+        "snippet": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+        "title": "Our newest AI Quest: Mapping the human brain",
+        "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+        "source": "google-ai",
+        "published": "2026-10-26T16:00:00+00:00",
+        "snippet": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://commandline.microsoft.com/agentic-software-engineering-large-scale-code-migration-language-modernization-spec-driven-development/",
+        "title": "When AI rewrites millions of lines of code, verification becomes essential",
+        "url": "https://commandline.microsoft.com/agentic-software-engineering-large-scale-code-migration-language-modernization-spec-driven-development/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://blogs.microsoft.com/on-the-issues/2026/10/26/learning-curves-the-future-of-education-from-classrooms-to-careers-in-an-ai-driven-world/",
+        "title": "From classrooms to careers: The future of education in an AI-driven world",
+        "url": "https://blogs.microsoft.com/on-the-issues/2026/10/26/learning-curves-the-future-of-education-from-classrooms-to-careers-in-an-ai-driven-world/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://techcommunity.microsoft.com/blog/microsoft-discovery-blog/adapting-biological-monitoring-for-food-security-with-agents/4565992",
+        "title": "How AI could help scientists track a pest threatening citrus trees",
+        "url": "https://techcommunity.microsoft.com/blog/microsoft-discovery-blog/adapting-biological-monitoring-for-food-security-with-agents/4565992",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://www.anthropic.com/news/s1-sec",
+        "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+        "url": "https://www.anthropic.com/news/s1-sec",
+        "source": "anthropic",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      }
+    ],
+    "github": [
+      {
+        "id": "FengZhenfei/carrel",
+        "title": "FengZhenfei/carrel",
+        "url": "https://github.com/FengZhenfei/carrel",
+        "description": "Ontology-Augmented Generation for AI agents. ",
+        "stars": 643,
+        "language": "Python",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "dgx-spark",
+          "document-parsing",
+          "icloud-sync",
+          "knowledge-graph",
+          "mineru",
+          "neo4j"
+        ],
+        "created_at": "2026-09-28T11:13:02Z",
+        "score": 11.33,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:rag"
+        ]
+      },
+      {
+        "id": "heitorcarvalhohlbryzeis6-cloud/whatsapp-mcp-server",
+        "title": "heitorcarvalhohlbryzeis6-cloud/whatsapp-mcp-server",
+        "url": "https://github.com/heitorcarvalhohlbryzeis6-cloud/whatsapp-mcp-server",
+        "description": "WhatsApp MCP Server for AI Agents - TypeScript, Baileys and Cloud API",
+        "stars": 58,
+        "language": "HTML",
+        "topics": [
+          "agent-tools",
+          "ai-agents",
+          "automation",
+          "baileys",
+          "bullmq",
+          "chatbot",
+          "claude",
+          "docker"
+        ],
+        "created_at": "2026-10-22T20:09:30Z",
+        "score": 8.88,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "mileson/chaojifeng-video-design",
+        "title": "mileson/chaojifeng-video-design",
+        "url": "https://github.com/mileson/chaojifeng-video-design",
+        "description": "超级峰的视频设计方法论｜面向 AI Agent 的视频主线、分镜、声画节奏、制作与交付验收 Skill",
+        "stars": 110,
+        "language": "HTML",
+        "topics": [],
+        "created_at": "2026-10-20T03:36:03Z",
+        "score": 8.79,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "YOLOW92/pagesift",
+        "title": "YOLOW92/pagesift",
+        "url": "https://github.com/YOLOW92/pagesift",
+        "description": "High-performance, memory-efficient Rust web crawler & content extraction engine for AI agents and RAG. Adaptive crawling, clean Markdown, structured data, PDF/RSS parsing, browser rendering, Firecrawl-compatible APIs, and Python/Node.js SDKs.",
+        "stars": 97,
+        "language": "Rust",
+        "topics": [
+          "ai-agents",
+          "browser-automation",
+          "data-extraction",
+          "firecrawl",
+          "html-to-markdown",
+          "markdown",
+          "mcp",
+          "pdf-extraction"
+        ],
+        "created_at": "2026-10-20T17:30:59Z",
+        "score": 8.61,
+        "signals": [
+          "new",
+          "keyword:mcp",
+          "keyword:rag"
+        ]
+      },
+      {
+        "id": "mountain-beaver/vps-forge",
+        "title": "mountain-beaver/vps-forge",
+        "url": "https://github.com/mountain-beaver/vps-forge",
+        "description": "Agent Skill that lets Claude Code, Codex, Cursor, Copilot and other AI agents set up and harden a Debian/Ubuntu VPS without locking you out: SSH, firewall, fail2ban, updates, Docker, TLS, backups, phone alerts. Benchmarked on 120 VM runs.",
+        "stars": 31,
+        "language": "Shell",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "claude-code",
+          "claude-skills",
+          "codex",
+          "cursor",
+          "debian",
+          "devops"
+        ],
+        "created_at": "2026-10-24T13:16:53Z",
+        "score": 8.0,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:copilot",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "Amio242/mcp-memory-server",
+        "title": "Amio242/mcp-memory-server",
+        "url": "https://github.com/Amio242/mcp-memory-server",
+        "description": "Persistent Shared Memory Server for AI Agents via MCP",
+        "stars": 58,
+        "language": "HTML",
+        "topics": [
+          "agent-memory",
+          "ai-memory",
+          "anthropic",
+          "chatgpt",
+          "claude",
+          "claude-code",
+          "cross-tool",
+          "cursor"
+        ],
+        "created_at": "2026-10-22T20:09:21Z",
+        "score": 7.88,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "boyuchengz/canvas-mcp",
+        "title": "boyuchengz/canvas-mcp",
+        "url": "https://github.com/boyuchengz/canvas-mcp",
+        "description": "Read-only MCP server that connects Claude, ChatGPT and other AI assistants to Canvas LMS.",
+        "stars": 115,
+        "language": "JavaScript",
+        "topics": [
+          "canvas",
+          "canvas-lms",
+          "chatgpt",
+          "claude",
+          "education",
+          "instructure",
+          "mcp",
+          "mcp-server"
+        ],
+        "created_at": "2026-10-25T20:12:43Z",
+        "score": 7.86,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "lucianodiisouza/flecha-browser",
+        "title": "lucianodiisouza/flecha-browser",
+        "url": "https://github.com/lucianodiisouza/flecha-browser",
+        "description": "Open-source Arc alternative for macOS: a Chromium browser for developers with Spaces, a dev command bar and a built-in MCP server for coding agents.",
+        "stars": 89,
+        "language": "TypeScript",
+        "topics": [
+          "arc-alternative",
+          "arc-browser",
+          "browser",
+          "chromium",
+          "claude-code",
+          "developer-tools",
+          "macos",
+          "mcp"
+        ],
+        "created_at": "2026-10-22T17:03:15Z",
+        "score": 7.49,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "Motionsites-AI/claude-skill",
+        "title": "Motionsites-AI/claude-skill",
+        "url": "https://github.com/Motionsites-AI/claude-skill",
+        "description": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
+        "stars": 89,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-10-26T06:58:45Z",
+        "score": 7.49,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "MemoAir-labs/Airlink",
+        "title": "MemoAir-labs/Airlink",
+        "url": "https://github.com/MemoAir-labs/Airlink",
+        "description": "Open-source live workspace where AI agents work alongside your team in real time: live docs, sheets and slides, a shared browser, a Linux desktop and full-duplex voice. Bring Claude Code, Codex, Gemini CLI or any LLM. Self-hosted, MIT.",
+        "stars": 31,
+        "language": "TypeScript",
+        "topics": [
+          "agentic-ai",
+          "ai-agents",
+          "claude-code",
+          "collaborative-editing",
+          "computer-use",
+          "crdt",
+          "livekit",
+          "mcp"
+        ],
+        "created_at": "2026-10-20T10:17:26Z",
+        "score": 7.0,
+        "signals": [
+          "new",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "KhulekanisiyandaMchunu/llm-trading-arena",
+        "title": "KhulekanisiyandaMchunu/llm-trading-arena",
+        "url": "https://github.com/KhulekanisiyandaMchunu/llm-trading-arena",
+        "description": "Live trading arena for LLM agents: public reasoning, real market data, virtual capital",
+        "stars": 63,
+        "language": "JavaScript",
+        "topics": [
+          "agentic-ai",
+          "ai-agents",
+          "backtesting",
+          "crypto",
+          "java",
+          "langgraph",
+          "llm",
+          "llm-agents"
+        ],
+        "created_at": "2026-10-23T19:33:58Z",
+        "score": 7.0,
+        "signals": [
+          "new",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "Esterfourth/kosmos-agent-platform",
+        "title": "Esterfourth/kosmos-agent-platform",
+        "url": "https://github.com/Esterfourth/kosmos-agent-platform",
+        "description": "Kosmos: AI Agent Management Platform for Your Computer and Subscription",
+        "stars": 58,
+        "language": "HTML",
+        "topics": [
+          "agents",
+          "ai-agents",
+          "claude",
+          "macos"
+        ],
+        "created_at": "2026-10-22T20:09:27Z",
+        "score": 6.88,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "karthikponna/tryboxi",
+        "title": "karthikponna/tryboxi",
+        "url": "https://github.com/karthikponna/tryboxi",
+        "description": "Disposable Linux microVMs on your own machine, for AI agents.",
+        "stars": 68,
+        "language": "Go",
+        "topics": [],
+        "created_at": "2026-10-20T07:53:24Z",
+        "score": 6.11,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "F5180aunnaga/pc-game-performance-analyzer-resp-skill",
+        "title": "F5180aunnaga/pc-game-performance-analyzer-resp-skill",
+        "url": "https://github.com/F5180aunnaga/pc-game-performance-analyzer-resp-skill",
+        "description": "Claude skill that checks if your PC or laptop can run a game, rates your hardware, finds bottlenecks, and gives the best settings for more FPS and better graphics.",
+        "stars": 32,
+        "language": "HTML",
+        "topics": [
+          "bootcamp-drivers",
+          "fps-booster-no-lag",
+          "frame-rate-boost",
+          "game",
+          "game-booster-free",
+          "optimize-windows",
+          "optimizer-tool",
+          "pc"
+        ],
+        "created_at": "2026-10-26T07:20:02Z",
+        "score": 6.04,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "bIorm-network/ZerePy",
+        "title": "bIorm-network/ZerePy",
+        "url": "https://github.com/bIorm-network/ZerePy",
+        "description": "ZerePy an open-source framework for AI agents written in Python",
+        "stars": 49,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-10-24T17:38:35Z",
+        "score": 5.64,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "NekoCCN/ImagenCli",
+        "title": "NekoCCN/ImagenCli",
+        "url": "https://github.com/NekoCCN/ImagenCli",
+        "description": "Persistent image creation workbench for humans and AI agents, with a shared CLI/TUI workspace, multi-provider generation and editing, local post-processing, and structured JSON output.",
+        "stars": 41,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-10-22T16:38:33Z",
+        "score": 5.39,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "ninajingit/ste-business-writing",
+        "title": "ninajingit/ste-business-writing",
+        "url": "https://github.com/ninajingit/ste-business-writing",
+        "description": "Claude skill: rewrite business text in ASD-STE100 style at about 80% compliance.",
+        "stars": 19,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-10-25T21:55:52Z",
+        "score": 5.32,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "hieu-lee/arxiv-cli",
+        "title": "hieu-lee/arxiv-cli",
+        "url": "https://github.com/hieu-lee/arxiv-cli",
+        "description": "arx: token-efficient, concurrent arXiv CLI built for LLM agents (Rust)",
+        "stars": 16,
+        "language": "Rust",
+        "topics": [],
+        "created_at": "2026-10-24T04:19:33Z",
+        "score": 5.09,
+        "signals": [
+          "new",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "nexmoe/MetriBee",
+        "title": "nexmoe/MetriBee",
+        "url": "https://github.com/nexmoe/MetriBee",
+        "description": "MetriBee: realtime Google Analytics 4 dashboard with an embedded MCP server.",
+        "stars": 16,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-10-24T03:40:50Z",
+        "score": 5.09,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
