@@ -1,0 +1,1102 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T18:31:48+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/index/oracle-apps-in-chatgpt",
+        "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+        "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+        "source": "openai",
+        "published": "2026-10-27T07:00:00+00:00",
+        "snippet": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/greptile-code-review-codex-astra",
+        "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+        "url": "https://openai.com/index/greptile-code-review-codex-astra",
+        "source": "openai",
+        "published": "2026-10-26T22:00:00+00:00",
+        "snippet": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+        "title": "Working with academic communities to build scientific understanding",
+        "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+        "source": "openai",
+        "published": "2026-10-26T14:30:00+00:00",
+        "snippet": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+        "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+        "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+        "source": "openai",
+        "published": "2026-10-26T13:45:00+00:00",
+        "snippet": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/openai-cut-incident-investigation",
+        "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+        "url": "https://openai.com/index/openai-cut-incident-investigation",
+        "source": "openai",
+        "published": "2026-10-26T07:00:00+00:00",
+        "snippet": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/introducing-gpt-6-1-terra",
+        "title": "Introducing GPT-6.1 Terra",
+        "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+        "source": "openai",
+        "published": "2026-10-26T00:00:00+00:00",
+        "snippet": "Bringing fast and capable computer use to everyone",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+        "title": "Genie 4: A new generation of world simulation",
+        "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+        "source": "deepmind",
+        "published": "2026-10-27T16:01:38+00:00",
+        "snippet": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://machinelearning.apple.com/research/gharp-head-animation",
+        "title": "GHARP: Real-Time Gaussian Head Animation from Large-Scale Reconstruction Prior",
+        "url": "https://machinelearning.apple.com/research/gharp-head-animation",
+        "source": "apple-ml",
+        "published": "2026-10-26T00:00:00+00:00",
+        "snippet": "We present GHARP (Real-time Gaussian Head Animation from Large-scale Reconstruction Prior), a method that animates 3D human heads in real time from a few input images of a subject and a driving expression signal. We decouple the problem into an identity stage that builds a representation of the subj",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/LiquidAI/lfm3",
+        "title": "Build specialized multimodal models with LFM3",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+        "source": "huggingface",
+        "published": "2026-10-27T17:16:52+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/allenai/novelty-bench",
+        "title": "Can we trust LLMs to judge whether a research idea is novel?",
+        "url": "https://huggingface.co/blog/allenai/novelty-bench",
+        "source": "huggingface",
+        "published": "2026-10-27T16:12:42+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      }
+    ],
+    "github": [
+      {
+        "id": "google/elephant-goldfish-model",
+        "title": "google/elephant-goldfish-model",
+        "url": "https://github.com/google/elephant-goldfish-model",
+        "description": "Open-source skills for designing and reviewing software with AI agents",
+        "stars": 2895,
+        "language": "Python",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "antigravity",
+          "claude-code",
+          "claude-code-plugin",
+          "claude-skills",
+          "codex",
+          "codex-plugin"
+        ],
+        "created_at": "2026-09-13T16:31:06Z",
+        "score": 13.5,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "IsuruMaduranga/harness-engineering-101",
+        "title": "IsuruMaduranga/harness-engineering-101",
+        "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
+        "description": "Harness Engineering 101 — building AI agents from first principles. The LLM is the brain; the harness is the body.",
+        "stars": 598,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-09-06T22:22:17Z",
+        "score": 10.23,
+        "signals": [
+          "rising",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "qybaihe/bla",
+        "title": "qybaihe/bla",
+        "url": "https://github.com/qybaihe/bla",
+        "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+        "stars": 104,
+        "language": "TypeScript",
+        "topics": [
+          "adversarial-ai",
+          "claude-code",
+          "cursor",
+          "electron-security",
+          "llm-security",
+          "mcp",
+          "mcp-server",
+          "obfuscation"
+        ],
+        "created_at": "2026-10-25T05:25:45Z",
+        "score": 8.71,
+        "signals": [
+          "new",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "CopilotKit/OpenDuet",
+        "title": "CopilotKit/OpenDuet",
+        "url": "https://github.com/CopilotKit/OpenDuet",
+        "description": "An Open Source template for a proactive AI agent that gets your work done and keeps you in the loop.",
+        "stars": 196,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-10-21T19:43:59Z",
+        "score": 8.62,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "Ta0p1/ResolveLab",
+        "title": "Ta0p1/ResolveLab",
+        "url": "https://github.com/Ta0p1/ResolveLab",
+        "description": "Fault-injected tool environments with side-effect grading for evaluating and post-training LLM agents",
+        "stars": 32,
+        "language": "Python",
+        "topics": [
+          "agent-evaluation",
+          "ai-agents",
+          "dagger",
+          "fastapi",
+          "fault-injection",
+          "llm-agents",
+          "ollama",
+          "post-training"
+        ],
+        "created_at": "2026-10-20T15:30:45Z",
+        "score": 7.04,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "Seagey/couch-tv",
+        "title": "Seagey/couch-tv",
+        "url": "https://github.com/Seagey/couch-tv",
+        "description": "Your own Google TV home screen and phone remote, with an optional Claude assistant. Set it up by handing this repo to your AI agent.",
+        "stars": 22,
+        "language": "JavaScript",
+        "topics": [
+          "android-tv",
+          "claude-code",
+          "google-tv",
+          "home-screen"
+        ],
+        "created_at": "2026-10-26T20:28:54Z",
+        "score": 6.52,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:assistant"
+        ]
+      },
+      {
+        "id": "AISEO-VirtualabDigital/mcp-video-editor",
+        "title": "AISEO-VirtualabDigital/mcp-video-editor",
+        "url": "https://github.com/AISEO-VirtualabDigital/mcp-video-editor",
+        "description": "Wag na kayo magbayad ng 5k PHP. Ito na — libre.  MCP server that lets Cursor, Claude, Codex, Antigravity, OpenCode & KiloCode edit videos in CapCut and OpenCut. 50 tools, dry-run safe, path-traversal hardened.",
+        "stars": 43,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-10-26T15:43:13Z",
+        "score": 6.46,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "SonicloudTech/mouse-mcp",
+        "title": "SonicloudTech/mouse-mcp",
+        "url": "https://github.com/SonicloudTech/mouse-mcp",
+        "description": "Hardware mouse MCP server for AI agents on Windows x64. USB HID control and voice dictation; requires compatible uMouse hardware and firmware. 面向 AI 智能体的硬件鼠标 MCP：USB HID 控制与语音听写，需要兼容的 uMouse 设备与固件。",
+        "stars": 38,
+        "language": "TypeScript",
+        "topics": [
+          "ai-agents",
+          "computer-use",
+          "desktop-automation",
+          "hardware",
+          "mcp",
+          "mcp-server",
+          "model-context-protocol",
+          "mouse-control"
+        ],
+        "created_at": "2026-10-20T06:04:56Z",
+        "score": 6.29,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "maxtrigify/Otto",
+        "title": "maxtrigify/Otto",
+        "url": "https://github.com/maxtrigify/Otto",
+        "description": "Otto: a personal operating system for the AI agents that work for you. Native macOS.",
+        "stars": 36,
+        "language": "Swift",
+        "topics": [
+          "ai-agents",
+          "claude-code",
+          "codex",
+          "macos",
+          "mcp",
+          "personal-os",
+          "swift",
+          "swiftui"
+        ],
+        "created_at": "2026-10-20T19:33:28Z",
+        "score": 6.21,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "SpaceAI-UAG/LLM-agent-security",
+        "title": "SpaceAI-UAG/LLM-agent-security",
+        "url": "https://github.com/SpaceAI-UAG/LLM-agent-security",
+        "description": "",
+        "stars": 17,
+        "language": "Go",
+        "topics": [],
+        "created_at": "2026-10-22T06:46:45Z",
+        "score": 6.17,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "KaiserWhoLearns/ReasoningEffortLLM",
+        "title": "KaiserWhoLearns/ReasoningEffortLLM",
+        "url": "https://github.com/KaiserWhoLearns/ReasoningEffortLLM",
+        "description": "What Effort Level Should I Choose? On the Economics of Reasoning Effort in LLM Agents",
+        "stars": 34,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-10-23T19:20:44Z",
+        "score": 6.13,
+        "signals": [
+          "new",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "Ludi-Herry/b-end-design-system-skill",
+        "title": "Ludi-Herry/b-end-design-system-skill",
+        "url": "https://github.com/Ludi-Herry/b-end-design-system-skill",
+        "description": "B端设计系统与组件规范 AI 执行级 Skill (UI/UX Design System Skill for AI Agents, Cursor, Claude Code & Windsurf)",
+        "stars": 33,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-10-25T05:55:46Z",
+        "score": 6.09,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "Alexays/Lilo",
+        "title": "Alexays/Lilo",
+        "url": "https://github.com/Alexays/Lilo",
+        "description": "A Mac browser on WebKit, not another Chromium, that still runs Chrome extensions. Arc-style Spaces, terminal tabs, and a built-in MCP server so your AI agents browse beside you. MIT, no account.",
+        "stars": 16,
+        "language": "Swift",
+        "topics": [
+          "ai-agents",
+          "appkit",
+          "arc-browser",
+          "browser",
+          "browser-automation",
+          "chrome-extensions",
+          "claude-code",
+          "macos"
+        ],
+        "created_at": "2026-10-24T09:05:52Z",
+        "score": 5.09,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "10ef/ABeast",
+        "title": "10ef/ABeast",
+        "url": "https://github.com/10ef/ABeast",
+        "description": "Lightweight exit monitoring and protection for AI agents.",
+        "stars": 25,
+        "language": "Go",
+        "topics": [],
+        "created_at": "2026-10-25T14:11:28Z",
+        "score": 4.7,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "vibegameengine/hyperreal-starter-kit",
+        "title": "vibegameengine/hyperreal-starter-kit",
+        "url": "https://github.com/vibegameengine/hyperreal-starter-kit",
+        "description": "Unreal Engine 5.8 without the editor: TypeScript, declarative React scenes, Vite hot reload, built for AI agents.",
+        "stars": 23,
+        "language": "C++",
+        "topics": [],
+        "created_at": "2026-10-23T17:57:08Z",
+        "score": 4.58,
+        "signals": [
+          "new"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "id": "2610.35829v1",
+        "title": "Reva: Real-Time Vulnerability Detection through Contextual Probing of Large Language Models",
+        "url": "https://arxiv.org/abs/2610.35829v1",
+        "authors": [
+          "Amine Lbath",
+          "Massih-Reza Amini"
+        ],
+        "snippet": "A vulnerability costs more to fix the later it is discovered. As coding agents generate code faster than developers can review it, software needs a first line of defense screening each new function in real time. LLM agents have recently become capable of finding real-world vulnerabilities by working as a security expert would: they run analysis tools, explore the surrounding code, test hypotheses ",
+        "categories": [
+          "cs.CR",
+          "cs.AI"
+        ],
+        "published": "2026-10-26T17:50:09+00:00",
+        "score": 5.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:reasoning",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2610.35497v1",
+        "title": "When Fine-Grained Credit Assignment Helps and Hurts: Multimodal Agentic Reinforcement Learning through Video Editing",
+        "url": "https://arxiv.org/abs/2610.35497v1",
+        "authors": [
+          "Lei Zhao",
+          "Zongheng Cao",
+          "Xinyu Hu"
+        ],
+        "snippet": "Reinforcement learning (RL) has shown promise for training multimodal agents to reason and use tools. However, it remains unclear when fine-grained credit assignment improves learning and when it fails to improve task performance. Video editing provides a useful testbed for this question, combining multimodal perception, long-horizon planning, and tool use with delayed outcome feedback. We constru",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-10-26T14:25:40+00:00",
+        "score": 5.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agentic",
+          "keyword:reasoning",
+          "keyword:multimodal",
+          "keyword:tool use"
+        ]
+      },
+      {
+        "id": "2610.35598v1",
+        "title": "Evolve on Graph: Self-Evolving Knowledge Graph Reasoning without Question Annotations",
+        "url": "https://arxiv.org/abs/2610.35598v1",
+        "authors": [
+          "Zongyuan Sun",
+          "Shuai Zhao",
+          "Ke Shu",
+          "Ziyue Zhu",
+          "Shangyang Wu",
+          "Yuanlin Lin"
+        ],
+        "snippet": "Knowledge graphs (KGs) provide reliable external knowledge for multi-hop factual reasoning with large language models (LLMs), yet most KGs in real-world domains such as finance and industry lack question--answer (QA) annotations. Without such annotations, existing methods struggle to improve LLM graph reasoning: training-free agents cannot improve their exploration through interaction; reinforceme",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-10-26T15:23:04+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:reasoning",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2610.35509v1",
+        "title": "Governing Enterprise AI Traffic at Scale: Design and Operation of a Policy-Driven, Multi-Vendor LLM Gateway on Envoy",
+        "url": "https://arxiv.org/abs/2610.35509v1",
+        "authors": [
+          "Mithun Sasidharan",
+          "Srinivasan Manoharan",
+          "Rupesh Thakur",
+          "Abhinav TK",
+          "Ashwin Hegde",
+          "Anand Gautam"
+        ],
+        "snippet": "Large organizations consume large language models (LLMs) from several vendors at once, each with its own API dialect, credential model, streaming protocol and pricing. Integrated directly, this heterogeneity yields credential sprawl, format lock-in, unbounded spend and inconsistent governance. We present the design and production operation of the Cosmos LLM Gateway, the governed entry point for en",
+        "categories": [
+          "cs.DC",
+          "cs.AI",
+          "cs.SE"
+        ],
+        "published": "2026-10-26T14:33:48+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:benchmark",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2610.35426v1",
+        "title": "Intent-Preserving Adversarial User Simulation for Multi-Turn Agent Evaluation",
+        "url": "https://arxiv.org/abs/2610.35426v1",
+        "authors": [
+          "Atri Vivek Sharma",
+          "Brian Formento",
+          "Alessio Lomuscio"
+        ],
+        "snippet": "Multi-turn agents are commonly evaluated with LLM-based simulated users, which can be overly cooperative and can therefore overestimate an agent's performance. We here introduce StressSim, an intent-preserving adversarial user simulator framework for stress-testing agents with challenging yet valid user interactions. StressSim optimises the simulator's high-level adversarial plan for each task ins",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-10-26T13:33:07+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:fine-tuning",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2610.35391v1",
+        "title": "Autonomous Structural Discovery Of Bioprocess Dynamics And Kinetics Via LLM-Driven Agents",
+        "url": "https://arxiv.org/abs/2610.35391v1",
+        "authors": [
+          "Erdal Aydin",
+          "Yaman Arkun"
+        ],
+        "snippet": "High-fidelity digital twins in continuous biomanufacturing are often bottlenecked by incomplete kinetic models, while standard data-driven algorithms (e.g., SINDy, PINNs) lack interpretability or impose rigid physical assumptions. This paper introduces a hybrid closed-loop architecture for autonomous kinetic state-space discovery driven by a Large Language Model (LLM) agent. The framework employs ",
+        "categories": [
+          "math.OC",
+          "cs.AI"
+        ],
+        "published": "2026-10-26T13:10:07+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:agent",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2610.35355v1",
+        "title": "OneEEG: A Unified Signal-Visual Multimodal Language Model with Task-Aware Mixture of Projectors for Multi-Task EEG Understanding",
+        "url": "https://arxiv.org/abs/2610.35355v1",
+        "authors": [
+          "Jiacheng Zhang",
+          "Xueyi Zhang",
+          "Xin Lu",
+          "Siqi Cai",
+          "Haizhou Li"
+        ],
+        "snippet": "Electroencephalography (EEG) is widely used in clinical assessment, brain-computer interfaces, and cognitive-state analysis, yet EEG modeling remains fragmented across task paradigms. Recent multimodal large language models (MLLMs) provide a promising interface for flexible multimodal reasoning, but their ability to understand EEG inputs remains limited. In this work, we propose OneEEG, a unified ",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-10-26T12:46:40+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2610.35349v1",
+        "title": "MarkovSim: an LLM Agent Harness with Bounded Context for Long-Horizon Computational Simulation",
+        "url": "https://arxiv.org/abs/2610.35349v1",
+        "authors": [
+          "Yeui-Lung Lei",
+          "Wen-Bo Chen",
+          "Pan Zhang"
+        ],
+        "snippet": "Recent studies have applied large language model (LLM) agent systems to computational simulation workflows. Such workflows are long-horizon, so the information generated can exceed what an LLM can reason over at once, its context window. Context management is therefore essential, yet existing systems have either neglected it or treated it as a supporting mechanism rather than a subject of study. T",
+        "categories": [
+          "cs.CE",
+          "cs.AI"
+        ],
+        "published": "2026-10-26T12:41:39+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:agent",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2610.35293v1",
+        "title": "AgenticCity-Bench: Longitudinal Multimodal Observations of Urban Dynamics with Agentic Reasoning",
+        "url": "https://arxiv.org/abs/2610.35293v1",
+        "authors": [
+          "Xiaofei Yu",
+          "Kailai Sun",
+          "Yanyu Mao",
+          "Baoshen Guo",
+          "Heye Huang",
+          "Yongcai Wang"
+        ],
+        "snippet": "City systems are shaped by interactions among infrastructure, human activity, and environmental conditions. Existing earth observation and urban benchmarks are limited in unified modeling and in capturing their joint dynamics. We introduce AgenticCity-Bench, a longitudinal multimodal benchmark for multi-layer unified state modeling and agentic city task reasoning. The benchmark covers 16 cities in",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-10-26T12:01:17+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:agentic",
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2610.35160v1",
+        "title": "AutoEnergyDesign: An LLM-Driven Agent for Automatic Energy System Design Optimization",
+        "url": "https://arxiv.org/abs/2610.35160v1",
+        "authors": [
+          "Amedeo Buonanno",
+          "Salvatore Fabozzi",
+          "Maria Valenti"
+        ],
+        "snippet": "Designing building energy systems is a high-dimensional, mixed-integer search problem: when each design is evaluated by a year-long simulation, black-box optimizers typically need hundreds of evaluations. This paper presents AutoEnergyDesign, a framework in which a Large Language Model (LLM) agent reasons over previous simulation results, proposes configuration changes and learns in context from e",
+        "categories": [
+          "cs.AI",
+          "stat.ML"
+        ],
+        "published": "2026-10-26T10:25:55+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:agent",
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2610.35846v1",
+        "title": "Preserve to Expand: Source-Aware Adaptation and Model Merging for Multilingual LLM-Based ASR",
+        "url": "https://arxiv.org/abs/2610.35846v1",
+        "authors": [
+          "Yuchen Zhang",
+          "Haralambos Mouratidis",
+          "Ravi Shekhar"
+        ],
+        "snippet": "Expanding multilingual ASR systems to new languages is challenging when adaptation must preserve previously supported languages without replaying source-language training data. We study this problem in connector-based Speech LLMs, where a trainable connector maps speech representations into a frozen large language model. We evaluate target-update construction and merging strategies for adapting th",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-10-26T17:56:22+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2610.35817v1",
+        "title": "Pretraining Knows What, Simulation Teaches How: Compositional Generalization in a Sim-Trained Robot Agent",
+        "url": "https://arxiv.org/abs/2610.35817v1",
+        "authors": [
+          "Benjamin Pikus",
+          "Daniel Saunders",
+          "Mircea Mironenco",
+          "Salman Mohammadi",
+          "Mathew Mathew",
+          "Sirou Zhu"
+        ],
+        "snippet": "A robot policy needs to understand what a task is asking for in a scene, and how to move the robot to accomplish that task. To achieve these two skills, we introduce Zero-real Agent Policy (ZAP), a recipe that teaches a small off-the-shelf vision-language model to control a robot via a simple tool harness. We use a pretrained 27B parameter model to bootstrap world understanding and reasoning, foll",
+        "categories": [
+          "cs.RO",
+          "cs.AI",
+          "cs.CV",
+          "cs.LG"
+        ],
+        "published": "2026-10-26T17:44:34+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:reasoning",
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2610.35773v1",
+        "title": "A Unified Arena for LLM Agents across Diverse Eurogame",
+        "url": "https://arxiv.org/abs/2610.35773v1",
+        "authors": [
+          "Fengrui Zhang",
+          "Xiang Li",
+          "Ruomeng Ding",
+          "Jiayi Yuan",
+          "Yuchen Huang",
+          "Zhaoyang Han"
+        ],
+        "snippet": "Interactive environments offer a practical way to evaluate large language model (LLM) agents, and competitive games extend this evaluation to decisions shaped by competing goals and other agents' choices. Yet existing evaluations confined to individual games or execution frameworks leave unclear which competitive advantages persist across settings. We introduce DECE (Diverse Eurogame Competitive E",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-10-26T17:14:22+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "2610.35767v1",
+        "title": "Free to Look, Free to Reason: Simple LLM Harnesses Outdiagnose Hand-Crafted Root Cause Analysis Agents",
+        "url": "https://arxiv.org/abs/2610.35767v1",
+        "authors": [
+          "Tingzhu Bi",
+          "Xun Zhang",
+          "Jinglin Li",
+          "Ping Wang",
+          "Meng Ma"
+        ],
+        "snippet": "Root cause analysis (RCA) of microservice failures has attracted many LLM agents whose investigation is hand-crafted, through standard operating procedures, fixed stages and role agents. Each is evaluated on its own data against few baselines, so it is unknown whether this design beats letting a capable model investigate on its own. We compare three simple harnesses that prescribe none of the mode",
+        "categories": [
+          "cs.AI",
+          "cs.DC",
+          "cs.SE"
+        ],
+        "published": "2026-10-26T17:12:02+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2610.35685v1",
+        "title": "Adapting LLM-SC to Living Sacred Heritage: Domain-Specific Extraction, Semantic Networks and Human Evaluation on Pashupatinath Temple Reviews",
+        "url": "https://arxiv.org/abs/2610.35685v1",
+        "authors": [
+          "Hari Sitaula",
+          "Manish Sakhakarmy",
+          "Pujan Pant",
+          "Sagar Newpane"
+        ],
+        "snippet": "Large language model (LLM) pipelines can turn visitor reviews into structured data, but generic schemes may miss rituals, sacred spaces, cultural restrictions and emotionally mixed experiences at living sacred heritage sites. We adapted the LLM-Social Computing (LLM-SC) framework to Pashupatinath Temple, Nepal, by specifying a 12-type entity taxonomy (four original LLM-SC types plus eight sacred-h",
+        "categories": [
+          "cs.CL",
+          "cs.AI"
+        ],
+        "published": "2026-10-26T16:20:00+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2610.35629v1",
+        "title": "From Language to Drives: A Multimodal Framework for Aligning Autonomous Robots with Human Purposes",
+        "url": "https://arxiv.org/abs/2610.35629v1",
+        "authors": [
+          "Diana Cerdas-Vargas",
+          "Alejandro Romero",
+          "Richard J. Duro"
+        ],
+        "snippet": "This work explores a multimodal approach to the alignment of the behavior of open-ended learning autonomous robots with human purposes through the use of large language models as cultural enablers. While autonomous robots can generate their own skills and goals through interaction with the environment, they often lack mechanisms to ensure that these remain relevant and aligned to those of human us",
+        "categories": [
+          "cs.RO",
+          "cs.AI",
+          "cs.HC"
+        ],
+        "published": "2026-10-26T15:40:38+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:multimodal",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2610.35595v1",
+        "title": "Agentic Algorithm Design: LLMs that Propose, Formalise, and Prove Runtime Bounds for Evolutionary Algorithms in Lean",
+        "url": "https://arxiv.org/abs/2610.35595v1",
+        "authors": [
+          "Per Kristian Lehre"
+        ],
+        "snippet": "LLMs now prove hard theorems in Lean. Can they also design algorithms and prove their correctness and efficiency? LLM-guided design of optimisation heuristics (such as AlphaEvolve) is purely empirical. Automated theorem provers with LLMs prove given statements. So far, there has been little evidence that LLMs can do both: design an algorithm and guarantee its efficiency by a mathematical proof. We",
+        "categories": [
+          "cs.AI",
+          "cs.NE"
+        ],
+        "published": "2026-10-26T15:22:04+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:agentic"
+        ]
+      },
+      {
+        "id": "2610.35586v1",
+        "title": "Linear Probes Transfer from Base to Distilled Language Models despite Rotation",
+        "url": "https://arxiv.org/abs/2610.35586v1",
+        "authors": [
+          "Marios Tsatsos"
+        ],
+        "snippet": "Linear probes, classifiers that read a language model's internal activations, are widely used to detect harmful requests. They are cheap to train and run, and an auditor who has trained one would like to reuse it when the model is replaced by a successor rather than retrain it for every release. We test how well probes can be reused. For four base models (Qwen2.5-Math-7B, Llama-3.1-8B, Qwen2.5-14B",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "cs.LG"
+        ],
+        "published": "2026-10-26T15:15:34+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:prompt",
+          "keyword:instruction tuning"
+        ]
+      },
+      {
+        "id": "2610.35518v1",
+        "title": "S3AC: Stabilized, Selective, and Scalable Actor-Critic for LLM Reasoning",
+        "url": "https://arxiv.org/abs/2610.35518v1",
+        "authors": [
+          "Shuo Shen",
+          "Guangran Cheng",
+          "Chengqi Lyu",
+          "Xiangsen Wang",
+          "Yanan Sun",
+          "Wenwei Zhang"
+        ],
+        "snippet": "Critic-free methods are widely used in reinforcement learning with verifiable rewards (RLVR) for long chain-of-thought (CoT) reasoning, avoiding difficult and costly critic training. Common alternatives lack token-level credit assignment and typically rely on grouped rollouts to estimate prompt-specific baselines. A critic can address both limitations, but long-CoT critic training is hindered by i",
+        "categories": [
+          "cs.LG",
+          "cs.CL"
+        ],
+        "published": "2026-10-26T14:38:53+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:reasoning",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2610.35496v1",
+        "title": "The Hidden Costs of Forgetting: A Study of Trajectory Deletion in Software Engineering Agents",
+        "url": "https://arxiv.org/abs/2610.35496v1",
+        "authors": [
+          "Fernando Vallecillos-Ruiz",
+          "Islem Bouzenia",
+          "Michael Pradel",
+          "Leon Moonen"
+        ],
+        "snippet": "Software engineering agents resend their entire trajectory to an LLM at every turn, motivating online trajectory reduction. Prior work shows that randomly deleting 75% of tokens in old turns may preserve agent effectiveness, but it remains unclear why, how agents compensate for missing content, and whether it actually reduces costs. This paper presents an empirical study of 42 trajectory-reduction",
+        "categories": [
+          "cs.SE",
+          "cs.AI"
+        ],
+        "published": "2026-10-26T14:25:17+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2610.35486v1",
+        "title": "ShutdownMod: Turning Any Trajectory into a Shutdown Evaluation",
+        "url": "https://arxiv.org/abs/2610.35486v1",
+        "authors": [
+          "Param Biyani",
+          "Sebastien Luyasu",
+          "Cedric Potvliege",
+          "Divij Chawla",
+          "Elliott Thornley",
+          "Christos Ziakas"
+        ],
+        "snippet": "Theory and experiments suggest that capable AI agents may resist shutdown. Existing shutdown evaluations are informative but limited in coverage and vulnerable to evaluation awareness. We introduce ShutdownMod, a method that turns any agent trajectory into a shutdown evaluation by injecting a shutdown request into the agent's context and recording the agent's response. Crucially, we enable the LLM",
+        "categories": [
+          "cs.AI",
+          "cs.LG"
+        ],
+        "published": "2026-10-26T14:14:45+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2610.35303v1",
+        "title": "InterQ-RL: Interaction-Aware Correction of Execution Mismatch in Quantized Agentic RL",
+        "url": "https://arxiv.org/abs/2610.35303v1",
+        "authors": [
+          "Yingbo Hao",
+          "Song Liu",
+          "Guanghua Yu",
+          "Zhaojing Zhou",
+          "Jianchen Zhu",
+          "Yi Zou"
+        ],
+        "snippet": "Multi-turn agent reinforcement learning (RL) relies on long closed-loop rollouts, making generation and KV-cache costs a major bottleneck. Quantized rollout reduces these costs, but its low-precision executor also serves as the behavior policy and can induce execution mismatch with the learner. Existing quantized-RL methods are designed primarily for single-turn generation. They align the learner ",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-10-26T12:08:44+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2610.35298v1",
+        "title": "LLM-Enhanced Heterogeneous Graph Learning with Business Semantics for Financial Fraud Detection",
+        "url": "https://arxiv.org/abs/2610.35298v1",
+        "authors": [
+          "Yixuan Chen",
+          "Hongyu Zhan",
+          "Jie Sheng",
+          "Weiyu Han",
+          "Shuai Chen",
+          "Tianyi Zhang"
+        ],
+        "snippet": "Financial fraud detection increasingly relies on heterogeneous transaction graphs, in which entities such as cards and merchants play distinct business roles and the risk meaning of an attribute depends on the entity's role: a high transaction volume may be routine for a merchant but unusual for a card. Heterogeneous graph neural networks preserve typed entities and relations but typically treat t",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-10-26T12:03:54+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:benchmark",
+          "keyword:transformer"
+        ]
+      },
+      {
+        "id": "2610.35229v1",
+        "title": "Joint Latent Reasoning and Observation for Agentic Video Understanding",
+        "url": "https://arxiv.org/abs/2610.35229v1",
+        "authors": [
+          "Junzhang Liu",
+          "Hao Yuan",
+          "Qi Zhang",
+          "Yiming Wu",
+          "Long Chen",
+          "Zhecan Wang"
+        ],
+        "snippet": "Effective video agents must learn not only how to answer, but also where to look next. Transferring this capability to smaller models is challenging because each observation serves two purposes: supporting an answer and guiding the search for further evidence. Textual descriptions may capture what is currently visible while omitting cues needed for subsequent acquisition. We introduce Latent Agent",
+        "categories": [
+          "cs.CV",
+          "cs.AI"
+        ],
+        "published": "2026-10-26T11:18:58+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agentic",
+          "keyword:reasoning",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2610.35847v1",
+        "title": "Patient-specific rubric-based evaluation of large language models across longitudinal cancer care",
+        "url": "https://arxiv.org/abs/2610.35847v1",
+        "authors": [
+          "Wei-Wei Zhang",
+          "Pengkai Wang",
+          "Yan Li",
+          "Zhijie Sang",
+          "Guan-Qun Zhou",
+          "Jun-Yan Li"
+        ],
+        "snippet": "Large language models (LLMs) show promise in specialty medicine, yet existing evaluations largely focus on isolated clinical encounters rather than tracking how clinical responsibilities evolve across a longitudinal care pathway. Here we introduce NPC-RubricBench, a phase-aware benchmark for evaluating multistage clinical reasoning across the cancer care continuum, using nasopharyngeal carcinoma a",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-10-26T17:56:26+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2610.35835v1",
+        "title": "I-HITL: Inalienable Human-in-the-Loop",
+        "url": "https://arxiv.org/abs/2610.35835v1",
+        "authors": [
+          "Samuel Breckenridge",
+          "Dani Vilardell",
+          "Wenhao Wang",
+          "Fan Zhang",
+          "Ari Juels"
+        ],
+        "snippet": "Human oversight is a pillar of AI safety. It is often exercised by a human in the loop (HITL) who approves critical actions taken by an AI agent. AI agents' increasing ability to bypass guardrails, though, raises the question of how to enforce HITL robustly. We introduce the concept of inalienable human-in-the-loop (I-HITL). An I-HITL protocol ensures that an agent can initiate an action only with",
+        "categories": [
+          "cs.CR",
+          "cs.AI"
+        ],
+        "published": "2026-10-26T17:52:14+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:agentic"
+        ]
+      },
+      {
+        "id": "2610.35832v1",
+        "title": "Profiling a Frontier Agent with EBench: From Direct Control to Harness with Policy",
+        "url": "https://arxiv.org/abs/2610.35832v1",
+        "authors": [
+          "Yifei Yao",
+          "Yude Zou",
+          "Guanbo Jiao",
+          "Xing Gao",
+          "Ning Gao",
+          "Yukai Wang"
+        ],
+        "snippet": "Frontier multimodal large language models (MLLMs) can control robots without robot-specific training, but how their capabilities compare and interact with post-trained vision-language-action (VLA) and world action model (WAM) policies across manipulation demands remains to be thoroughly evaluated. In this report, we evaluate GPT-6-Astra on EBench as the core of an agent that controls a robot throu",
+        "categories": [
+          "cs.RO",
+          "cs.AI"
+        ],
+        "published": "2026-10-26T17:51:02+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2610.35826v1",
+        "title": "Understanding Jev-Style System One Models: Does Structure Reduce Selection Bias?",
+        "url": "https://arxiv.org/abs/2610.35826v1",
+        "authors": [
+          "Mingyang Song",
+          "Mao Zheng",
+          "Zhiyuan Ma",
+          "Xinpeng Zhou"
+        ],
+        "snippet": "Selection bias in large language models (LLMs) can persist despite instructions to ignore presentation order or prompts that elicit reasoning. Recent efforts to reproduce Jev-style System One behavior have produced a growing family of models that predict probabilities directly over supplied candidates. Yet systematic comparisons of selection bias across Jev versions, Jev reproductions, and generat",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-10-26T17:48:55+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2610.35804v1",
+        "title": "Learning When to Commit: Schedule Distillation for Fast Diffusion Language Models",
+        "url": "https://arxiv.org/abs/2610.35804v1",
+        "authors": [
+          "Aidar Myrzakhan",
+          "Zhiqiang Shen"
+        ],
+        "snippet": "Diffusion large language models (dLLMs) can generate multiple tokens in parallel, but often require many decoding rounds to complete a response. Efficient generation depends not only on which tokens are easy to predict, but also on how committing to them helps predict the remaining positions. A highly predictable token may provide little useful context, while revealing a less predictable token can",
+        "categories": [
+          "cs.CL",
+          "cs.AI",
+          "cs.LG"
+        ],
+        "published": "2026-10-26T17:35:58+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:code generation"
+        ]
+      },
+      {
+        "id": "2610.35801v1",
+        "title": "FOCUS: Active Critic Learning for Long-Horizon Language Model Agents",
+        "url": "https://arxiv.org/abs/2610.35801v1",
+        "authors": [
+          "Zhengping Jiang",
+          "William Jurayj",
+          "Liaoyaqi Wang",
+          "Chunsheng Zuo",
+          "Anqi Liu",
+          "Benjamin Van Durme"
+        ],
+        "snippet": "Sparse outcome rewards make it difficult for long-horizon language-model agents to assign credit to earlier actions. Learned critics provide value estimates for intermediate states, but these estimates can be inaccurate, while estimating intermediate values with repetitive continuation samples from points within a trajectory incurs substantial costs. To mitigate these issues, we introduce FOCUS, a",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-10-26T17:34:47+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:agentic",
+          "keyword:reasoning"
+        ]
+      }
+    ]
+  }
+}
