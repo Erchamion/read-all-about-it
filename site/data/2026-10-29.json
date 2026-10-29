@@ -1,0 +1,598 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T18:46:01+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/index/updated-model-spec",
+        "title": "An updated Model Spec for more capable and beneficial AI",
+        "url": "https://openai.com/index/updated-model-spec",
+        "source": "openai",
+        "published": "2026-10-29T17:00:00+00:00",
+        "snippet": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+        "title": "How we detect frontier model misalignment",
+        "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+        "source": "openai",
+        "published": "2026-10-29T09:00:00+00:00",
+        "snippet": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/ropes-gray-ai-diligence",
+        "title": "How Ropes & Gray is developing AI for transactional diligence",
+        "url": "https://openai.com/index/ropes-gray-ai-diligence",
+        "source": "openai",
+        "published": "2026-10-29T07:00:00+00:00",
+        "snippet": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/openai-servicenow-partnership-expansion",
+        "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+        "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+        "source": "openai",
+        "published": "2026-10-28T13:15:00+00:00",
+        "snippet": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://news.microsoft.com/source/features/ai/local-know-how-helps-communities-make-the-most-of-new-technology-and-opportunities/",
+        "title": "Local know-how helps communities make the most of new technology and opportunities",
+        "url": "https://news.microsoft.com/source/features/ai/local-know-how-helps-communities-make-the-most-of-new-technology-and-opportunities/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+        "title": "Granite Switch 4.1.1 — Update models like you update software",
+        "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+        "source": "huggingface",
+        "published": "2026-10-29T13:37:07+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/announcing-project-protostar",
+        "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+        "url": "https://huggingface.co/blog/announcing-project-protostar",
+        "source": "huggingface",
+        "published": "2026-10-29T00:00:00+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/mistral-large4",
+        "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+        "url": "https://huggingface.co/blog/mistral-large4",
+        "source": "huggingface",
+        "published": "2026-10-29T00:00:00+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/anydecisionmodel",
+        "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+        "url": "https://huggingface.co/blog/anydecisionmodel",
+        "source": "huggingface",
+        "published": "2026-10-29T00:00:00+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://mistral.ai/news/mistral-large-4-oss/",
+        "title": "Research Le Chonk: Built for Coders, Trusted by Defenders. We release the weights of Le Chonk, advancing the frontier of open models in agentic coding and cybersecurity. October 29, 2026 By Mistral",
+        "url": "https://mistral.ai/news/mistral-large-4-oss/",
+        "source": "mistral",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+        "title": "AI for Science expands to foundations and research institutions",
+        "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+        "source": "anthropic",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      }
+    ],
+    "github": [
+      {
+        "id": "Nymph90896Iron/generative-agent-resocket",
+        "title": "Nymph90896Iron/generative-agent-resocket",
+        "url": "https://github.com/Nymph90896Iron/generative-agent-resocket",
+        "description": "AI agent with persistent memory, human-in-the-loop workflows, and Telegram integration, built with Make.com, Airtable, and Gemini.",
+        "stars": 32,
+        "language": null,
+        "topics": [
+          "agentic-workflow",
+          "ai-automation",
+          "airtable",
+          "citizen-participation",
+          "citizen-participation-governance",
+          "citizen-voice",
+          "civic-engagement",
+          "civic-infrastructure"
+        ],
+        "created_at": "2026-10-28T16:17:05Z",
+        "score": 9.04,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:workflow",
+          "keyword:assistant"
+        ]
+      },
+      {
+        "id": "mutonby/agentring",
+        "title": "mutonby/agentring",
+        "url": "https://github.com/mutonby/agentring",
+        "description": "Let your AI agents call your phone over VoIP, and call them back. Your phone rings like a real call, even locked; a voice AI talks it through and returns the transcript. Self-hosted, open source, no phone numbers or Twilio.",
+        "stars": 155,
+        "language": "Kotlin",
+        "topics": [
+          "ai-agents",
+          "android",
+          "claude-code",
+          "gemini-live",
+          "livekit",
+          "mcp",
+          "mcp-server",
+          "phone-calls"
+        ],
+        "created_at": "2026-10-23T15:44:01Z",
+        "score": 8.29,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "10291124jcjc-dotcom/ai-anime-series",
+        "title": "10291124jcjc-dotcom/ai-anime-series",
+        "url": "https://github.com/10291124jcjc-dotcom/ai-anime-series",
+        "description": "AI 动画单元剧：固定原创角色，一句话出一集。角色设定图 + 宫格故事板 + 即梦 Seedance 一次生成。Claude Skill.",
+        "stars": 154,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-10-28T14:31:38Z",
+        "score": 8.28,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "Def28641eatclaw/Restaurant-Ai-Agent-rpocket",
+        "title": "Def28641eatclaw/Restaurant-Ai-Agent-rpocket",
+        "url": "https://github.com/Def28641eatclaw/Restaurant-Ai-Agent-rpocket",
+        "description": "Built an AI ordering assistant with n8n, OpenRouter, Google Sheets, and Telegram. Customers order in natural language (any language), the AI remembers the conversation, confirms details, and auto-logs orders with sequential numbers — zero manual spreadsheet work. Debugged with Claude",
+        "stars": 32,
+        "language": "HTML",
+        "topics": [
+          "ai-automation",
+          "api-integration",
+          "conversational-ai",
+          "customer-service-bot",
+          "go",
+          "google-sheets",
+          "google-sheets-api",
+          "inventory-management-solutions"
+        ],
+        "created_at": "2026-10-28T16:20:00Z",
+        "score": 8.04,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:workflow",
+          "keyword:assistant"
+        ]
+      },
+      {
+        "id": "OverFaun/nexcanvas-drawio-resp",
+        "title": "OverFaun/nexcanvas-drawio-resp",
+        "url": "https://github.com/OverFaun/nexcanvas-drawio-resp",
+        "description": "A portable AI agent skill and architecture compiler for polished, editable, evidence-grounded Draw.io diagrams.",
+        "stars": 32,
+        "language": null,
+        "topics": [
+          "accessibility",
+          "agent-skill",
+          "ai-coding",
+          "cloud-architecture",
+          "codex-skill",
+          "design-systems",
+          "design-to-code",
+          "diagramming"
+        ],
+        "created_at": "2026-10-28T16:18:08Z",
+        "score": 8.04,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:workflow",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "XCourage55146/rpocket-team-antigravity-skill-engine",
+        "title": "XCourage55146/rpocket-team-antigravity-skill-engine",
+        "url": "https://github.com/XCourage55146/rpocket-team-antigravity-skill-engine",
+        "description": "Antigravity Skills Engine (ASE) - The ultimate Claude Skills library for AI agents featuring 16+ industrial-grade professional tracks.",
+        "stars": 32,
+        "language": null,
+        "topics": [
+          "ai-agent-skills",
+          "antigravity",
+          "antigravity-skills",
+          "claude-skills",
+          "claude-skills-library",
+          "workflow",
+          "workflow-engine"
+        ],
+        "created_at": "2026-10-28T16:20:24Z",
+        "score": 8.04,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:workflow",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "Windlich13044/rpocket-skill4agent-mcp-server",
+        "title": "Windlich13044/rpocket-skill4agent-mcp-server",
+        "url": "https://github.com/Windlich13044/rpocket-skill4agent-mcp-server",
+        "description": "MCP Server for skill4agent - Search and install AI skills via Model Context Protocol",
+        "stars": 32,
+        "language": "HTML",
+        "topics": [
+          "academic-integrity",
+          "academic-integrity-tool",
+          "ai",
+          "ai-skills",
+          "ai-workflows",
+          "apa7",
+          "citation-verification",
+          "claude-skill-optimization"
+        ],
+        "created_at": "2026-10-28T16:20:18Z",
+        "score": 8.04,
+        "signals": [
+          "new",
+          "keyword:mcp",
+          "keyword:skill",
+          "keyword:orchestration"
+        ]
+      },
+      {
+        "id": "rul-lang/rul",
+        "title": "rul-lang/rul",
+        "url": "https://github.com/rul-lang/rul",
+        "description": "Rul (.rl) — Zero-Syntax 128-Bit Schedule- & Proof-Carrying Binary Programming Language & Execution Engine for Autonomous AI Agents (5.8ns/node O(N) Verifier, 6.4µs Zero-LLVM AVX2 ELF64 AOT Compiler)",
+        "stars": 44,
+        "language": "Rust",
+        "topics": [
+          "ai-agents",
+          "binary-ir",
+          "columnar",
+          "compiler",
+          "mcp",
+          "programming-language",
+          "proof-carrying-code",
+          "rul"
+        ],
+        "created_at": "2026-10-28T02:48:56Z",
+        "score": 7.49,
+        "signals": [
+          "new",
+          "keyword:mcp",
+          "keyword:autonomous"
+        ]
+      },
+      {
+        "id": "Cygnux-Labs/PCM-protocol",
+        "title": "Cygnux-Labs/PCM-protocol",
+        "url": "https://github.com/Cygnux-Labs/PCM-protocol",
+        "description": "Proof-Carrying Messages: a protocol for AI agents whose claims carry evidence the receiver checks offline",
+        "stars": 36,
+        "language": "Python",
+        "topics": [
+          "a2a",
+          "agent-protocol",
+          "agent-security",
+          "ai-agents",
+          "mcp",
+          "merkle-tree",
+          "protocol",
+          "tamper-evident"
+        ],
+        "created_at": "2026-10-28T07:47:01Z",
+        "score": 7.21,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "OnPurgatory89718/resp-polish",
+        "title": "OnPurgatory89718/resp-polish",
+        "url": "https://github.com/OnPurgatory89718/resp-polish",
+        "description": "Self-hosted UI review for code, copy, and rendered screens. Get weighted 0-100 findings for usability, craft, accessibility, and writing through a CLI or MCP server.",
+        "stars": 32,
+        "language": null,
+        "topics": [
+          "asset-extraction",
+          "codex-skill",
+          "design-handoff",
+          "design-tokens",
+          "image-to-design",
+          "mobile-ui",
+          "penpot",
+          "penpot-ai"
+        ],
+        "created_at": "2026-10-28T16:19:21Z",
+        "score": 7.04,
+        "signals": [
+          "new",
+          "keyword:mcp",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "Sheernox/cedr",
+        "title": "Sheernox/cedr",
+        "url": "https://github.com/Sheernox/cedr",
+        "description": "Developer tools for humans and agents: route work to the right AI coding agent, merge multi-vendor reviews into one gate, and pin the skills and MCP servers agents load.",
+        "stars": 28,
+        "language": "Rust",
+        "topics": [
+          "ai-agents",
+          "claude-code",
+          "cli",
+          "code-review",
+          "codex",
+          "developer-tools",
+          "mcp",
+          "rust"
+        ],
+        "created_at": "2026-10-29T17:13:23Z",
+        "score": 6.86,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "Cygnux-Labs/Tracekit-box",
+        "title": "Cygnux-Labs/Tracekit-box",
+        "url": "https://github.com/Cygnux-Labs/Tracekit-box",
+        "description": "Micro-VM sandbox for AI agents: isolated, gated and auditable, to prove what your agents did",
+        "stars": 40,
+        "language": "Go",
+        "topics": [
+          "agent-security",
+          "ai-agents",
+          "audit-log",
+          "ci",
+          "firecracker",
+          "golang",
+          "microvm",
+          "sandbox"
+        ],
+        "created_at": "2026-10-25T18:27:40Z",
+        "score": 6.36,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "chutingyean/Agent-Cockpit",
+        "title": "chutingyean/Agent-Cockpit",
+        "url": "https://github.com/chutingyean/Agent-Cockpit",
+        "description": "Evidence-chain whiteboard + MCP server for AI research agents: every claim traces back to the run and code that produced it. 讓 AI agent 做研究時，每個結論都能追到產生它的程式碼。Claude Code · Codex · Cursor · Gemini CLI",
+        "stars": 17,
+        "language": "JavaScript",
+        "topics": [],
+        "created_at": "2026-10-26T18:44:46Z",
+        "score": 6.17,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "DragonSamuraisaturn/exasol-rpocket-agent-skills",
+        "title": "DragonSamuraisaturn/exasol-rpocket-agent-skills",
+        "url": "https://github.com/DragonSamuraisaturn/exasol-rpocket-agent-skills",
+        "description": "Exasol skills for AI agents. Optimized for Claude Code and OpenAI Codex 🤖",
+        "stars": 32,
+        "language": "HTML",
+        "topics": [
+          "abogado",
+          "abogados",
+          "agent-skills",
+          "chile",
+          "chilean",
+          "claude",
+          "claude-ai",
+          "claude-code"
+        ],
+        "created_at": "2026-10-28T16:16:39Z",
+        "score": 6.04,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "Unitygnome94594/Orderflow-Claude-skill-resocket",
+        "title": "Unitygnome94594/Orderflow-Claude-skill-resocket",
+        "url": "https://github.com/Unitygnome94594/Orderflow-Claude-skill-resocket",
+        "description": "Evidence-graded order-flow & footprint skill for Claude. Reads footprint, DOM, profile and CVD screenshots, separates what’s measured from what’s inferred, and shows what flow is actually useful for, without making trade calls.",
+        "stars": 32,
+        "language": null,
+        "topics": [
+          "ai-tools",
+          "claude-skills",
+          "claude-skills-creator",
+          "claude-skills-hub",
+          "claude-skills-library",
+          "footprint",
+          "footprint-analysis",
+          "footprint-candles"
+        ],
+        "created_at": "2026-10-28T16:18:13Z",
+        "score": 6.04,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "greenlogs/aseprite-mcp-live",
+        "title": "greenlogs/aseprite-mcp-live",
+        "url": "https://github.com/greenlogs/aseprite-mcp-live",
+        "description": "连接 AI 与 Aseprite 的 MCP 服务，支持实时读取和编辑未保存画布、图像预览、撤销重做及基础动画，保留 CLI 文件批处理能力，让人与 AI 在同一文档中协作创作像素画；An MCP server connecting AI to Aseprite for collaborative pixel art, with live canvas editing, unsaved document access, image previews, undo/redo, basic animation, and CLI batch processing",
+        "stars": 15,
+        "language": "Python",
+        "topics": [
+          "ai",
+          "aseprite",
+          "aseprite-script",
+          "llm",
+          "lua",
+          "mcp",
+          "mcp-tools",
+          "model-context-protocol"
+        ],
+        "created_at": "2026-10-22T09:59:04Z",
+        "score": 6.0,
+        "signals": [
+          "new",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "Liamrjohnston/hook-master-skill",
+        "title": "Liamrjohnston/hook-master-skill",
+        "url": "https://github.com/Liamrjohnston/hook-master-skill",
+        "description": "A Claude skill suite that critiques and fixes your short-video hook. Paste the link into Claude Code and say: Clone this and add the skill.",
+        "stars": 20,
+        "language": "Shell",
+        "topics": [
+          "claude-code",
+          "claude-skills",
+          "content-creation",
+          "hooks"
+        ],
+        "created_at": "2026-10-25T17:27:11Z",
+        "score": 5.39,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "cisco-ai-defense/project-quarry",
+        "title": "cisco-ai-defense/project-quarry",
+        "url": "https://github.com/cisco-ai-defense/project-quarry",
+        "description": "Detection DSL and engine for AI agents",
+        "stars": 37,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-10-27T22:42:17Z",
+        "score": 5.25,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "chartergroup/topopt",
+        "title": "chartergroup/topopt",
+        "url": "https://github.com/chartergroup/topopt",
+        "description": "Topology optimization for 3D printing, as an MCP server for Claude, Codex, Cursor and other AI agents. Loads and regions in, a lighter printable STL out.",
+        "stars": 18,
+        "language": "Python",
+        "topics": [
+          "3d-printing",
+          "additive-manufacturing",
+          "ai",
+          "ai-agents",
+          "claude-code",
+          "claude-code-plugins",
+          "finite-element-method",
+          "generative-design"
+        ],
+        "created_at": "2026-10-29T01:35:51Z",
+        "score": 5.25,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "anomalyco/browse",
+        "title": "anomalyco/browse",
+        "url": "https://github.com/anomalyco/browse",
+        "description": "Let your AI agents use your real browser: an MCP server and a Chromium extension",
+        "stars": 15,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-10-27T14:33:24Z",
+        "score": 5.0,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "rammcodes/Curious-Kid",
+        "title": "rammcodes/Curious-Kid",
+        "url": "https://github.com/rammcodes/Curious-Kid",
+        "description": "A Claude skill that explains any technical topic using a simple short story, so even a 5-year-old can understand.",
+        "stars": 15,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-10-26T10:03:30Z",
+        "score": 5.0,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
