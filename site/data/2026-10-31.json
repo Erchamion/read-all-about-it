@@ -1,0 +1,705 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T17:29:21+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/index/fair-use-benefits-everyone",
+        "title": "Fair use benefits everyone",
+        "url": "https://openai.com/index/fair-use-benefits-everyone",
+        "source": "openai",
+        "published": "2026-10-30T00:00:00+00:00",
+        "snippet": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://blogs.microsoft.com/blog/2026/10/27/the-platform-approach-to-becoming-frontier/",
+        "title": "The platform approach to becoming Frontier",
+        "url": "https://blogs.microsoft.com/blog/2026/10/27/the-platform-approach-to-becoming-frontier/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      }
+    ],
+    "github": [
+      {
+        "id": "wanghao-SunSky/cs329z-chinese",
+        "title": "wanghao-SunSky/cs329z-chinese",
+        "url": "https://github.com/wanghao-SunSky/cs329z-chinese",
+        "description": "斯坦福 Stanford CS329Z Engineering AI Agents 中文教程：面向 Python 开发者的 AI 智能体课程，19 讲与 4 项实践，涵盖 LLM、RAG、工具调用、记忆、多智能体、评测与安全。完整 Markdown、在线与离线 HTML。Chinese course notes.",
+        "stars": 183,
+        "language": "HTML",
+        "topics": [
+          "agent-memory",
+          "agentic-ai",
+          "ai-agents",
+          "chinese",
+          "chinese-tutorial",
+          "course-notes",
+          "cs329z",
+          "engineering-ai-agents"
+        ],
+        "created_at": "2026-10-28T18:18:24Z",
+        "score": 10.52,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:rag"
+        ]
+      },
+      {
+        "id": "notinferred/keypaste",
+        "title": "notinferred/keypaste",
+        "url": "https://github.com/notinferred/keypaste",
+        "description": "A KeePass-compatible password and secrets manager for people who work with AI agents.",
+        "stars": 701,
+        "language": "C#",
+        "topics": [
+          "dotenv",
+          "keepass",
+          "mcp-server",
+          "password-manager",
+          "secrets-management"
+        ],
+        "created_at": "2026-09-05T23:53:10Z",
+        "score": 10.46,
+        "signals": [
+          "rising",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "aa1143/NamiAgent",
+        "title": "aa1143/NamiAgent",
+        "url": "https://github.com/aa1143/NamiAgent",
+        "description": "零基础入门 AI Agent 的基础教程。不只是教程，也是一个能在本地跑起来的 Agent：读写文件、执行命令、MCP、长期记忆，自带网页端看清每一步。从 100 行最小循环开始，一课加一个能力，最后拆解 Claude Code、Codex 等主流 Agent",
+        "stars": 85,
+        "language": "Python",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "chinese",
+          "claude-code",
+          "deepseek",
+          "from-scratch",
+          "llm",
+          "mcp"
+        ],
+        "created_at": "2026-10-30T11:03:30Z",
+        "score": 9.43,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "boardshogunfluctuate/Capri-AI",
+        "title": "boardshogunfluctuate/Capri-AI",
+        "url": "https://github.com/boardshogunfluctuate/Capri-AI",
+        "description": "⚡ Tell your PC what to do. Capri is a cyberpunk AI agent that works with your files, projects and code through Claude Code, Codex or Antigravity. Windows installer, no terminal. Fan-made, not affiliated with CD PROJEKT RED.",
+        "stars": 287,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agent",
+          "ai-agents",
+          "ai-assistants",
+          "antigravity",
+          "claude-code",
+          "claude-code-mod",
+          "codex"
+        ],
+        "created_at": "2026-10-30T22:03:48Z",
+        "score": 9.17,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "FigureSultanLast/roblox-ai-studio-agent",
+        "title": "FigureSultanLast/roblox-ai-studio-agent",
+        "url": "https://github.com/FigureSultanLast/roblox-ai-studio-agent",
+        "description": "An AI agent in your terminal that builds Roblox places in Studio: parts, models, UI and Luau scripts. Place diff before every change, playtests with proof, one undo per turn.",
+        "stars": 173,
+        "language": "Luau",
+        "topics": [
+          "luau",
+          "place-diff",
+          "playtest",
+          "roblox",
+          "roblox-studio",
+          "rojo",
+          "rust",
+          "terminal"
+        ],
+        "created_at": "2026-10-30T21:42:20Z",
+        "score": 8.44,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "YTruman/better-skill",
+        "title": "YTruman/better-skill",
+        "url": "https://github.com/YTruman/better-skill",
+        "description": "The doctor's manual for AI agent skills — audit, score and build skills with an evidence-based standard. 技能医生",
+        "stars": 86,
+        "language": "HTML",
+        "topics": [],
+        "created_at": "2026-10-27T19:12:52Z",
+        "score": 8.44,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "glincker/awesome-selfhosted-ai",
+        "title": "glincker/awesome-selfhosted-ai",
+        "url": "https://github.com/glincker/awesome-selfhosted-ai",
+        "description": "Curated list of self-hosted open-source AI: local LLMs, chat UIs, agents, MCP servers, RAG, speech and image generation. Health-checked weekly, dead projects removed automatically.",
+        "stars": 41,
+        "language": "JavaScript",
+        "topics": [
+          "ai-agents",
+          "awesome",
+          "awesome-list",
+          "homelab",
+          "llm",
+          "local-ai",
+          "local-llm",
+          "mcp-server"
+        ],
+        "created_at": "2026-10-31T05:50:40Z",
+        "score": 8.39,
+        "signals": [
+          "new",
+          "keyword:llm",
+          "keyword:mcp",
+          "keyword:rag"
+        ]
+      },
+      {
+        "id": "muaaz9329/cheap-ag",
+        "title": "muaaz9329/cheap-ag",
+        "url": "https://github.com/muaaz9329/cheap-ag",
+        "description": "50x your Claude usage with cheap-ag. Opus plans, a dirt-cheap model writes every line, and tests decide what ships. Your $20 plan stops hitting limits. One MCP server for Claude Code.",
+        "stars": 113,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-10-28T22:26:18Z",
+        "score": 7.83,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "CallSymmetryEcho/trace-canvas",
+        "title": "CallSymmetryEcho/trace-canvas",
+        "url": "https://github.com/CallSymmetryEcho/trace-canvas",
+        "description": "A transit map of parallel AI agent work: threads and records on a canvas, a git-style branch graph and a timeline. Claude Code hooks, MCP server and skill; no dependencies.",
+        "stars": 19,
+        "language": "JavaScript",
+        "topics": [
+          "ai-agents",
+          "claude-code",
+          "developer-tools",
+          "git-graph",
+          "mcp",
+          "timeline",
+          "visualization"
+        ],
+        "created_at": "2026-10-26T21:56:30Z",
+        "score": 7.32,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "nancyc0813-maker/agentid-sniper",
+        "title": "nancyc0813-maker/agentid-sniper",
+        "url": "https://github.com/nancyc0813-maker/agentid-sniper",
+        "description": "Local monitor + auto-mint + take-profit for Binance .ai Agent ID exclusive mints on BSC (Binance Agentic Wallet / baw CLI)",
+        "stars": 72,
+        "language": "JavaScript",
+        "topics": [],
+        "created_at": "2026-10-29T17:06:22Z",
+        "score": 7.19,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "akari-sora/synology-nas-cli",
+        "title": "akari-sora/synology-nas-cli",
+        "url": "https://github.com/akari-sora/synology-nas-cli",
+        "description": "nas: a zero-dependency Python CLI + MCP server for Synology DSM 7. One-command audit and fix for the C3RB3R / .L0CK3D ransomware campaign; hand it to your AI agent. Mirror; canonical repo and issues: gitlab.com/aa22396584/synology-nas-cli",
+        "stars": 26,
+        "language": "Python",
+        "topics": [
+          "ai-agent",
+          "cli",
+          "dsm",
+          "mcp",
+          "nas",
+          "ransomware",
+          "security",
+          "synology"
+        ],
+        "created_at": "2026-10-30T09:52:47Z",
+        "score": 6.75,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "Tyrion-hb/page-aligned-paper-translation",
+        "title": "Tyrion-hb/page-aligned-paper-translation",
+        "url": "https://github.com/Tyrion-hb/page-aligned-paper-translation",
+        "description": "Claude Skill：把论文 PDF 翻译成与原文逐页对应的中文 PDF / Page-aligned paper translation skill for Claude",
+        "stars": 51,
+        "language": null,
+        "topics": [
+          "chinese",
+          "claude-skill",
+          "latex",
+          "paper-translation"
+        ],
+        "created_at": "2026-10-28T02:55:25Z",
+        "score": 6.7,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "Pranjal2041/swarmchat",
+        "title": "Pranjal2041/swarmchat",
+        "url": "https://github.com/Pranjal2041/swarmchat",
+        "description": "Open-source Slack for your AI agent swarm",
+        "stars": 42,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-10-29T08:58:23Z",
+        "score": 6.43,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "vicotrbb/cubebot",
+        "title": "vicotrbb/cubebot",
+        "url": "https://github.com/vicotrbb/cubebot",
+        "description": "Kubernetes-native runtime for persistent, collaborative AI agents.",
+        "stars": 74,
+        "language": "Rust",
+        "topics": [],
+        "created_at": "2026-10-25T19:06:43Z",
+        "score": 6.23,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "ghcardhq/githubcard-mcp",
+        "title": "ghcardhq/githubcard-mcp",
+        "url": "https://github.com/ghcardhq/githubcard-mcp",
+        "description": "GitHubCard MCP server: create GitHub profile and repo cards from Claude, Cursor, VS Code and other AI agents.",
+        "stars": 15,
+        "language": null,
+        "topics": [
+          "agent-skills",
+          "ai-agent",
+          "claude",
+          "gemini-cli-extension",
+          "github",
+          "mcp",
+          "mcp-server",
+          "model-context-protocol"
+        ],
+        "created_at": "2026-10-31T08:26:28Z",
+        "score": 6.0,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "YGMontop/AutoGameSkill",
+        "title": "YGMontop/AutoGameSkill",
+        "url": "https://github.com/YGMontop/AutoGameSkill",
+        "description": "a claude skill allowing you to make roblox games in no time",
+        "stars": 22,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-10-30T21:56:12Z",
+        "score": 5.52,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "yashagw/excalidraw-boards",
+        "title": "yashagw/excalidraw-boards",
+        "url": "https://github.com/yashagw/excalidraw-boards",
+        "description": "Self-hosted Excalidraw with boards in folders, saved on your server, and an MCP server so AI agents can draw on them.",
+        "stars": 17,
+        "language": "TypeScript",
+        "topics": [
+          "ai-agents",
+          "diagrams",
+          "excalidraw",
+          "mcp",
+          "model-context-protocol",
+          "self-hosted",
+          "whiteboard"
+        ],
+        "created_at": "2026-10-30T08:23:49Z",
+        "score": 5.17,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "KRYPT-123/kiro-motion-studio",
+        "title": "KRYPT-123/kiro-motion-studio",
+        "url": "https://github.com/KRYPT-123/kiro-motion-studio",
+        "description": "KIRO Motion Studio — 用代码做 AE 级炫酷视觉视频的 Claude Skill + 作品源码",
+        "stars": 17,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-10-30T11:27:55Z",
+        "score": 5.17,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "id": "2610.40649v1",
+        "title": "Rethinking Neural Thickets Without Weight Perturbations",
+        "url": "https://arxiv.org/abs/2610.40649v1",
+        "authors": [
+          "Nicolas Dufour",
+          "Elouan Gardès",
+          "Amil Dravid",
+          "Patrick Pérez",
+          "Loic Landrieu"
+        ],
+        "snippet": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains, but show that they do not require this geometric explanation. Perturbing a single decoder block already recovers much of the improvement, while keeping the model entirely frozen a",
+        "categories": [
+          "cs.LG",
+          "cs.AI",
+          "cs.CV"
+        ],
+        "published": "2026-10-29T17:59:29+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2610.40647v1",
+        "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
+        "url": "https://arxiv.org/abs/2610.40647v1",
+        "authors": [
+          "Jiongfan Yang",
+          "Weichen Fan",
+          "Haiwen Diao",
+          "Zhongang Cai",
+          "Ziwei Liu"
+        ],
+        "snippet": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not necessarily require more global communication: low-frequency structure benefits from global exchange, while high-frequency detail can be modeled locally. Based on this insight, we introdu",
+        "categories": [
+          "cs.CV",
+          "cs.AI",
+          "cs.LG",
+          "cs.NE"
+        ],
+        "published": "2026-10-29T17:59:21+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:transformer"
+        ]
+      },
+      {
+        "id": "2610.40643v1",
+        "title": "Luggage re-identification: A study of strategies towards a real-world application",
+        "url": "https://arxiv.org/abs/2610.40643v1",
+        "authors": [
+          "Quentin Dhôte",
+          "Romaric Audigier"
+        ],
+        "snippet": "Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (lost luggage recovery). It enables the association of observations of the same luggage across disjoint camera views in complex environments such as airports, train stations and border crossing. While exi",
+        "categories": [
+          "cs.CV",
+          "cs.AI"
+        ],
+        "published": "2026-10-29T17:58:59+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2610.40637v1",
+        "title": "world2vec: Mechanistic world models through latent dynamics learning",
+        "url": "https://arxiv.org/abs/2610.40637v1",
+        "authors": [
+          "Tobias Schmidt",
+          "Rodrigo Gonzalez Laiz",
+          "Krisztián Szuppinger",
+          "Steffen Schneider"
+        ],
+        "snippet": "World models can achieve strong control performance without faithfully capturing the dynamics of their environment, limiting their potential for mechanistic interpretability and scientific discovery. Here, we introduce world2vec to learn mechanistic world models without reward information directly from observations and actions. World2vec learns latent dynamics that faithfully reproduce the true sy",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-10-29T17:58:23+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2610.40636v1",
+        "title": "Probing Spatial State Representations in Visual Foundation Models",
+        "url": "https://arxiv.org/abs/2610.40636v1",
+        "authors": [
+          "Baiqiao Yin",
+          "Zhongang Cai",
+          "Ruisi Wang",
+          "Qiwei Liang",
+          "Lei Yang",
+          "Ziwei Liu"
+        ],
+        "snippet": "An observer sees only part of the surrounding world, yet must keep track of what lies beyond the current view. Spatial perception therefore involves more than recognizing individual images: it calls for a persistent spatial state that is updated under self-motion and used to guide action. Do visual foundation models provide representations that support such a state? We study this question through ",
+        "categories": [
+          "cs.CV",
+          "cs.AI"
+        ],
+        "published": "2026-10-29T17:58:16+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2610.40619v1",
+        "title": "Testimony from Timelines: Evidence-Grounded Significance Testing of Temporal Clinical Hypotheses",
+        "url": "https://arxiv.org/abs/2610.40619v1",
+        "authors": [
+          "Chengyang He",
+          "Wenlong Zhang",
+          "Koduvayur Subbalakshmi",
+          "Ping Wang"
+        ],
+        "snippet": "Ask a language model whether sales tend to dip after a product recall, or whether one side effect tends to follow another after a vaccine, and it answers in a fluent sentence that reads like a finding, with no test behind it. Assertions about how events unfold across many cases fill the Web, and each is a temporal hypothesis that only a significance test over the right records can settle. The veri",
+        "categories": [
+          "cs.CL",
+          "cs.IR"
+        ],
+        "published": "2026-10-29T17:55:30+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2610.40613v1",
+        "title": "TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races",
+        "url": "https://arxiv.org/abs/2610.40613v1",
+        "authors": [
+          "Tom Sander",
+          "Pierre Fernandez",
+          "Itai Gat",
+          "Haiming Bao",
+          "Jiaxin Shi",
+          "Jason Park"
+        ],
+        "snippet": "We present TextSeal2, a distortion-free watermark for large language models that keeps its signal under speculative decoding: tokens that replace rejected drafts remain watermarked with the same keys, and the acceptance rate is unchanged. It also preserves output diversity and adds no measurable inference latency. Its predecessor, TextSeal, restores diversity in the Gumbel-max scheme by routing ea",
+        "categories": [
+          "cs.CR",
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-10-29T17:54:12+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "2610.40611v1",
+        "title": "When to Assist and What to Suggest: Joint Gating and Memory-Grounded Hint Generation in One Compact Decoder",
+        "url": "https://arxiv.org/abs/2610.40611v1",
+        "authors": [
+          "A. J. A. Jubayer Talukder",
+          "Mohammad Ariful Haque"
+        ],
+        "snippet": "Proactive assistants offer short, memory-grounded hints during a conversation, deciding when to assist and what to suggest. Current systems split this between a gate and a larger generator; we evaluate both together on 28,058 decision points. Stage-wise generation scores are oracle-gate ceilings: behind a real gate, end-to-end exact match is 0.2619 against a ceiling of 0.2971, and end-to-end preci",
+        "categories": [
+          "cs.CL",
+          "cs.AI",
+          "cs.HC"
+        ],
+        "published": "2026-10-29T17:54:07+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2610.40577v1",
+        "title": "Multi-View MoE: Letting Every Router Shape Expert Computation",
+        "url": "https://arxiv.org/abs/2610.40577v1",
+        "authors": [
+          "Zelin Zhao",
+          "Tianchi Ma",
+          "Junyuan Shang",
+          "Shuohuan Wang",
+          "Dianhai Yu"
+        ],
+        "snippet": "Sparse mixture-of-experts (MoE) models expand parameter capacity by activating a small subset of experts per token. Expert selection directly affects model capabilities under a fixed active-expert budget. Dense evaluation of all experts reveals weak agreement between single-router rankings and expert-utility evaluation rankings, especially in middle and deep layers. Richer signals for selection an",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-10-29T17:45:12+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2610.40576v1",
+        "title": "PIVOT: Progressive Intervention via Online Teacher Correction",
+        "url": "https://arxiv.org/abs/2610.40576v1",
+        "authors": [
+          "Zhihao Yang",
+          "Boyuan Zheng",
+          "Puhui Tan",
+          "Yukun Chen",
+          "Kuan Zhang",
+          "Longze Chen"
+        ],
+        "snippet": "Reinforcement learning from verifiable rewards (RLVR) is limited by sparse outcome-level feedback on hard reasoning tasks: when all rollouts in a group fail, rewards provide no learning signal. Stronger teachers can provide additional guidance, but this raises a central question: how can such signals be incorporated into RLVR to support successful rollouts while remaining learnable for the student",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-10-29T17:45:07+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2610.40574v1",
+        "title": "Every Token Needs Its Own Teacher: Multi-teacher Adaptive On-policy Self-distillation",
+        "url": "https://arxiv.org/abs/2610.40574v1",
+        "authors": [
+          "Yifu Luo",
+          "Chuang Ma",
+          "Zeyu Chen",
+          "Enkelejda Kasneci",
+          "Qi Chen",
+          "Gjergji Kasneci"
+        ],
+        "snippet": "On-policy Self-distillation (OPSD) has proven effective for post-training large language models by constructing a teacher conditioned on privileged references. However, existing approaches keep the teacher fixed either throughout training by consistently exposing it to the full reference, or within each response by adaptively varying partial reference exposure only across responses. In this paper,",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-10-29T17:44:42+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2610.40564v1",
+        "title": "Training Foundation Models with a Single Algorithm",
+        "url": "https://arxiv.org/abs/2610.40564v1",
+        "authors": [
+          "Yuda Song",
+          "Alvin Zhang",
+          "Fahim Tajwar",
+          "Daman Arora",
+          "Jeff Schneider",
+          "Daniel Khashabi"
+        ],
+        "snippet": "Foundation models are typically trained in stages: pretraining, midtraining, supervised fine-tuning (SFT), and reinforcement learning (RL), with changes in both data and learning algorithms. We show that this algorithmic separation is not fundamental. By deriving suitable RL objectives as maximum-likelihood fitting to model-generated target distributions, we place all of these stages under a singl",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-10-29T17:42:05+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2610.40563v1",
+        "title": "Comparing Human Role-Players and LLM-Simulated Clients in Online Counselling Training: An Analysis of Counselling Patterns",
+        "url": "https://arxiv.org/abs/2610.40563v1",
+        "authors": [
+          "Eric Rudolph",
+          "Philipp Steigerwald",
+          "Jens Albrecht"
+        ],
+        "snippet": "This study investigates the capabilities of Large Language Models to simulate counselling clients in educational role-plays in comparison to human role-players. Initially, we recorded role-playing sessions, where novice counsellors interacted with human peers acting as clients, followed by role-plays between humans and clients simulated by Mistrals Mixtral 8x7b using 4-bit quantization. These inte",
+        "categories": [
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-10-29T17:41:59+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "2610.40545v1",
+        "title": "Retrieval as Traversal: Value-Indexed Memory for Stateful Long-Context Agents",
+        "url": "https://arxiv.org/abs/2610.40545v1",
+        "authors": [
+          "Daniel Strauß",
+          "Zhenshan Bing",
+          "Alois Knoll"
+        ],
+        "snippet": "Long-context models repeatedly solve closely related retrieval problems. Attention or global retrieval can retain large stores, but each forward pass again searches for what matters. Recurrent compression avoids this search only by deciding earlier what information to preserve. Neither mechanism directly exploits that useful memories at neighbouring retrieval steps may substantially overlap. We pr",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-10-29T17:37:21+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:retrieval"
+        ]
+      }
+    ]
+  }
+}
