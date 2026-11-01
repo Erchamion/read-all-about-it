@@ -1,0 +1,129 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T18:13:59+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [],
+    "github": [
+      {
+        "id": "mromidev/claude-animated-shorts",
+        "title": "mromidev/claude-animated-shorts",
+        "url": "https://github.com/mromidev/claude-animated-shorts",
+        "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+        "stars": 142,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-11-01T05:50:38Z",
+        "score": 8.16,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "apekshik/anyscene",
+        "title": "apekshik/anyscene",
+        "url": "https://github.com/apekshik/anyscene",
+        "description": "Photoreal Blender scenes from a one-paragraph brief, built by AI agents: image→3D props on fal, scripted layout, lighting, camera and grade.",
+        "stars": 165,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-10-30T18:39:04Z",
+        "score": 7.38,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "JimmyRaoUF/academic-revision-checklist",
+        "title": "JimmyRaoUF/academic-revision-checklist",
+        "url": "https://github.com/JimmyRaoUF/academic-revision-checklist",
+        "description": "   66 reader-first rules for revising academic English, drawn from 60+ revision rounds of a PhD dissertation, with a 16-item quick list, a script that flags places to reread, and a Claude skill.",
+        "stars": 18,
+        "language": "Python",
+        "topics": [
+          "academic-writing",
+          "agent-skills",
+          "claude-skills",
+          "dissertation",
+          "proofreading",
+          "thesis"
+        ],
+        "created_at": "2026-10-29T03:58:59Z",
+        "score": 6.25,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "daniel-madrid-07/weeping-of-the-empire",
+        "title": "daniel-madrid-07/weeping-of-the-empire",
+        "url": "https://github.com/daniel-madrid-07/weeping-of-the-empire",
+        "description": "Zelda: Tears of the Kingdom (TotK) 1.0.0 recompiled to native Windows and Vulkan. Frame cap up to 240, DLSS option, mouse and keyboard. Open source, mostly written by AI agents. You build it from your own dump; no game files included. Measured on one PC so far.",
+        "stars": 64,
+        "language": "C",
+        "topics": [
+          "dlss",
+          "game-port",
+          "native-port",
+          "nintendo-switch",
+          "pc-port",
+          "recomp",
+          "recompilation",
+          "reverse-engineering"
+        ],
+        "created_at": "2026-10-30T23:58:29Z",
+        "score": 6.02,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "lroy-stack/admin-os",
+        "title": "lroy-stack/admin-os",
+        "url": "https://github.com/lroy-stack/admin-os",
+        "description": "Open-source management dashboard template for small businesses: four languages, liquid-glass themes, a typed data seam and a native MCP server.",
+        "stars": 25,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-10-31T16:31:48Z",
+        "score": 5.7,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "hupao-creator/Mokusei",
+        "title": "hupao-creator/Mokusei",
+        "url": "https://github.com/hupao-creator/Mokusei",
+        "description": "Mokusei (木犀): a native workspace for coordinating AI agents",
+        "stars": 48,
+        "language": "Swift",
+        "topics": [],
+        "created_at": "2026-10-27T12:54:11Z",
+        "score": 5.61,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "WeCarbon/noddit",
+        "title": "WeCarbon/noddit",
+        "url": "https://github.com/WeCarbon/noddit",
+        "description": "A task and decision hub for long-running AI agents — plain markdown files, a live terminal bench",
+        "stars": 41,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-10-30T08:36:01Z",
+        "score": 5.39,
+        "signals": [
+          "new"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
