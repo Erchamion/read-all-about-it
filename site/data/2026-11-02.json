@@ -1,0 +1,370 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T22:05:30+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/index/grid-protectors-program",
+        "title": "Introducing the Grid Protectors Program",
+        "url": "https://openai.com/index/grid-protectors-program",
+        "source": "openai",
+        "published": "2026-11-02T15:00:00+00:00",
+        "snippet": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/lifeval",
+        "title": "LifeVal",
+        "url": "https://openai.com/index/lifeval",
+        "source": "openai",
+        "published": "2026-11-02T09:00:00+00:00",
+        "snippet": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/qodo-codex-plugin",
+        "title": "Qodo builds context into AI code review with Codex",
+        "url": "https://openai.com/index/qodo-codex-plugin",
+        "source": "openai",
+        "published": "2026-11-02T00:00:00+00:00",
+        "snippet": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+        "title": "The latest AI news we announced in October 2026",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+        "source": "google-ai",
+        "published": "2026-11-02T17:45:00+00:00",
+        "snippet": "Animated carousel of images from AI posts in October",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://commandline.microsoft.com/how-we-built-copilot-cowork-python-to-rust-migration/",
+        "title": "Nine engineers, 1,211 code updates in a day: Lessons from building Copilot Cowork",
+        "url": "https://commandline.microsoft.com/how-we-built-copilot-cowork-python-to-rust-migration/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      }
+    ],
+    "github": [
+      {
+        "id": "sahenjp/RustXNG",
+        "title": "sahenjp/RustXNG",
+        "url": "https://github.com/sahenjp/RustXNG",
+        "description": "Self-hosted metasearch and grounding engine for AI agents, based on SearXNG. Rust, JSON API, optional page text.",
+        "stars": 700,
+        "language": "Rust",
+        "topics": [
+          "agpl",
+          "ai-agents",
+          "grounding",
+          "llm",
+          "mcp",
+          "metasearch",
+          "privacy",
+          "rag"
+        ],
+        "created_at": "2026-10-18T03:06:52Z",
+        "score": 12.45,
+        "signals": [
+          "rising",
+          "keyword:llm",
+          "keyword:mcp",
+          "keyword:rag"
+        ]
+      },
+      {
+        "id": "chipfighter/framekeeper",
+        "title": "chipfighter/framekeeper",
+        "url": "https://github.com/chipfighter/framekeeper",
+        "description": "Stop paying the multimodal tax. Your AI agent keeps every image it has seen but only sends the ones it needs: lighter chats, no endless reconnecting, no starting over. Works with Codex, Claude Code, Cline, Gemini CLI, OpenCode, WorkBuddy and more. Install once, forget it.",
+        "stars": 745,
+        "language": "TypeScript",
+        "topics": [
+          "ai-agents",
+          "ai-image",
+          "claude-code",
+          "claude-code-plugin",
+          "cline",
+          "codex",
+          "codex-plugin",
+          "computer-use"
+        ],
+        "created_at": "2026-09-24T05:00:09Z",
+        "score": 11.54,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "dodo-labs-ai/mem-forge",
+        "title": "dodo-labs-ai/mem-forge",
+        "url": "https://github.com/dodo-labs-ai/mem-forge",
+        "description": "Give every agent your team's brain on day one. The memory layer for AI agents. Everything your team knows. Cited, and always up to date.",
+        "stars": 35,
+        "language": "Python",
+        "topics": [
+          "agent-memory",
+          "claude-code",
+          "codex",
+          "knowledge-base",
+          "llm",
+          "mcp",
+          "mcp-server",
+          "rag"
+        ],
+        "created_at": "2026-10-26T15:48:37Z",
+        "score": 9.17,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp",
+          "keyword:rag"
+        ]
+      },
+      {
+        "id": "Faixiang/Moodle-MCP",
+        "title": "Faixiang/Moodle-MCP",
+        "url": "https://github.com/Faixiang/Moodle-MCP",
+        "description": "Zero-dependency MCP server for the Moodle Web Service API — read-only course, assignment, quiz, deadline and file tools for Claude, Cursor and any MCP client. Actively maintained · v1.4.0 · 10 tools · docs in 10 languages.",
+        "stars": 49,
+        "language": "Python",
+        "topics": [
+          "claude",
+          "education",
+          "llm",
+          "mcp",
+          "model-context-protocol",
+          "moodle",
+          "python"
+        ],
+        "created_at": "2026-10-26T14:51:03Z",
+        "score": 7.64,
+        "signals": [
+          "new",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "dustinliang666-blip/lava-mcp",
+        "title": "dustinliang666-blip/lava-mcp",
+        "url": "https://github.com/dustinliang666-blip/lava-mcp",
+        "description": "熔岩 Lava：A 股股票与概念板块的消息面热度监测（结构化只读 MCP/REST，支持量化交易工具与 AI Agent 股市研究接入）",
+        "stars": 41,
+        "language": "Python",
+        "topics": [
+          "a-share",
+          "agent-skills",
+          "claude-skills",
+          "dsh-plugin",
+          "gemini-cli-extension",
+          "mcp",
+          "mcp-server",
+          "quant"
+        ],
+        "created_at": "2026-10-27T15:55:47Z",
+        "score": 7.39,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "mazulo/leis-mcp",
+        "title": "mazulo/leis-mcp",
+        "url": "https://github.com/mazulo/leis-mcp",
+        "description": "Servidor MCP para buscar e citar a legislação brasileira no Claude e em qualquer assistente de IA: texto exato de 1,2 milhão de normas (CF, CLT, CDC, Código Civil, LGPD…), com fonte oficial e avisos de revogação. MCP server for Brazilian law.",
+        "stars": 20,
+        "language": "Python",
+        "topics": [
+          "ai-assistant",
+          "anthropic",
+          "brasil",
+          "brazil",
+          "claude",
+          "claude-code",
+          "claude-desktop",
+          "direito"
+        ],
+        "created_at": "2026-11-01T12:25:55Z",
+        "score": 7.39,
+        "signals": [
+          "new",
+          "keyword:llm",
+          "keyword:mcp",
+          "keyword:assistant"
+        ]
+      },
+      {
+        "id": "justhalfbit/thinksmart-ubuntu-image",
+        "title": "justhalfbit/thinksmart-ubuntu-image",
+        "url": "https://github.com/justhalfbit/thinksmart-ubuntu-image",
+        "description": "联想 ThinkSmart View（CD-18781Y）语音助手系统镜像：基于 rickx/ubuntu-thinksmart，开机直接进语音界面；含中英文刷机教程（写给人和 AI 助手）、出镜像脚本和设备修复服务｜Voice-assistant system image for Lenovo ThinkSmart View (CD-18781Y), based on rickx/ubuntu-thinksmart: boots straight into the voice UI; flashing guide in Chinese and English (for people and ",
+        "stars": 72,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-11-01T13:46:36Z",
+        "score": 7.19,
+        "signals": [
+          "new",
+          "keyword:assistant"
+        ]
+      },
+      {
+        "id": "SUNYT772/RE-Workstation",
+        "title": "SUNYT772/RE-Workstation",
+        "url": "https://github.com/SUNYT772/RE-Workstation",
+        "description": "逆向工作站｜一个 Skill，串起 22 个核心领域与 40 个 CTF 专题。覆盖 APK/iOS、二进制、JS 签名、固件、补丁差分、Web/API、恶意代码、LLM/Agent 与供应链安全，附 30 份经验与索引材料、技术报告与图表参考。按任务定位、跨领域组合，让逆向与安全研究有方法可查、证据可循、经验可复用。",
+        "stars": 15,
+        "language": null,
+        "topics": [
+          "agent-skills",
+          "binary-analysis",
+          "chinese",
+          "ctf",
+          "cybersecurity",
+          "knowledge-base",
+          "llm-security",
+          "malware-analysis"
+        ],
+        "created_at": "2026-10-29T06:44:23Z",
+        "score": 7.0,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "mathew5612/devilop",
+        "title": "mathew5612/devilop",
+        "url": "https://github.com/mathew5612/devilop",
+        "description": "Build products with AI agents. Map the architecture, edit real screens, and send changes to your existing coding chat. Local and open source.",
+        "stars": 41,
+        "language": "JavaScript",
+        "topics": [
+          "ai-agents",
+          "claude-code",
+          "codex",
+          "local-first",
+          "mcp",
+          "project-map"
+        ],
+        "created_at": "2026-10-28T14:01:53Z",
+        "score": 6.39,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "vandelayautollc/nbt-evo-toolkit",
+        "title": "vandelayautollc/nbt-evo-toolkit",
+        "url": "https://github.com/vandelayautollc/nbt-evo-toolkit",
+        "description": "AI Agent workspace for customizing your NBT EVO",
+        "stars": 38,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-10-28T12:34:13Z",
+        "score": 6.29,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "pedramgholizadeh/curated-skills",
+        "title": "pedramgholizadeh/curated-skills",
+        "url": "https://github.com/pedramgholizadeh/curated-skills",
+        "description": "A curated collection of AI agent skills, tools, and workflows I personally use and recommend. Open source, practical, and continuously evolving.",
+        "stars": 35,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-10-29T09:51:09Z",
+        "score": 6.17,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "shakewingo/Tadpole",
+        "title": "shakewingo/Tadpole",
+        "url": "https://github.com/shakewingo/Tadpole",
+        "description": "Build an LLM agent from scratch and continuously evolve it.",
+        "stars": 17,
+        "language": "Python",
+        "topics": [
+          "agent",
+          "from-scratch",
+          "llama-cpp",
+          "rl",
+          "sft",
+          "telegrambot",
+          "tutorials"
+        ],
+        "created_at": "2026-10-26T15:41:16Z",
+        "score": 6.17,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "CubeLink-oss/voltdir",
+        "title": "CubeLink-oss/voltdir",
+        "url": "https://github.com/CubeLink-oss/voltdir",
+        "description": "Read-only Windows disk analysis for AI agents: one call, stable JSON, low memory.",
+        "stars": 37,
+        "language": "Rust",
+        "topics": [],
+        "created_at": "2026-11-01T00:45:17Z",
+        "score": 5.25,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "Jakeschincariol/closer-skill",
+        "title": "Jakeschincariol/closer-skill",
+        "url": "https://github.com/Jakeschincariol/closer-skill",
+        "description": "11 Claude skills that run your whole sales team: find leads, cold outreach, follow-ups, call coaching and contracts. Free.",
+        "stars": 17,
+        "language": "Python",
+        "topics": [
+          "claude",
+          "claude-skills",
+          "cold-email",
+          "crm",
+          "sales",
+          "sales-coaching"
+        ],
+        "created_at": "2026-11-01T14:15:12Z",
+        "score": 5.17,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
