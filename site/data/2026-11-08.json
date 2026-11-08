@@ -1,0 +1,297 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T18:11:49+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [],
+    "github": [
+      {
+        "id": "AbuZar-Ansarii/Jarvis",
+        "title": "AbuZar-Ansarii/Jarvis",
+        "url": "https://github.com/AbuZar-Ansarii/Jarvis",
+        "description": "An autonomous, local-first on-device AI agent and Android OS automation framework featuring full accessibility control,   │ continuous voice intelligence, and self-evolving workflow execution.",
+        "stars": 87,
+        "language": "Dart",
+        "topics": [
+          "ai-agents",
+          "android",
+          "automation-agent",
+          "edge-tts",
+          "ironman",
+          "jarvis",
+          "jarvis-ai",
+          "jarvis-ai-assistant"
+        ],
+        "created_at": "2026-11-03T14:08:15Z",
+        "score": 10.46,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:workflow",
+          "keyword:autonomous",
+          "keyword:assistant"
+        ]
+      },
+      {
+        "id": "RapidSailorFreeze/studsmith",
+        "title": "RapidSailorFreeze/studsmith",
+        "url": "https://github.com/RapidSailorFreeze/studsmith",
+        "description": "Free AI agent for Roblox Studio: plans, writes Luau, shows a diff and playtests its own changes. Windows app. 免费的 Roblox Studio AI 智能体。",
+        "stars": 75,
+        "language": null,
+        "topics": [
+          "ai-agent",
+          "ai-assistant",
+          "game-development",
+          "gamedev",
+          "llm",
+          "luau",
+          "ollama",
+          "roblox"
+        ],
+        "created_at": "2026-11-08T13:11:10Z",
+        "score": 10.25,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp",
+          "keyword:assistant"
+        ]
+      },
+      {
+        "id": "DIYgod/pinky",
+        "title": "DIYgod/pinky",
+        "url": "https://github.com/DIYgod/pinky",
+        "description": "Let AI agents use your phone, with you in the loop.",
+        "stars": 683,
+        "language": "Go",
+        "topics": [],
+        "created_at": "2026-11-06T16:53:14Z",
+        "score": 9.42,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "nengong/download-anything",
+        "title": "nengong/download-anything",
+        "url": "https://github.com/nengong/download-anything",
+        "description": "面向 AI Agent 与终端的全能下载与归档工具 / All-in-one CLI & Skill to download anything: videos, docs, cloud drives, music, papers & books",
+        "stars": 110,
+        "language": "Python",
+        "topics": [
+          "ai-agent",
+          "claude-code",
+          "cli",
+          "downloader",
+          "media-crawler",
+          "obsidian",
+          "python",
+          "skill"
+        ],
+        "created_at": "2026-11-04T10:23:04Z",
+        "score": 8.79,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "ngophatneknha/ai-engineering-hub",
+        "title": "ngophatneknha/ai-engineering-hub",
+        "url": "https://github.com/ngophatneknha/ai-engineering-hub",
+        "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications (Personal learning hub)",
+        "stars": 148,
+        "language": "MDX",
+        "topics": [],
+        "created_at": "2026-11-07T10:08:24Z",
+        "score": 8.22,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "dotslashsimran/simcraft",
+        "title": "dotslashsimran/simcraft",
+        "url": "https://github.com/dotslashsimran/simcraft",
+        "description": "my claude skills for everyday work",
+        "stars": 129,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-11-05T21:15:32Z",
+        "score": 7.02,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "avivgerz-hue/vibe-shield",
+        "title": "avivgerz-hue/vibe-shield",
+        "url": "https://github.com/avivgerz-hue/vibe-shield",
+        "description": "60-rule static security scanner, MCP server & skill poisoning auditor for AI-generated codebases (Claude Code, Codex, Cursor).",
+        "stars": 15,
+        "language": "TypeScript",
+        "topics": [
+          "agent-skills",
+          "claude",
+          "claude-code",
+          "claude-code-plugin",
+          "claude-skills",
+          "codex",
+          "codex-skill",
+          "cursor"
+        ],
+        "created_at": "2026-11-07T19:22:57Z",
+        "score": 7.0,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "CorruptedAng3l/llm-game-automation-mcp",
+        "title": "CorruptedAng3l/llm-game-automation-mcp",
+        "url": "https://github.com/CorruptedAng3l/llm-game-automation-mcp",
+        "description": "MCP server + library that lets LLM agents play Windows games in the background: per-process injected input and frame capture, no window focus needed. Offline/single-player games only.",
+        "stars": 25,
+        "language": "C++",
+        "topics": [
+          "ai-agents",
+          "claude",
+          "directx",
+          "dll-injection",
+          "game-automation",
+          "llm",
+          "mcp",
+          "model-context-protocol"
+        ],
+        "created_at": "2026-11-02T19:43:37Z",
+        "score": 6.7,
+        "signals": [
+          "new",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "willturner-maker/resolve-ai-workflow",
+        "title": "willturner-maker/resolve-ai-workflow",
+        "url": "https://github.com/willturner-maker/resolve-ai-workflow",
+        "description": "DaVinci Resolve Studio + local AI workstation: installer, start/stop launchers, three MCP servers, headless Blender title pipeline",
+        "stars": 18,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-11-06T19:55:45Z",
+        "score": 6.25,
+        "signals": [
+          "new",
+          "keyword:mcp",
+          "keyword:workflow"
+        ]
+      },
+      {
+        "id": "akustikrausch/amigent",
+        "title": "akustikrausch/amigent",
+        "url": "https://github.com/akustikrausch/amigent",
+        "description": "Complete remote control for a real Amiga, by AI or manually: an MCP server for AI agents and a remote desktop like TeamViewer, tuned for slow Amigas and slow networks. AmigaOS 2.04 and up, any CPU from the 68000, Windows, macOS and Linux.",
+        "stars": 15,
+        "language": "Python",
+        "topics": [
+          "ai-agent",
+          "amiga",
+          "amiga-1200",
+          "amigaos",
+          "amigaos3",
+          "claude-code",
+          "codex",
+          "commodore-amiga"
+        ],
+        "created_at": "2026-11-02T00:56:09Z",
+        "score": 6.0,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "hypersniper05/MCP_Image_to_3D",
+        "title": "hypersniper05/MCP_Image_to_3D",
+        "url": "https://github.com/hypersniper05/MCP_Image_to_3D",
+        "description": "One image in, one 3D Gaussian-splat .ply out. Self-hosted Docker service with a web gallery, 3D viewer, HTTP API and MCP server.",
+        "stars": 17,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-11-06T23:03:30Z",
+        "score": 5.17,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "Jakeschincariol/whale-skill",
+        "title": "Jakeschincariol/whale-skill",
+        "url": "https://github.com/Jakeschincariol/whale-skill",
+        "description": "11 Claude skills that get you paying customers before you launch. Research, demo, pitch, pre-sale. Free.",
+        "stars": 17,
+        "language": "Python",
+        "topics": [
+          "claude",
+          "claude-skills",
+          "customer-discovery",
+          "pre-sales",
+          "startup"
+        ],
+        "created_at": "2026-11-06T01:43:18Z",
+        "score": 5.17,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "iamjeeth/launch-seo-skill",
+        "title": "iamjeeth/launch-seo-skill",
+        "url": "https://github.com/iamjeeth/launch-seo-skill",
+        "description": "Claude skill: the 10 SEO things to do right after your website goes live",
+        "stars": 16,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-11-04T05:41:06Z",
+        "score": 5.09,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "MartinGeltl21/build-crew",
+        "title": "MartinGeltl21/build-crew",
+        "url": "https://github.com/MartinGeltl21/build-crew",
+        "description": "A crew of colored multiplayer cursors builds your page on load. Claude skill + dependency-free script, MIT.",
+        "stars": 15,
+        "language": "JavaScript",
+        "topics": [
+          "animation",
+          "claude-skill",
+          "multiplayer-cursors",
+          "vanilla-js",
+          "web-animations"
+        ],
+        "created_at": "2026-11-05T21:12:13Z",
+        "score": 5.0,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
