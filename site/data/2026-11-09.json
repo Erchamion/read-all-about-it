@@ -1,0 +1,320 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T22:50:49+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+        "title": "ChatGPT Enterprise now available in AWS Marketplace",
+        "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+        "source": "openai",
+        "published": "2026-11-09T19:00:00+00:00",
+        "snippet": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/control-room",
+        "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+        "url": "https://openai.com/index/control-room",
+        "source": "openai",
+        "published": "2026-11-09T13:00:00+00:00",
+        "snippet": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/coderabbit-codex-daybreak",
+        "title": "CodeRabbit scales agentic software development and ships 20x more",
+        "url": "https://openai.com/index/coderabbit-codex-daybreak",
+        "source": "openai",
+        "published": "2026-11-09T08:00:00+00:00",
+        "snippet": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/kuken",
+        "title": "Kuken Industries searches 70 years of drawings in minutes",
+        "url": "https://openai.com/index/kuken",
+        "source": "openai",
+        "published": "2026-11-09T08:00:00+00:00",
+        "snippet": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://news.microsoft.com/source/features/ai/a-former-marine-had-an-idea-to-help-fellow-veterans-ai-helped-him-build-it/",
+        "title": "A former Marine had an idea to help fellow veterans: AI helped him build it",
+        "url": "https://news.microsoft.com/source/features/ai/a-former-marine-had-an-idea-to-help-fellow-veterans-ai-helped-him-build-it/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://news.microsoft.com/source/features/digital-transformation/northern-trust-finance-microsoft-partner-ai/",
+        "title": "At Northern Trust, finance experts and Microsoft engineers partner to move faster on AI",
+        "url": "https://news.microsoft.com/source/features/digital-transformation/northern-trust-finance-microsoft-partner-ai/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://commandline.microsoft.com/thinkingbox-part-two-expanded-model-evals-reinforcement-learning-rewards/",
+        "title": "How catching AI agent mistakes can make them more reliable",
+        "url": "https://commandline.microsoft.com/thinkingbox-part-two-expanded-model-evals-reinforcement-learning-rewards/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+        "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+        "source": "huggingface",
+        "published": "2026-11-09T15:05:57+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+        "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+        "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+        "source": "huggingface",
+        "published": "2026-11-09T12:34:29+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      }
+    ],
+    "github": [
+      {
+        "id": "WealthyV/openchatx-mcp",
+        "title": "WealthyV/openchatx-mcp",
+        "url": "https://github.com/WealthyV/openchatx-mcp",
+        "description": "Turn ChatGPT into a local agent runtime. Operate your computer, use local tools, discover MCP servers, and delegate work to your own models through one MCP connection.",
+        "stars": 394,
+        "language": "TypeScript",
+        "topics": [
+          "agent-runtime",
+          "ai-agents",
+          "chatgpt",
+          "local-agent",
+          "macos",
+          "mcp",
+          "model-context-protocol",
+          "windows"
+        ],
+        "created_at": "2026-09-23T14:25:56Z",
+        "score": 10.63,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "Nanoutrolley/roblox-studio-mcp",
+        "title": "Nanoutrolley/roblox-studio-mcp",
+        "url": "https://github.com/Nanoutrolley/roblox-studio-mcp",
+        "description": "Model Context Protocol (MCP) server for Roblox Studio. Connect AI assistants (Claude, Cursor, Cline) to read object trees, automate Lua scripting, and run playtests safely. Open-source AI bridge.",
+        "stars": 281,
+        "language": "Python",
+        "topics": [
+          "ai-tools",
+          "automation",
+          "claude",
+          "cursor",
+          "game-development",
+          "lua",
+          "mcp",
+          "model-context-protocol"
+        ],
+        "created_at": "2026-11-09T08:58:06Z",
+        "score": 9.14,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "tireddwarf99/ai_manus",
+        "title": "tireddwarf99/ai_manus",
+        "url": "https://github.com/tireddwarf99/ai_manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 54,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-07T06:34:49Z",
+        "score": 7.78,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "wlrudxo/CarMaker-LLM-Agent",
+        "title": "wlrudxo/CarMaker-LLM-Agent",
+        "url": "https://github.com/wlrudxo/CarMaker-LLM-Agent",
+        "description": "LLM agent for autonomous driving simulation in IPG CarMaker (trigger monitoring, Claude CLI decisions, vehicle-control commands)",
+        "stars": 20,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-11-04T03:54:07Z",
+        "score": 7.39,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:autonomous"
+        ]
+      },
+      {
+        "id": "kanaworksai-hue/sozai-search-mcp",
+        "title": "kanaworksai-hue/sozai-search-mcp",
+        "url": "https://github.com/kanaworksai-hue/sozai-search-mcp",
+        "description": "Free 3D assets for AI agents: search ~36,000 free (mostly CC0) models, materials and HDRIs with real-world sizes, as an MCP server",
+        "stars": 37,
+        "language": "Python",
+        "topics": [
+          "3d-assets",
+          "cc0",
+          "claude-code",
+          "game-assets",
+          "hdri",
+          "mcp",
+          "mcp-server",
+          "model-context-protocol"
+        ],
+        "created_at": "2026-11-08T13:25:15Z",
+        "score": 6.25,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "tailucanh/offload-mcp-server",
+        "title": "tailucanh/offload-mcp-server",
+        "url": "https://github.com/tailucanh/offload-mcp-server",
+        "description": "Let your main coding agent delegate heavy reading to a second agent, and read back only the answer.",
+        "stars": 18,
+        "language": "TypeScript",
+        "topics": [
+          "ai-agents",
+          "antigravity",
+          "claude-code",
+          "developer-tools",
+          "gemini",
+          "mcp",
+          "mcp-server",
+          "model-context-protocol"
+        ],
+        "created_at": "2026-11-08T03:40:29Z",
+        "score": 6.25,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "avivgerz-hue/unslop",
+        "title": "avivgerz-hue/unslop",
+        "url": "https://github.com/avivgerz-hue/unslop",
+        "description": "Studio-grade UI design systems, Design DNA extractor & Anti-Slop MCP server for AI coding agents (Claude Code, Codex, Cursor, Windsurf).",
+        "stars": 17,
+        "language": "TypeScript",
+        "topics": [
+          "agent-skills",
+          "claude-code",
+          "codex",
+          "cursor",
+          "design",
+          "mcp",
+          "skills",
+          "vibe-coding"
+        ],
+        "created_at": "2026-11-07T19:21:31Z",
+        "score": 6.17,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "Attention-Span-AI/Tego",
+        "title": "Attention-Span-AI/Tego",
+        "url": "https://github.com/Attention-Span-AI/Tego",
+        "description": "Tego limits what any AI agent can touch on Linux, and records every run. Rules for MCP servers, CI jobs, Python workers, 24/7 assistants and coding agents, enforced by the kernel.",
+        "stars": 16,
+        "language": "Go",
+        "topics": [
+          "agent-security",
+          "ai-agent-security",
+          "ai-agents",
+          "audit-log",
+          "bpf-lsm",
+          "claude-code",
+          "codex",
+          "ebpf"
+        ],
+        "created_at": "2026-11-02T04:59:42Z",
+        "score": 6.09,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "rjmahesh/ui-redline-walkthrough",
+        "title": "rjmahesh/ui-redline-walkthrough",
+        "url": "https://github.com/rjmahesh/ui-redline-walkthrough",
+        "description": "Claude skill: turn before/after UI screenshots into an animated redline walkthrough video (red ink marks, morphing UI, MP4 export)",
+        "stars": 23,
+        "language": "HTML",
+        "topics": [
+          "animation",
+          "claude",
+          "claude-skill",
+          "design",
+          "redline",
+          "ui-design"
+        ],
+        "created_at": "2026-11-06T19:33:24Z",
+        "score": 5.58,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
