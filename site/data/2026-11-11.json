@@ -1,0 +1,1041 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T19:58:54+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/index/gilbert-tobin-sam-nickless",
+        "title": "Gilbert + Tobin rethinks the business of law with AI",
+        "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+        "source": "openai",
+        "published": "2026-11-12T00:00:00+00:00",
+        "snippet": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/chatgpt-plus-for-veterans",
+        "title": "ChatGPT Plus for veterans and servicemembers",
+        "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+        "source": "openai",
+        "published": "2026-11-11T08:00:00+00:00",
+        "snippet": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/jiostar-vijay-seshadri",
+        "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+        "url": "https://openai.com/index/jiostar-vijay-seshadri",
+        "source": "openai",
+        "published": "2026-11-11T00:00:00+00:00",
+        "snippet": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/singapore-airlines-travel-work",
+        "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+        "url": "https://openai.com/index/singapore-airlines-travel-work",
+        "source": "openai",
+        "published": "2026-11-10T08:00:00+00:00",
+        "snippet": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/cogent-security",
+        "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+        "url": "https://openai.com/index/cogent-security",
+        "source": "openai",
+        "published": "2026-11-10T00:00:00+00:00",
+        "snippet": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+        "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+        "source": "google-ai",
+        "published": "2026-11-11T18:00:00+00:00",
+        "snippet": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+        "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+        "source": "google-ai",
+        "published": "2026-11-11T16:00:00+00:00",
+        "snippet": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+        "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+        "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+        "source": "google-ai",
+        "published": "2026-11-11T09:00:00+00:00",
+        "snippet": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+        "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+        "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+        "source": "deepmind",
+        "published": "2026-11-11T15:00:15+00:00",
+        "snippet": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://news.microsoft.com/source/features/digital-transformation/kt-meisters-and-microsoft-engineers-build-ai-agents-to-spot-network-issues-before-customers-do/",
+        "title": "KT ‘Meisters’ and Microsoft engineers build AI agents to spot network issues before customers do",
+        "url": "https://news.microsoft.com/source/features/digital-transformation/kt-meisters-and-microsoft-engineers-build-ai-agents-to-spot-network-issues-before-customers-do/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://machinelearning.apple.com/research/evaluating-evaluators-llm-judges",
+        "title": "Evaluating the Evaluators: Investigating LLM Judges for Personalized Writing Style Assessment",
+        "url": "https://machinelearning.apple.com/research/evaluating-evaluators-llm-judges",
+        "source": "apple-ml",
+        "published": "2026-11-10T00:00:00+00:00",
+        "snippet": "This paper was accepted at the Can We Trust AI Evaluation? Workshop at NeurIPS 2026.\nWe evaluate how good large language model (LLM) judges are for personalized writing tasks. This is important when a user’s preferred writing style is known (e.g., “upbeat”) and an LLM judge is used to evaluate wheth",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://machinelearning.apple.com/research/gating-memorization-in-context",
+        "title": "On the Importance of Gating: Memorization vs. In-Context Learning in State Space Models",
+        "url": "https://machinelearning.apple.com/research/gating-memorization-in-context",
+        "source": "apple-ml",
+        "published": "2026-11-10T00:00:00+00:00",
+        "snippet": "State Space Models (SSMs) have emerged as a compelling alternative to Transformers, enabling sequence modeling with constant memory and linear compute. Although SSMs exhibit reasonable performance and favorable computational characteristics, they continue to lag behind Transformers on tasks that req",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://machinelearning.apple.com/research/weighted-state-souping",
+        "title": "Weighted State Souping for Efficient Long-Context Retrieval",
+        "url": "https://machinelearning.apple.com/research/weighted-state-souping",
+        "source": "apple-ml",
+        "published": "2026-11-10T00:00:00+00:00",
+        "snippet": "This paper was accepted at the Workshop on Personalized, Aligned, Long-term Memory for AI Systems (PALM) at NeurIPS 2026.\nState space models (SSMs) combine fast inference and fixed state size with competitive language-modeling performance. Recently, state souping has been proposed as a procedure whe",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/qvac/botpsy",
+        "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+        "url": "https://huggingface.co/blog/qvac/botpsy",
+        "source": "huggingface",
+        "published": "2026-11-11T05:01:16+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/token-pooling",
+        "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+        "url": "https://huggingface.co/blog/token-pooling",
+        "source": "huggingface",
+        "published": "2026-11-11T00:00:00+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      }
+    ],
+    "github": [
+      {
+        "id": "flohoeller/affectui",
+        "title": "flohoeller/affectui",
+        "url": "https://github.com/flohoeller/affectui",
+        "description": "UI for AI agents. React components for what agents do – agent trees, tool calls, traces, handoffs and approvals – and for the rest of your app. One file each, install with shadcn or via MCP. Free and open source.",
+        "stars": 732,
+        "language": "TypeScript",
+        "topics": [
+          "agent-ui",
+          "ai",
+          "ai-agents",
+          "ai-ui",
+          "animation",
+          "components",
+          "dark-mode",
+          "illustrations"
+        ],
+        "created_at": "2026-10-03T19:58:10Z",
+        "score": 12.52,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "expo/exact",
+        "title": "expo/exact",
+        "url": "https://github.com/expo/exact",
+        "description": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.",
+        "stars": 2824,
+        "language": "Rust",
+        "topics": [
+          "ai-agents",
+          "appkit",
+          "coding-agents",
+          "cross-platform",
+          "css",
+          "ios",
+          "linux",
+          "macos"
+        ],
+        "created_at": "2026-11-02T01:29:01Z",
+        "score": 12.46,
+        "signals": [
+          "rising",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "eust-w/opengeniemaster",
+        "title": "eust-w/opengeniemaster",
+        "url": "https://github.com/eust-w/opengeniemaster",
+        "description": "Open-source embodied agent framework: execution, feedback, and continual improvement",
+        "stars": 246,
+        "language": "Python",
+        "topics": [
+          "agent-harness",
+          "ai-agents",
+          "continual-learning",
+          "embodied-ai",
+          "mcp",
+          "model-context-protocol",
+          "multi-robot",
+          "robotics"
+        ],
+        "created_at": "2026-10-27T11:27:29Z",
+        "score": 9.95,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "kilolonion/agent-vscreen",
+        "title": "kilolonion/agent-vscreen",
+        "url": "https://github.com/kilolonion/agent-vscreen",
+        "description": "A background virtual screen for any Android AI agent: it operates apps on an invisible display while you keep using your phone. CLI / MCP / HTTP, Shizuku, no root. 给任何手机 agent 用的后台副屏。",
+        "stars": 56,
+        "language": "Kotlin",
+        "topics": [
+          "ai-agent",
+          "android",
+          "android-automation",
+          "kotlin",
+          "llm",
+          "mcp",
+          "mcp-server",
+          "no-root"
+        ],
+        "created_at": "2026-11-07T15:51:54Z",
+        "score": 8.83,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "weixijia/mas-office",
+        "title": "weixijia/mas-office",
+        "url": "https://github.com/weixijia/mas-office",
+        "description": "See your multi-agent system work: a framework-agnostic protocol and live, animated office for AI agent teams.",
+        "stars": 56,
+        "language": "JavaScript",
+        "topics": [
+          "agents",
+          "ai-agents",
+          "claude",
+          "langgraph",
+          "llm",
+          "multi-agent-systems",
+          "observability",
+          "openai-agents"
+        ],
+        "created_at": "2026-11-06T18:51:25Z",
+        "score": 7.83,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "MZULALI/xj-scanner",
+        "title": "MZULALI/xj-scanner",
+        "url": "https://github.com/MZULALI/xj-scanner",
+        "description": "Read a 1991-95 Jeep's engine computer from a laptop with a $3 Arduino Nano, and let an AI agent do the reading.",
+        "stars": 104,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-11-10T17:03:05Z",
+        "score": 7.71,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "AIBanlv/AIBanlv-Bot",
+        "title": "AIBanlv/AIBanlv-Bot",
+        "url": "https://github.com/AIBanlv/AIBanlv-Bot",
+        "description": "AIBanlv Bot — An Open-Source AI Agent with a Face.",
+        "stars": 61,
+        "language": "Java",
+        "topics": [
+          "ai-agents",
+          "alive",
+          "alive-ai",
+          "bot",
+          "codex",
+          "companion",
+          "companion-app",
+          "dsh-plugin"
+        ],
+        "created_at": "2026-11-07T05:47:22Z",
+        "score": 6.95,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "permitzip/mutinybim",
+        "title": "permitzip/mutinybim",
+        "url": "https://github.com/permitzip/mutinybim",
+        "description": "Open-source building model engine. One shared kernel, trade add-ons, and a script-first tool server so people and AI agents can edit the same model together.",
+        "stars": 55,
+        "language": "TypeScript",
+        "topics": [
+          "aec",
+          "architecture",
+          "bim",
+          "engineering",
+          "ifc",
+          "mcp",
+          "mep",
+          "typescript"
+        ],
+        "created_at": "2026-11-09T18:33:36Z",
+        "score": 6.81,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "id": "2611.14263v1",
+        "title": "Chain of Physics: Supporting Fault Diagnosis with Engineering-Inspired Large Language Model Reasoning",
+        "url": "https://arxiv.org/abs/2611.14263v1",
+        "authors": [
+          "Wenqi Zhou",
+          "Leonardo Baldo",
+          "Kai Goebel",
+          "Manuel Arias Chao"
+        ],
+        "snippet": "Fault diagnosis in complex systems requires linking observed changes in physical quantities to the failure mechanisms that produce them. Experienced engineers perform this task by combining sensor information with knowledge of system behavior and fault propagation. Large Language Models (LLMs) can support this process, but their diagnostic reasoning depends on the availability of asset-specific en",
+        "categories": [
+          "cs.LG",
+          "eess.SP"
+        ],
+        "published": "2026-11-10T16:09:44+00:00",
+        "score": 5.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2611.14106v1",
+        "title": "ProofCoder: Continuous Reasoning for Automated Software Verification",
+        "url": "https://arxiv.org/abs/2611.14106v1",
+        "authors": [
+          "Martim Afonso",
+          "Inês Lynce",
+          "Maurizio Morisio",
+          "João F. Ferreira"
+        ],
+        "snippet": "Formal verification using proof assistants provides strong correctness guarantees for software, but constructing proofs remains labor-intensive and requires significant expertise. Recent approaches based on large language models (LLMs) have shown promise in automating proof synthesis. However, these approaches typically constrain the model to a rigid tactic-generation loop, in which the surroundin",
+        "categories": [
+          "cs.SE",
+          "cs.AI"
+        ],
+        "published": "2026-11-10T13:59:49+00:00",
+        "score": 5.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2611.14492v1",
+        "title": "ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows",
+        "url": "https://arxiv.org/abs/2611.14492v1",
+        "authors": [
+          "Kaiyuan Hou",
+          "Yang Ping Kuo",
+          "Indranil Bhattacharya",
+          "Rohith Nama",
+          "Arushi Gupta",
+          "Carlos D. Castillo"
+        ],
+        "snippet": "Business process automation runs the same Standard Operating Procedure (SOP) again and again on new inputs. Large Language Model (LLM) agents can follow an SOP written in natural language, but they call an LLM to choose every step of every run, which adds latency and cost at scale. We present ReTrace, which turns an SOP and a few logged agent runs into a reusable workflow in which code, not an LLM",
+        "categories": [
+          "cs.AI",
+          "cs.LG",
+          "cs.MA"
+        ],
+        "published": "2026-11-10T18:49:47+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:agent",
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2611.14419v1",
+        "title": "Evaluating LLM-Generated World Models for Neuro-Symbolic Reasoning",
+        "url": "https://arxiv.org/abs/2611.14419v1",
+        "authors": [
+          "Souhaila Djaffal",
+          "Amna Jamal",
+          "Gagana Madhugiri Devaraja",
+          "Anidipta Pal",
+          "Jobst Heitzig"
+        ],
+        "snippet": "Formal world models can support planning, verification, and safety reasoning, but constructing them from open-ended natural-language situations is difficult, particularly in multi-agent settings where several formalizations may be plausible. We study whether five LLMs can generate such world models as partially observable stochastic games and whether mechanical validity is sufficient to establish ",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-11-10T17:58:12+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:reasoning",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2611.13966v1",
+        "title": "Controlled Knowledge Engineering for Taxonomy Induction with Tool-Grounded LLM Agents and Runtime-Adaptive Policies",
+        "url": "https://arxiv.org/abs/2611.13966v1",
+        "authors": [
+          "Jonas Limniatis",
+          "Bennet Schaarmann",
+          "Georg Reuber",
+          "Robert Stahlbock"
+        ],
+        "snippet": "Taxonomies are structured knowledge representations that support semantic search, recommendation, product catalog organization, and retrieval-augmented generation. Their automated construction from a fixed set of candidate entities requires more than plausible text generation: the resulting hierarchy must be complete, structurally valid, and semantically coherent. Large Language Models (LLMs) are ",
+        "categories": [
+          "cs.IR",
+          "cs.AI"
+        ],
+        "published": "2026-11-10T12:04:54+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:benchmark",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2611.13850v1",
+        "title": "Taxonomy-Agnostic Neurosymbolic Grounding of Robot Kinematics",
+        "url": "https://arxiv.org/abs/2611.13850v1",
+        "authors": [
+          "Bastien Dussard",
+          "Aur{é}lie Clodic",
+          "Guillaume Sarthou"
+        ],
+        "snippet": "While symbolic reasoning for task allocation requires grounding a robot's physical capabilities, standard Unified Robot Description Format (URDF) files provide only low-level kinematics without the formal semantic context needed for reasoning. We present URDF2Ontology, an automated, taxonomy-agnostic neurosymbolic framework that transforms raw URDF files into populated, grounded OWL ontologies. It",
+        "categories": [
+          "cs.AI",
+          "cs.RO"
+        ],
+        "published": "2026-11-10T10:11:30+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:reasoning",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2611.14511v1",
+        "title": "Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents",
+        "url": "https://arxiv.org/abs/2611.14511v1",
+        "authors": [
+          "Megha Srivastava",
+          "Michael H. Lim",
+          "Allison M. Keys",
+          "Pranav Murugan",
+          "Nate Gruver"
+        ],
+        "snippet": "Predicting how a ligand binds to its target is central to small-molecule drug discovery. Modern cofolding models can generate diverse candidate poses, but reliably ranking these candidates remains challenging. We introduce Pyrite, a pairwise pose-ranking benchmark comprising 1,500 pose pairs across diverse protein-ligand complexes. Expert chemists equipped with 3D visualization tools and physics-b",
+        "categories": [
+          "cs.LG",
+          "q-bio.QM"
+        ],
+        "published": "2026-11-10T18:56:32+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:reasoning",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2611.14477v1",
+        "title": "FERN: Cross-Benchmark Table Retrieval for Text-to-SQL with Frozen Retrievers and Learned Ranking",
+        "url": "https://arxiv.org/abs/2611.14477v1",
+        "authors": [
+          "Arjun Rao",
+          "Nishant Gopinath"
+        ],
+        "snippet": "Text-to-SQL systems over large pooled catalogs must first retrieve the tables a question needs. We compare against the published table recall of RASL, which uses Claude 3.5 models to extract keywords and select tables, on pooled BIRD, Spider, and Fiben catalogs. FERN (Feature-Engineered Ranking with No generative LLM) instead fuses three frozen retrievers into 100 candidates, describes each with u",
+        "categories": [
+          "cs.IR",
+          "cs.CL"
+        ],
+        "published": "2026-11-10T18:39:49+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:benchmark",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2611.14356v1",
+        "title": "EngineAgent: Agentizing On-Device LLM Inference Engines with Inference Stack Hierarchy Awareness and Hardware Abilities",
+        "url": "https://arxiv.org/abs/2611.14356v1",
+        "authors": [
+          "Zhengxiang Huang",
+          "Yujie Sun",
+          "Shengheng Chen",
+          "Zhaode Wang",
+          "Chaoyue Niu",
+          "Zeyu Zhao"
+        ],
+        "snippet": "Rapidly evolving LLM architectures and heterogeneous mobile hardware make supporting new models in on-device inference engines a recurring and costly system challenge. Each model may require coordinated changes across conversion, graph construction, operators, and hardware backends. Existing coding agents often miss these cross-layer dependencies and struggle to diagnose failures across host--devi",
+        "categories": [
+          "cs.OS",
+          "cs.AI",
+          "cs.CL",
+          "cs.SE"
+        ],
+        "published": "2026-11-10T17:16:47+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:agentic"
+        ]
+      },
+      {
+        "id": "2611.14323v1",
+        "title": "Auditing the Judge: Internal Signals for LLM Reasoning Assurance",
+        "url": "https://arxiv.org/abs/2611.14323v1",
+        "authors": [
+          "Mayank Gulati",
+          "Gerhard Wunder"
+        ],
+        "snippet": "Language-model systems use self-judgment to decide which answers to release, review, or recompute. Because intervention is costly, an assurance score must rank errors well at the available budget, not merely over the full ranking. We compare the judge's continuous verdict-token score with a supervised correctness probe trained on attention-head activations from the same prompt. Exact identities li",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-11-10T16:48:21+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:reasoning",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2611.14320v1",
+        "title": "Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents",
+        "url": "https://arxiv.org/abs/2611.14320v1",
+        "authors": [
+          "Yukyeong Lee",
+          "Yumin Choi",
+          "Jinheon Baek",
+          "Sung Ju Hwang"
+        ],
+        "snippet": "External memory enables LLM agents to improve from experience by distilling trajectories of past tasks into concise lessons for new tasks. However, memory can also lead to memory-induced degradation, where an agent fails on tasks it would solve without memory, often because it follows a lesson that is incorrect, or misapplies or misreads a valid one. This is because lessons are inferred from traje",
+        "categories": [
+          "cs.AI",
+          "cs.MA"
+        ],
+        "published": "2026-11-10T16:46:59+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:agentic"
+        ]
+      },
+      {
+        "id": "2611.14309v1",
+        "title": "MMDM: Measuring Massive Multitask Decision Making",
+        "url": "https://arxiv.org/abs/2611.14309v1",
+        "authors": [
+          "Junhao Shen",
+          "Qing Zong",
+          "Yue Guo",
+          "Zhanqiu Zhang",
+          "Yiwen Guo",
+          "Hong Cheng"
+        ],
+        "snippet": "System-1 Decision Models directly make structured probabilistic decisions over query-specified options given a state in a single forward pass, without autoregressively generating reasoning trajectories or textual responses. Recent evaluations cover diverse tasks but often rely on existing benchmarks, where prior exposure to test material can obscure generalization. Moreover, real-world decision ma",
+        "categories": [
+          "cs.LG",
+          "cs.CL"
+        ],
+        "published": "2026-11-10T16:40:50+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:reasoning",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2611.14285v1",
+        "title": "LM-SimBench: A Unified Framework, Dataset, and Benchmark for Large Language Model Training Simulation",
+        "url": "https://arxiv.org/abs/2611.14285v1",
+        "authors": [
+          "Yu Dong",
+          "Hong Li",
+          "Qiang Sun",
+          "Xu Zhou",
+          "Jinbiao Huo",
+          "Qixiu Cheng"
+        ],
+        "snippet": "Evaluating candidate parallelization strategies through distributed training runs makes strategy selection prohibitively expensive at scale. Performance simulation offers a lower cost alternative, yet controlled comparisons among existing simulators remain difficult because they differ in the training stages they model and the workloads on which they are evaluated. We introduce LM-SimBench, a unif",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-11-10T16:26:19+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2611.14256v1",
+        "title": "A Cross-Scenario Survey and Analysis of Self-Evolving Multimodal Agents",
+        "url": "https://arxiv.org/abs/2611.14256v1",
+        "authors": [
+          "Jingjing Jiang"
+        ],
+        "snippet": "Recent work shows that multimodal agents increasingly self-improve without recurring human annotation. However, each self-improvement mechanism is designed and evaluated within a single scenario, leaving its preconditions unverified under cross-scenario transfer. This survey investigates the structural source of asymmetric mechanism transfer across four scenarios: multimodal reasoning, multimodal ",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-11-10T16:04:02+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:reasoning",
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2611.14244v1",
+        "title": "An AI Assistant for Automating Anti-Corruption Expertise of Draft Legislation Based on the TRACE Framework",
+        "url": "https://arxiv.org/abs/2611.14244v1",
+        "authors": [
+          "Serhii Zabolotnii",
+          "Alina Tarasova"
+        ],
+        "snippet": "We present an AI assistant for automating anti-corruption expertise of draft legislation based on the TRACE architecture, designed to screen bills for corruption risks: pinpoint provisions an expert would criticise and name the regulatory defect in each. The pipeline combines a deterministic parsing core, model-guided single-provision qualification, rule-based factor assignment, and external human",
+        "categories": [
+          "cs.CL",
+          "cs.AI"
+        ],
+        "published": "2026-11-10T15:56:01+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:benchmark",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2611.14210v1",
+        "title": "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits",
+        "url": "https://arxiv.org/abs/2611.14210v1",
+        "authors": [
+          "Hadi Salloum",
+          "Ammar Ali"
+        ],
+        "snippet": "Weight-space programming, introduced in recent MIT work by Takehi et al., enables a frontier LLM agent to read a network's weights and write a repair. Their GPT-6 Astra agent corrected the reasoning loops of Qwen3.5-0.8B without gradients, using 158 agent turns, 89.7 million tokens, and 50 forward-pass requests. Our method, Tree-Ising, casts this repair as a sparse discrete optimization problem ov",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-11-10T15:32:04+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2611.14209v1",
+        "title": "Breakdown of Autoregressive Multi-Step Reasoning Under Concentrated vs. Diffuse Attention Head Dropout",
+        "url": "https://arxiv.org/abs/2611.14209v1",
+        "authors": [
+          "Karol Struniawski"
+        ],
+        "snippet": "During extended wakefulness, mammalian neocortical networks experience localized periods of transient neuronal silence termed off-states. Here, we examine how analogous spatiotemporally concentrated disruptions affect sequential reasoning in autoregressive Large Language Models (LLMs). Evaluating 250 paired derivations on the GSM8K benchmark across two 8B models (Qwen3-8B and LLaMA-3.1-8B-Instruct",
+        "categories": [
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-11-10T15:29:57+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:transformer"
+        ]
+      },
+      {
+        "id": "2611.14122v1",
+        "title": "Hx2Dx: From Anamnesis to Diagnosis - A Multimodal Arena for Conversational Clinical Reasoning in LLMs",
+        "url": "https://arxiv.org/abs/2611.14122v1",
+        "authors": [
+          "Federico Ravenda",
+          "Mirko Cesarini",
+          "Daniele Montagnani",
+          "Volodymyr Karpenko",
+          "Antonietta Mira",
+          "Andrea Raballo"
+        ],
+        "snippet": "Large language models (LLMs) achieve expert-level diagnostic accuracy in static evaluations, where the model receives a curated vignette or case report that already condenses the diagnostically relevant findings. Such evaluations measure inference over already selected evidence; the evaluations do not account for the inquiry used to obtain it. In clinical practice, however, diagnosis is an iterati",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-11-10T14:09:33+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2611.14059v1",
+        "title": "HandsOnAid: Building and Evaluating an Offline First-Aid Assistant for Emergency Response Scenarios",
+        "url": "https://arxiv.org/abs/2611.14059v1",
+        "authors": [
+          "Rezwan Islam Salvi",
+          "Saiyma Sittul Muna",
+          "Mushfiqur Rahman Mushfique"
+        ],
+        "snippet": "Emergencies can occur where there is no phone signal and no ambulance nearby. A small language model on a phone can be helpful in such situations, but its advice needs to be safe and accurate. We built HandsOnAid, a 4-bit Gemma 2B model fine-tuned with QLoRA on FirstAidQA dataset, a corpus of 5,550 first-aid question-answer pairs. We compared seven configurations, including the base, 4-bit and 8-b",
+        "categories": [
+          "cs.CL",
+          "cs.AI",
+          "cs.LG"
+        ],
+        "published": "2026-11-10T13:25:28+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:fine-tuning",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2611.13946v1",
+        "title": "TreeAgent: Structure-Aware Memory Agent for Processing Long Hierarchical Data",
+        "url": "https://arxiv.org/abs/2611.13946v1",
+        "authors": [
+          "Wei Gu",
+          "Weiwei Qi",
+          "Jiajun Tang",
+          "Tianhang Zheng",
+          "Bo Chen",
+          "Zhibo Zhang"
+        ],
+        "snippet": "Practical Web applications increasingly require agents to interpret long conversations or documents. For inputs exceeding the context windows of large language models (LLMs), memory agents process segments sequentially and retain past information in bounded memory. However, they typically divide inputs into flat token segments without preserving structure or hierarchy, causing three limitations fo",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-11-10T11:33:05+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:reasoning",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2611.13831v1",
+        "title": "Ceci n'est pas une pipe -- Toward a Symbolic Solver for the Abstraction and Reasoning Corpus Using Evolutionary Computation",
+        "url": "https://arxiv.org/abs/2611.13831v1",
+        "authors": [
+          "Luca Favole",
+          "Giorgio Mongardi",
+          "Giovanni Squillero",
+          "Alberto Tonda"
+        ],
+        "snippet": "The Abstraction and Reasoning Corpus (ARC) is a benchmark designed to assess the capability of Artificial Intelligence (AI) systems to generalize starting from a few samples, a task humans excel at. The ARC-AGI contests held since 2020 have been the focus of intense competition, with participants proposing approaches ranging from traditional symbolic AI to Transformer architectures. Despite a long",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-11-10T09:57:01+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:transformer"
+        ]
+      },
+      {
+        "id": "2611.13776v1",
+        "title": "DisasterAgent: An Evidence-Driven Agent for Verifiable Disaster Report Generation From Remote Sensing Imagery",
+        "url": "https://arxiv.org/abs/2611.13776v1",
+        "authors": [
+          "Zhijian Li",
+          "Jiawei Song",
+          "Chao Ren",
+          "Yidan Zhang",
+          "Peijin Wang",
+          "Xian Sun"
+        ],
+        "snippet": "Remote sensing disaster assessment is moving from simple damage classification toward comprehensive report-level analysis. In this setting, responders need not only damage descriptions but also verifiable evidence to guide response and recovery. Recent vision-language models (VLMs) and tool-augmented agents offer strong multimodal reasoning and perception, but they struggle to provide the evidence",
+        "categories": [
+          "cs.CV",
+          "cs.AI"
+        ],
+        "published": "2026-11-10T09:15:06+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:reasoning",
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2611.13710v1",
+        "title": "AutoManifold: Agentic Design of Data Visualisation Algorithms via Manifold Embedding",
+        "url": "https://arxiv.org/abs/2611.13710v1",
+        "authors": [
+          "Burak Susam",
+          "Ruiyuan Kang",
+          "Tingting Mu"
+        ],
+        "snippet": "Manifold embedding for data visualisation is dominated by a small set of hand-designed state-of-the-art (SOTA) algorithms. Their design targets are fixed at development time, resulting in inflexible algorithmic behaviour that cannot be readily steered towards user-specified structural priorities. Hand-designing new embedding algorithms to address user priority requires highly specialised expertise",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-11-10T08:03:15+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:agentic"
+        ]
+      },
+      {
+        "id": "2611.13696v1",
+        "title": "On Private Knowledge Retrieval and Private Inference for secure multi-agent systems",
+        "url": "https://arxiv.org/abs/2611.13696v1",
+        "authors": [
+          "Vicenç Torra",
+          "Maria Bras-Amorós"
+        ],
+        "snippet": "Multi-agent systems provide a convenient framework for the massive deployment of agents based on Large Language Models (LLMs). It provides a sound framework where agents can interact with existing software to perform actions in an autonomous way. Agentic AI is the new term to denote these AI-based autonomous systems. In real multi-agent systems, agents need to deal with malicious agents some of wh",
+        "categories": [
+          "cs.CR",
+          "cs.AI"
+        ],
+        "published": "2026-11-10T07:43:02+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2611.14519v1",
+        "title": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
+        "url": "https://arxiv.org/abs/2611.14519v1",
+        "authors": [
+          "Emre Kutlusan",
+          "Yongmin Li"
+        ],
+        "snippet": "Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most comparisons, however, use data from the training distribution and a single task-specific baseline whose configuration is rarely justified, and therefore provide limited evidence of performance at new cl",
+        "categories": [
+          "cs.CV",
+          "cs.AI"
+        ],
+        "published": "2026-11-10T18:59:54+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:benchmark",
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2611.14515v1",
+        "title": "AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
+        "url": "https://arxiv.org/abs/2611.14515v1",
+        "authors": [
+          "Zijian Zhang",
+          "Rizhen Hu",
+          "Jiangweizhi Peng",
+          "Shiyang Li",
+          "Sujay Bhatt",
+          "Sihan Zeng"
+        ],
+        "snippet": "Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-time scaffolds, such as strategies or hints added to the prompt during training, offer a natural way to turn this information into guidance, but their design and adaptation are largely left to humans ",
+        "categories": [
+          "cs.LG",
+          "cs.CL"
+        ],
+        "published": "2026-11-10T18:58:46+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2611.14514v1",
+        "title": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
+        "url": "https://arxiv.org/abs/2611.14514v1",
+        "authors": [
+          "Ziang Liu",
+          "James J. Kim",
+          "Yijia Dai",
+          "Jennifer J. Sun"
+        ],
+        "snippet": "LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\\neg h$. When evidence rejects $h$, the agent learns that one explanation is unlikely but not which alternative the evidence supports. To recover that alternative, we introduce Contrastive Discovery, which rep",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "cs.LG"
+        ],
+        "published": "2026-11-10T18:58:43+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "2611.14493v1",
+        "title": "Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents",
+        "url": "https://arxiv.org/abs/2611.14493v1",
+        "authors": [
+          "Howard Zhang",
+          "Chuck Arvin",
+          "Logan Brown",
+          "Mihir Bhatia",
+          "Neelu Choudhary",
+          "Lily Miao"
+        ],
+        "snippet": "Deploying LLM-based analytics agents in enterprise settings requires evaluation frameworks that can reliably detect failures across complex, multi-tool workflows. We present a three-phase comparative study of three evaluation frameworks, each representing a distinct evaluation paradigm (trace-based LLM judging, text-only LLM judging with red-teaming, and deterministic heuristics), applied to two a",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "cs.LG",
+          "cs.SE"
+        ],
+        "published": "2026-11-10T18:50:06+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "2611.14480v1",
+        "title": "Pterodactyl: Pushing the Limits of Efficient Automated Translation Evaluation",
+        "url": "https://arxiv.org/abs/2611.14480v1",
+        "authors": [
+          "Evelyn Y. Garland",
+          "Carola F. Berger"
+        ],
+        "snippet": "In this paper, we present 1020 Group's submission to the WMT26 shared task on automated quality evaluation. Our system, Pterodactyl, was engineered specifically for subtasks 2 and 3, that is, segment-level quality score prediction and the detection of error-free segments. Pterodactyl is a highly customizable, ultra-low cost system optimized for binary classification in translation triage and data ",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-11-10T18:41:37+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2611.14364v1",
+        "title": "ARE-bench: Benchmarking Agents' Research Ability in Real-World Researcher Sessions and Workspaces",
+        "url": "https://arxiv.org/abs/2611.14364v1",
+        "authors": [
+          "Jiahang Lin",
+          "Wanying Ren",
+          "Wanghan Xu",
+          "Huayu Sha",
+          "Yang Shu",
+          "Zhonghang Lu"
+        ],
+        "snippet": "Research agents achieve increasingly strong benchmark scores, yet these scores do not necessarily translate into reliable delivery in ongoing research projects. Many research-agent benchmarks emphasize standalone tasks and relatively self-contained workflows in clean or curated workspaces. However, researchers ask agents to complete one step within an ongoing project, where requests depend on earl",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-11-10T17:21:31+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:benchmark"
+        ]
+      }
+    ]
+  }
+}
