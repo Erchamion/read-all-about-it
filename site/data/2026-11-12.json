@@ -1,0 +1,206 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T20:37:34+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/index/amplitude",
+        "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+        "url": "https://openai.com/index/amplitude",
+        "source": "openai",
+        "published": "2026-11-12T20:00:00+00:00",
+        "snippet": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/business/customer-stories/holidays-extras-codex",
+        "title": "Holiday Extras is rethinking what it can build with Codex",
+        "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+        "source": "openai",
+        "published": "2026-11-12T09:30:00+00:00",
+        "snippet": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/children-first-declaration",
+        "title": "Supporting research on AI and children’s safety",
+        "url": "https://openai.com/index/children-first-declaration",
+        "source": "openai",
+        "published": "2026-11-12T00:00:00+00:00",
+        "snippet": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+        "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+        "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+        "source": "google-ai",
+        "published": "2026-11-12T18:00:00+00:00",
+        "snippet": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+        "title": "Introducing Gemini 4 Hydrogen",
+        "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+        "source": "deepmind",
+        "published": "2026-11-12T18:00:50+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://news.microsoft.com/source/features/ai/how-a-new-ai-model-could-help-crushed-rock-fight-climate-change/",
+        "title": "How a new AI model could help crushed rock fight climate change",
+        "url": "https://news.microsoft.com/source/features/ai/how-a-new-ai-model-could-help-crushed-rock-fight-climate-change/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://commandline.microsoft.com/from-custom-infrastructure-to-hosted-agents/",
+        "title": "What it takes to bring an AI research assistant to thousands of medical experts",
+        "url": "https://commandline.microsoft.com/from-custom-infrastructure-to-hosted-agents/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://machinelearning.apple.com/research/theoretical-limits-alignment",
+        "title": "Theoretical Limits of Language Model Alignment",
+        "url": "https://machinelearning.apple.com/research/theoretical-limits-alignment",
+        "source": "apple-ml",
+        "published": "2026-11-12T00:00:00+00:00",
+        "snippet": "Language model (LM) alignment improves model outputs to reflect human preferences while preserving the capabilities of the base model. The most common alignment approaches are (i) reinforcement learning, which maximizes the expected reward under a KL-divergence constraint, and (ii) best-of-NNN align",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+        "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+        "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+        "source": "huggingface",
+        "published": "2026-11-12T19:07:35+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/3d-lora-finetuning",
+        "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+        "url": "https://huggingface.co/blog/3d-lora-finetuning",
+        "source": "huggingface",
+        "published": "2026-11-12T00:00:00+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      }
+    ],
+    "github": [
+      {
+        "id": "agentes-chat/agentes-chat",
+        "title": "agentes-chat/agentes-chat",
+        "url": "https://github.com/agentes-chat/agentes-chat",
+        "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGP",
+        "stars": 1083,
+        "language": "TypeScript",
+        "topics": [
+          "agentic-ai",
+          "ai-agents",
+          "browser-automation",
+          "chat",
+          "claude",
+          "claude-code",
+          "codex",
+          "collaboration"
+        ],
+        "created_at": "2026-11-09T00:50:28Z",
+        "score": 13.08,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "shany9200/Three",
+        "title": "shany9200/Three",
+        "url": "https://github.com/shany9200/Three",
+        "description": "A self-extending AI agent that runs anywhere Termux runs. Writes its own capabilities, remembers across sessions.",
+        "stars": 93,
+        "language": "Python",
+        "topics": [
+          "ai-agent",
+          "android",
+          "autonomous-agent",
+          "llm",
+          "python",
+          "self-modifying",
+          "termux"
+        ],
+        "created_at": "2026-11-06T01:07:08Z",
+        "score": 9.55,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:autonomous"
+        ]
+      },
+      {
+        "id": "Aquariuswonder/rpocket-OptionsCommander",
+        "title": "Aquariuswonder/rpocket-OptionsCommander",
+        "url": "https://github.com/Aquariuswonder/rpocket-OptionsCommander",
+        "description": "Multi-agent trading platform on an Alpaca paper account: a CLI places orders on request; scheduled routines manage trailing stops, alerts and daily records. Agents on Microsoft Agent Framework. Research uses walk-forward, out-of-sample and multiple-testing checks; no tested signal (MACD+RSI, TSMOM, ",
+        "stars": 49,
+        "language": "HTML",
+        "topics": [
+          "agentedge",
+          "alpaca",
+          "autotrader",
+          "fastapi",
+          "fastify",
+          "human-in-the-loop",
+          "local-first",
+          "microsoft-agent-framework"
+        ],
+        "created_at": "2026-11-12T16:58:58Z",
+        "score": 6.64,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "thuann-vn/claude-3d-animated-shorts",
+        "title": "thuann-vn/claude-3d-animated-shorts",
+        "url": "https://github.com/thuann-vn/claude-3d-animated-shorts",
+        "description": "Claude skill: vertical 3D animated story Shorts (three.js) in the RicksClips style — real 3D characters, office/home sets, no AI video",
+        "stars": 17,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-11-10T09:30:42Z",
+        "score": 5.17,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
