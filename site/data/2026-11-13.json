@@ -1,0 +1,1778 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T20:16:37+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/index/introducing-chatgpt-wallet",
+        "title": "Introducing ChatGPT Wallet",
+        "url": "https://openai.com/index/introducing-chatgpt-wallet",
+        "source": "openai",
+        "published": "2026-11-13T15:00:00+00:00",
+        "snippet": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/business/customer-stories/amplitude",
+        "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+        "url": "https://openai.com/business/customer-stories/amplitude",
+        "source": "openai",
+        "published": "2026-11-12T20:00:00+00:00",
+        "snippet": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/business/customer-stories/gondola",
+        "title": "Gondola doubles revenue as its team builds more with Codex",
+        "url": "https://openai.com/business/customer-stories/gondola",
+        "source": "openai",
+        "published": "2026-11-12T12:00:00+00:00",
+        "snippet": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/",
+        "title": "Nearly 500 AI projects, over 200 customers: Lessons on making AI work for business",
+        "url": "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+        "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+        "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+        "source": "huggingface",
+        "published": "2026-11-13T18:00:39+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/allenai/xybench",
+        "title": "XYBench: Helping with the problem behind the question",
+        "url": "https://huggingface.co/blog/allenai/xybench",
+        "source": "huggingface",
+        "published": "2026-11-13T17:02:35+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+        "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+        "source": "huggingface",
+        "published": "2026-11-13T14:05:22+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      }
+    ],
+    "github": [
+      {
+        "id": "oss-invisible/playwright_mcp",
+        "title": "oss-invisible/playwright_mcp",
+        "url": "https://github.com/oss-invisible/playwright_mcp",
+        "description": "invisible playwright mcp: Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use.",
+        "stars": 864,
+        "language": "Python",
+        "topics": [
+          "ai-tools",
+          "antidetect-browser",
+          "autonomous-agents",
+          "browser-agent",
+          "browser-automation",
+          "claude-code-plugin",
+          "computer-use",
+          "gemini-cli"
+        ],
+        "created_at": "2026-09-29T23:06:00Z",
+        "score": 13.76,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp",
+          "keyword:autonomous"
+        ]
+      },
+      {
+        "id": "hitkeeen/blender-ai-mcp-addon",
+        "title": "hitkeeen/blender-ai-mcp-addon",
+        "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
+        "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+        "stars": 139,
+        "language": null,
+        "topics": [
+          "ai-agents",
+          "ai-assistant",
+          "blender",
+          "blender-addon",
+          "blender-ai",
+          "blender-automation",
+          "blender-mcp",
+          "blender-plugin"
+        ],
+        "created_at": "2026-11-12T14:32:15Z",
+        "score": 12.13,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp",
+          "keyword:copilot",
+          "keyword:assistant"
+        ]
+      },
+      {
+        "id": "precygtrucqui1981/blender-ai-copilot-lab",
+        "title": "precygtrucqui1981/blender-ai-copilot-lab",
+        "url": "https://github.com/precygtrucqui1981/blender-ai-copilot-lab",
+        "description": "An AI lab for Blender where manager–worker–reviewer agent teams run multi-step scene briefs as supervised experiments—a live task board, review findings, one correction attempt per blocked task, named undo, and a built-in MCP server. · blender-ai-copilot-lab · blender · blender 3d · blender addon · ",
+        "stars": 136,
+        "language": null,
+        "topics": [
+          "3d-automation",
+          "3d-modeling",
+          "blender",
+          "blender-addon",
+          "blender-agents",
+          "blender-ai",
+          "blender-assistant",
+          "blender-automation"
+        ],
+        "created_at": "2026-11-12T19:33:16Z",
+        "score": 12.1,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp",
+          "keyword:copilot",
+          "keyword:assistant"
+        ]
+      },
+      {
+        "id": "credoksopho1984/blender-ai-copilot-studio",
+        "title": "credoksopho1984/blender-ai-copilot-studio",
+        "url": "https://github.com/credoksopho1984/blender-ai-copilot-studio",
+        "description": "An AI copilot and MCP server for Blender that turns plain-language briefs into scene operations—inside a visual chat studio with multi-agent teams, your choice of AI models, and 27 built-in scene tools. · blender-ai-copilot-studio · blender ai · ai for blender · blender copilot · blender ai copilot ",
+        "stars": 135,
+        "language": null,
+        "topics": [
+          "3d-automation",
+          "3d-modeling",
+          "blender",
+          "blender-addon",
+          "blender-agents",
+          "blender-ai",
+          "blender-assistant",
+          "blender-automation"
+        ],
+        "created_at": "2026-11-12T19:30:32Z",
+        "score": 12.09,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp",
+          "keyword:copilot",
+          "keyword:assistant"
+        ]
+      },
+      {
+        "id": "tiobeharxi1987/blender-ai-copilot-flow",
+        "title": "tiobeharxi1987/blender-ai-copilot-flow",
+        "url": "https://github.com/tiobeharxi1987/blender-ai-copilot-flow",
+        "description": "A controlled AI workflow for Blender: every copilot edit is a supervised tool call—proposed, approved, executed in sequence, cancellable after the current step and undoable by name—inside a visual studio with a built-in MCP server. · blender-ai-copilot-flow · blender · blender 3d · blender addon · b",
+        "stars": 135,
+        "language": null,
+        "topics": [
+          "3d-automation",
+          "3d-modeling",
+          "blender",
+          "blender-addon",
+          "blender-agents",
+          "blender-ai",
+          "blender-assistant",
+          "blender-automation"
+        ],
+        "created_at": "2026-11-12T19:38:53Z",
+        "score": 12.09,
+        "signals": [
+          "new",
+          "keyword:llm",
+          "keyword:mcp",
+          "keyword:workflow",
+          "keyword:copilot",
+          "keyword:assistant"
+        ]
+      },
+      {
+        "id": "findavoulot1973/Blender-AI-MCP-Suite",
+        "title": "findavoulot1973/Blender-AI-MCP-Suite",
+        "url": "https://github.com/findavoulot1973/Blender-AI-MCP-Suite",
+        "description": "Blender AI MCP Suite is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — with a visual Studio workspace, multi-agent teams, 21+ scene tools and your choice of AI models. · blender",
+        "stars": 134,
+        "language": null,
+        "topics": [
+          "3d-automation",
+          "3d-modeling",
+          "blender",
+          "blender-addon",
+          "blender-agents",
+          "blender-ai",
+          "blender-assistant",
+          "blender-automation"
+        ],
+        "created_at": "2026-11-12T19:26:22Z",
+        "score": 12.08,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp",
+          "keyword:copilot",
+          "keyword:assistant"
+        ]
+      },
+      {
+        "id": "racdeufindurch198812/Blender-AI-MCP-Studio",
+        "title": "racdeufindurch198812/Blender-AI-MCP-Studio",
+        "url": "https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio",
+        "description": "Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — with a visual chat workspace, multi-agent teams and your choice of AI models. · blender ai mcp studio · m",
+        "stars": 134,
+        "language": null,
+        "topics": [
+          "3d-automation",
+          "3d-modeling",
+          "blender",
+          "blender-addon",
+          "blender-agents",
+          "blender-ai",
+          "blender-assistant",
+          "blender-automation"
+        ],
+        "created_at": "2026-11-12T19:28:20Z",
+        "score": 12.08,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp",
+          "keyword:copilot",
+          "keyword:assistant"
+        ]
+      },
+      {
+        "id": "baiblinocun1986/blender-ai-copilot-hub",
+        "title": "baiblinocun1986/blender-ai-copilot-hub",
+        "url": "https://github.com/baiblinocun1986/blender-ai-copilot-hub",
+        "description": "A multi-provider AI copilot hub for Blender—bring OpenAI, Anthropic Claude, Google Gemini, OpenRouter, OpenCode Zen, Ollama and custom endpoints into one hub of saved connections, with 27 supervised scene tools and a built-in MCP server. · blender-ai-copilot-hub · blender · blender 3d · blender addo",
+        "stars": 135,
+        "language": null,
+        "topics": [
+          "3d-automation",
+          "3d-modeling",
+          "blender",
+          "blender-addon",
+          "blender-agents",
+          "blender-ai",
+          "blender-assistant",
+          "blender-automation"
+        ],
+        "created_at": "2026-11-12T19:32:22Z",
+        "score": 11.09,
+        "signals": [
+          "new",
+          "keyword:llm",
+          "keyword:mcp",
+          "keyword:copilot",
+          "keyword:assistant"
+        ]
+      },
+      {
+        "id": "fumbdendade19718/blender-ai-copilot-desk",
+        "title": "fumbdendade19718/blender-ai-copilot-desk",
+        "url": "https://github.com/fumbdendade19718/blender-ai-copilot-desk",
+        "description": "A visual AI desk for Blender—chat, scene objects, viewport snapshots, approvals and a live task board in one companion window, backed by your choice of models and a built-in MCP server. · blender-ai-copilot-desk · blender · blender 3d · blender addon · blender plugin · blender extension · blender sc",
+        "stars": 133,
+        "language": null,
+        "topics": [
+          "3d-automation",
+          "3d-modeling",
+          "blender",
+          "blender-addon",
+          "blender-agents",
+          "blender-ai",
+          "blender-assistant",
+          "blender-automation"
+        ],
+        "created_at": "2026-11-12T19:37:25Z",
+        "score": 11.07,
+        "signals": [
+          "new",
+          "keyword:llm",
+          "keyword:mcp",
+          "keyword:copilot",
+          "keyword:assistant"
+        ]
+      },
+      {
+        "id": "Doug-218/blender-ai-copilot-forge",
+        "title": "Doug-218/blender-ai-copilot-forge",
+        "url": "https://github.com/Doug-218/blender-ai-copilot-forge",
+        "description": "A scene-forging AI copilot for Blender—describe the layout and watch primitives, cameras, lights, materials and parenting assemble in ordered steps, with approvals, named undo and a built-in MCP server. · blender-ai-copilot-forge · blender · blender 3d · blender addon · blender plugin · blender exte",
+        "stars": 130,
+        "language": null,
+        "topics": [
+          "3d-automation",
+          "3d-modeling",
+          "blender",
+          "blender-addon",
+          "blender-agents",
+          "blender-ai",
+          "blender-assistant",
+          "blender-automation"
+        ],
+        "created_at": "2026-11-12T19:35:10Z",
+        "score": 11.03,
+        "signals": [
+          "new",
+          "keyword:llm",
+          "keyword:mcp",
+          "keyword:copilot",
+          "keyword:assistant"
+        ]
+      },
+      {
+        "id": "zovulrira1974/blender-ai-copilot-assets",
+        "title": "zovulrira1974/blender-ai-copilot-assets",
+        "url": "https://github.com/zovulrira1974/blender-ai-copilot-assets",
+        "description": "An asset-savvy AI copilot for Blender—search Poly Haven, Sketchfab and Poly Pizza mid-conversation, check what fits, import after your confirmation, with 27 scene tools and a built-in MCP server alongside. · blender-ai-copilot-assets · blender · blender 3d · blender addon · blender plugin · blender ",
+        "stars": 128,
+        "language": null,
+        "topics": [
+          "3d-automation",
+          "3d-modeling",
+          "blender",
+          "blender-addon",
+          "blender-agents",
+          "blender-ai",
+          "blender-assistant",
+          "blender-automation"
+        ],
+        "created_at": "2026-11-12T19:39:54Z",
+        "score": 11.01,
+        "signals": [
+          "new",
+          "keyword:llm",
+          "keyword:mcp",
+          "keyword:copilot",
+          "keyword:assistant"
+        ]
+      },
+      {
+        "id": "jackson-cmd/risk-aware-trading-agents",
+        "title": "jackson-cmd/risk-aware-trading-agents",
+        "url": "https://github.com/jackson-cmd/risk-aware-trading-agents",
+        "description": "AI trading agents for US stocks with news backtesting that can't see the future: a point-in-time 2026 dataset (prices, VIX, news), a look-ahead check on every run, LLM agents over MCP, FOMC/CPI/VIX-aware regimes, and paper/live trading on 10 brokers. 风险感知美股交易智能体 · 新闻回测",
+        "stars": 108,
+        "language": "Python",
+        "topics": [
+          "ai-trading",
+          "algorithmic-trading",
+          "alpaca",
+          "backtesting",
+          "financial-news",
+          "interactive-brokers",
+          "llm",
+          "llm-agents"
+        ],
+        "created_at": "2026-11-12T02:29:31Z",
+        "score": 9.77,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "XTwiNSaraX/manus--ai",
+        "title": "XTwiNSaraX/manus--ai",
+        "url": "https://github.com/XTwiNSaraX/manus--ai",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+        "stars": 146,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:45:22Z",
+        "score": 9.2,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "melchersimon011-bot/ai--manus",
+        "title": "melchersimon011-bot/ai--manus",
+        "url": "https://github.com/melchersimon011-bot/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 146,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:46:20Z",
+        "score": 9.2,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "stancaedy10-glitch/manus--ai",
+        "title": "stancaedy10-glitch/manus--ai",
+        "url": "https://github.com/stancaedy10-glitch/manus--ai",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+        "stars": 146,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:47:22Z",
+        "score": 9.2,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "stancaedy10-glitch/ai--manus",
+        "title": "stancaedy10-glitch/ai--manus",
+        "url": "https://github.com/stancaedy10-glitch/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 146,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:47:05Z",
+        "score": 9.2,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "alphafalcongamer-creator/ai--manus",
+        "title": "alphafalcongamer-creator/ai--manus",
+        "url": "https://github.com/alphafalcongamer-creator/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 146,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:46:57Z",
+        "score": 9.2,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "Obasideyvid/manus--ai",
+        "title": "Obasideyvid/manus--ai",
+        "url": "https://github.com/Obasideyvid/manus--ai",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+        "stars": 146,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:44:24Z",
+        "score": 9.2,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "Axillios1/manus--ai",
+        "title": "Axillios1/manus--ai",
+        "url": "https://github.com/Axillios1/manus--ai",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+        "stars": 146,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:44:23Z",
+        "score": 9.2,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "lebronstx-collab/ai--manus",
+        "title": "lebronstx-collab/ai--manus",
+        "url": "https://github.com/lebronstx-collab/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 146,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:47:30Z",
+        "score": 9.2,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "lebronstx-collab/manus--ai",
+        "title": "lebronstx-collab/manus--ai",
+        "url": "https://github.com/lebronstx-collab/manus--ai",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+        "stars": 146,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:47:47Z",
+        "score": 9.2,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "ITprogamatikDedSec/ai--manus",
+        "title": "ITprogamatikDedSec/ai--manus",
+        "url": "https://github.com/ITprogamatikDedSec/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 146,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:50:37Z",
+        "score": 9.2,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "python001-dev/manus--ai",
+        "title": "python001-dev/manus--ai",
+        "url": "https://github.com/python001-dev/manus--ai",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+        "stars": 146,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:47:22Z",
+        "score": 9.2,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "mtn-imran-khan/manus--ai",
+        "title": "mtn-imran-khan/manus--ai",
+        "url": "https://github.com/mtn-imran-khan/manus--ai",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+        "stars": 146,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:47:55Z",
+        "score": 9.2,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "rambotronado112-sudo/manus--ai",
+        "title": "rambotronado112-sudo/manus--ai",
+        "url": "https://github.com/rambotronado112-sudo/manus--ai",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+        "stars": 146,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:47:12Z",
+        "score": 9.2,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "jose-perez-thecloudgroup/ai--manus",
+        "title": "jose-perez-thecloudgroup/ai--manus",
+        "url": "https://github.com/jose-perez-thecloudgroup/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 146,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:46:06Z",
+        "score": 9.2,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "arberpilafi8-blip/ai--manus",
+        "title": "arberpilafi8-blip/ai--manus",
+        "url": "https://github.com/arberpilafi8-blip/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 146,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:47:35Z",
+        "score": 9.2,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "qweqeqeqweqeqwe/manus--ai",
+        "title": "qweqeqeqweqeqwe/manus--ai",
+        "url": "https://github.com/qweqeqeqweqeqwe/manus--ai",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+        "stars": 146,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:48:33Z",
+        "score": 9.2,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "kazim768/manus--ai",
+        "title": "kazim768/manus--ai",
+        "url": "https://github.com/kazim768/manus--ai",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+        "stars": 146,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:45:07Z",
+        "score": 9.2,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "xombiensar/manus--ai",
+        "title": "xombiensar/manus--ai",
+        "url": "https://github.com/xombiensar/manus--ai",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+        "stars": 146,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:44:24Z",
+        "score": 9.2,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "arberpilafi8-blip/manus--ai",
+        "title": "arberpilafi8-blip/manus--ai",
+        "url": "https://github.com/arberpilafi8-blip/manus--ai",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+        "stars": 146,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:47:53Z",
+        "score": 9.2,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "PrathmeshYa/ai--manus",
+        "title": "PrathmeshYa/ai--manus",
+        "url": "https://github.com/PrathmeshYa/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 146,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:50:38Z",
+        "score": 9.2,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "WLfear/ai--manus",
+        "title": "WLfear/ai--manus",
+        "url": "https://github.com/WLfear/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 146,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:45:32Z",
+        "score": 9.2,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "nachalnikokk/manus--ai",
+        "title": "nachalnikokk/manus--ai",
+        "url": "https://github.com/nachalnikokk/manus--ai",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+        "stars": 146,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:47:09Z",
+        "score": 9.2,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "tonikriegers14-hue/manus--ai",
+        "title": "tonikriegers14-hue/manus--ai",
+        "url": "https://github.com/tonikriegers14-hue/manus--ai",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+        "stars": 146,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:47:56Z",
+        "score": 9.2,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "WLfear/manus--ai",
+        "title": "WLfear/manus--ai",
+        "url": "https://github.com/WLfear/manus--ai",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+        "stars": 146,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:45:53Z",
+        "score": 9.2,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "pqthangv/AutoInternshipClaude",
+        "title": "pqthangv/AutoInternshipClaude",
+        "url": "https://github.com/pqthangv/AutoInternshipClaude",
+        "description": "Claude skills that find internships, tailor your resume, fill applications and track them",
+        "stars": 202,
+        "language": "Python",
+        "topics": [
+          "automation",
+          "chrome-extension",
+          "claude",
+          "claude-skills",
+          "internships",
+          "job-search",
+          "resume"
+        ],
+        "created_at": "2026-10-30T08:35:21Z",
+        "score": 7.67,
+        "signals": [
+          "rising"
+        ]
+      },
+      {
+        "id": "claynicholson/copper-kicad-mcp",
+        "title": "claynicholson/copper-kicad-mcp",
+        "url": "https://github.com/claynicholson/copper-kicad-mcp",
+        "description": "MCP server that lets any AI app design real, orderable KiCad boards: schematic, LCSC parts, PCB routing, ERC/DRC, JLCPCB fab files.",
+        "stars": 60,
+        "language": "Python",
+        "topics": [
+          "ai-agents",
+          "claude",
+          "cursor",
+          "eda",
+          "electronics",
+          "jlcpcb",
+          "kicad",
+          "lcsc"
+        ],
+        "created_at": "2026-11-12T18:44:11Z",
+        "score": 6.93,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "faisalkhanzemi/insta-edits-for-claude",
+        "title": "faisalkhanzemi/insta-edits-for-claude",
+        "url": "https://github.com/faisalkhanzemi/insta-edits-for-claude",
+        "description": "Instagram Edits for Mac + Claude Code: plugin and MCP server that gives Claude the full 274-tool editor. Let Claude edit your Reels: beat cuts, captions, transitions, export.",
+        "stars": 15,
+        "language": "Python",
+        "topics": [
+          "ai-video-editing",
+          "anthropic",
+          "automation",
+          "claude",
+          "claude-code",
+          "claude-code-plugin",
+          "claude-plugin",
+          "claude-skills"
+        ],
+        "created_at": "2026-11-06T20:28:33Z",
+        "score": 5.0,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "id": "2611.17052v1",
+        "title": "Auditing AI peer reviewers: a benchmark on real scientific papers",
+        "url": "https://arxiv.org/abs/2611.17052v1",
+        "authors": [
+          "Íñigo Zubeldia",
+          "Boris Bolliet",
+          "Francisco Villaescusa-Navarro",
+          "Pablo Villanueva-Domingo",
+          "Miles Cranmer"
+        ],
+        "snippet": "LLM-based peer review is now used at production scale, but its evaluation remains limited. We introduce a benchmark that injects objective, localisable errors of four types (general issues, mathematics, numerics, citations) at three severity levels into real papers and measures each reviewer's detection rate by error type and severity, together with its false-positive rate on clean copies. We also",
+        "categories": [
+          "cs.CL",
+          "astro-ph.IM",
+          "cs.AI",
+          "cs.DL"
+        ],
+        "published": "2026-11-12T16:33:51+00:00",
+        "score": 5.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:benchmark",
+          "keyword:retrieval",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2611.16414v1",
+        "title": "Small Language Models for Inference-Capability Routing: Effects of Model Capacity and Prompt Optimization on Downstream Quality and Efficiency",
+        "url": "https://arxiv.org/abs/2611.16414v1",
+        "authors": [
+          "Sailendra Kolluru",
+          "Maheshkumar Duvvarapu"
+        ],
+        "snippet": "Optional reasoning, retrieval, web search, and tool use can improve large language model responses but incur unnecessary computation when activated indiscriminately. This study investigates whether prompt optimization can compensate for limited router capacity and whether classification gains translate into downstream efficiency. The proposed framework uses prompt-driven small language models to m",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-11-12T07:25:46+00:00",
+        "score": 5.0,
+        "signals": [
+          "keyword:large language model",
+          "keyword:reasoning",
+          "keyword:retrieval",
+          "keyword:prompt",
+          "keyword:tool use"
+        ]
+      },
+      {
+        "id": "2611.17220v1",
+        "title": "Scalable Conversational Assessment: Chat-Based Exams with a Two-Agent LLM Pipeline",
+        "url": "https://arxiv.org/abs/2611.17220v1",
+        "authors": [
+          "Geoffrey Challen",
+          "Craig Zilles"
+        ],
+        "snippet": "Oral exams are compelling because (1) students can be asked to provide their reasoning for an answer and (2) their interactive nature permits follow-up questions to resolve ambiguous answers. But oral exams scale poorly. In this paper, we present scalable conversational assessment, an LLM-based system that conducts interactive text-based conversations with students to assess their ability to make ",
+        "categories": [
+          "cs.CY",
+          "cs.AI"
+        ],
+        "published": "2026-11-12T18:16:37+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:reasoning",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2611.16991v1",
+        "title": "AnalogLayoutWorld: An Open Benchmark for Agentic Analog Layout Design",
+        "url": "https://arxiv.org/abs/2611.16991v1",
+        "authors": [
+          "NovaSilicon Team"
+        ],
+        "snippet": "Coding agents have demonstrated strong capabilities in software development, yet their ability to tackle long-horizon engineering tasks governed by physical constraints remains less understood. We study this question through analog circuit layout, which demands domain knowledge, geometric reasoning, and iterative interaction with design and verification tools. We introduce \\textbf{AnalogLayoutWorl",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-11-12T15:56:13+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:reasoning",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2611.16524v1",
+        "title": "A Joint LLM and Optimization Agent Solution for Drone Scheduling in Victim Search Missions",
+        "url": "https://arxiv.org/abs/2611.16524v1",
+        "authors": [
+          "Yinghao Zhang",
+          "Yalin Liu",
+          "Hong-Ning Dai",
+          "Yan Zhang",
+          "Qubeijian Wang",
+          "Bishenghui Tao"
+        ],
+        "snippet": "Victim search in wilderness areas is time-critical. Drones enable rapid area search, but scheduling them is challenging because victims may continue moving, detection results are uncertain, and effective decisions must combine structured mission information with unstructured contextual clues and domain knowledge. To address this, we propose an agent-aided drone scheduling system. The system employ",
+        "categories": [
+          "eess.SY",
+          "cs.AI",
+          "cs.ET"
+        ],
+        "published": "2026-11-12T09:20:54+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:agent",
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2611.16493v1",
+        "title": "ReA-Bench: Benchmarking Responsible Agent Auditing",
+        "url": "https://arxiv.org/abs/2611.16493v1",
+        "authors": [
+          "Zipeng Ye",
+          "Shenyu Dai",
+          "Yong Xie",
+          "Kun Wang",
+          "Jiyang Guan",
+          "Zhikai Chen"
+        ],
+        "snippet": "As agents perform tasks autonomously in local and cloud environments, auditing their execution trajectories can help service providers identify risks and improve agent harnesses and foundation models. Our analysis of production and red-team trajectories shows that some risks are repeatedly missed across auditing configurations. Overall recall obscures which risks are missed and whether higher reca",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-11-12T09:01:24+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2611.17323v1",
+        "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+        "url": "https://arxiv.org/abs/2611.17323v1",
+        "authors": [
+          "Ethan Lin",
+          "Akanksha Sarkar",
+          "Ziang Liu",
+          "Kristin Branson",
+          "Jennifer J. Sun"
+        ],
+        "snippet": "Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline design, they have been studied almost exclusively in fully supervised settings, leaving them untested in realistic regimes where labeled data is scarce but unlabeled data is abundant. In this work, we i",
+        "categories": [
+          "cs.AI",
+          "cs.LG"
+        ],
+        "published": "2026-11-12T18:59:06+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2611.17239v1",
+        "title": "When Both Sides Adapt: The Challenges of Evaluating Interactive LLM Systems",
+        "url": "https://arxiv.org/abs/2611.17239v1",
+        "authors": [
+          "Hannah Li"
+        ],
+        "snippet": "In interactive systems where users engage with LLMs, users are adaptive and, after observing LLM responses, can change their prompting strategy, as well as the type and difficulty of subsequent tasks. Thus model responses can influence the set of prompts on which the model is subsequently evaluated. We study the implications of this user adaptivity and prompt endogeneity for the evaluation of LLMs",
+        "categories": [
+          "stat.ME",
+          "cs.AI"
+        ],
+        "published": "2026-11-12T18:26:51+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:benchmark",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2611.17007v1",
+        "title": "Skill Adapter: Personalized Modification and Online Routing of General-Purpose Skills",
+        "url": "https://arxiv.org/abs/2611.17007v1",
+        "authors": [
+          "Qijia Zhuang",
+          "Yanyi Gou",
+          "Wenbin Ma",
+          "Yuxiang Ren"
+        ],
+        "snippet": "Large language model (LLM) agents use external skills to reuse task procedures and experience with tools. General-purpose skills describe shared execution procedures, while specific tool choices, operating practices, and output requirements vary across users. In long-horizon tasks, subgoals, available inputs, and environmental states change as execution progresses. Agents must select currently app",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-11-12T16:05:23+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "2611.16905v1",
+        "title": "Factored One-sided Adam-Moment for Practical and Scalable SOAP",
+        "url": "https://arxiv.org/abs/2611.16905v1",
+        "authors": [
+          "Jaemyung Yu",
+          "Byeongho Heo",
+          "Sangdoo Yun",
+          "Dongyoon Han"
+        ],
+        "snippet": "Second-order optimizers (e.g., Shampoo, SOAP) have emerged as compelling alternatives to Adam/AdamW and promise faster per-step convergence than AdamW in transformer training. However, they still remain costly in practice, and even SOAP still pays substantial optimizer-state memory and eigendecomposition overhead. We ask whether the benefits of SOAP can be retained at nearly the efficiency of Adam",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-11-12T14:59:01+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:transformer"
+        ]
+      },
+      {
+        "id": "2611.16816v1",
+        "title": "Outcome-Mass Alignment: Controlling Length-Dependent Trajectory Influence in Multi-Turn LLM Agent Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2611.16816v1",
+        "authors": [
+          "Dawei Zhang",
+          "Yubin Huangfu",
+          "Jessica Fan",
+          "Boyu Wei",
+          "Likang Wu",
+          "Hongke Zhao"
+        ],
+        "snippet": "To keep long interaction contexts tractable, stepwise group-relative training for multi-turn LLM agents materializes each source trajectory into multiple response rows and valid tokens. This expansion creates an outer-accounting problem distinct from within-trajectory credit assignment: row-based outcome statistics can count one episode outcome multiple times, while token-level reduction can assig",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-11-12T13:52:12+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2611.16744v1",
+        "title": "Scale-Induced Semantic Shift in Visual Prompt Injection Against VLMs and Web Agents",
+        "url": "https://arxiv.org/abs/2611.16744v1",
+        "authors": [
+          "Yiheng Zhao",
+          "Runze Ji",
+          "Chenyu Yi",
+          "Yi Yu",
+          "Bingquan Shen",
+          "Alex Kot"
+        ],
+        "snippet": "Visual content in multimedia systems may be resized, compressed, or re-rendered before it is interpreted by a vision-language model. We study a security failure mode in which these transformations change the machine-readable semantics of an image: a textual instruction is not recovered at a $512\\times512$ presentation resolution under our evaluation protocol but becomes recoverable after aggressiv",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-11-12T12:57:11+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:benchmark",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2611.16718v1",
+        "title": "MusicRWKV: A Multimodal RWKV Framework for Music Representation Learning",
+        "url": "https://arxiv.org/abs/2611.16718v1",
+        "authors": [
+          "Terry Tan"
+        ],
+        "snippet": "Recent music foundation models have achieved remarkable progress in music representation learning, yet most existing approaches rely on Transformer architectures whose quadratic attention complexity introduces substantial computational and memory overhead when modeling long-duration music recordings. In this work, we propose MusicRWKV, a multimodal music representation learning framework built upo",
+        "categories": [
+          "cs.SD",
+          "cs.AI",
+          "eess.AS"
+        ],
+        "published": "2026-11-12T12:34:08+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:multimodal",
+          "keyword:retrieval",
+          "keyword:transformer"
+        ]
+      },
+      {
+        "id": "2611.16693v1",
+        "title": "MobileProbe: Adaptive Security Evaluation of Mobile Agents via Trajectory-Aware Injection",
+        "url": "https://arxiv.org/abs/2611.16693v1",
+        "authors": [
+          "Yingbin Jin",
+          "Ji'an Wang",
+          "HaoYang Chai",
+          "Hanjun Luo",
+          "Li Hu",
+          "Xinfeng Li"
+        ],
+        "snippet": "Mobile GUI agents read the screen of a phone and operate apps on a user's behalf to complete multi-step tasks such as online shopping or messaging. Because the agent acts on whatever the screen shows, an attacker can embed malicious instructions into ordinary UI content and redirect its actions. We refer to this threat as environmental injection attack (EIA). Existing benchmarks measure this risk ",
+        "categories": [
+          "cs.CR",
+          "cs.AI"
+        ],
+        "published": "2026-11-12T12:08:43+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2611.16661v1",
+        "title": "Reducing Batch Makespan for LLM Agent Workloads through Inference-Environment Coordination",
+        "url": "https://arxiv.org/abs/2611.16661v1",
+        "authors": [
+          "Wei Feng",
+          "Meiling Chen",
+          "Boxiao Chen",
+          "Lu Liu",
+          "Bin Zi",
+          "Libin Ye"
+        ],
+        "snippet": "Efficient batch execution of agent tasks is critical to LLM training and development workflows, including benchmark evaluation, synthetic-data generation, and RL rollouts. Since these tasks alternate between LLM inference and environment interaction, we present coordinated optimizations to reduce batch makespan, the time required to complete all tasks in a batch. For hybrid LLMs, a workload-based ",
+        "categories": [
+          "cs.DC",
+          "cs.AI"
+        ],
+        "published": "2026-11-12T11:38:21+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2611.16639v1",
+        "title": "Asymmetric Multimodal Learning with Decomposed JEPAs",
+        "url": "https://arxiv.org/abs/2611.16639v1",
+        "authors": [
+          "Yusuf Shihata"
+        ],
+        "snippet": "Cross-modal alignment is the standard objective for building multimodal representations. We show that alignment as a \\emph{sole} objective is lossy wherever modalities are informationally asymmetric---where neither can express what the other carries. Visual question answering is an obvious case: a question is a selective relational operator probing a dense visual field whose fine-grained features ",
+        "categories": [
+          "cs.LG",
+          "cs.CV"
+        ],
+        "published": "2026-11-12T11:13:13+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:multimodal",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2611.16591v1",
+        "title": "Singularity-Bench: Can Agents Build Agents?",
+        "url": "https://arxiv.org/abs/2611.16591v1",
+        "authors": [
+          "Yang Zhou",
+          "Krish Agarwal",
+          "Zhuoming Chen",
+          "Zerui Wang",
+          "Zhenyu Zhang",
+          "Wenshuang Li"
+        ],
+        "snippet": "Frontier AI agents increasingly succeed on realistic, long-horizon tasks and are beginning to improve the systems through which they operate. Yet existing benchmarks often restrict agents to narrow action spaces, use simplified environments, or rely on verification methods that are unreliable for evaluating arbitrary agent-generated systems. We introduce Singularity-Bench, an open-ended benchmark ",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-11-12T10:24:51+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2611.16590v1",
+        "title": "AstroMemBench: A Benchmark for Memory Systems in Embodied Spacecraft Agents",
+        "url": "https://arxiv.org/abs/2611.16590v1",
+        "authors": [
+          "You Wu",
+          "Guhong Zhang",
+          "Hongwei Li",
+          "Xinyue Hong",
+          "Yuan Jia"
+        ],
+        "snippet": "Long-term spacecraft autonomy requires embodied agents to use operational history under communication delays, time-critical operations, environmental uncertainty, complex physical interactions, power and computational constraints, and safety and reliability requirements. We introduce AstroMemBench and a Scenario-Challenge-Capability design method that maps these requirements to executable memory t",
+        "categories": [
+          "cs.AI",
+          "cs.RO"
+        ],
+        "published": "2026-11-12T10:23:15+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:benchmark",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2611.16526v1",
+        "title": "Lost in Delegation: Studying the Effectiveness of Task Orchestration in Generative Search",
+        "url": "https://arxiv.org/abs/2611.16526v1",
+        "authors": [
+          "Tamara Stojanovska",
+          "Elisabeth Kirsten",
+          "Leon Swazinna",
+          "Muhammad Bilal Zafar"
+        ],
+        "snippet": "LLMs have quickly evolved from models used in isolation to agentic systems that delegate tasks to external tools and other LLMs to solve complex assignments. This agentic augmentation has led to impressive capability gains. However, when and how delegation improves performance remains poorly understood. For example, it is unclear whether delegation helps when tasks involve post-cutoff information ",
+        "categories": [
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-11-12T09:25:33+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agentic",
+          "keyword:tool use"
+        ]
+      },
+      {
+        "id": "2611.16433v1",
+        "title": "daVinci-Prover: Agent-Native Mid-Training for Formal Theorem Proving",
+        "url": "https://arxiv.org/abs/2611.16433v1",
+        "authors": [
+          "Wenhong Zhu",
+          "Xuefeng Li",
+          "Jiashuo Zhang",
+          "Yu Chen",
+          "Tiantian Mi",
+          "Qipeng Guo"
+        ],
+        "snippet": "Advances in large language models (LLMs) are rapidly transforming formal theorem proving. Yet further progress remains constrained by the lack of a transparent and effective data recipe for systematically improving theorem-proving models. In this work, we argue that effective agentic provers require strong mathematical skill priors to ground theorem proving and agentic trajectories to enable long-",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-11-12T07:44:09+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2611.16369v1",
+        "title": "Bait: Mitigating Harmful Agentic Reinforcement Learning via Probing Reward Function",
+        "url": "https://arxiv.org/abs/2611.16369v1",
+        "authors": [
+          "Tiansheng Huang",
+          "Ananth Balashankar",
+          "Virat Shejwalkar",
+          "Santosh Pande",
+          "Ling Liu"
+        ],
+        "snippet": "We expose a safety vulnerability on nascent agentic reinforcement-learning-as-a-service. Specifically, with a cost as low as \\$20, we show that safety alignment of a large language model (e.g., Inkling) can be completely subverted through rounds of harmful agentic reinforcement learning (agentic RL) with a toxic environment from its users. We also demonstrate that upon a successful harmful agentic",
+        "categories": [
+          "cs.LG",
+          "cs.CR"
+        ],
+        "published": "2026-11-12T06:34:34+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:large language model",
+          "keyword:agentic",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2611.17332v1",
+        "title": "ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
+        "url": "https://arxiv.org/abs/2611.17332v1",
+        "authors": [
+          "Jie Wang",
+          "Tong Zhu",
+          "JiaHao Kuang",
+          "Zhe Xu",
+          "Yunkai Chai",
+          "Dehong Zheng"
+        ],
+        "snippet": "Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia. In industry, teams such as those behind DeepSeek, Qwen, and Kimi routinely introduce architectural innovations, yet public reports rarely document which ideas succeeded, which were abandoned, and why. In academia, limited compute and inconsistent",
+        "categories": [
+          "cs.CL",
+          "cs.LG"
+        ],
+        "published": "2026-11-12T18:59:52+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2611.17320v1",
+        "title": "Learning When Diffusion Language Models Should Regenerate",
+        "url": "https://arxiv.org/abs/2611.17320v1",
+        "authors": [
+          "Minhae Oh",
+          "Jeonghye Kim",
+          "Jinwoo Koo",
+          "Yeongoon Kim",
+          "Jimin Seo",
+          "Minsik Seol"
+        ],
+        "snippet": "Remasking allows diffusion language models to revisit generated text, but effective correction requires knowing when and what to revise. Our diagnosis on Sudoku reveals two gaps. Hidden states contain error information that token confidence does not reliably expose, and remasking an isolated error usually reproduces it when the surrounding context remains fixed. These findings motivate DiVR , a ve",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-11-12T18:58:50+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2611.17313v1",
+        "title": "Sketching Language Models for Context Attribution",
+        "url": "https://arxiv.org/abs/2611.17313v1",
+        "authors": [
+          "Christopher Liaw",
+          "Aranyak Mehta",
+          "Grigoris Velegkas",
+          "Felix Zhou"
+        ],
+        "snippet": "Context attribution asks how removing parts of a prompt changes a language model's output. We study leave-one-out (LOO) attribution for a prompt of $n$ tokens and a fixed measurement function. Computing all LOO values directly requires $n$ model evaluations. Under a stability assumption, our algorithm estimates all LOO values to error proportional to $\\varepsilon$ with constant probability using $",
+        "categories": [
+          "cs.DS",
+          "cs.AI",
+          "cs.LG",
+          "stat.ML"
+        ],
+        "published": "2026-11-12T18:57:48+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:retrieval",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2611.17287v1",
+        "title": "Negative-Only Policy Optimization for One-Sided Verifiable Rewards",
+        "url": "https://arxiv.org/abs/2611.17287v1",
+        "authors": [
+          "Jiacheng Xu",
+          "Shuo He",
+          "Fuxiang Zhang",
+          "Chaojie Wang",
+          "Bo An"
+        ],
+        "snippet": "Reinforcement learning with verifiable rewards (RLVR) typically relies on a verifier that can reliably judge whether sampled solutions are correct. However, in many realistic settings, complete verification is generally unavailable, while cheap checks can only falsify failures. We formalize this regime as one-sided verifiability (OSV): verified negatives are reliable counterexamples, but verified ",
+        "categories": [
+          "cs.LG",
+          "cs.CL"
+        ],
+        "published": "2026-11-12T18:52:33+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2611.17267v1",
+        "title": "LiveGeo: Benchmarking Geographic Agents in Continuously Evolving Worlds",
+        "url": "https://arxiv.org/abs/2611.17267v1",
+        "authors": [
+          "Pengcheng Zhou",
+          "Xuanyu Liu",
+          "Yanchen Yin",
+          "Tianjie Ju",
+          "Bobo Li",
+          "Shengqiong Wu"
+        ],
+        "snippet": "We introduce GeoWorld, a controllable and continuously evolving geographic environment platform for LLM agents, and LiveGeo, a benchmark for evaluating reliable decision-making in real-world geographic environments using GeoWorld. Unlike existing evaluations that largely reason and plan over fixed geographic states, GeoWorld is grounded in real-world geographic structure and allows external world ",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-11-12T18:45:58+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2611.17235v1",
+        "title": "Al-Ghasali: A Computational Framework for Simulating Islamic Jurisprudential Rulings via Finite State Automata and Large Language Models",
+        "url": "https://arxiv.org/abs/2611.17235v1",
+        "authors": [
+          "Elnaserledinellah Mahmoud Abdelwahab"
+        ],
+        "snippet": "This paper presents Al Ghasali, a computational framework designed to formalize and simulate Islamic jurisprudential (Fiqh) rulings. Building upon recent set theoretic formalizations of al sabr wa al Taqsim that extract minimal operational rules as simple Horn clause logical programs, this work proves that the semantics of closed Fiqh chapters collapse completely to deterministic Finite State Auto",
+        "categories": [
+          "cs.AI",
+          "cs.FL"
+        ],
+        "published": "2026-11-12T18:23:56+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:transformer"
+        ]
+      },
+      {
+        "id": "2611.17152v1",
+        "title": "AeroZoo: A Benchmark of Well-Posed Flow Problems for Foundation Models of Aerodynamics",
+        "url": "https://arxiv.org/abs/2611.17152v1",
+        "authors": [
+          "Peter Sharpe",
+          "Carmelo Gonzales",
+          "Corey Adams",
+          "Mehdi Ataei",
+          "Sanjay Choudhry"
+        ],
+        "snippet": "Neural surrogates for computational fluid dynamics (CFD) are trained and ranked on datasets that each vary one design family in one flow domain. Such datasets cannot test the least that an aerodynamic foundation model must do: predict CFD-quality incompressible flow in seconds for new shapes in new enclosures. On DrivAerML, larger models and longer training barely lower Transolver's error; doublin",
+        "categories": [
+          "cs.LG",
+          "cs.CE",
+          "physics.flu-dyn"
+        ],
+        "published": "2026-11-12T17:36:09+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:benchmark",
+          "keyword:transformer"
+        ]
+      },
+      {
+        "id": "2611.17128v1",
+        "title": "Parameter-Efficient Conciseness Adaptation: Differentiable Length Control for Concise Clinical Reasoning in Smaller Language Models",
+        "url": "https://arxiv.org/abs/2611.17128v1",
+        "authors": [
+          "Tanzeel Abbas",
+          "Ahmad Kamran Malik",
+          "Nafees Qamar",
+          "Sana Liaqat"
+        ],
+        "snippet": "Smaller language models (SLMs) make it feasible to deploy clinical natural language processing where large proprietary models are too costly, and parameter-efficient fine-tuning allows them to be specialised on commodity hardware. One obstacle persists after training: on medical tasks these models answer at far greater length than the clinical question requires. In clinical decision support and po",
+        "categories": [
+          "cs.CL",
+          "cs.AI"
+        ],
+        "published": "2026-11-12T17:21:12+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2611.17115v1",
+        "title": "CapLite: Prompt-Injection Defense for Small Language Model Agents without Model-Written Security Artifacts",
+        "url": "https://arxiv.org/abs/2611.17115v1",
+        "authors": [
+          "Zimo Xu",
+          "Wenzhuo Liu",
+          "Hideki Nakayama"
+        ],
+        "snippet": "Enforcement defenses against prompt injection, such as CaMeL, Progent, IPIGuard and DRIFT, ask the agent's own model to write a security artifact (a program, a privilege policy, a dependency graph or a constraint list) that code then enforces. We ask whether small language model (SLM) agents can be trusted to write these artifacts. Across 15 open-weight models, 13 of them between 1.7B and 12B para",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "cs.CR"
+        ],
+        "published": "2026-11-12T17:07:22+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:prompt"
+        ]
+      }
+    ]
+  }
+}
