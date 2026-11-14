@@ -1,0 +1,1041 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T18:37:47+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/business/customer-stories/shield",
+        "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+        "url": "https://openai.com/business/customer-stories/shield",
+        "source": "openai",
+        "published": "2026-11-13T08:00:00+00:00",
+        "snippet": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+        "score": 1.0,
+        "signals": []
+      }
+    ],
+    "github": [
+      {
+        "id": "chipfighter/context-attachment-manager",
+        "title": "chipfighter/context-attachment-manager",
+        "url": "https://github.com/chipfighter/context-attachment-manager",
+        "description": "A local plugin for image-heavy chats in Codex, Claude Code and other AI agents: earlier images become short placeholders instead of going out with every message, the model fetches the original back by its ID (also after compaction), and the prompt cache keeps working.",
+        "stars": 803,
+        "language": "TypeScript",
+        "topics": [
+          "ai-agents",
+          "claude",
+          "claude-code",
+          "claude-code-plugin",
+          "codex",
+          "codex-cli",
+          "codex-plugin",
+          "coding-agent"
+        ],
+        "created_at": "2026-09-24T05:00:09Z",
+        "score": 12.65,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "WinnerBrokerBarrow/ai--manus",
+        "title": "WinnerBrokerBarrow/ai--manus",
+        "url": "https://github.com/WinnerBrokerBarrow/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 298,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T16:43:52Z",
+        "score": 10.22,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "armsworminterface/ai--manus",
+        "title": "armsworminterface/ai--manus",
+        "url": "https://github.com/armsworminterface/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 298,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T16:45:42Z",
+        "score": 10.22,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "Cloudryospeed/ai--manus",
+        "title": "Cloudryospeed/ai--manus",
+        "url": "https://github.com/Cloudryospeed/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 297,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T16:43:55Z",
+        "score": 10.22,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "ClampOverlord46/ai--manus",
+        "title": "ClampOverlord46/ai--manus",
+        "url": "https://github.com/ClampOverlord46/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 297,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T16:43:51Z",
+        "score": 10.22,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "Lowbydemodulator/ai--manus",
+        "title": "Lowbydemodulator/ai--manus",
+        "url": "https://github.com/Lowbydemodulator/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 297,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T16:44:12Z",
+        "score": 10.22,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "ArcticPrawnEmporium/ai--manus",
+        "title": "ArcticPrawnEmporium/ai--manus",
+        "url": "https://github.com/ArcticPrawnEmporium/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 297,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T16:45:39Z",
+        "score": 10.22,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "psychenotecorridor/ai--manus",
+        "title": "psychenotecorridor/ai--manus",
+        "url": "https://github.com/psychenotecorridor/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 297,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T16:45:16Z",
+        "score": 10.22,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "ApparitionBowyerPort/ai--manus",
+        "title": "ApparitionBowyerPort/ai--manus",
+        "url": "https://github.com/ApparitionBowyerPort/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 297,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T16:45:35Z",
+        "score": 10.22,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "BrickMosquito/ai--manus",
+        "title": "BrickMosquito/ai--manus",
+        "url": "https://github.com/BrickMosquito/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 297,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T16:43:54Z",
+        "score": 10.22,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "assassinswandemolish/ai--manus",
+        "title": "assassinswandemolish/ai--manus",
+        "url": "https://github.com/assassinswandemolish/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 297,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T16:45:45Z",
+        "score": 10.22,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "WestLightningMove/ai--manus",
+        "title": "WestLightningMove/ai--manus",
+        "url": "https://github.com/WestLightningMove/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 297,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T16:45:23Z",
+        "score": 10.22,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "AtomEmissary/ai--manus",
+        "title": "AtomEmissary/ai--manus",
+        "url": "https://github.com/AtomEmissary/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 297,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T16:45:45Z",
+        "score": 10.22,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "TorusBarbarianMap9/ai--manus",
+        "title": "TorusBarbarianMap9/ai--manus",
+        "url": "https://github.com/TorusBarbarianMap9/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 297,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T16:45:21Z",
+        "score": 10.22,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "TealAgentRevive/ai--manus",
+        "title": "TealAgentRevive/ai--manus",
+        "url": "https://github.com/TealAgentRevive/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 297,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T16:43:52Z",
+        "score": 10.22,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "AdmiralEmporium/ai--manus",
+        "title": "AdmiralEmporium/ai--manus",
+        "url": "https://github.com/AdmiralEmporium/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 297,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T16:45:28Z",
+        "score": 10.22,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "BarrierCenter/ai--manus",
+        "title": "BarrierCenter/ai--manus",
+        "url": "https://github.com/BarrierCenter/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 297,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T16:46:54Z",
+        "score": 10.22,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "HurricaneMonarchDart/ai--manus",
+        "title": "HurricaneMonarchDart/ai--manus",
+        "url": "https://github.com/HurricaneMonarchDart/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 297,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T16:43:57Z",
+        "score": 10.22,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "GryphonEmpress/ai--manus",
+        "title": "GryphonEmpress/ai--manus",
+        "url": "https://github.com/GryphonEmpress/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 297,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T16:43:58Z",
+        "score": 10.22,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "AmplitudePikemanHeed/ai--manus",
+        "title": "AmplitudePikemanHeed/ai--manus",
+        "url": "https://github.com/AmplitudePikemanHeed/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 297,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T16:45:32Z",
+        "score": 10.22,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "AdvisorShake/ai--manus",
+        "title": "AdvisorShake/ai--manus",
+        "url": "https://github.com/AdvisorShake/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 297,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T16:45:30Z",
+        "score": 10.22,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "avenuemistravage47/ai--manus",
+        "title": "avenuemistravage47/ai--manus",
+        "url": "https://github.com/avenuemistravage47/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 297,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T16:46:04Z",
+        "score": 10.22,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "BrickAssemblyRepel/ai--manus",
+        "title": "BrickAssemblyRepel/ai--manus",
+        "url": "https://github.com/BrickAssemblyRepel/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 297,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T16:43:50Z",
+        "score": 10.22,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "ceilingthunderretort/ai--manus",
+        "title": "ceilingthunderretort/ai--manus",
+        "url": "https://github.com/ceilingthunderretort/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 297,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T16:43:52Z",
+        "score": 10.22,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "AgentLobster/ai--manus",
+        "title": "AgentLobster/ai--manus",
+        "url": "https://github.com/AgentLobster/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 297,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T16:45:34Z",
+        "score": 10.22,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "Feathershosmash/ai--manus",
+        "title": "Feathershosmash/ai--manus",
+        "url": "https://github.com/Feathershosmash/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 297,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T16:43:56Z",
+        "score": 10.22,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "ApothecaryDesign/ai--manus",
+        "title": "ApothecaryDesign/ai--manus",
+        "url": "https://github.com/ApothecaryDesign/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 297,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T16:45:33Z",
+        "score": 10.22,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "PolygonGlazier/ai--manus",
+        "title": "PolygonGlazier/ai--manus",
+        "url": "https://github.com/PolygonGlazier/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 297,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T16:43:52Z",
+        "score": 10.22,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "ArcherAmplify/ai--manus",
+        "title": "ArcherAmplify/ai--manus",
+        "url": "https://github.com/ArcherAmplify/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 297,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T16:45:37Z",
+        "score": 10.22,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "berkantay/gpucanvas",
+        "title": "berkantay/gpucanvas",
+        "url": "https://github.com/berkantay/gpucanvas",
+        "description": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.",
+        "stars": 391,
+        "language": "TypeScript",
+        "topics": [
+          "ai-agents",
+          "canvas",
+          "design-tools",
+          "editor",
+          "html-in-canvas",
+          "infinite-canvas",
+          "react",
+          "shaders"
+        ],
+        "created_at": "2026-11-12T23:19:42Z",
+        "score": 9.61,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "hridaya423/phonedriver",
+        "title": "hridaya423/phonedriver",
+        "url": "https://github.com/hridaya423/phonedriver",
+        "description": "Open-source MCP server and CLI that lets AI agents like Claude Code see and control Android and iOS phones.",
+        "stars": 88,
+        "language": "Rust",
+        "topics": [
+          "adb",
+          "ai-agents",
+          "android",
+          "claude-code",
+          "cli",
+          "ios",
+          "mcp",
+          "mcp-server"
+        ],
+        "created_at": "2026-11-08T11:02:30Z",
+        "score": 7.48,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "214140846/browser-hands",
+        "title": "214140846/browser-hands",
+        "url": "https://github.com/214140846/browser-hands",
+        "description": "Give your AI agent hands in your own browser: Chrome extension + local MCP server. Logged-in, parallel, low CPU.",
+        "stars": 21,
+        "language": "TypeScript",
+        "topics": [
+          "agentic-ai",
+          "ai-agents",
+          "browser-agent",
+          "browser-automation",
+          "chrome-extension",
+          "claude",
+          "claude-code",
+          "claude-code-plugin"
+        ],
+        "created_at": "2026-11-12T15:03:59Z",
+        "score": 6.46,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "EpicMorg/Hammer-MCP",
+        "title": "EpicMorg/Hammer-MCP",
+        "url": "https://github.com/EpicMorg/Hammer-MCP",
+        "description": "MCP server that lets AI agents see and edit maps in Valve Hammer Editor: Source 1 Hammer, Hammer++, Strata, Source 2 (read) - beta",
+        "stars": 40,
+        "language": "C#",
+        "topics": [
+          "ai-agents",
+          "claude",
+          "dotnet",
+          "gamedev",
+          "hammer",
+          "hammer-editor",
+          "hammerplusplus",
+          "level-design"
+        ],
+        "created_at": "2026-11-10T12:06:10Z",
+        "score": 6.36,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "id": "2611.17334v1",
+        "title": "Unbundling Multimodal Vision Encoding",
+        "url": "https://arxiv.org/abs/2611.17334v1",
+        "authors": [
+          "Ellis Brown",
+          "Chris Hoang",
+          "Shengyi Qian",
+          "Shang-Wen Li",
+          "Mike Lewis",
+          "Marjan Ghazvininejad"
+        ],
+        "snippet": "How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language model or remove it entirely. Vision encoders bundle together three design choices: a visual prior from upstream pretraining, dedicated vision capacity, and pre-fusion placement of that capacity (i.e.",
+        "categories": [
+          "cs.CV",
+          "cs.LG"
+        ],
+        "published": "2026-11-12T18:59:54+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2611.17329v1",
+        "title": "Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation",
+        "url": "https://arxiv.org/abs/2611.17329v1",
+        "authors": [
+          "Zeynep Yıldız",
+          "Satchit Chatterji",
+          "Ercan Atam",
+          "Erman Acar"
+        ],
+        "snippet": "Institutional portfolios operate under investment policy statements that specify asset allocation constraints, often conditioned on market regime information. Deep reinforcement learning has been shown to optimize financial performance but typically does not enforce rule compliance, making it unsuitable for real-world deployment. Existing neurosymbolic methods such as Probabilistic Logic Policy Gr",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-11-12T18:59:37+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "2611.17309v1",
+        "title": "Classical Energies Learn to Reason 1,000x Faster than Looped Models",
+        "url": "https://arxiv.org/abs/2611.17309v1",
+        "authors": [
+          "Benjamin Hoover",
+          "Hugh Blayney",
+          "James C. R. Whittington"
+        ],
+        "snippet": "Looped models have emerged as a prominent paradigm for reasoning, with successes on simple reasoning puzzles such as Sudoku-Extreme and Maze-Unique. However, these models can be unstable, slow to train, and use many parameters and FLOPs to solve simple puzzles. Descent on an energy not only mitigates these issues but also offers advantages: built-in early stopping, compute that adapts to problem d",
+        "categories": [
+          "cs.AI",
+          "cs.LG"
+        ],
+        "published": "2026-11-12T18:56:56+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2611.17308v1",
+        "title": "Quantifying structural stability of transparent models for general insurance pricing",
+        "url": "https://arxiv.org/abs/2611.17308v1",
+        "authors": [
+          "Félix Côté",
+          "Marie-Pier Côté"
+        ],
+        "snippet": "The short duration of general insurance contracts leads to rapid distributional shifts in the data, warranting regular model updates. This process may yield a post-update model that differs considerably from the pre-update model in both predictions and structure. Structural stability is upstream of predictive stability, yet existing structural stability metrics are mostly restricted to simple deci",
+        "categories": [
+          "stat.ML",
+          "cs.LG"
+        ],
+        "published": "2026-11-12T18:56:54+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2611.17302v1",
+        "title": "FLEX-LBP: Learning Local Binary Patterns with Exact Binary Inference for Texture Classification",
+        "url": "https://arxiv.org/abs/2611.17302v1",
+        "authors": [
+          "Mohamed Alimoussa",
+          "Amal El Kaid"
+        ],
+        "snippet": "Local Binary Patterns (LBP) remain among the most widely used texture descriptors, from industrial inspection to medical imaging. Yet their radius, sampling angles, color transform and thresholds are fixed by hand for each dataset. We present FLEX-LBP, which learns these parameters by backpropagation while every forward pass computes exact binary codes and hard histogram counts. A straight-through",
+        "categories": [
+          "cs.CV",
+          "cs.LG"
+        ],
+        "published": "2026-11-12T18:55:56+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2611.17298v1",
+        "title": "Consistent Video-to-Video Translation via Explicit Correspondences",
+        "url": "https://arxiv.org/abs/2611.17298v1",
+        "authors": [
+          "Gaurav Parmar",
+          "Zhengqi Li",
+          "Richard Zhang",
+          "Jun-Yan Zhu",
+          "Srinivasa Narasimhan",
+          "Eli Shechtman"
+        ],
+        "snippet": "Interactive video-to-video applications require real-time generation while maintaining long-range temporal consistency. However, recent methods achieve speed by restricting attention to a fixed-length causal window. This limits long-range consistency whenever relevant history falls outside the context window. To address this limitation, we introduce vid2vid-long, a correspondence-based approach gr",
+        "categories": [
+          "cs.CV",
+          "cs.AI",
+          "cs.GR",
+          "cs.LG"
+        ],
+        "published": "2026-11-12T18:55:09+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2611.17297v1",
+        "title": "Goal Encoding in LLMs",
+        "url": "https://arxiv.org/abs/2611.17297v1",
+        "authors": [
+          "Arnab Sen Sharma",
+          "Eric Todd",
+          "Sheridan Feucht",
+          "Andy Arditi",
+          "Rohit Gandikota",
+          "Natalie Shapira"
+        ],
+        "snippet": "We investigate whether and how LLMs encode goals: internal neural representations that precede and guide action, and that are flexible enough to be realized through many different execution paths. We construct a coding setting with multiple sub-tasks that allows us to evaluate goal-seeking behavior and the selection of sub-goals. In this setting, we localize an encoding of the next sub-goal in the",
+        "categories": [
+          "cs.CL",
+          "cs.AI",
+          "cs.LG"
+        ],
+        "published": "2026-11-12T18:55:06+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:transformer"
+        ]
+      },
+      {
+        "id": "2611.17294v1",
+        "title": "Metal Sandbox: Isolated Execution and Command Scheduling for GPU Coding Agents on Apple Silicon",
+        "url": "https://arxiv.org/abs/2611.17294v1",
+        "authors": [
+          "Haozhe Wang",
+          "Lina Chen",
+          "Fanqi Wan",
+          "Qi Han",
+          "Yinmin Zhang",
+          "Zheng Ge"
+        ],
+        "snippet": "On-device inference requires kernels that make effective use of local accelerators. Efficient training and evaluation of models that generate Apple Metal kernels benefit from native macOS tools and concurrent agent sessions. These sessions alternate between model requests, development commands, and GPU execution, leaving GPU capacity idle for much of a rollout. We present Metal Sandbox, infrastruc",
+        "categories": [
+          "cs.LG",
+          "cs.AI",
+          "cs.CL",
+          "cs.DC"
+        ],
+        "published": "2026-11-12T18:54:42+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "2611.17280v1",
+        "title": "Synthesis Smuggling: Maliciously Hiding Inferred Personal Attributes in LLM Outputs",
+        "url": "https://arxiv.org/abs/2611.17280v1",
+        "authors": [
+          "Gautam Galada",
+          "Supreeth Shastri",
+          "Sagnik Ray Choudhury"
+        ],
+        "snippet": "We propose Synthesis Smuggling, a novel threat model in which an adversarial LLM infers sensitive information about a user from routine assistance-seeking interactions and steganographically encodes that into innocuous-looking model-generated content. The user may then unknowingly transmit that information by sharing the generated artifact, say as an email, social-media post, or message, through o",
+        "categories": [
+          "cs.CL",
+          "cs.AI"
+        ],
+        "published": "2026-11-12T18:51:05+00:00",
+        "score": 1.0,
+        "signals": [
+          "keyword:llm"
+        ]
+      }
+    ]
+  }
+}
