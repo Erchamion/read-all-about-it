@@ -1,0 +1,482 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T19:13:23+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [],
+    "github": [
+      {
+        "id": "Outpostkrewhirl86/Capri-AI",
+        "title": "Outpostkrewhirl86/Capri-AI",
+        "url": "https://github.com/Outpostkrewhirl86/Capri-AI",
+        "description": "Capri: a local-first desktop AI agent with a cyberpunk HUD. Your personal Jarvis for Windows. Controls files, apps, terminal and browser, powered by Claude Code, Codex, Antigravity or any backend. Inspired by Cyberpunk: Edgerunners.",
+        "stars": 345,
+        "language": null,
+        "topics": [
+          "ai-agent",
+          "ai-agents",
+          "ai-assistants",
+          "ai-desktop",
+          "ai-desktop-app",
+          "antigravity",
+          "automation",
+          "autonomous-agents"
+        ],
+        "created_at": "2026-11-14T21:34:40Z",
+        "score": 12.43,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp",
+          "keyword:autonomous"
+        ]
+      },
+      {
+        "id": "topapothecarycanal/ai--manus2.0",
+        "title": "topapothecarycanal/ai--manus2.0",
+        "url": "https://github.com/topapothecarycanal/ai--manus2.0",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 381,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-14T19:15:24Z",
+        "score": 10.58,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "toppatronweave/ai--manus2.0",
+        "title": "toppatronweave/ai--manus2.0",
+        "url": "https://github.com/toppatronweave/ai--manus2.0",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 380,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-14T19:15:25Z",
+        "score": 10.57,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "topconstableinlet67/ai--manus2.0",
+        "title": "topconstableinlet67/ai--manus2.0",
+        "url": "https://github.com/topconstableinlet67/ai--manus2.0",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 378,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-14T19:15:24Z",
+        "score": 10.57,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "violetkomodolimit/ai--manus2.0",
+        "title": "violetkomodolimit/ai--manus2.0",
+        "url": "https://github.com/violetkomodolimit/ai--manus2.0",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 375,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-14T19:25:22Z",
+        "score": 10.55,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "trackersnailgrip/ai--manus2.0",
+        "title": "trackersnailgrip/ai--manus2.0",
+        "url": "https://github.com/trackersnailgrip/ai--manus2.0",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 373,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-14T19:25:17Z",
+        "score": 10.55,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "Ultimateakiln/ai--manus2.0",
+        "title": "Ultimateakiln/ai--manus2.0",
+        "url": "https://github.com/Ultimateakiln/ai--manus2.0",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 371,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-14T19:25:17Z",
+        "score": 10.54,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "taboospecialistblade/ai--manus2.0",
+        "title": "taboospecialistblade/ai--manus2.0",
+        "url": "https://github.com/taboospecialistblade/ai--manus2.0",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 371,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-14T19:25:17Z",
+        "score": 10.54,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "trackboatwrightplan/ai--manus2.0",
+        "title": "trackboatwrightplan/ai--manus2.0",
+        "url": "https://github.com/trackboatwrightplan/ai--manus2.0",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 370,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-14T19:25:16Z",
+        "score": 10.54,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "TrapBladesmith/ai--manus2.0",
+        "title": "TrapBladesmith/ai--manus2.0",
+        "url": "https://github.com/TrapBladesmith/ai--manus2.0",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 370,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-14T19:25:17Z",
+        "score": 10.54,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "Tonephorepair/ai--manus2.0",
+        "title": "Tonephorepair/ai--manus2.0",
+        "url": "https://github.com/Tonephorepair/ai--manus2.0",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 370,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-14T19:25:15Z",
+        "score": 10.54,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "lloweryfn-rgb/manus--ai",
+        "title": "lloweryfn-rgb/manus--ai",
+        "url": "https://github.com/lloweryfn-rgb/manus--ai",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+        "stars": 203,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:46:39Z",
+        "score": 9.67,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "lloweryfn-rgb/ai--manus",
+        "title": "lloweryfn-rgb/ai--manus",
+        "url": "https://github.com/lloweryfn-rgb/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 202,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:46:19Z",
+        "score": 9.67,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "SandyPandyMandy/manus--ai",
+        "title": "SandyPandyMandy/manus--ai",
+        "url": "https://github.com/SandyPandyMandy/manus--ai",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+        "stars": 202,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:45:11Z",
+        "score": 9.67,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "bk9cj/manus--ai",
+        "title": "bk9cj/manus--ai",
+        "url": "https://github.com/bk9cj/manus--ai",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+        "stars": 202,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:46:00Z",
+        "score": 9.67,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "punit2911/Hirepanel",
+        "title": "punit2911/Hirepanel",
+        "url": "https://github.com/punit2911/Hirepanel",
+        "description": "Multi-agent resume screener where every score needs a verified quote from the resume. Runs on local open-source models (Ollama). Prompt-injection shield, blind redaction, human approval, n8n + Discord + email automation, MCP server, FastAPI, Docker.",
+        "stars": 56,
+        "language": "Python",
+        "topics": [
+          "ai-safety",
+          "docker",
+          "fastapi",
+          "hiring",
+          "llm",
+          "llmevaluation",
+          "multi-agent",
+          "n8n"
+        ],
+        "created_at": "2026-11-12T17:56:19Z",
+        "score": 8.83,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "roan-maverick/tradingview-indicator-for-ai-agents",
+        "title": "roan-maverick/tradingview-indicator-for-ai-agents",
+        "url": "https://github.com/roan-maverick/tradingview-indicator-for-ai-agents",
+        "description": "Tradingview IndicatorBuilt for AI agents",
+        "stars": 220,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-11-13T09:20:32Z",
+        "score": 7.79,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "Tthanh2k6/turbo-browser-mcp",
+        "title": "Tthanh2k6/turbo-browser-mcp",
+        "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+        "description": "High-speed Playwright MCP server with multi-tab batching, compact delta DOM snapshots, React/Shadow DOM/iframe form filling, disk file uploads, and submit guards",
+        "stars": 101,
+        "language": "JavaScript",
+        "topics": [],
+        "created_at": "2026-11-14T12:11:07Z",
+        "score": 7.67,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "jiefeng-ai/phonectl-mcp",
+        "title": "jiefeng-ai/phonectl-mcp",
+        "url": "https://github.com/jiefeng-ai/phonectl-mcp",
+        "description": "MCP server that lets AI agents see and drive a real iPhone over USB: screenshots, on-screen text, taps, swipes, typing, apps. macOS only.",
+        "stars": 17,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-11-10T08:25:08Z",
+        "score": 5.17,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "ArsenOria/tau-linkedin-job-research-mcp",
+        "title": "ArsenOria/tau-linkedin-job-research-mcp",
+        "url": "https://github.com/ArsenOria/tau-linkedin-job-research-mcp",
+        "description": "LinkedIn job search MCP server for AI chat. Local stdio, your own Apify token, evidence-based fit review and no LinkedIn login.",
+        "stars": 15,
+        "language": "Python",
+        "topics": [
+          "ai-chat",
+          "apify",
+          "job-matching",
+          "job-research",
+          "job-search-mcp",
+          "linkedin-job-search",
+          "linkedin-jobs",
+          "local-first"
+        ],
+        "created_at": "2026-11-13T13:52:22Z",
+        "score": 5.0,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
