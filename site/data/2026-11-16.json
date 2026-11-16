@@ -1,0 +1,473 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T22:42:47+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+        "title": "Broadening access to AI for scientists",
+        "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+        "source": "openai",
+        "published": "2026-11-16T17:00:00+00:00",
+        "snippet": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/strengthening-online-child-safety",
+        "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+        "url": "https://openai.com/index/strengthening-online-child-safety",
+        "source": "openai",
+        "published": "2026-11-16T17:00:00+00:00",
+        "snippet": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/science-at-the-frontier",
+        "title": "Science at the Frontier: How scientists use ChatGPT",
+        "url": "https://openai.com/index/science-at-the-frontier",
+        "source": "openai",
+        "published": "2026-11-16T12:00:00+00:00",
+        "snippet": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/lvmh-media-division-partnership",
+        "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+        "url": "https://openai.com/index/lvmh-media-division-partnership",
+        "source": "openai",
+        "published": "2026-11-16T09:00:00+00:00",
+        "snippet": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+        "title": "Our first phase of embedded assessments",
+        "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+        "source": "openai",
+        "published": "2026-11-16T08:00:00+00:00",
+        "snippet": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+        "title": "Advancing computer-use agents for healthcare teams",
+        "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+        "source": "openai",
+        "published": "2026-11-16T06:00:00+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+        "title": "More ways to move care forward with ChatGPT for Healthcare",
+        "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+        "source": "openai",
+        "published": "2026-11-16T06:00:00+00:00",
+        "snippet": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/the-kings-trust-and-openai",
+        "title": "The King’s Trust and OpenAI launch £1m partnership",
+        "url": "https://openai.com/index/the-kings-trust-and-openai",
+        "source": "openai",
+        "published": "2026-11-16T00:00:00+00:00",
+        "snippet": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/business/customer-stories/holiday-extras-dots",
+        "title": "At Holiday Extras, dots get to work before anyone asks",
+        "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+        "source": "openai",
+        "published": "2026-11-16T00:00:00+00:00",
+        "snippet": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/step-toward-defining-the-standard-model",
+        "title": "A step toward defining the Standard Model on a lattice",
+        "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+        "source": "openai",
+        "published": "2026-11-15T22:00:01+00:00",
+        "snippet": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/our-new-blog-for-science",
+        "title": "Our new blog for science",
+        "url": "https://openai.com/index/our-new-blog-for-science",
+        "source": "openai",
+        "published": "2026-11-15T22:00:00+00:00",
+        "snippet": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+        "title": "New Ask Maps features to help with holiday travel and prep",
+        "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+        "source": "google-ai",
+        "published": "2026-11-16T14:00:00+00:00",
+        "snippet": "tbd",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/openrouter",
+        "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+        "url": "https://huggingface.co/blog/openrouter",
+        "source": "huggingface",
+        "published": "2026-11-16T00:00:00+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      }
+    ],
+    "github": [
+      {
+        "id": "RustXNG/RustXNG",
+        "title": "RustXNG/RustXNG",
+        "url": "https://github.com/RustXNG/RustXNG",
+        "description": "Self-hosted metasearch and grounding engine for AI agents, based on SearXNG. Rust, JSON API, optional page text.",
+        "stars": 978,
+        "language": "Rust",
+        "topics": [
+          "agpl",
+          "ai-agents",
+          "grounding",
+          "llm",
+          "mcp",
+          "metasearch",
+          "privacy",
+          "rag"
+        ],
+        "created_at": "2026-10-18T03:06:52Z",
+        "score": 12.94,
+        "signals": [
+          "rising",
+          "keyword:llm",
+          "keyword:mcp",
+          "keyword:rag"
+        ]
+      },
+      {
+        "id": "simpsoka/zigzag",
+        "title": "simpsoka/zigzag",
+        "url": "https://github.com/simpsoka/zigzag",
+        "description": "Free, open-source embroidery software for Mac and Windows. Turn SVG artwork into machine embroidery, edit stitches visually, and create designs with AI agents via MCP.",
+        "stars": 864,
+        "language": "Rust",
+        "topics": [
+          "brother-skitch",
+          "embroidery",
+          "embroidery-digitizing",
+          "embroidery-software",
+          "machine-embroidery",
+          "macos",
+          "mcp",
+          "model-context-protocol"
+        ],
+        "created_at": "2026-10-30T01:53:39Z",
+        "score": 10.76,
+        "signals": [
+          "rising",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "vaibhav-space/my-ai-coding-workflow",
+        "title": "vaibhav-space/my-ai-coding-workflow",
+        "url": "https://github.com/vaibhav-space/my-ai-coding-workflow",
+        "description": "Production-grade AI coding instructions, curated skills, and a 3-stage review pipeline (Planning → Critical Review → Diff Audit) built after 4,500+ hours with AI agents. Agent-agnostic.",
+        "stars": 221,
+        "language": null,
+        "topics": [
+          "agentic-workflows",
+          "ai-agents",
+          "claude-code",
+          "code-review",
+          "developer-tools"
+        ],
+        "created_at": "2026-11-14T13:34:16Z",
+        "score": 9.79,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:workflow"
+        ]
+      },
+      {
+        "id": "Ronni35/ai--manus",
+        "title": "Ronni35/ai--manus",
+        "url": "https://github.com/Ronni35/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 202,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:44:05Z",
+        "score": 9.67,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "Redderz-code/manus--ai",
+        "title": "Redderz-code/manus--ai",
+        "url": "https://github.com/Redderz-code/manus--ai",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+        "stars": 202,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:48:05Z",
+        "score": 9.67,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "qweqeqeqweqeqwe/ai--manus",
+        "title": "qweqeqeqweqeqwe/ai--manus",
+        "url": "https://github.com/qweqeqeqweqeqwe/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 202,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:48:15Z",
+        "score": 9.67,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "morajabi/poo",
+        "title": "morajabi/poo",
+        "url": "https://github.com/morajabi/poo",
+        "description": "Find and safely free the disk space your dev work eats: builds, caches, simulators and agent worktrees. macOS menu bar app, CLI and MCP server.",
+        "stars": 46,
+        "language": "Rust",
+        "topics": [
+          "claude-code",
+          "cleanup",
+          "cli",
+          "codex",
+          "coding-agents",
+          "derived-data",
+          "developer-tools",
+          "disk-cleanup"
+        ],
+        "created_at": "2026-11-15T18:39:06Z",
+        "score": 7.55,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "punit2911/meridian-multimodal-rag",
+        "title": "punit2911/meridian-multimodal-rag",
+        "url": "https://github.com/punit2911/meridian-multimodal-rag",
+        "description": "Evidence-grounded multimodal RAG for industrial maintenance documentation, with hybrid retrieval, citations, conflict resolution, claim verification and abstention. Includes an optional tool-using LLM agent and deterministic offline mode.",
+        "stars": 18,
+        "language": "Python",
+        "topics": [
+          "document-processing",
+          "fastapi",
+          "hybrid-search",
+          "industrial-maintenance",
+          "information-retrieval",
+          "llm",
+          "multimodal-rag",
+          "ocr"
+        ],
+        "created_at": "2026-11-16T12:11:22Z",
+        "score": 7.25,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:rag"
+        ]
+      },
+      {
+        "id": "Poptin-LTD/Poptin-MCP",
+        "title": "Poptin-LTD/Poptin-MCP",
+        "url": "https://github.com/Poptin-LTD/Poptin-MCP",
+        "description": "Official Poptin MCP server. Connect your AI agent to create email campaigns, analyze popup and form performance, and build targeted audience segments.",
+        "stars": 36,
+        "language": null,
+        "topics": [
+          "agnet",
+          "ai",
+          "audience",
+          "audiences",
+          "email",
+          "email-automation",
+          "email-builder",
+          "email-list"
+        ],
+        "created_at": "2026-11-12T07:44:52Z",
+        "score": 7.21,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "jasonsutter87/sketchcraft",
+        "title": "jasonsutter87/sketchcraft",
+        "url": "https://github.com/jasonsutter87/sketchcraft",
+        "description": "Draw an outline. Pull it up. Open-source push/pull 3D modeler in Rust: desktop app, CLI and MCP server.",
+        "stars": 40,
+        "language": "JavaScript",
+        "topics": [
+          "3d-modeling",
+          "architecture",
+          "cad",
+          "mcp",
+          "rust",
+          "tauri"
+        ],
+        "created_at": "2026-11-13T07:39:18Z",
+        "score": 6.36,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "fluid-cloudnative/fluid-sinapis",
+        "title": "fluid-cloudnative/fluid-sinapis",
+        "url": "https://github.com/fluid-cloudnative/fluid-sinapis",
+        "description": "LLM Agents driven cloud-native cache management",
+        "stars": 38,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-11-09T05:04:15Z",
+        "score": 6.29,
+        "signals": [
+          "new",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "neubauerwilli/gta6-skill",
+        "title": "neubauerwilli/gta6-skill",
+        "url": "https://github.com/neubauerwilli/gta6-skill",
+        "description": "Elf kostenlose Claude-Skills auf Deutsch: aus GTA-6-Streams Clips für Clipping-Kampagnen machen",
+        "stars": 30,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-11-14T10:21:33Z",
+        "score": 5.95,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "suzhe-ai/suzhe-ui",
+        "title": "suzhe-ai/suzhe-ui",
+        "url": "https://github.com/suzhe-ai/suzhe-ui",
+        "description": "The web design method behind suzhe.ai, as a Claude Skill. Two registers, one signature visual per page, fewer elements, smooth on every device. 苏哲 UI",
+        "stars": 20,
+        "language": "CSS",
+        "topics": [
+          "claude-code",
+          "claude-plugin",
+          "claude-skills",
+          "design-system",
+          "frontend",
+          "ui-design",
+          "web-design"
+        ],
+        "created_at": "2026-11-15T06:53:18Z",
+        "score": 5.39,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "krishnagoswami52/stickman-skill",
+        "title": "krishnagoswami52/stickman-skill",
+        "url": "https://github.com/krishnagoswami52/stickman-skill",
+        "description": "Claude skill: cinematic stickman story videos as MP4 from code, with a free built-in AI voiceover (no ElevenLabs)",
+        "stars": 16,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-11-10T07:49:52Z",
+        "score": 5.09,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "SternI/FortniteMCP",
+        "title": "SternI/FortniteMCP",
+        "url": "https://github.com/SternI/FortniteMCP",
+        "description": "An in-process MCP server for Unreal Engine game research and automated testing.",
+        "stars": 15,
+        "language": "C++",
+        "topics": [
+          "fortnite",
+          "mcp"
+        ],
+        "created_at": "2026-11-11T22:58:09Z",
+        "score": 5.0,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
