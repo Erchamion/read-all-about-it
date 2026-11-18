@@ -1,0 +1,1144 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T21:03:44+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/index/inside-the-codex-sandbox",
+        "title": "Inside the Codex sandbox",
+        "url": "https://openai.com/index/inside-the-codex-sandbox",
+        "source": "openai",
+        "published": "2026-11-18T08:00:00+00:00",
+        "snippet": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/managing-frontier-ai-risk",
+        "title": "Managing frontier AI risk: From training to deployment",
+        "url": "https://openai.com/index/managing-frontier-ai-risk",
+        "source": "openai",
+        "published": "2026-11-18T06:00:00+00:00",
+        "snippet": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+        "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+        "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+        "source": "openai",
+        "published": "2026-11-18T00:00:00+00:00",
+        "snippet": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/advancing-chip-design-with-our-models",
+        "title": "Advancing chip design with OpenAI models",
+        "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+        "source": "openai",
+        "published": "2026-11-18T00:00:00+00:00",
+        "snippet": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/the-silent-consensus",
+        "title": "The Silent Consensus",
+        "url": "https://openai.com/index/the-silent-consensus",
+        "source": "openai",
+        "published": "2026-11-18T00:00:00+00:00",
+        "snippet": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/introducing-chatgpt-for-sales",
+        "title": "Introducing ChatGPT for Sales",
+        "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+        "source": "openai",
+        "published": "2026-11-17T08:00:00+00:00",
+        "snippet": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+        "title": "The Gemini app is now available on lower-memory Android devices.",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+        "source": "google-ai",
+        "published": "2026-11-18T17:00:00+00:00",
+        "snippet": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://deepmind.google/blog/genie-4-is-now-available/",
+        "title": "Genie 4 is now available",
+        "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+        "source": "deepmind",
+        "published": "2026-11-18T18:13:42+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://microsoft.ai/news/microsoft-ignite-2026/",
+        "title": "Microsoft unveils 7 AI models for coding, image editing, voice and more",
+        "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://www.microsoft.com/en-us/security/blog/2026/11/17/security-for-the-agentic-era-powered-by-microsoft-perception/",
+        "title": "Cyberattacks are getting faster. Here’s how Microsoft is fighting back",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/11/17/security-for-the-agentic-era-powered-by-microsoft-perception/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://www.microsoft.com/en-us/copilot/blog/2026/11/16/what-ai-at-work-really-costs/",
+        "title": "What drives the cost of AI at work",
+        "url": "https://www.microsoft.com/en-us/copilot/blog/2026/11/16/what-ai-at-work-really-costs/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://machinelearning.apple.com/research/split-scale-latent-3d",
+        "title": "Split-and-Scale Latent 3D Representations",
+        "url": "https://machinelearning.apple.com/research/split-scale-latent-3d",
+        "source": "apple-ml",
+        "published": "2026-11-16T00:00:00+00:00",
+        "snippet": "Latent 3D representations have significantly expanded the capabilities of modern shape modeling, enabling compact encoding of 3D scenes and supporting powerful 3D generative models. Despite this progress, current representations struggle to capture the fine details of complex objects, fundamentally ",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+        "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+        "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+        "source": "huggingface",
+        "published": "2026-11-18T19:54:56+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+        "title": "Why your fine-tuning job takes longer than the FLOPs say",
+        "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+        "source": "huggingface",
+        "published": "2026-11-18T18:53:43+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+        "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+        "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+        "source": "huggingface",
+        "published": "2026-11-18T15:00:23+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/moe-expert-streaming",
+        "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+        "url": "https://huggingface.co/blog/moe-expert-streaming",
+        "source": "huggingface",
+        "published": "2026-11-18T00:00:00+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/rumble-2-flash",
+        "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+        "url": "https://huggingface.co/blog/rumble-2-flash",
+        "source": "huggingface",
+        "published": "2026-11-18T00:00:00+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      }
+    ],
+    "github": [
+      {
+        "id": "sofixleon-arch/ai--manus",
+        "title": "sofixleon-arch/ai--manus",
+        "url": "https://github.com/sofixleon-arch/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 202,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:45:36Z",
+        "score": 9.67,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "SandyPandyMandy/ai--manus",
+        "title": "SandyPandyMandy/ai--manus",
+        "url": "https://github.com/SandyPandyMandy/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 202,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:44:52Z",
+        "score": 9.67,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "XTwiNSaraX/ai--manus",
+        "title": "XTwiNSaraX/ai--manus",
+        "url": "https://github.com/XTwiNSaraX/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 202,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:45:01Z",
+        "score": 9.67,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "sofixleon-arch/manus--ai",
+        "title": "sofixleon-arch/manus--ai",
+        "url": "https://github.com/sofixleon-arch/manus--ai",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+        "stars": 202,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:45:53Z",
+        "score": 9.67,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "AcgBoss/manus--ai",
+        "title": "AcgBoss/manus--ai",
+        "url": "https://github.com/AcgBoss/manus--ai",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+        "stars": 202,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:45:45Z",
+        "score": 9.67,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "Ronni35/manus--ai",
+        "title": "Ronni35/manus--ai",
+        "url": "https://github.com/Ronni35/manus--ai",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+        "stars": 202,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:44:22Z",
+        "score": 9.67,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "nachalnikokk/ai--manus",
+        "title": "nachalnikokk/ai--manus",
+        "url": "https://github.com/nachalnikokk/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 202,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:46:50Z",
+        "score": 9.67,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "buttheadtrenton16-byte/manus--ai",
+        "title": "buttheadtrenton16-byte/manus--ai",
+        "url": "https://github.com/buttheadtrenton16-byte/manus--ai",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+        "stars": 202,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:45:56Z",
+        "score": 9.67,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "xombiensar/ai--manus",
+        "title": "xombiensar/ai--manus",
+        "url": "https://github.com/xombiensar/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 202,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:44:05Z",
+        "score": 9.67,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "python001-dev/ai--manus",
+        "title": "python001-dev/ai--manus",
+        "url": "https://github.com/python001-dev/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 202,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-13T14:47:01Z",
+        "score": 9.67,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "diego3g/craft",
+        "title": "diego3g/craft",
+        "url": "https://github.com/diego3g/craft",
+        "description": "Design skills for AI agents: /craft-setup writes your design brief, /craft designs screens with every state from your design system and reviews them. Works with Paper, pen.dev, Figma or HTML.",
+        "stars": 253,
+        "language": "JavaScript",
+        "topics": [
+          "agent-skills",
+          "claude-code",
+          "claude-code-plugin",
+          "design-system",
+          "figma",
+          "paper",
+          "ui-design"
+        ],
+        "created_at": "2026-11-15T20:08:15Z",
+        "score": 8.99,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "id": "2611.23010v1",
+        "title": "PhysScope: Agentic Multimodal Physics Reasoning with Grounded Visual Memory",
+        "url": "https://arxiv.org/abs/2611.23010v1",
+        "authors": [
+          "Haoyang Liu",
+          "Kecheng Liang",
+          "Xinyu Li",
+          "Weixing Chen",
+          "Yang Liu"
+        ],
+        "snippet": "Vision-language models (VLMs) can correctly interpret physics diagrams yet apply constraints outside the states or conditions in which they hold, causing premise errors to propagate through subsequent calculations. We introduce PhysScope, an inference-time visual harness that supports self-correction of these scope mismatches without updating model weights. PhysScope enables the model to link phys",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-11-17T16:22:21+00:00",
+        "score": 5.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2611.22837v1",
+        "title": "Synergizing Evidence Retrieval and Utilization for Self-Improving Multimodal Scientific Document Reasoning",
+        "url": "https://arxiv.org/abs/2611.22837v1",
+        "authors": [
+          "Frank Nie",
+          "Ethan B. Liu",
+          "Yuan Zhu",
+          "Jindong Han"
+        ],
+        "snippet": "Scientific document reasoning requires an agent to acquire and integrate evidence distributed across text, figures, and tables. Retrieval can identify relevant sources while missing complementary support, and answer-level feedback alone does not reveal whether an error stems from evidence acquisition or evidence use. We present an agentic Retriever--Perceiver--Reasoner framework for multimodal sci",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-11-17T14:19:18+00:00",
+        "score": 5.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:reasoning",
+          "keyword:multimodal",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2611.23045v1",
+        "title": "ForecastGym: A Live, Controlled, and Replayable Benchmark for Forecasting Agents",
+        "url": "https://arxiv.org/abs/2611.23045v1",
+        "authors": [
+          "Yicheng Tao",
+          "Yuante Li",
+          "Zipei Fan"
+        ],
+        "snippet": "Agents built on large language models (LLMs) increasingly forecast real-world events by searching the Web and reasoning over what they find. How well such an agent forecasts depends on both the retrieved evidence and the model, making control over that evidence essential for evaluation. Live evaluations can mix retrieval with reasoning when each system searches on its own, while retrospective sear",
+        "categories": [
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-11-17T16:44:38+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2611.22971v1",
+        "title": "SEAM: Computer-Use Agents Know the Harm Between Screens, and Commit It Anyway",
+        "url": "https://arxiv.org/abs/2611.22971v1",
+        "authors": [
+          "Yuxuan Zhou",
+          "Chen Xiong",
+          "Haitong Liu",
+          "Kuofeng Gao",
+          "Yang Bai",
+          "Zhiyuan He"
+        ],
+        "snippet": "Safety benchmarks for computer-use agents (CUAs) place the harm either in the intent of the task or on a single screen: a malicious instruction, an injected command, a phishing page. An agent that checks the task and each screen in isolation can pass them, so they do not test whether it combines facts seen on different screens. Yet in delegated work, harm often arises exactly this way: a fact abou",
+        "categories": [
+          "cs.CR",
+          "cs.AI"
+        ],
+        "published": "2026-11-17T15:53:58+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:reasoning",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2611.22670v1",
+        "title": "Worldviews in Large Language Models",
+        "url": "https://arxiv.org/abs/2611.22670v1",
+        "authors": [
+          "Edmundo Lopez-Sola",
+          "Shamil Chandaria",
+          "Ruben Laukkonen"
+        ],
+        "snippet": "Large language models (LLMs) are often described in terms of personas and this framing has become central to alignment research. In this paper, we argue that there is a deeper level of description that lies in the agent's worldviews, i.e., its beliefs about what reality is and how it works. Treating LLMs as a population of subjects, we administer two worldview surveys from human psychology to eigh",
+        "categories": [
+          "cs.AI",
+          "cs.CY"
+        ],
+        "published": "2026-11-17T12:24:19+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:alignment",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2611.22432v1",
+        "title": "Think Once, Act Fast: Cost-Effective Recursive Self-Improvement for Decision Model Harness",
+        "url": "https://arxiv.org/abs/2611.22432v1",
+        "authors": [
+          "Siqi Lai",
+          "Haitao Li",
+          "Hao Liu"
+        ],
+        "snippet": "Fast System-1 models enable responsive actions but struggle with complex or unfamiliar tasks. Large language model (LLM)-based System-2 provides strong reasoning capabilities, yet repeated invocation incurs substantial latency and computational costs. To bridge this gap, we propose JevRSI, a System-1/System-2 collaboration framework that transforms LLM reasoning into transferable decision support ",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-11-17T09:06:14+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:reasoning",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2611.23225v1",
+        "title": "StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics",
+        "url": "https://arxiv.org/abs/2611.23225v1",
+        "authors": [
+          "Xingyang Yu"
+        ],
+        "snippet": "We present StringQFT as a textbook collection for string constructions of quantum field theory and as infrastructure for AI-assisted theoretical physics. The collection comprises 18 volumes, 190 chapters and 3,795 pages, covering brane probes, brane webs, geometric engineering, F-theory constructions, wrapped M5-branes and exact worldsheet constructions. Its open-book benchmark inventory contains ",
+        "categories": [
+          "hep-th",
+          "cs.AI"
+        ],
+        "published": "2026-11-17T18:58:40+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:benchmark",
+          "keyword:retrieval",
+          "keyword:tool use"
+        ]
+      },
+      {
+        "id": "2611.23142v1",
+        "title": "Mind the Gap: A Deployed Multi-Agent System for Documentation Maintenance",
+        "url": "https://arxiv.org/abs/2611.23142v1",
+        "authors": [
+          "Lorenzo Masoero"
+        ],
+        "snippet": "The \"AI revolution\" has enabled teams across the technology industry to deliver software features at unprecedented velocity. While code evolves faster than ever, customer-facing documentation often struggles to stay up to speed. As users increasingly rely on LLM-based agents that consume documentation as their primary interface, the impact of this documentation gap worsens: stale information propa",
+        "categories": [
+          "cs.SE",
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-11-17T17:59:13+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2611.22973v1",
+        "title": "VITAL: A Framework for Validating Agentic AI in Pharmaceutical Drug Development and Clinical Trial Operations",
+        "url": "https://arxiv.org/abs/2611.22973v1",
+        "authors": [
+          "Sandeep Burugupalli",
+          "Pedro Matos-Filipe",
+          "Andrea Hita Ardiaca",
+          "Adam Taylor",
+          "Alex Grigorenko",
+          "Natalia Jakubiak"
+        ],
+        "snippet": "Current assurance approaches do not establish whether evidence is sufficient to validate, monitor and govern agentic artificial intelligence (AI) within a pharmaceutical context of use. Plausible outputs may conceal failures in retrieval, reasoning, orchestration or human-control points, where reference standards are unavailable. We developed and operationalised VITAL (Validation by Intended use, ",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-11-17T15:55:13+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agentic",
+          "keyword:reasoning",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2611.22935v1",
+        "title": "The Shared Word: Evaluating Language Models on Dutch Word Puzzles",
+        "url": "https://arxiv.org/abs/2611.22935v1",
+        "authors": [
+          "Rik van Noord",
+          "Maurice Voors"
+        ],
+        "snippet": "Many LLM benchmarks for languages other than English are translated, multiple-choice, or difficult to score automatically. We introduce The Shared Word (TSW-NL), a Dutch benchmark built around four core principles: it is language-specific, open-vocabulary, human-curated, and deterministically scored. Each puzzle gives three clues that describe different senses or uses of the same Dutch word. The c",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-11-17T15:30:26+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:reasoning",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2611.22880v1",
+        "title": "Learning Agent-Centric Vision-Language-Action World Models for Autonomous Driving",
+        "url": "https://arxiv.org/abs/2611.22880v1",
+        "authors": [
+          "Guoqing Wang",
+          "Pin Tang",
+          "Xiangxuan Ren",
+          "Chao Ma"
+        ],
+        "snippet": "Recent progress in integrating vision-language-action (VLA) models with world modeling has significantly advanced end-to-end autonomous driving by allowing systems to reason about imagined futures instead of merely reacting to current observations. However, most world VLA models generate future frames at the pixel level with plenty of dense visual tokens. Although such generated futures can be vis",
+        "categories": [
+          "cs.CV",
+          "cs.AI"
+        ],
+        "published": "2026-11-17T14:53:49+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:reasoning",
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2611.22726v1",
+        "title": "Stress Testing a Multimodal Large Language Model Grading Assistant on Kinematics Graph Reading",
+        "url": "https://arxiv.org/abs/2611.22726v1",
+        "authors": [
+          "Ons Zammel",
+          "Carlos Soares",
+          "Flávia Carvalhido",
+          "Gerd Kortemeyer"
+        ],
+        "snippet": "Multimodal large language models (MLLMs) can recognize graph features yet award credit without sufficient graphical support. This exploratory study examines selected grading outputs for synthetic responses to four kinematics exercises, generated through visual distortion and progressive transformation toward reference graphs. Different model and prompt configurations were used. Some judgments corr",
+        "categories": [
+          "physics.ed-ph",
+          "cs.AI"
+        ],
+        "published": "2026-11-17T13:00:23+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:large language model",
+          "keyword:multimodal",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2611.22661v1",
+        "title": "The Between-Round Decision in Autonomous Research: An LLM Controller That Reads the Whole Trajectory",
+        "url": "https://arxiv.org/abs/2611.22661v1",
+        "authors": [
+          "Caoxin Wang",
+          "Shengkai Gan",
+          "Xiang Hu",
+          "Lili Pan"
+        ],
+        "snippet": "Executing an idea often changes how promising it looks, so the next step in autonomous research should rest on results, not on proposals. After each round of experiments, the system must decide whether to refine the best solution or start a new direction, which solution to build from, and what goal to set. We call this the between-round decision. Existing systems wrap it in machinery such as rules",
+        "categories": [
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-11-17T12:20:01+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2611.22580v1",
+        "title": "AfriNORM: An Evaluation Benchmark for Normative Reasoning of LLMs Across African Cultures",
+        "url": "https://arxiv.org/abs/2611.22580v1",
+        "authors": [
+          "Ahmad Samuel Gali",
+          "Tadesse Destaw Belay",
+          "Idris Abdulmumin",
+          "Seid Muhie Yimam",
+          "Shamsuddeen Hassan Muhammad"
+        ],
+        "snippet": "Large language models (LLMs) are increasingly deployed across various sectors. However, current evaluation benchmarks are insufficient to assess the applicability of these models in local African contexts, as most focus on linguistic fluency (grammar/translation) rather than cultural competence. The few existing benchmarks that measure general knowledge or social conventions do not capture the Afr",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-11-17T11:04:36+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:reasoning",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2611.22575v1",
+        "title": "Do LLMs Understand Network Traces? A Comparative Study of Reasoning over Raw and Filtered Traffic Data",
+        "url": "https://arxiv.org/abs/2611.22575v1",
+        "authors": [
+          "Irene Gosálvez-White",
+          "Roberto Magán-Carrión",
+          "Carlota de la Vega-Soriano",
+          "Pedro García-Teodoro"
+        ],
+        "snippet": "The effective delivery and monitoring of ICT services rely heavily on network traffic analysis. However, interpreting complex packet captures remains a challenging task that requires substantial technical expertise. Large language models (LLMs) offer promising opportunities to automate network traffic in- vestigation, yet their reliability in packet-level field extraction and flow-level sequence r",
+        "categories": [
+          "cs.NI",
+          "cs.AI"
+        ],
+        "published": "2026-11-17T11:00:59+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:reasoning",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2611.22541v1",
+        "title": "From Perception to Simulation: Unveiling and Empowering Mental Spatial Dynamics in MLLMs",
+        "url": "https://arxiv.org/abs/2611.22541v1",
+        "authors": [
+          "Jiachun Li",
+          "Zhuoran Jin",
+          "Kang Liu",
+          "Jun Zhao"
+        ],
+        "snippet": "Spatial reasoning is a fundamental component of world understanding for Multimodal Large Language Models (MLLMs). While existing research has advanced the perception of spatial relations in static scenes, the domain of dynamic spatial simulation remains relatively unexplored. To bridge this gap, we introduce MentalGrid, a benchmark focused on spatial reasoning tasks that require models to simulate",
+        "categories": [
+          "cs.CV",
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-11-17T10:31:56+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2611.22539v1",
+        "title": "JET: Just-Enough Exploration Tuning for Efficient Tool-Calling Agents in Repository-Level Question Answering",
+        "url": "https://arxiv.org/abs/2611.22539v1",
+        "authors": [
+          "Yoonho Choi",
+          "Taehyeon Han",
+          "Seonghyeon Lee"
+        ],
+        "snippet": "In repository-level question answering (QA), an agent explores a code repository with tools and should answer a question once enough information is gathered. Nevertheless, we find that LLM agents often continue to invoke tools even after the gathered information is already sufficient to answer. We call this phenomenon over-exploration. Moreover, even though existing methods improve task performanc",
+        "categories": [
+          "cs.CL",
+          "cs.AI"
+        ],
+        "published": "2026-11-17T10:30:14+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2611.22511v1",
+        "title": "LMLineage: Content Lineage and Context Governance for LLM Agents",
+        "url": "https://arxiv.org/abs/2611.22511v1",
+        "authors": [
+          "Wei Hou",
+          "Jingxin Geng",
+          "Xin Chen",
+          "Zheqing Jiang"
+        ],
+        "snippet": "Interpretability for AI agents should not be confined to understanding the model's internal weights. It must also cover the agent's reasoning and decision-making process over multi-source context. We present LMLineage, an out-of-band system that attributes every output sentence of an agent session to its supporting input spans with calibrated confidences, without requiring white-box access to the ",
+        "categories": [
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-11-17T10:05:59+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2611.22485v1",
+        "title": "Growing Clusters Lower the Bar: Profile Accretion in LLM-Based Incremental Entity Resolution",
+        "url": "https://arxiv.org/abs/2611.22485v1",
+        "authors": [
+          "Huixue Han",
+          "Shangzhi Xu",
+          "Anqi Xiong",
+          "Yu-Chu Tian"
+        ],
+        "snippet": "Incremental entity resolution pipelines ask a large language model (LLM) whether a new record belongs to an existing cluster and show it the records already linked. Analyses of matching oracles assume that the answer depends only on the records compared. For the LLM matchers we test, it depends on cluster size, and the model lowers its bar for joining a cluster as the cluster grows. On French proc",
+        "categories": [
+          "cs.CL",
+          "cs.DB"
+        ],
+        "published": "2026-11-17T09:42:41+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2611.22464v1",
+        "title": "MAVE: Reconstructing Editable 3D Blockouts from Film Shots",
+        "url": "https://arxiv.org/abs/2611.22464v1",
+        "authors": [
+          "Yifan Chang",
+          "Jian Yang",
+          "Jiangnan Shao",
+          "Xiaofeng Wang",
+          "Zhaoxin Fan",
+          "Renjing Xu"
+        ],
+        "snippet": "Animated 3D blockouts support previsualization and provide structural conditions for video generation, but manually reconstructing them from reference videos is costly. This limits both their use by creators and the production of paired training data. We introduce MAVEBench, a benchmark of 50 film shots and 416 keyframes for evaluating camera motion, spatial layout, and character blocking. We prop",
+        "categories": [
+          "cs.CV",
+          "cs.AI"
+        ],
+        "published": "2026-11-17T09:25:47+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2611.22461v1",
+        "title": "Surfacing Disagreement Beats Resolving It: A Gated Ablation Study of Provenance-Weighted Memory for Multi-Agent Debate",
+        "url": "https://arxiv.org/abs/2611.22461v1",
+        "authors": [
+          "Ziaullah Khan",
+          "Abdul Rehman Khalid",
+          "Shrestha Nischal Lal",
+          "Nheng Vanchhay",
+          "Md Ariful Islam Mozumder",
+          "Hee-Cheol Kim"
+        ],
+        "snippet": "Shared memory for multi-agent debate is usually built to resolve inconsistency: retrieval returns one winning fact and the disagreement disappears before any agent sees it. We ask whether that is correct. In DebateGraph, four backends share one contract (read/write/snapshot), so five mechanisms from the agent-memory literature can be removed independently under a fixed budget, each gated on a pre-",
+        "categories": [
+          "cs.MA",
+          "cs.CL"
+        ],
+        "published": "2026-11-17T09:23:13+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:retrieval",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2611.22438v1",
+        "title": "Eyes in the Update? Learning Where Rewards Land in Multimodal Reasoning",
+        "url": "https://arxiv.org/abs/2611.22438v1",
+        "authors": [
+          "Lixuan He",
+          "Tianzhe Chu",
+          "Shulin Tian",
+          "Shikang Zheng",
+          "Feng Chen",
+          "Yi Ma"
+        ],
+        "snippet": "Multimodal post-training has moved from broad instruction tuning toward reinforcement learning for image and video reasoning, where outcome rewards can improve final-answer accuracy. Yet these rewards are assigned to complete generated trajectories, while visual evidence is used only at sparse and uneven positions inside the response. Recent work has begun to make multimodal RL more token-sensitiv",
+        "categories": [
+          "cs.LG",
+          "cs.AI"
+        ],
+        "published": "2026-11-17T09:11:42+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:multimodal",
+          "keyword:instruction tuning"
+        ]
+      },
+      {
+        "id": "2611.23229v1",
+        "title": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
+        "url": "https://arxiv.org/abs/2611.23229v1",
+        "authors": [
+          "Giannis Daras",
+          "Marios Papachristou",
+          "Adam Klivans",
+          "Antonio Torralba",
+          "Constantinos Daskalakis"
+        ],
+        "snippet": "Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets significantly smaller than those used for pre-training, which leads to overfitting and the catastrophic forgetting of the tails of the data distribution. To prevent this collapse, we introduce Ambient",
+        "categories": [
+          "cs.LG",
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-11-17T18:59:37+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2611.23228v1",
+        "title": "Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models",
+        "url": "https://arxiv.org/abs/2611.23228v1",
+        "authors": [
+          "Rui Ning",
+          "Om Chabra",
+          "Hari Balakrishnan"
+        ],
+        "snippet": "Applications such as visual accessibility agents and robotics require answering questions about recent video content promptly, over a bounded window of past frames (e.g., the last two minutes). Hybrid vision-language models (VLMs), which interleave attention with linear recurrent layers such as Gated DeltaNet (GDN), are attractive for this setting, but maintaining a sliding window is expensive. Th",
+        "categories": [
+          "cs.CV",
+          "cs.LG"
+        ],
+        "published": "2026-11-17T18:59:27+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2611.23219v1",
+        "title": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
+        "url": "https://arxiv.org/abs/2611.23219v1",
+        "authors": [
+          "Shobhita Sundaram",
+          "Cansu Sancaktar",
+          "Phillip Isola"
+        ],
+        "snippet": "LLM agents increasingly drive their own learning. Self-improvement methods delegate various components of model optimization to the models themselves. As models become more capable, this motivates a basic question: do these increasingly capable models still need us to specify how they should self-improve? In this paper we study an autonomous paradigm in which, given basic primitives, resources, an",
+        "categories": [
+          "cs.LG",
+          "cs.AI"
+        ],
+        "published": "2026-11-17T18:57:10+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "2611.23202v1",
+        "title": "Agent Trust Infrastructure (ATI): A Federated Identity, Trust, Attestation, and Accountability Architecture for Cross-Organization Autonomous AI Agents",
+        "url": "https://arxiv.org/abs/2611.23202v1",
+        "authors": [
+          "Viet K. Nguyen",
+          "Mohammad I. Husain"
+        ],
+        "snippet": "AI agents increasingly collaborate across organizational boundaries, invoking tools and interacting with agents operated by independent entities. Although existing agent frameworks support planning and coordination, they lack a common mechanism for verifying cross-organizational agent identity, execution integrity, and authorization. We propose the Agent Trust Infrastructure (ATI), a framework-ind",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-11-17T18:44:25+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2611.23192v1",
+        "title": "WoRD: Diffusion-Based Posterior Inference for Online Goal Recognition",
+        "url": "https://arxiv.org/abs/2611.23192v1",
+        "authors": [
+          "Almog Anschel",
+          "Sarah Keren"
+        ],
+        "snippet": "Goal recognition is the task of inferring an agent's intended goal from its observed behavior. Most existing work focuses on high-level symbolic recognition, abstracting away the continuous motion through which agents reach their goal. Methods that do reason over continuous trajectories rely on an explicit dynamics model that is hard to acquire and rarely transfers across settings. Neither approac",
+        "categories": [
+          "cs.AI",
+          "cs.LG",
+          "cs.RO"
+        ],
+        "published": "2026-11-17T18:35:53+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2611.23189v1",
+        "title": "Retrieval-Augmented Correction for Generalist Medical Image Segmentation",
+        "url": "https://arxiv.org/abs/2611.23189v1",
+        "authors": [
+          "Vincenzo Marcianò",
+          "Xiaoming Zhang",
+          "Michela Antonelli",
+          "Sebastien Ourselin",
+          "Maria A Zuluaga"
+        ],
+        "snippet": "Automated segmentation is routinely used as the first step in quantitative image-based clinical workflows, where predicted masks are subsequently reviewed and corrected by human operators. Automated correction of the residual structural errors is currently addressed one anatomy at a time, so the number of trained correctors scales with the number of segmentation targets. We present GRACE, a retrie",
+        "categories": [
+          "cs.CV",
+          "cs.AI"
+        ],
+        "published": "2026-11-17T18:33:42+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:multimodal",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2611.23129v1",
+        "title": "Where Should Physics Enter? Information, Identifiability and Calibration in Probabilistic Sea Surface Temperature Forecasting",
+        "url": "https://arxiv.org/abs/2611.23129v1",
+        "authors": [
+          "Parmitha Vangapandu",
+          "Jonnakuti Pavan Kumar",
+          "Sathwik Narkedimilli",
+          "MSVPJ Sathvik",
+          "T. M. Balakrishnan Nair",
+          "Santanu Bhattacharya"
+        ],
+        "snippet": "Advection-diffusion priors are a common way to make neural sea surface temperature (SST) forecasts physics-informed. We test where such a prior must enter a heteroscedastic ConvLSTM to help, using daily NOAA OISST v2.1 for the Bay of Bengal (1982-2024) and a synthetic benchmark on the same grid with known currents of controlled strength. (i) On real data, a soft advection-diffusion residual with a",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-11-17T17:46:47+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:benchmark",
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2611.23119v1",
+        "title": "Dynamic Task Allocation with Dialogue",
+        "url": "https://arxiv.org/abs/2611.23119v1",
+        "authors": [
+          "Matthew Groholski",
+          "Weiwei Gu",
+          "Nakul Gopalan"
+        ],
+        "snippet": "Effective multi-agent collaboration requires agents to adapt task allocation as goals and responsibilities evolve. Prior task-allocation frameworks often assume static goals, full observability, or rely on large language models (LLMs) without explicit, verifiable beliefs about task allocation or intent. These assumptions limit their applicability to real-world collaboration, where agents often lac",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-11-17T17:37:17+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent"
+        ]
+      }
+    ]
+  }
+}
