@@ -1,0 +1,398 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T19:54:29+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [],
+    "github": [
+      {
+        "id": "w01fb0ss/PiBot",
+        "title": "w01fb0ss/PiBot",
+        "url": "https://github.com/w01fb0ss/PiBot",
+        "description": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+        "stars": 143,
+        "language": "TypeScript",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "ai-agents",
+          "ai-assistant",
+          "android",
+          "automation",
+          "chatgpt",
+          "coding-agent"
+        ],
+        "created_at": "2026-11-21T06:54:24Z",
+        "score": 11.17,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp",
+          "keyword:assistant"
+        ]
+      },
+      {
+        "id": "setyamickala/airdrop-agent",
+        "title": "setyamickala/airdrop-agent",
+        "url": "https://github.com/setyamickala/airdrop-agent",
+        "description": "Autonomous airdrop operator: identities, wallets, socials, testnets, quests, radar — guarded CLI + MCP",
+        "stars": 96,
+        "language": "Python",
+        "topics": [
+          "airdrop",
+          "automation",
+          "cli",
+          "evm",
+          "mcp",
+          "playwright",
+          "python",
+          "solana"
+        ],
+        "created_at": "2026-11-19T07:56:28Z",
+        "score": 9.6,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp",
+          "keyword:autonomous"
+        ]
+      },
+      {
+        "id": "replit/amuse",
+        "title": "replit/amuse",
+        "url": "https://github.com/replit/amuse",
+        "description": "Self-hosted personal AI agent: research, a live browser, reminders and small apps, with approvals before actions. Runs on your own computer with an OpenAI key.",
+        "stars": 123,
+        "language": "TypeScript",
+        "topics": [
+          "ai-agent",
+          "browser-automation",
+          "openai",
+          "personal-assistant",
+          "postgresql",
+          "self-hosted",
+          "typescript"
+        ],
+        "created_at": "2026-11-19T04:34:09Z",
+        "score": 8.95,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:assistant"
+        ]
+      },
+      {
+        "id": "dmitrykurash/holospot",
+        "title": "dmitrykurash/holospot",
+        "url": "https://github.com/dmitrykurash/holospot",
+        "description": "The holographic materials of holo.spot for your own three.js scenes, made to be handed to an AI agent",
+        "stars": 205,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-11-17T13:38:59Z",
+        "score": 8.69,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "nickvasilescu/openman",
+        "title": "nickvasilescu/openman",
+        "url": "https://github.com/nickvasilescu/openman",
+        "description": "OpenMan: open-source autonomous AI agent workspace that runs on your Orgo cloud computer",
+        "stars": 98,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-11-19T20:42:12Z",
+        "score": 8.63,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:autonomous"
+        ]
+      },
+      {
+        "id": "Meteornyuspeed/ai--manus2.0",
+        "title": "Meteornyuspeed/ai--manus2.0",
+        "url": "https://github.com/Meteornyuspeed/ai--manus2.0",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 86,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-14T16:45:11Z",
+        "score": 8.44,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "ronintoadempty/ai--manus2.0",
+        "title": "ronintoadempty/ai--manus2.0",
+        "url": "https://github.com/ronintoadempty/ai--manus2.0",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 86,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-14T16:45:13Z",
+        "score": 8.44,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "massswanball/ai--manus",
+        "title": "massswanball/ai--manus",
+        "url": "https://github.com/massswanball/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 86,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-14T16:29:21Z",
+        "score": 8.44,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "mindduelistmotor/ai--manus",
+        "title": "mindduelistmotor/ai--manus",
+        "url": "https://github.com/mindduelistmotor/ai--manus",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 86,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-14T16:29:21Z",
+        "score": 8.44,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "PieceControl79/ai--manus2.0",
+        "title": "PieceControl79/ai--manus2.0",
+        "url": "https://github.com/PieceControl79/ai--manus2.0",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 86,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-14T16:45:12Z",
+        "score": 8.44,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "Navyzorsteal/ai--manus2.0",
+        "title": "Navyzorsteal/ai--manus2.0",
+        "url": "https://github.com/Navyzorsteal/ai--manus2.0",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 86,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-14T16:45:10Z",
+        "score": 8.44,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "shani-hamer/riverse-ai-agent",
+        "title": "shani-hamer/riverse-ai-agent",
+        "url": "https://github.com/shani-hamer/riverse-ai-agent",
+        "description": "Riverse AI Agent: On-Device Personal Agent with Persistent Memory and Offline Cognition",
+        "stars": 153,
+        "language": "HTML",
+        "topics": [
+          "circuit-breaker",
+          "huggingface-transformers",
+          "personal-ai",
+          "price-monitoring",
+          "price-tracker",
+          "river-algorithm",
+          "serper-dev"
+        ],
+        "created_at": "2026-11-15T20:32:46Z",
+        "score": 8.27,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "SamaEk111/exasol-agent-skills",
+        "title": "SamaEk111/exasol-agent-skills",
+        "url": "https://github.com/SamaEk111/exasol-agent-skills",
+        "description": "Exasol Agent Skills: Code-first AI agent skills Exasol",
+        "stars": 153,
+        "language": "Python",
+        "topics": [
+          "abogado",
+          "abogados",
+          "chile",
+          "chilean",
+          "codex-skills",
+          "derecho",
+          "derecho-laboral",
+          "exasol"
+        ],
+        "created_at": "2026-11-15T19:51:45Z",
+        "score": 8.27,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "bigtee9999/viruagent-cli",
+        "title": "bigtee9999/viruagent-cli",
+        "url": "https://github.com/bigtee9999/viruagent-cli",
+        "description": "AI agent CLI for blog, Naver Cafe, Instagram, X and Reddit automation - /viruagent-cli",
+        "stars": 153,
+        "language": "TypeScript",
+        "topics": [
+          "blog-automation",
+          "cafe-automation",
+          "naver",
+          "naver-blog",
+          "naver-cafe",
+          "publishing",
+          "reddit",
+          "tistory"
+        ],
+        "created_at": "2026-11-15T20:53:50Z",
+        "score": 8.27,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "MoritzPindorek/Five-Laws-of-AI-Agents",
+        "title": "MoritzPindorek/Five-Laws-of-AI-Agents",
+        "url": "https://github.com/MoritzPindorek/Five-Laws-of-AI-Agents",
+        "description": "Independent philosophical research on the Five Laws of AI Agents, delegated authority, non-entitlement and corrigibility. Zenodo DOI: 10.5281/zenodo.24417028",
+        "stars": 246,
+        "language": "HTML",
+        "topics": [],
+        "created_at": "2026-11-21T13:23:05Z",
+        "score": 7.95,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "oujingzhou/agent-interview-questions",
+        "title": "oujingzhou/agent-interview-questions",
+        "url": "https://github.com/oujingzhou/agent-interview-questions",
+        "description": "AI Agent Developer Interview Questions",
+        "stars": 120,
+        "language": null,
+        "topics": [
+          "agent",
+          "agent-interview"
+        ],
+        "created_at": "2026-11-16T12:34:28Z",
+        "score": 7.92,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "ridloabelian/waflare",
+        "title": "ridloabelian/waflare",
+        "url": "https://github.com/ridloabelian/waflare",
+        "description": "All-in-one Cloudflare Workers & WhatsApp OS unifying 27 open-source patterns: Dual-Mode MCP Server (28 tools), Self-Hosted CRM & 24h Inbox, Omnichannel AI Agent, SQL/RAG, Whisper/TTS Voice, Approval-Gated Cloudflare Ops & Plexi E2EE Key Transparency",
+        "stars": 17,
+        "language": "TypeScript",
+        "topics": [
+          "ai-agent",
+          "cloudflare",
+          "cloudflare-d1",
+          "cloudflare-workers",
+          "durable-objects",
+          "key-transparency",
+          "mcp-server",
+          "whatsapp"
+        ],
+        "created_at": "2026-11-19T16:31:47Z",
+        "score": 7.17,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp",
+          "keyword:rag"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
