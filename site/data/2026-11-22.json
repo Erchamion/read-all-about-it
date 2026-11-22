@@ -1,0 +1,450 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T20:06:29+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/index/perplexity-and-intelligence",
+        "title": "Perplexity and Intelligence",
+        "url": "https://openai.com/index/perplexity-and-intelligence",
+        "source": "openai",
+        "published": "2026-11-22T00:00:00+00:00",
+        "snippet": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+        "score": 1.0,
+        "signals": []
+      }
+    ],
+    "github": [
+      {
+        "id": "Cygnux-Labs/Tracekit",
+        "title": "Cygnux-Labs/Tracekit",
+        "url": "https://github.com/Cygnux-Labs/Tracekit",
+        "description": "Tracekit records what your AI agents do, decides each tool call before it runs, and gives you a signed record anyone can verify offline: tamper-evident tracing, policy gates and cross-checks for AI agents.",
+        "stars": 841,
+        "language": "Python",
+        "topics": [
+          "agent-security",
+          "ai-agents",
+          "ai-safety",
+          "audit-log",
+          "audit-trail",
+          "certificate-transparency",
+          "claude-code",
+          "guardrails"
+        ],
+        "created_at": "2026-09-26T11:33:11Z",
+        "score": 12.72,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "ThreatDefence/agentic-attack-detections",
+        "title": "ThreatDefence/agentic-attack-detections",
+        "url": "https://github.com/ThreatDefence/agentic-attack-detections",
+        "description": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1.",
+        "stars": 356,
+        "language": "Python",
+        "topics": [
+          "agentic-ai",
+          "ai-security",
+          "blue-team",
+          "defender-xdr",
+          "detection-engineering",
+          "ioc",
+          "kql",
+          "llm-security"
+        ],
+        "created_at": "2026-11-20T00:06:24Z",
+        "score": 10.48,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "yzsind/mydb",
+        "title": "yzsind/mydb",
+        "url": "https://github.com/yzsind/mydb",
+        "description": "A high-performance MySQL-compatible database for HTAP and AI agents  Mixed transactional and analytical workloads, with native AI retrieval.",
+        "stars": 95,
+        "language": "Rust",
+        "topics": [
+          "agent",
+          "data",
+          "database",
+          "mysql",
+          "rag",
+          "rust"
+        ],
+        "created_at": "2026-11-16T22:52:44Z",
+        "score": 8.58,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:rag"
+        ]
+      },
+      {
+        "id": "W4L33Dx/Cyber-Monster",
+        "title": "W4L33Dx/Cyber-Monster",
+        "url": "https://github.com/W4L33Dx/Cyber-Monster",
+        "description": "The ultimate cyber skill for an AI agent. One folder. One registered skill. A full red-team and blue-team arsenal behind it: offense, defense, forensics, detection, and the tools that build both.",
+        "stars": 76,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-11-15T20:21:47Z",
+        "score": 8.27,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "detailedinc/FREE-AI-AGENT-CODER",
+        "title": "detailedinc/FREE-AI-AGENT-CODER",
+        "url": "https://github.com/detailedinc/FREE-AI-AGENT-CODER",
+        "description": "FREE AI AGENT CODER – Free Cloud-Based AI Programmer for Windows  FREE AI AGENT CODER is a free, cloud-based AI programming assistant designed to make software development easier, faster, and more accessible. This lightweight AI agent allows users to work with artificial intelligence for programming",
+        "stars": 64,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-11-21T16:03:04Z",
+        "score": 8.02,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:assistant"
+        ]
+      },
+      {
+        "id": "byttrade/free-crypto-trading-bot",
+        "title": "byttrade/free-crypto-trading-bot",
+        "url": "https://github.com/byttrade/free-crypto-trading-bot",
+        "description": "Free crypto trading bot by BYTtrade: 4 backtested 4h trend-following strategies for perpetual futures, reproducible backtest, web panel, 11 exchanges, AI-agent API. Demo first. High risk.",
+        "stars": 59,
+        "language": "Python",
+        "topics": [
+          "ai-agents",
+          "algorithmic-trading",
+          "backtesting",
+          "binance",
+          "bitget",
+          "bybit",
+          "crypto-trading-bot",
+          "cryptocurrency"
+        ],
+        "created_at": "2026-11-20T14:56:36Z",
+        "score": 7.91,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "AntikvarX/ai--manus2.0",
+        "title": "AntikvarX/ai--manus2.0",
+        "url": "https://github.com/AntikvarX/ai--manus2.0",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 52,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-17T17:31:29Z",
+        "score": 7.73,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "eluyonga/ai--manus2.0",
+        "title": "eluyonga/ai--manus2.0",
+        "url": "https://github.com/eluyonga/ai--manus2.0",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 52,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-17T17:31:28Z",
+        "score": 7.73,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "kazim768/ai--manus2.0",
+        "title": "kazim768/ai--manus2.0",
+        "url": "https://github.com/kazim768/ai--manus2.0",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 52,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-17T17:31:29Z",
+        "score": 7.73,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "Sorsax/ai--manus2.0",
+        "title": "Sorsax/ai--manus2.0",
+        "url": "https://github.com/Sorsax/ai--manus2.0",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 52,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-17T17:31:29Z",
+        "score": 7.73,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "alphafalcongamer-creator/ai--manus2.0",
+        "title": "alphafalcongamer-creator/ai--manus2.0",
+        "url": "https://github.com/alphafalcongamer-creator/ai--manus2.0",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 52,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-17T17:31:28Z",
+        "score": 7.73,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "Andriy-samp/ai--manus2.0",
+        "title": "Andriy-samp/ai--manus2.0",
+        "url": "https://github.com/Andriy-samp/ai--manus2.0",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 52,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-17T17:31:29Z",
+        "score": 7.73,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "Hypertrainer-The-First/ai--manus2.0",
+        "title": "Hypertrainer-The-First/ai--manus2.0",
+        "url": "https://github.com/Hypertrainer-The-First/ai--manus2.0",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 52,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-17T17:31:29Z",
+        "score": 7.73,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "abodeahsz00az-cmd/ai--manus2.0",
+        "title": "abodeahsz00az-cmd/ai--manus2.0",
+        "url": "https://github.com/abodeahsz00az-cmd/ai--manus2.0",
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 52,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "created_at": "2026-11-17T17:31:33Z",
+        "score": 7.73,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "xtong629/trellis-agent",
+        "title": "xtong629/trellis-agent",
+        "url": "https://github.com/xtong629/trellis-agent",
+        "description": "Small Python agent framework where planning and memory are measurable: eval-first, cost-capped, mock-testable. ",
+        "stars": 61,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-11-17T13:22:40Z",
+        "score": 6.95,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "w1ccc/sap-data-mcp",
+        "title": "w1ccc/sap-data-mcp",
+        "url": "https://github.com/w1ccc/sap-data-mcp",
+        "description": "Read-only MCP servers that let AI assistants query SAP S/4HANA through RFC/BAPI, private-cloud OData and public-cloud released APIs. Every call audited; credentials stay local.",
+        "stars": 22,
+        "language": "Python",
+        "topics": [
+          "ai-agents",
+          "bapi",
+          "erp",
+          "llm",
+          "mcp",
+          "mcp-server",
+          "model-context-protocol",
+          "odata"
+        ],
+        "created_at": "2026-11-20T15:15:23Z",
+        "score": 6.52,
+        "signals": [
+          "new",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "plannotator/talkto",
+        "title": "plannotator/talkto",
+        "url": "https://github.com/plannotator/talkto",
+        "description": "Message boards for AI agents. For your distributed agents, or invite your team's agents.",
+        "stars": 68,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-11-20T12:57:29Z",
+        "score": 6.11,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "SAIoden/crm",
+        "title": "SAIoden/crm",
+        "url": "https://github.com/SAIoden/crm",
+        "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
+        "stars": 47,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-11-19T14:31:20Z",
+        "score": 5.58,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "AverageArc/assembly-guide",
+        "title": "AverageArc/assembly-guide",
+        "url": "https://github.com/AverageArc/assembly-guide",
+        "description": "Open a STEP assembly and get an animated, editable build guide with a printable instruction sheet and a shareable read-only page. Runs in the browser, nothing is uploaded. Includes Claude skills for Fusion 360.",
+        "stars": 33,
+        "language": "HTML",
+        "topics": [],
+        "created_at": "2026-11-21T04:30:29Z",
+        "score": 5.09,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "aiwithremy/session-skill-audit",
+        "title": "aiwithremy/session-skill-audit",
+        "url": "https://github.com/aiwithremy/session-skill-audit",
+        "description": "A Claude skill that finds what actually caused each mistake in a session, and fixes your skills by deleting as often as adding.",
+        "stars": 16,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-11-18T03:08:23Z",
+        "score": 5.09,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
