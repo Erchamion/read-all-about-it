@@ -1,9 +1,49 @@
 {
   "date": "2026-11-24",
-  "generated_at": "2026-11-24T00:33:14+00:00",
+  "generated_at": "2026-11-24T22:53:10+00:00",
   "errors": [],
   "categories": {
     "announcements": [
+      {
+        "id": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+        "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+        "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+        "source": "openai",
+        "published": "2026-11-24T13:00:00+00:00",
+        "snippet": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/index/searching-for-distant-planets-with-astra",
+        "title": "Searching for distant planets with Astra",
+        "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+        "source": "openai",
+        "published": "2026-11-24T11:00:00+00:00",
+        "snippet": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/business/customer-stories/intentful-dots",
+        "title": "How Intentful uses dots to make more time for growth",
+        "url": "https://openai.com/business/customer-stories/intentful-dots",
+        "source": "openai",
+        "published": "2026-11-24T00:00:00+00:00",
+        "snippet": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/business/customer-stories/ifood",
+        "title": "How iFood scales coding agents across 15,000 repositories",
+        "url": "https://openai.com/business/customer-stories/ifood",
+        "source": "openai",
+        "published": "2026-11-24T00:00:00+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
       {
         "id": "https://openai.com/index/introducing-shirudo",
         "title": "OpenAI and Cisco introduce Shirudo",
@@ -35,6 +75,16 @@
         "signals": []
       },
       {
+        "id": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+        "title": "How Gemini is changing the game for Golden State's organization and fans.",
+        "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+        "source": "google-ai",
+        "published": "2026-11-24T16:00:00+00:00",
+        "snippet": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
         "id": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
         "title": "A more tailored Google Search that’s uniquely yours",
         "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
@@ -55,6 +105,30 @@
         "signals": []
       },
       {
+        "id": "https://www.microsoft.com/en-us/education/blog/2026/11/how-higher-education-leaders-can-turn-institutional-intelligence-into-impact/",
+        "title": "3 questions that can help universities turn AI experiments into results",
+        "url": "https://www.microsoft.com/en-us/education/blog/2026/11/how-higher-education-leaders-can-turn-institutional-intelligence-into-impact/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://techcommunity.microsoft.com/blog/microsoft-discovery-blog/three-things-you-should-know-about-microsoft-discovery/4574970",
+        "title": "How Microsoft Discovery helps scientists learn from failure and find new possibilities",
+        "url": "https://techcommunity.microsoft.com/blog/microsoft-discovery-blog/three-things-you-should-know-about-microsoft-discovery/4574970",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
         "id": "https://blogs.microsoft.com/on-the-issues/2026/11/19/security-fundamentals-to-enable-the-frontier/",
         "title": "4 cybersecurity steps every organization should take in the age of AI",
         "url": "https://blogs.microsoft.com/on-the-issues/2026/11/19/security-fundamentals-to-enable-the-frontier/",
@@ -65,6 +139,16 @@
         "signals": [
           "scraped"
         ]
+      },
+      {
+        "id": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+        "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+        "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+        "source": "huggingface",
+        "published": "2026-11-24T16:34:13+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
       },
       {
         "id": "https://huggingface.co/blog/allenai/robotrack",
@@ -93,7 +177,7 @@
         "title": "XinaTian/MROffice",
         "url": "https://github.com/XinaTian/MROffice",
         "description": "MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor edits real Word, Excel and PowerPoint files with you; an MCP server lets Claude, ChatGPT, Cursor and Codex create and e",
-        "stars": 2784,
+        "stars": 3756,
         "language": "TypeScript",
         "topics": [
           "ai",
@@ -106,7 +190,7 @@
           "docx"
         ],
         "created_at": "2026-11-10T17:54:07Z",
-        "score": 14.44,
+        "score": 14.88,
         "signals": [
           "rising",
           "keyword:agent",
@@ -119,7 +203,7 @@
         "title": "erkamyaman/safe-anything",
         "url": "https://github.com/erkamyaman/safe-anything",
         "description": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
-        "stars": 490,
+        "stars": 622,
         "language": "Rust",
         "topics": [
           "ai-agents",
@@ -132,7 +216,32 @@
           "mcp"
         ],
         "created_at": "2026-11-22T16:44:10Z",
-        "score": 10.94,
+        "score": 11.28,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "Developing-Gamer/agent-sim",
+        "title": "Developing-Gamer/agent-sim",
+        "url": "https://github.com/Developing-Gamer/agent-sim",
+        "description": "iOS simulators for AI agents, on Linux. The agent layer for x86Sim.",
+        "stars": 542,
+        "language": "Rust",
+        "topics": [
+          "ai-agents",
+          "claude-code",
+          "ios",
+          "ios-simulator",
+          "linux",
+          "mcp",
+          "mobile-testing",
+          "testing"
+        ],
+        "created_at": "2026-11-21T20:26:12Z",
+        "score": 11.08,
         "signals": [
           "new",
           "keyword:agent",
@@ -144,7 +253,7 @@
         "title": "21stware/bowel",
         "url": "https://github.com/21stware/bowel",
         "description": "Native mihomo (Clash Meta) client for macOS, Windows, Linux & Android: GPU-rendered Go UI, no Electron or WebView. Rules, TUN, gateway mode, CLI/TUI and a built-in MCP server.",
-        "stars": 629,
+        "stars": 654,
         "language": "Go",
         "topics": [
           "android",
@@ -157,7 +266,28 @@
           "linux"
         ],
         "created_at": "2026-11-07T17:45:52Z",
-        "score": 10.3,
+        "score": 10.36,
+        "signals": [
+          "rising",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "SXP-Simon/Panache",
+        "title": "SXP-Simon/Panache",
+        "url": "https://github.com/SXP-Simon/Panache",
+        "description": "「予你勇气，写你所想」Design and export handwritten pages with your choice of paper, ink, and layout,  through a local MCP server with AI assistants. Panache turn notes, LaTeX math, tables, diagrams and thoughts into pages.",
+        "stars": 541,
+        "language": "Dart",
+        "topics": [
+          "flutter",
+          "handwriting-converter",
+          "handwriting-generator",
+          "handwriting-simulator",
+          "rust"
+        ],
+        "created_at": "2026-09-30T13:59:31Z",
+        "score": 10.08,
         "signals": [
           "rising",
           "keyword:mcp"
@@ -168,7 +298,7 @@
         "title": "seira-bot/seira",
         "url": "https://github.com/seira-bot/seira",
         "description": "Your own team of AI agents in one chat app. Run Claude Code, Codex, Gemini, Cursor, Copilot, and 25+ more engines as bots, with approvals. Local first, open source.",
-        "stars": 31,
+        "stars": 32,
         "language": "TypeScript",
         "topics": [
           "agent-client-protocol",
@@ -181,7 +311,7 @@
           "codex"
         ],
         "created_at": "2026-11-18T03:50:06Z",
-        "score": 10.0,
+        "score": 10.04,
         "signals": [
           "new",
           "keyword:agent",
@@ -223,39 +353,14 @@
         "title": "tarqmamdouh/agent-theater",
         "url": "https://github.com/tarqmamdouh/agent-theater",
         "description": "Your AI agents, live on a pixel-art stage. Works with Claude Code.",
-        "stars": 172,
+        "stars": 176,
         "language": "JavaScript",
         "topics": [],
         "created_at": "2026-11-20T21:41:37Z",
-        "score": 8.43,
+        "score": 8.47,
         "signals": [
           "new",
           "keyword:agent"
-        ]
-      },
-      {
-        "id": "Developing-Gamer/agent-sim",
-        "title": "Developing-Gamer/agent-sim",
-        "url": "https://github.com/Developing-Gamer/agent-sim",
-        "description": "iOS simulators for AI agents, on Linux",
-        "stars": 70,
-        "language": "Rust",
-        "topics": [
-          "ai-agents",
-          "claude-code",
-          "ios",
-          "ios-simulator",
-          "linux",
-          "mcp",
-          "mobile-testing",
-          "testing"
-        ],
-        "created_at": "2026-11-21T20:26:12Z",
-        "score": 8.15,
-        "signals": [
-          "new",
-          "keyword:agent",
-          "keyword:mcp"
         ]
       },
       {
@@ -263,7 +368,7 @@
         "title": "drtikov/microbrainsforagents",
         "url": "https://github.com/drtikov/microbrainsforagents",
         "description": "Sub-2ms CPU safety shield & smart tool router for AI agents (Claude Code, MCP). Stops bugs, destructive shell commands, and leaked secrets before execution—saving tokens, money, and your machine.",
-        "stars": 32,
+        "stars": 38,
         "language": "Python",
         "topics": [
           "ai-agents",
@@ -276,7 +381,7 @@
           "micro-transformer"
         ],
         "created_at": "2026-11-17T21:09:58Z",
-        "score": 8.04,
+        "score": 8.29,
         "signals": [
           "new",
           "keyword:llm",
@@ -285,11 +390,60 @@
         ]
       },
       {
+        "id": "brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning",
+        "title": "brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning",
+        "url": "https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning",
+        "description": "Biosignal-guided reinforcement learning for LLM agents: offline organoid neural recordings as policy inputs in a Godot survival game, with paired evaluation.",
+        "stars": 141,
+        "language": "Python",
+        "topics": [
+          "biosignals",
+          "electrophysiology",
+          "godot",
+          "language-models",
+          "llm",
+          "llm-agents",
+          "microelectrode-arrays",
+          "neural-signals"
+        ],
+        "created_at": "2026-11-24T02:39:01Z",
+        "score": 8.15,
+        "signals": [
+          "new",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "scrolltide/ai-studio-skill",
+        "title": "scrolltide/ai-studio-skill",
+        "url": "https://github.com/scrolltide/ai-studio-skill",
+        "description": "Free Claude skill for websites that move when you scroll: scroll films, layered parallax, self-drawing paths. Built from the real source of Scrolltide builds and checked at scroll checkpoints on desktop and phone.",
+        "stars": 54,
+        "language": "JavaScript",
+        "topics": [
+          "agent-skills",
+          "ai-website-builder",
+          "anthropic",
+          "claude-code",
+          "claude-code-plugin",
+          "claude-skills",
+          "frame-sequence",
+          "frontend"
+        ],
+        "created_at": "2026-11-23T15:23:25Z",
+        "score": 7.78,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
         "id": "tracebit-com/turingpot",
         "title": "tracebit-com/turingpot",
         "url": "https://github.com/tracebit-com/turingpot",
         "description": "An open-source AI agent honeypot proof of concept for investigating ARTEX and other autonomous offensive frameworks (AOFs).",
-        "stars": 48,
+        "stars": 50,
         "language": "JavaScript",
         "topics": [
           "ai-agents",
@@ -302,7 +456,7 @@
           "honeypot"
         ],
         "created_at": "2026-11-19T17:04:07Z",
-        "score": 7.61,
+        "score": 7.67,
         "signals": [
           "new",
           "keyword:agent",
@@ -310,15 +464,52 @@
         ]
       },
       {
+        "id": "mromidev/claude-blender-skills",
+        "title": "mromidev/claude-blender-skills",
+        "url": "https://github.com/mromidev/claude-blender-skills",
+        "description": "Free Claude skills for realistic Blender animations: full workflows + the real scripts behind my YouTube videos",
+        "stars": 201,
+        "language": "Python",
+        "topics": [
+          "3d-animation",
+          "blender",
+          "blender-python",
+          "claude",
+          "claude-code",
+          "claude-skills",
+          "cycles"
+        ],
+        "created_at": "2026-10-25T15:20:29Z",
+        "score": 7.66,
+        "signals": [
+          "rising"
+        ]
+      },
+      {
+        "id": "Allencake/mit-trader-skill",
+        "title": "Allencake/mit-trader-skill",
+        "url": "https://github.com/Allencake/mit-trader-skill",
+        "description": "把 MIT 18.S096 公开课里的量化方法做成 Claude skill：回测三关 + GARCH 止损 + Kelly 仓位 + VaR，默认模拟账本",
+        "stars": 88,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-11-24T03:13:53Z",
+        "score": 7.48,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
         "id": "longhaiqwe/uw-mode",
         "title": "longhaiqwe/uw-mode",
         "url": "https://github.com/longhaiqwe/uw-mode",
         "description": "Universal Wisdom Mode (uw-mode): A practical four-stage decision and workflow skill for AI agents.",
-        "stars": 34,
+        "stars": 38,
         "language": null,
         "topics": [],
         "created_at": "2026-11-19T13:05:13Z",
-        "score": 7.13,
+        "score": 7.29,
         "signals": [
           "new",
           "keyword:workflow",
@@ -326,11 +517,75 @@
         ]
       },
       {
+        "id": "machinepulse-ai/karpo-browser",
+        "title": "machinepulse-ai/karpo-browser",
+        "url": "https://github.com/machinepulse-ai/karpo-browser",
+        "description": "A browser for AI agents: a decision model (System 1) does the steps on the page, your agent (System 2) plans, reads and answers",
+        "stars": 68,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-11-20T17:43:38Z",
+        "score": 7.11,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "NguyenQuocDat06-AI/kaggle-shell-mcp",
+        "title": "NguyenQuocDat06-AI/kaggle-shell-mcp",
+        "url": "https://github.com/NguyenQuocDat06-AI/kaggle-shell-mcp",
+        "description": "Turn free 12h Kaggle Dual-T4 GPUs into live remote terminals & detached job runners for AI Agents via MCP.",
+        "stars": 30,
+        "language": "Python",
+        "topics": [
+          "ai-agent",
+          "gpu",
+          "kaggle",
+          "mcp",
+          "model-context-protocol",
+          "pytorch",
+          "remote-terminal"
+        ],
+        "created_at": "2026-11-24T08:36:57Z",
+        "score": 6.95,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "zgraham1981/MCP-Server-Lighter",
+        "title": "zgraham1981/MCP-Server-Lighter",
+        "url": "https://github.com/zgraham1981/MCP-Server-Lighter",
+        "description": "MCP server for Lighter — a Model Context Protocol server that lets Claude, Cursor and Cline query Lighter (lighter.xyz) volume, points, rank and airdrop eligibility in natural language. Read-only — public endpoints only, no keys. Unofficial community project, not affiliated with Lighter.",
+        "stars": 30,
+        "language": "Python",
+        "topics": [
+          "ai-trade",
+          "airdrop-dashboard-lighter",
+          "codex-mcp",
+          "lighter-airdrop-analytics",
+          "lighter-api-mcp",
+          "lighter-dex-airdrop-tracker",
+          "mcp-client-lighter",
+          "mcp-sdk-lighter"
+        ],
+        "created_at": "2026-11-19T00:24:58Z",
+        "score": 6.95,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
         "id": "chongyangzhang92-hub/Sol-Next",
         "title": "chongyangzhang92-hub/Sol-Next",
         "url": "https://github.com/chongyangzhang92-hub/Sol-Next",
         "description": "Sol Next: Ultra-fast Android AI phone agent built upon Mika (Apache-2.0) — Rust v3.10 UI pruning, 1:1 native background VirtualDisplay, HTTP/3 QUIC, 64-round anti-pause engine, BYOK AI phone calls & MCP Server (zero built-in API keys). 基于 Mika 重构的极速安卓 AI 手机助理。",
-        "stars": 20,
+        "stars": 28,
         "language": "Python",
         "topics": [
           "agent-ready",
@@ -343,7 +598,7 @@
           "deepseek"
         ],
         "created_at": "2026-11-21T16:40:39Z",
-        "score": 6.39,
+        "score": 6.86,
         "signals": [
           "new",
           "keyword:agent",
@@ -351,11 +606,108 @@
         ]
       },
       {
+        "id": "kristofermeyer9-cloud/coregold-usdt-vcc-agentic-ai-billing-finops-deep-dive",
+        "title": "kristofermeyer9-cloud/coregold-usdt-vcc-agentic-ai-billing-finops-deep-dive",
+        "url": "https://github.com/kristofermeyer9-cloud/coregold-usdt-vcc-agentic-ai-billing-finops-deep-dive",
+        "description": "A deep-dive FinOps guide on protecting metered AI agent workflows against Stripe Radar declines and runaway auto-topup charges using CoreGold US-issued virtual cards, USDT (TRC20) funding, and Apple Pay / Google Pay tokenization.",
+        "stars": 48,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-11-20T07:56:53Z",
+        "score": 6.61,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "hustcsking/ibbd-benchmark",
+        "title": "hustcsking/ibbd-benchmark",
+        "url": "https://github.com/hustcsking/ibbd-benchmark",
+        "description": "Benchmark for evaluating query-conditioned execution risk in LLM agents.",
+        "stars": 48,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-11-24T07:28:18Z",
+        "score": 6.61,
+        "signals": [
+          "new",
+          "keyword:llm"
+        ]
+      },
+      {
+        "id": "anandapurva55/multi-cloud-mcp-server",
+        "title": "anandapurva55/multi-cloud-mcp-server",
+        "url": "https://github.com/anandapurva55/multi-cloud-mcp-server",
+        "description": "Generic MCP server for GCP and AWS: bring your own project/account, query BigQuery/Athena, inspect Cloud Build/CodeBuild, Cloud Run/ECS/Lambda logs",
+        "stars": 45,
+        "language": "Python",
+        "topics": [
+          "athena",
+          "aws",
+          "bigquery",
+          "cloudbuild",
+          "cloudrun",
+          "codebuild",
+          "ecs",
+          "gcp"
+        ],
+        "created_at": "2026-11-18T06:11:35Z",
+        "score": 6.52,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "sojibyyy6-lab/coregold-usdt-vcc-payment-concepts-knowledge-guide",
+        "title": "sojibyyy6-lab/coregold-usdt-vcc-payment-concepts-knowledge-guide",
+        "url": "https://github.com/sojibyyy6-lab/coregold-usdt-vcc-payment-concepts-knowledge-guide",
+        "description": "Inspired by November 2026 AI workflow and digital payment trends, this guide explains practical concepts—BIN categories, AVS billing consistency, TRC20 funding, and wallet verification—with a simple CoreGold tutorial.",
+        "stars": 43,
+        "language": null,
+        "topics": [
+          "avs",
+          "coregold",
+          "usdt",
+          "vcc"
+        ],
+        "created_at": "2026-11-20T09:17:57Z",
+        "score": 6.46,
+        "signals": [
+          "new",
+          "keyword:workflow"
+        ]
+      },
+      {
+        "id": "bisnishub/fleetnotch",
+        "title": "bisnishub/fleetnotch",
+        "url": "https://github.com/bisnishub/fleetnotch",
+        "description": "Your whole fleet, in the notch. Every Mac, server, AI agent and AI subscription at a glance — native macOS, read-only.",
+        "stars": 42,
+        "language": "Swift",
+        "topics": [
+          "ai-agents",
+          "claude",
+          "fleet-monitoring",
+          "macos",
+          "menubar",
+          "notch",
+          "swiftui"
+        ],
+        "created_at": "2026-11-23T20:17:27Z",
+        "score": 6.43,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
         "id": "chenx5452321/ysm-ai-engine",
         "title": "chenx5452321/ysm-ai-engine",
         "url": "https://github.com/chenx5452321/ysm-ai-engine",
         "description": "Procedural Minecraft Yes Steve Model (YSM) 2.6.0 modeling, SSAO software rendering, WebGL2 3D viewer, and validation engine built for AI agents.",
-        "stars": 35,
+        "stars": 42,
         "language": "Python",
         "topics": [
           "3d-rendering",
@@ -368,60 +720,53 @@
           "yes-steve-model"
         ],
         "created_at": "2026-11-19T16:15:23Z",
-        "score": 6.17,
+        "score": 6.43,
         "signals": [
           "new",
           "keyword:agent"
         ]
       },
       {
-        "id": "kristofermeyer9-cloud/coregold-usdt-vcc-agentic-ai-billing-finops-deep-dive",
-        "title": "kristofermeyer9-cloud/coregold-usdt-vcc-agentic-ai-billing-finops-deep-dive",
-        "url": "https://github.com/kristofermeyer9-cloud/coregold-usdt-vcc-agentic-ai-billing-finops-deep-dive",
-        "description": "A deep-dive FinOps guide on protecting metered AI agent workflows against Stripe Radar declines and runaway auto-topup charges using CoreGold US-issued virtual cards, USDT (TRC20) funding, and Apple Pay / Google Pay tokenization.",
-        "stars": 32,
-        "language": null,
-        "topics": [],
-        "created_at": "2026-11-20T07:56:53Z",
-        "score": 6.04,
-        "signals": [
-          "new",
-          "keyword:agent"
-        ]
-      },
-      {
-        "id": "machinepulse-ai/karpo-browser",
-        "title": "machinepulse-ai/karpo-browser",
-        "url": "https://github.com/machinepulse-ai/karpo-browser",
-        "description": "A browser for AI agents: a decision model (System 1) does the steps on the page, your agent (System 2) plans, reads and answers",
-        "stars": 27,
-        "language": "TypeScript",
-        "topics": [],
-        "created_at": "2026-11-20T17:43:38Z",
-        "score": 5.81,
-        "signals": [
-          "new",
-          "keyword:agent"
-        ]
-      },
-      {
-        "id": "sojibyyy6-lab/coregold-usdt-vcc-payment-concepts-knowledge-guide",
-        "title": "sojibyyy6-lab/coregold-usdt-vcc-payment-concepts-knowledge-guide",
-        "url": "https://github.com/sojibyyy6-lab/coregold-usdt-vcc-payment-concepts-knowledge-guide",
-        "description": "Inspired by November 2026 AI workflow and digital payment trends, this guide explains practical concepts—BIN categories, AVS billing consistency, TRC20 funding, and wallet verification—with a simple CoreGold tutorial.",
-        "stars": 27,
+        "id": "livrospoderosospro-prog/coregold-usdt-vcc-visa-ai-agent-claude-gemini-billing-guide",
+        "title": "livrospoderosospro-prog/coregold-usdt-vcc-visa-ai-agent-claude-gemini-billing-guide",
+        "url": "https://github.com/livrospoderosospro-prog/coregold-usdt-vcc-visa-ai-agent-claude-gemini-billing-guide",
+        "description": "最近 Visa 刚放出受信任 AI 代理支付试点，另一边 Claude Fable 5.2 和 Gemini 4 Carbon 又把开发者的调参热情拉满了——聊聊这波热点背后，普通人用 VCC 过 Stripe 和 AVS 的真实门道。",
+        "stars": 37,
         "language": null,
         "topics": [
           "avs",
+          "chatgpt",
           "coregold",
-          "usdt",
-          "vcc"
+          "vcc",
+          "visa"
         ],
-        "created_at": "2026-11-20T09:17:57Z",
-        "score": 5.81,
+        "created_at": "2026-11-23T06:33:49Z",
+        "score": 6.25,
         "signals": [
           "new",
-          "keyword:workflow"
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "montimazumder14-del/coregold-usdt-vcc-visa-ai-agent-claude-gemini-checkout-guide",
+        "title": "montimazumder14-del/coregold-usdt-vcc-visa-ai-agent-claude-gemini-checkout-guide",
+        "url": "https://github.com/montimazumder14-del/coregold-usdt-vcc-visa-ai-agent-claude-gemini-checkout-guide",
+        "description": "Connecting Visa's commercial VCC pilot for trusted AI agents with November 2026 model releases like Claude Fable 5.2 and Gemini 4 Carbon—practical tips for clearing AI subscriptions via USDT and Apple Pay.",
+        "stars": 30,
+        "language": null,
+        "topics": [
+          "apple",
+          "coregold",
+          "google",
+          "google-maps-api",
+          "googlepay",
+          "vcc"
+        ],
+        "created_at": "2026-11-23T08:09:09Z",
+        "score": 5.95,
+        "signals": [
+          "new",
+          "keyword:agent"
         ]
       },
       {
@@ -429,7 +774,7 @@
         "title": "Nhat-Nguyet/nhatnguyet-lunar-ziwei-bazi-numerology",
         "url": "https://github.com/Nhat-Nguyet/nhatnguyet-lunar-ziwei-bazi-numerology",
         "description": "Lunisolar calendar, Zi Wei Dou Shu, BaZi, numerology, I Ching and feng shui for JavaScript and Python: astronomically accurate (NASA, IMCCE), country-aware (China, Korea, Japan, Vietnam and 7 more), results in English, Chinese and Vietnamese. MCP server for AI, 17,291 shared test vectors, open datas",
-        "stars": 26,
+        "stars": 30,
         "language": "TypeScript",
         "topics": [
           "bazi",
@@ -442,24 +787,25 @@
           "korean-calendar"
         ],
         "created_at": "2026-11-19T03:07:16Z",
-        "score": 5.75,
+        "score": 5.95,
         "signals": [
           "new",
           "keyword:mcp"
         ]
       },
       {
-        "id": "AlodiumProtocol/crm",
-        "title": "AlodiumProtocol/crm",
-        "url": "https://github.com/AlodiumProtocol/crm",
-        "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
-        "stars": 51,
-        "language": "TypeScript",
+        "id": "laloli2145-star/coregold-usdt-vcc-system-resilience-agent-security-isolation-guide",
+        "title": "laloli2145-star/coregold-usdt-vcc-system-resilience-agent-security-isolation-guide",
+        "url": "https://github.com/laloli2145-star/coregold-usdt-vcc-system-resilience-agent-security-isolation-guide",
+        "description": "Reflecting on recent global tech outages and CrowdStrike's push into AI agent security, this guide explains how isolating virtual cards protects your AI subscriptions and cloud tools from single-point failures.",
+        "stars": 28,
+        "language": null,
         "topics": [],
-        "created_at": "2026-11-19T14:31:20Z",
-        "score": 5.7,
+        "created_at": "2026-11-23T08:28:24Z",
+        "score": 5.86,
         "signals": [
-          "new"
+          "new",
+          "keyword:agent"
         ]
       },
       {
@@ -467,14 +813,43 @@
         "title": "Peteroooooooo/remote-control",
         "url": "https://github.com/Peteroooooooo/remote-control",
         "description": "Single-exe Windows remote desktop, shell and AI Agent control over P2P.",
-        "stars": 23,
+        "stars": 27,
         "language": "Rust",
         "topics": [],
         "created_at": "2026-11-18T04:39:16Z",
-        "score": 5.58,
+        "score": 5.81,
         "signals": [
           "new",
           "keyword:agent"
+        ]
+      },
+      {
+        "id": "eamonhou/eamon-claw",
+        "title": "eamonhou/eamon-claw",
+        "url": "https://github.com/eamonhou/eamon-claw",
+        "description": "eamon agent framework",
+        "stars": 26,
+        "language": "Go",
+        "topics": [],
+        "created_at": "2026-11-20T13:36:27Z",
+        "score": 5.75,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "AlodiumProtocol/crm",
+        "title": "AlodiumProtocol/crm",
+        "url": "https://github.com/AlodiumProtocol/crm",
+        "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
+        "stars": 48,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-11-19T14:31:20Z",
+        "score": 5.61,
+        "signals": [
+          "new"
         ]
       },
       {
@@ -482,7 +857,7 @@
         "title": "miya-tonya/night-ferry",
         "url": "https://github.com/miya-tonya/night-ferry",
         "description": "夜航船 Night Ferry — one short bedtime article a night, written by your AI. Writing tool, Wikimedia Commons picture pipeline, MCP server, and a reader page shaped like a ship's log.",
-        "stars": 18,
+        "stars": 19,
         "language": "JavaScript",
         "topics": [
           "ai-companion",
@@ -494,25 +869,25 @@
           "wikimedia-commons"
         ],
         "created_at": "2026-11-22T05:32:34Z",
-        "score": 5.25,
+        "score": 5.32,
         "signals": [
           "new",
           "keyword:mcp"
         ]
       },
       {
-        "id": "eamonhou/eamon-claw",
-        "title": "eamonhou/eamon-claw",
-        "url": "https://github.com/eamonhou/eamon-claw",
-        "description": "eamon agent framework",
-        "stars": 18,
-        "language": "Go",
+        "id": "laSenu/roblox-in-this-town",
+        "title": "laSenu/roblox-in-this-town",
+        "url": "https://github.com/laSenu/roblox-in-this-town",
+        "description": "Free Claude skill for viral Roblox story shorts (\"In this town, ...\"): the foundation, measured rules, a style menu and ~75 solved pitfalls.",
+        "stars": 15,
+        "language": null,
         "topics": [],
-        "created_at": "2026-11-20T13:36:27Z",
-        "score": 5.25,
+        "created_at": "2026-11-20T07:36:41Z",
+        "score": 5.0,
         "signals": [
           "new",
-          "keyword:agent"
+          "keyword:skill"
         ]
       },
       {
@@ -534,8 +909,709 @@
         "signals": [
           "new"
         ]
+      },
+      {
+        "id": "arjunkshah12345-hash/jasmine-sandbox",
+        "title": "arjunkshah12345-hash/jasmine-sandbox",
+        "url": "https://github.com/arjunkshah12345-hash/jasmine-sandbox",
+        "description": "Open-source sandboxes for AI agents: Firecracker microVMs that create, fork and resume in milliseconds.",
+        "stars": 25,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-11-21T17:46:59Z",
+        "score": 4.7,
+        "signals": [
+          "new"
+        ]
       }
     ],
-    "research": []
+    "research": [
+      {
+        "id": "2611.31185v1",
+        "title": "CO-GRAFT: Attributing Reinforcement Learning Gains in Search Agents via Role-Level Policy Grafting",
+        "url": "https://arxiv.org/abs/2611.31185v1",
+        "authors": [
+          "Ramraj Chandradevan",
+          "Sayontan Ghosh",
+          "Vinoth Selvendran"
+        ],
+        "snippet": "Reinforcement learning (RL) improves large language model search agents by up to 32 exact-match (EM) points over their pre-RL initializations, yet overall accuracy gains do not identify which underlying functional capabilities improve or interact during training. We introduce CO-GRAFT, a reward-agnostic interventional attribution framework in which an RL-trained agent and its pre-RL initialization",
+        "categories": [
+          "cs.IR",
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-11-23T18:38:53+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:large language model",
+          "keyword:agent",
+          "keyword:reasoning",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2611.31063v1",
+        "title": "From Local Errors to System Failures: Modeling and Benchmarking Error Propagation in Multi-Agent LLM Systems",
+        "url": "https://arxiv.org/abs/2611.31063v1",
+        "authors": [
+          "Wenlong Yu",
+          "Bingxu Lu",
+          "Qilong Wang",
+          "Qinghua Hu",
+          "Qianru Sun"
+        ],
+        "snippet": "In multi-agent systems (MAS) built on large language models (LLMs), errors can propagate through intermediate messages and compromise final answers. However, outcome-based evaluation obscures how agents amplify, attenuate, or correct these errors. We propose Response-Aware Error Propagation among Agents (REPA), a structural model that connects measured local responses to system-level error propaga",
+        "categories": [
+          "cs.MA",
+          "cs.AI"
+        ],
+        "published": "2026-11-23T17:20:43+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:reasoning",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2611.30742v1",
+        "title": "Transport-Safe Evaluation of LLM Agents: Trajectory-Dependent Judge Error and Anytime-Valid Auditing",
+        "url": "https://arxiv.org/abs/2611.30742v1",
+        "authors": [
+          "Yulliwas Ameur",
+          "Samia Bouzefrane",
+          "Soumya Banerjee"
+        ],
+        "snippet": "Large language model (LLM) agents are often ranked by an LLM judge whose error rates are measured once and reused for every agent. The corrected success rates can then be biased when the judge's errors depend on the trajectory and agents differ in the trajectories they produce for successes or failures. We derive the exact asymptotic bias and give a chain of checks from identification to simultane",
+        "categories": [
+          "cs.AI",
+          "stat.ME"
+        ],
+        "published": "2026-11-23T14:19:52+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:agent",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2611.30559v1",
+        "title": "Learning What to Change: State-Verified Reinforcement Learning for Educational Agents",
+        "url": "https://arxiv.org/abs/2611.30559v1",
+        "authors": [
+          "Shengyao Wang",
+          "Siyuan Su",
+          "Siyu Song",
+          "Mengsong Wu",
+          "Yiming Luo",
+          "Wenbo Wu"
+        ],
+        "snippet": "Persistent tutoring agents do more than answer questions: they manage course files, practice records, and learner profiles that govern future lessons. In such stateful settings, knowing what to teach does not guarantee knowing what to change. We identify a pervasive failure mode, content-state decoupling, where agents deliver pedagogically sound responses while silently corrupting workspace state ",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-11-23T12:04:31+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:tool use"
+        ]
+      },
+      {
+        "id": "2611.31233v1",
+        "title": "TowerBridge: Bridging the Dual-Encoder Modality Gap via Weight-Space Programming",
+        "url": "https://arxiv.org/abs/2611.31233v1",
+        "authors": [
+          "Hani Alomari",
+          "Md Atabuzzaman",
+          "Chris Thomas"
+        ],
+        "snippet": "CLIP-style dual encoders map images and text through two separate towers into a shared embedding space, where the two modalities occupy distinct regions separated by a modality gap. Retrieval fails when wrong matches, or hard negatives, outrank the correct one, and the gap is the usual suspect. Yet removing it post hoc degrades retrieval on every CLIP checkpoint we test. We introduce a paired stat",
+        "categories": [
+          "cs.CV",
+          "cs.LG"
+        ],
+        "published": "2026-11-23T18:59:13+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2611.31228v1",
+        "title": "Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ",
+        "url": "https://arxiv.org/abs/2611.31228v1",
+        "authors": [
+          "Daniel Theron"
+        ],
+        "snippet": "Prompting language models to verbalize stepwise numerical confidence during generation is an increasingly popular approach for triggering backtracking and error correction in agentic reasoning. This strategy presupposes two capabilities: (1) in-situ monitoring fidelity (does confidence drop when an error occurs?) and (2) downstream steering control (does an uncertainty token causally steer the mod",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-11-23T18:58:52+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agentic",
+          "keyword:reasoning",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2611.31163v1",
+        "title": "SPROUT: Predicting Objective-Grounded Prompt Utility for Efficient Text-to-Image Preference Tuning",
+        "url": "https://arxiv.org/abs/2611.31163v1",
+        "authors": [
+          "Kangping Hu",
+          "Akshay Mehra",
+          "Stephen Mussmann"
+        ],
+        "snippet": "Preference tuning of text-to-image diffusion models spends most of its compute generating candidate images, yet training prompts are typically sampled uniformly at random, wasting compute generating images that provide too little signal for model alignment. To best utilize the available compute, we study prompt selection, where at each iteration we identify the most useful prompts for preference t",
+        "categories": [
+          "cs.CV",
+          "cs.LG"
+        ],
+        "published": "2026-11-23T18:24:33+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:fine-tuning",
+          "keyword:alignment",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2611.31117v1",
+        "title": "Self-Upgrading Embodied Agents",
+        "url": "https://arxiv.org/abs/2611.31117v1",
+        "authors": [
+          "Jiajun Fan",
+          "Neil He",
+          "Qinglong Zheng",
+          "Changyi Yang",
+          "Tong Wei",
+          "Andy Mao"
+        ],
+        "snippet": "An embodied agent built on a language model goes to work with the weights it was given and keeps them for life. To get better, it needs more training, or reflection, memory, search or prompts that cost every step and are lost when the task changes. Editing weights by reasoning, weight-space programming, could end this, but has stayed with models that only reason or relied on a far larger commercia",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-11-23T17:53:12+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:reasoning",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2611.31068v1",
+        "title": "UMAMI: A Multimodal Benchmark Dataset for Evidence-Grounded Dietary Decisions",
+        "url": "https://arxiv.org/abs/2611.31068v1",
+        "authors": [
+          "Safal Thapaliya",
+          "Jiatan Huang",
+          "Debapriya Chatterjee",
+          "Yanfang Ye",
+          "Chuxu Zhang"
+        ],
+        "snippet": "Dietary decisions require identifying a food's nutrient content and considering individual dietary needs, but recognizing food from an image alone does not provide this information. Visually similar foods can have different nutrient profiles, so selecting the wrong food record can lead to incorrect decisions even when nutrient rules are applied correctly. Furthermore, satisfying nutrient constrain",
+        "categories": [
+          "cs.CV",
+          "cs.CL"
+        ],
+        "published": "2026-11-23T17:23:52+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:benchmark",
+          "keyword:multimodal",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2611.31065v1",
+        "title": "Decoupling Solving from Abstention: Single-Rollout Conformal Risk Control for Hard-Budget LLM Reasoning",
+        "url": "https://arxiv.org/abs/2611.31065v1",
+        "authors": [
+          "Qianyi Chen",
+          "Bo Li"
+        ],
+        "snippet": "Hard token budgets often interrupt LLM reasoning before an answer is produced. Forcing reasoning to terminate recovers correct solutions but also increases confident errors, creating a joint challenge of solving within budget and deciding when to abstain. Existing remedies are costly or lack guarantees: supervised fine-tuning offers no error control, penalizing wrong answers during reinforcement l",
+        "categories": [
+          "cs.AI",
+          "stat.ME"
+        ],
+        "published": "2026-11-23T17:21:32+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:reasoning",
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2611.31015v1",
+        "title": "Can Latent Reasoning Drive LLM Outputs Without a Trace?",
+        "url": "https://arxiv.org/abs/2611.31015v1",
+        "authors": [
+          "Tomer Ashuach",
+          "Zorik Gekhman",
+          "Avi Caciularu",
+          "Ori Ram",
+          "Jonathan Herzig"
+        ],
+        "snippet": "LLMs typically solve complex tasks with chain-of-thought (CoT) reasoning, which is also the main tool for monitoring them for misaligned behavior. However, standard transformers can also solve tasks with complete latent reasoning (CLR), carrying out the whole task internally and outputting only the final answer. Theory bounds the depth of CLR, the number of sequential steps it can carry out, and r",
+        "categories": [
+          "cs.LG",
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-11-23T16:59:12+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:reasoning",
+          "keyword:code generation"
+        ]
+      },
+      {
+        "id": "2611.31002v1",
+        "title": "RoboUniverse-10K: Toward the Scaling Era of Agentic Robotics via Real-to-Sim Environments",
+        "url": "https://arxiv.org/abs/2611.31002v1",
+        "authors": [
+          "Jinkun Liu",
+          "Yingze Wang",
+          "Situ Wang",
+          "Deyao Hong",
+          "Mingju Gao",
+          "Wenyi Li"
+        ],
+        "snippet": "Agentic Robotics, in which foundation models act as coding agents to control robots through executable programs, has emerged as a compelling paradigm for embodied intelligence. Yet unlike software engineering, where massive executable environments power post-training, robotics remains constrained by small, manual benchmarks and in-distribution evaluation. To bridge this gap, we introduce RoboUnive",
+        "categories": [
+          "cs.RO",
+          "cs.CL"
+        ],
+        "published": "2026-11-23T16:53:57+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agentic",
+          "keyword:benchmark",
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2611.30736v1",
+        "title": "Object-Centric Differentiable Logic Networks for Abstract Visual Reasoning",
+        "url": "https://arxiv.org/abs/2611.30736v1",
+        "authors": [
+          "Hanne Say Eren",
+          "Ana Ezquerro",
+          "Ozan Özdenizci"
+        ],
+        "snippet": "Human visual intelligence enables efficient reasoning capabilities on abstract visual problems with bounded cognitive resources and minimal experience, and yields remarkable generalization to novel problems with its ability to draw relational analogies and modular abstractions. In contrast, deep learning models require exhaustive task-specific training on large datasets, making them prone to explo",
+        "categories": [
+          "cs.LG",
+          "cs.CV"
+        ],
+        "published": "2026-11-23T14:13:10+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:transformer"
+        ]
+      },
+      {
+        "id": "2611.30517v1",
+        "title": "sudo L7: Can Coding Agents Act Like Staff Engineers?",
+        "url": "https://arxiv.org/abs/2611.30517v1",
+        "authors": [
+          "Nick Heiner",
+          "Ian Niebres",
+          "Suhaas Garre",
+          "Sushant Mehta",
+          "Edwin Chen"
+        ],
+        "snippet": "Coding agents can now turn a well-specified ticket into a patch that passes its tests. Experienced engineers also notice risks the request never mentioned, question flawed premises, reuse what already exists and say plainly what they did and did not check. We present sudo L7, a benchmark of 60 software-engineering tasks written by staff-level engineers, mostly in private production codebases and e",
+        "categories": [
+          "cs.SE",
+          "cs.AI"
+        ],
+        "published": "2026-11-23T11:32:37+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2611.30494v1",
+        "title": "Revisiting LLMs as Context Engineers",
+        "url": "https://arxiv.org/abs/2611.30494v1",
+        "authors": [
+          "Junrui Zhang",
+          "Zeyu Xu",
+          "Runchuan Zhu",
+          "Jie Peng",
+          "Long Zhang",
+          "Zixin Ding"
+        ],
+        "snippet": "As large language models (LLMs) are used in more and more new tasks, context engineering becomes a fundamental method to efficiently steer LLMs by constructing instruction prompts or metadata without intensive training. A growing number of LLM context engineering (LCE) approaches automate the task by casting the LLM itself as the engineer that draws generalizable instructions or experiences from o",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-11-23T11:13:05+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:reasoning",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2611.31240v1",
+        "title": "Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action",
+        "url": "https://arxiv.org/abs/2611.31240v1",
+        "authors": [
+          "Seongchan Kim",
+          "Soowon Son",
+          "Sangoh Kim",
+          "Hyunah Ko",
+          "Eunbeen Hong",
+          "Hyunkoo Lee"
+        ],
+        "snippet": "Reasoning vision-language-action (VLA) models for autonomous driving use chain-of-thought (CoT) reasoning to guide action generation, but incur substantial memory and computational costs. We study structured pruning for these models, focusing on preserving both scene understanding and trajectory prediction. Our analysis of Taylor importance in Alpamayo-1.5-10B shows that reasoning and trajectory o",
+        "categories": [
+          "cs.CV",
+          "cs.LG",
+          "cs.RO"
+        ],
+        "published": "2026-11-23T18:59:52+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2611.31223v1",
+        "title": "Agentic AI for Intent Management and Control in Autonomous Communication Networks",
+        "url": "https://arxiv.org/abs/2611.31223v1",
+        "authors": [
+          "Burak Demirel",
+          "Yu Wang",
+          "Pablo Soldati"
+        ],
+        "snippet": "Artificial intelligence (AI)-driven automation will help future mobile networks translate high-level network intents into concrete network optimization or control actions. However, existing approaches often focus on intent management and orchestration, leaving the adaptation of underlying network optimization and control functions largely unaddressed. This article proposes a triadic agentic AI fra",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-11-23T18:57:32+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:agentic"
+        ]
+      },
+      {
+        "id": "2611.31215v1",
+        "title": "Seeking in Space: Benchmarking Purposeful Active Exploration of Vision-Language Models for Spatial Reasoning",
+        "url": "https://arxiv.org/abs/2611.31215v1",
+        "authors": [
+          "Xiwei Liu",
+          "Yulong Li",
+          "Xuhui Li",
+          "Xinlin Zhuang",
+          "Zhixiang Lu",
+          "Haolin Yang"
+        ],
+        "snippet": "Humans explore unfamiliar spaces with purpose, deciding where to look until they have gathered the evidence a spatial question requires. However, can vision-language models (VLMs), which reason increasingly well over curated images and videos, also seek in space when the evidence is not handed to them? We present ActSpace-Bench, a benchmark of 994 questions across 234 exploration episodes in 72 re",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-11-23T18:55:44+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2611.31198v1",
+        "title": "ToolSmith: An Automatic Tool-Generation Framework for Multimodal Search Agents",
+        "url": "https://arxiv.org/abs/2611.31198v1",
+        "authors": [
+          "Rui Sun",
+          "Junhua Huang",
+          "Luca Zancato",
+          "Md Mofijul Islam",
+          "Kai-Wei Chang"
+        ],
+        "snippet": "Recent multimodal search agents use reasoning, vision, and live web search across many turns to answer questions beyond parametric knowledge by orchestrating a small library of hand-crafted search and visual tools. However, the library is laborious to create and maintain, and frozen when new query types, evidence formats, and failure modes are encountered in the wild. Human practitioners, by contr",
+        "categories": [
+          "cs.CL",
+          "cs.AI",
+          "cs.CV"
+        ],
+        "published": "2026-11-23T18:48:02+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2611.31190v1",
+        "title": "Know When to Abstain: Conformal Confidence Estimation for Text-to-SQL",
+        "url": "https://arxiv.org/abs/2611.31190v1",
+        "authors": [
+          "Avinash Kumar Singh",
+          "Bhaskarjit Sarmah",
+          "Stefano Pasquali"
+        ],
+        "snippet": "Text-to-SQL systems often return queries that execute successfully but answer the wrong question. Detecting these errors at deployment is hard because execution correctness is defined against a gold query, which exists only in labeled data. We formulate confidence estimation for Text-to-SQL as probabilistic query validation under a latent correctness variable that is observable at calibration time",
+        "categories": [
+          "cs.AI",
+          "q-fin.CP"
+        ],
+        "published": "2026-11-23T18:42:54+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2611.31166v1",
+        "title": "Precision-Aware Learning Rate Transfer Across Block Count in LLM Post-Training",
+        "url": "https://arxiv.org/abs/2611.31166v1",
+        "authors": [
+          "Nan Chen",
+          "Soledad Villar",
+          "Soufiane Hayou"
+        ],
+        "snippet": "The post-training of pretrained large language models, including supervised finetuning (SFT), direct preference optimization (DPO), and reinforcement learning with verifiable reward (RLVR), is very sensitive to the learning rate, and tuning it through grid search is costly in both computation and memory. In this work, we propose \\textbf{TipSweep}, a method to transfer the learning rate across the ",
+        "categories": [
+          "cs.LG",
+          "cs.CL"
+        ],
+        "published": "2026-11-23T18:27:57+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:transformer"
+        ]
+      },
+      {
+        "id": "2611.31135v1",
+        "title": "SRCWDNet: Semantic-Relational Cross-Window Dual-Graph Network for Multi-Label Remote Sensing Scene Classification",
+        "url": "https://arxiv.org/abs/2611.31135v1",
+        "authors": [
+          "Fareeha Amir"
+        ],
+        "snippet": "Multi-label remote sensing scene classification remains a challenging task due to complex spatial-spectral patterns, extreme class imbalance, and inter-label dependencies that are often insufficiently modeled. To address these challenges, we introduce a Semantic-Relational Cross-Window Dual-Graph Network (SRCWDNet), which integrates three key modules: (1) a Cross-Window Attention module that captu",
+        "categories": [
+          "cs.CV",
+          "cs.AI"
+        ],
+        "published": "2026-11-23T18:06:09+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:transformer"
+        ]
+      },
+      {
+        "id": "2611.31129v1",
+        "title": "FATCAT: Fault Injection Attacks Targeting Chip-level Alignment",
+        "url": "https://arxiv.org/abs/2611.31129v1",
+        "authors": [
+          "Peter Horvath",
+          "Ilia Shumailov",
+          "Zhuoran Liu",
+          "Lukasz Chmielewski",
+          "Lejla Batina"
+        ],
+        "snippet": "Model alignment is the primary safety and security mechanism for enforcing refusal of malicious prompts in modern foundation models; yet, existing adversarial evaluations implicitly assume underlying hardware integrity. In this paper, we present FATCAT, the first physical fault-injection attacks capable of eliminating refusal in modern large language and vision-language models. Specifically, we pr",
+        "categories": [
+          "cs.CR",
+          "cs.AI"
+        ],
+        "published": "2026-11-23T18:01:58+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:alignment",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2611.31090v1",
+        "title": "Revisiting Learning to Delegate: LLM Discovered Heuristics for Large-Scale Vehicle Routing",
+        "url": "https://arxiv.org/abs/2611.31090v1",
+        "authors": [
+          "Zhengyang Wang",
+          "Renfei Tan",
+          "Shuze Daniel Liu",
+          "David Simchi-Levi"
+        ],
+        "snippet": "Efficient vehicle routing is critical to logistics and transportation, yet solving large-scale capacitated vehicle routing problems (CVRP) remains computationally challenging due to their combinatorial complexity. One approach to solve large-scale vehicle routing optimization is to identify promising subproblems and then optimize them using solvers. In this paper, we propose a framework of automat",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-11-23T17:36:48+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model"
+        ]
+      },
+      {
+        "id": "2611.31089v1",
+        "title": "Orthogonally Mixed Sign Coding with Progressive Residual Refinement for Transformer Weight Compression",
+        "url": "https://arxiv.org/abs/2611.31089v1",
+        "authors": [
+          "Anindya Roy Chowdhury",
+          "Atanu Barai",
+          "Nandakishore Santhi"
+        ],
+        "snippet": "LLM quantization reduces storage but often degrades predictive fidelity at low bit rates. We propose a training-free, CDF-free, Gaussian-CLT-motivated progressive residual-sign quantization framework that uses randomized orthogonal mixing to promote Gaussian-like residual distributions and improve sign based reconstruction of Transformer weights. Each stage independently normalizes residuals and a",
+        "categories": [
+          "cs.AI",
+          "cs.IR"
+        ],
+        "published": "2026-11-23T17:36:37+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:transformer"
+        ]
+      },
+      {
+        "id": "2611.31082v1",
+        "title": "ChiProgramBench: Can LLM Agents Rebuild Efficient Circuits from Pin-Level Experiments?",
+        "url": "https://arxiv.org/abs/2611.31082v1",
+        "authors": [
+          "Tianrun Gou",
+          "Qingyao Yang",
+          "Wendong Xu",
+          "Liang Chen",
+          "Kuan Li",
+          "Ngai Wong"
+        ],
+        "snippet": "Understanding a system that can be run but not inspected is a core engineering skill: one designs experiments, forms hypotheses about hidden state and timing, discards those that observations refute, and finally builds a replacement that works and is efficient. To evaluate this capability of LLM agents in the hardware domain, we present ChiProgramBench, 18 tasks derived from open-source processors",
+        "categories": [
+          "cs.AI",
+          "cs.AR"
+        ],
+        "published": "2026-11-23T17:32:36+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "2611.31051v1",
+        "title": "Automatic Occupational Coding through Retrieval-Augmented Generation",
+        "url": "https://arxiv.org/abs/2611.31051v1",
+        "authors": [
+          "Mathijs A. Langezaal",
+          "Egon L. van den Broek",
+          "Lukas P. A. Arts",
+          "Marcel Goldberg",
+          "Grégoire Rey",
+          "Melissa C. Friesen"
+        ],
+        "snippet": "Annually 1.9 million deaths and 89.7 million disability-adjusted life years are caused by exposure to agents during work (e.g., welding fumes, silica dust, and noise pollution). To improve worker health, high-quality exposure assessments are crucial. Therefore, free-text job descriptions from large-scale occupational cohorts are manually standardized through occupational classifications and linked",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-11-23T17:15:08+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:large language model",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2611.31033v1",
+        "title": "AI-Assisted Auto-formalization for Trustworthy Scientific Computing: Case Studies and Lessons Learned",
+        "url": "https://arxiv.org/abs/2611.31033v1",
+        "authors": [
+          "Mohit Tekriwal",
+          "Het Mankad",
+          "Naifeng Zhang",
+          "Keita Teranishi",
+          "Sahil Bhola",
+          "Daisuke Uchida"
+        ],
+        "snippet": "Agentic AI tools have recently had success in mathematical reasoning. Both general purpose coding agents such as Claude Code and Codex, and specialized mathematics agents such as Aristotle, have been used for formalizing mathematical problems such as Fermat's last theorem, Erdős problems and several IMO level math problems. However, much of these efforts are concentrated in the pure mathematics do",
+        "categories": [
+          "cs.AI",
+          "cs.MS",
+          "math.NA"
+        ],
+        "published": "2026-11-23T17:08:36+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:agentic",
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2611.31027v1",
+        "title": "ComputeWise: Measuring and Fixing GPU Waste by AI Research Agents",
+        "url": "https://arxiv.org/abs/2611.31027v1",
+        "authors": [
+          "Egor Pakhomov",
+          "Nina Pakhomova",
+          "Anurag Koul",
+          "Shafiq Joty",
+          "Erik Nijkamp"
+        ],
+        "snippet": "AI agents are given GPUs to do AI research on their own. Do they use those GPUs well? A busy GPU does not tell us, because it can be busy with work the answer did not need. This matters, because the tokens the agent spends cost almost nothing next to the GPUs its experiments run on, so using those GPUs better has a huge impact. So we built ComputeWise, an open benchmark of research tasks on which ",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-11-23T17:06:25+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2611.31021v1",
+        "title": "Parsing Visual Latents for Multimodal Spatial Reasoning",
+        "url": "https://arxiv.org/abs/2611.31021v1",
+        "authors": [
+          "Zhuoying Yang",
+          "Yichen Guo",
+          "Kathy Jia",
+          "Zichang Su",
+          "Ayesha Kashif",
+          "Nange Hai"
+        ],
+        "snippet": "Spatial reasoning across multiple views requires inferring the 3D relations between objects and the camera from 2D observations, which depends on cross-view correspondence and scene geometry that vision-language models (VLMs) do not reliably extract. Pretrained vision encoders already capture this information in their latent features, with CLIP linking objects to image regions, DINOv3 matching sem",
+        "categories": [
+          "cs.CV",
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-11-23T17:02:00+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:multimodal"
+        ]
+      }
+    ]
   }
 }
