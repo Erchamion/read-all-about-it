@@ -1,0 +1,541 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T00:33:14+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://openai.com/index/introducing-shirudo",
+        "title": "OpenAI and Cisco introduce Shirudo",
+        "url": "https://openai.com/index/introducing-shirudo",
+        "source": "openai",
+        "published": "2026-11-23T21:20:00+00:00",
+        "snippet": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+        "title": "Connected intelligence for in-house legal",
+        "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+        "source": "openai",
+        "published": "2026-11-23T08:00:00+00:00",
+        "snippet": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+        "title": "Richpanel helps companies automate 50% of support in 30 days",
+        "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+        "source": "openai",
+        "published": "2026-11-23T08:00:00+00:00",
+        "snippet": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+        "title": "A more tailored Google Search that’s uniquely yours",
+        "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+        "source": "google-ai",
+        "published": "2026-11-23T17:00:00+00:00",
+        "snippet": "Google Search bar with the text \"Personal Intelligence\" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+        "title": "Finding faster quantum algorithms with agents and formal verification",
+        "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+        "source": "deepmind",
+        "published": "2026-11-23T16:59:40+00:00",
+        "snippet": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://blogs.microsoft.com/on-the-issues/2026/11/19/security-fundamentals-to-enable-the-frontier/",
+        "title": "4 cybersecurity steps every organization should take in the age of AI",
+        "url": "https://blogs.microsoft.com/on-the-issues/2026/11/19/security-fundamentals-to-enable-the-frontier/",
+        "source": "microsoft-ai",
+        "published": null,
+        "snippet": "",
+        "score": 1.0,
+        "signals": [
+          "scraped"
+        ]
+      },
+      {
+        "id": "https://huggingface.co/blog/allenai/robotrack",
+        "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+        "url": "https://huggingface.co/blog/allenai/robotrack",
+        "source": "huggingface",
+        "published": "2026-11-23T17:20:37+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/agentic-evals",
+        "title": "How to build and maintain an agentic evaluation",
+        "url": "https://huggingface.co/blog/agentic-evals",
+        "source": "huggingface",
+        "published": "2026-11-23T00:00:00+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      }
+    ],
+    "github": [
+      {
+        "id": "XinaTian/MROffice",
+        "title": "XinaTian/MROffice",
+        "url": "https://github.com/XinaTian/MROffice",
+        "description": "MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor edits real Word, Excel and PowerPoint files with you; an MCP server lets Claude, ChatGPT, Cursor and Codex create and e",
+        "stars": 2784,
+        "language": "TypeScript",
+        "topics": [
+          "ai",
+          "ai-agent",
+          "claude-code",
+          "codex",
+          "copilot",
+          "cursor",
+          "document-editor",
+          "docx"
+        ],
+        "created_at": "2026-11-10T17:54:07Z",
+        "score": 14.44,
+        "signals": [
+          "rising",
+          "keyword:agent",
+          "keyword:mcp",
+          "keyword:copilot"
+        ]
+      },
+      {
+        "id": "erkamyaman/safe-anything",
+        "title": "erkamyaman/safe-anything",
+        "url": "https://github.com/erkamyaman/safe-anything",
+        "description": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
+        "stars": 490,
+        "language": "Rust",
+        "topics": [
+          "ai-agents",
+          "claude-code",
+          "claude-code-plugin",
+          "cli",
+          "codex",
+          "cursor",
+          "devsecops",
+          "mcp"
+        ],
+        "created_at": "2026-11-22T16:44:10Z",
+        "score": 10.94,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "21stware/bowel",
+        "title": "21stware/bowel",
+        "url": "https://github.com/21stware/bowel",
+        "description": "Native mihomo (Clash Meta) client for macOS, Windows, Linux & Android: GPU-rendered Go UI, no Electron or WebView. Rules, TUN, gateway mode, CLI/TUI and a built-in MCP server.",
+        "stars": 629,
+        "language": "Go",
+        "topics": [
+          "android",
+          "clash",
+          "clash-meta",
+          "flutter",
+          "golang",
+          "gui",
+          "hysteria2",
+          "linux"
+        ],
+        "created_at": "2026-11-07T17:45:52Z",
+        "score": 10.3,
+        "signals": [
+          "rising",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "seira-bot/seira",
+        "title": "seira-bot/seira",
+        "url": "https://github.com/seira-bot/seira",
+        "description": "Your own team of AI agents in one chat app. Run Claude Code, Codex, Gemini, Cursor, Copilot, and 25+ more engines as bots, with approvals. Local first, open source.",
+        "stars": 31,
+        "language": "TypeScript",
+        "topics": [
+          "agent-client-protocol",
+          "agentic-ai",
+          "ai-agents",
+          "ai-assistant",
+          "android",
+          "automation",
+          "claude-code",
+          "codex"
+        ],
+        "created_at": "2026-11-18T03:50:06Z",
+        "score": 10.0,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp",
+          "keyword:copilot",
+          "keyword:assistant"
+        ]
+      },
+      {
+        "id": "aether-aiagent/aether",
+        "title": "aether-aiagent/aether",
+        "url": "https://github.com/aether-aiagent/aether",
+        "description": "Aether — open-source AI agent for Android (Kotlin, Jetpack Compose). Local LLM chat app with bash, file and MCP tools, subagents, offline Alpine/Proot runtime, Termux and Shizuku support. Signed APK releases. ИИ-агент на телефон: нейросеть на Android с инструментами.",
+        "stars": 40,
+        "language": "Kotlin",
+        "topics": [
+          "aether",
+          "ai-agent",
+          "ai-agents",
+          "ai-assistant",
+          "alpine-linux",
+          "android",
+          "android-ai-agent",
+          "android-app"
+        ],
+        "created_at": "2026-11-19T15:41:33Z",
+        "score": 9.36,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp",
+          "keyword:assistant"
+        ]
+      },
+      {
+        "id": "tarqmamdouh/agent-theater",
+        "title": "tarqmamdouh/agent-theater",
+        "url": "https://github.com/tarqmamdouh/agent-theater",
+        "description": "Your AI agents, live on a pixel-art stage. Works with Claude Code.",
+        "stars": 172,
+        "language": "JavaScript",
+        "topics": [],
+        "created_at": "2026-11-20T21:41:37Z",
+        "score": 8.43,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "Developing-Gamer/agent-sim",
+        "title": "Developing-Gamer/agent-sim",
+        "url": "https://github.com/Developing-Gamer/agent-sim",
+        "description": "iOS simulators for AI agents, on Linux",
+        "stars": 70,
+        "language": "Rust",
+        "topics": [
+          "ai-agents",
+          "claude-code",
+          "ios",
+          "ios-simulator",
+          "linux",
+          "mcp",
+          "mobile-testing",
+          "testing"
+        ],
+        "created_at": "2026-11-21T20:26:12Z",
+        "score": 8.15,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "drtikov/microbrainsforagents",
+        "title": "drtikov/microbrainsforagents",
+        "url": "https://github.com/drtikov/microbrainsforagents",
+        "description": "Sub-2ms CPU safety shield & smart tool router for AI agents (Claude Code, MCP). Stops bugs, destructive shell commands, and leaked secrets before execution—saving tokens, money, and your machine.",
+        "stars": 32,
+        "language": "Python",
+        "topics": [
+          "ai-agents",
+          "conformal-prediction",
+          "continual-learning",
+          "counterfactual-reasoning",
+          "edge-ai",
+          "hyperdimensional-computing",
+          "llm-orchestration",
+          "micro-transformer"
+        ],
+        "created_at": "2026-11-17T21:09:58Z",
+        "score": 8.04,
+        "signals": [
+          "new",
+          "keyword:llm",
+          "keyword:mcp",
+          "keyword:orchestration"
+        ]
+      },
+      {
+        "id": "tracebit-com/turingpot",
+        "title": "tracebit-com/turingpot",
+        "url": "https://github.com/tracebit-com/turingpot",
+        "description": "An open-source AI agent honeypot proof of concept for investigating ARTEX and other autonomous offensive frameworks (AOFs).",
+        "stars": 48,
+        "language": "JavaScript",
+        "topics": [
+          "ai-agents",
+          "ai-security",
+          "artex",
+          "autonomous-offensive-frameworks",
+          "blue-team",
+          "cloudflare-workers",
+          "cybersecurity",
+          "honeypot"
+        ],
+        "created_at": "2026-11-19T17:04:07Z",
+        "score": 7.61,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:autonomous"
+        ]
+      },
+      {
+        "id": "longhaiqwe/uw-mode",
+        "title": "longhaiqwe/uw-mode",
+        "url": "https://github.com/longhaiqwe/uw-mode",
+        "description": "Universal Wisdom Mode (uw-mode): A practical four-stage decision and workflow skill for AI agents.",
+        "stars": 34,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-11-19T13:05:13Z",
+        "score": 7.13,
+        "signals": [
+          "new",
+          "keyword:workflow",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "chongyangzhang92-hub/Sol-Next",
+        "title": "chongyangzhang92-hub/Sol-Next",
+        "url": "https://github.com/chongyangzhang92-hub/Sol-Next",
+        "description": "Sol Next: Ultra-fast Android AI phone agent built upon Mika (Apache-2.0) — Rust v3.10 UI pruning, 1:1 native background VirtualDisplay, HTTP/3 QUIC, 64-round anti-pause engine, BYOK AI phone calls & MCP Server (zero built-in API keys). 基于 Mika 重构的极速安卓 AI 手机助理。",
+        "stars": 20,
+        "language": "Python",
+        "topics": [
+          "agent-ready",
+          "ai-agent",
+          "ai-phone-call",
+          "android",
+          "android-agent",
+          "android-automation",
+          "byok",
+          "deepseek"
+        ],
+        "created_at": "2026-11-21T16:40:39Z",
+        "score": 6.39,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "chenx5452321/ysm-ai-engine",
+        "title": "chenx5452321/ysm-ai-engine",
+        "url": "https://github.com/chenx5452321/ysm-ai-engine",
+        "description": "Procedural Minecraft Yes Steve Model (YSM) 2.6.0 modeling, SSAO software rendering, WebGL2 3D viewer, and validation engine built for AI agents.",
+        "stars": 35,
+        "language": "Python",
+        "topics": [
+          "3d-rendering",
+          "ai-agent",
+          "bedrock",
+          "blockbench",
+          "minecraft",
+          "python",
+          "webgl2",
+          "yes-steve-model"
+        ],
+        "created_at": "2026-11-19T16:15:23Z",
+        "score": 6.17,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "kristofermeyer9-cloud/coregold-usdt-vcc-agentic-ai-billing-finops-deep-dive",
+        "title": "kristofermeyer9-cloud/coregold-usdt-vcc-agentic-ai-billing-finops-deep-dive",
+        "url": "https://github.com/kristofermeyer9-cloud/coregold-usdt-vcc-agentic-ai-billing-finops-deep-dive",
+        "description": "A deep-dive FinOps guide on protecting metered AI agent workflows against Stripe Radar declines and runaway auto-topup charges using CoreGold US-issued virtual cards, USDT (TRC20) funding, and Apple Pay / Google Pay tokenization.",
+        "stars": 32,
+        "language": null,
+        "topics": [],
+        "created_at": "2026-11-20T07:56:53Z",
+        "score": 6.04,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "machinepulse-ai/karpo-browser",
+        "title": "machinepulse-ai/karpo-browser",
+        "url": "https://github.com/machinepulse-ai/karpo-browser",
+        "description": "A browser for AI agents: a decision model (System 1) does the steps on the page, your agent (System 2) plans, reads and answers",
+        "stars": 27,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-11-20T17:43:38Z",
+        "score": 5.81,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "sojibyyy6-lab/coregold-usdt-vcc-payment-concepts-knowledge-guide",
+        "title": "sojibyyy6-lab/coregold-usdt-vcc-payment-concepts-knowledge-guide",
+        "url": "https://github.com/sojibyyy6-lab/coregold-usdt-vcc-payment-concepts-knowledge-guide",
+        "description": "Inspired by November 2026 AI workflow and digital payment trends, this guide explains practical concepts—BIN categories, AVS billing consistency, TRC20 funding, and wallet verification—with a simple CoreGold tutorial.",
+        "stars": 27,
+        "language": null,
+        "topics": [
+          "avs",
+          "coregold",
+          "usdt",
+          "vcc"
+        ],
+        "created_at": "2026-11-20T09:17:57Z",
+        "score": 5.81,
+        "signals": [
+          "new",
+          "keyword:workflow"
+        ]
+      },
+      {
+        "id": "Nhat-Nguyet/nhatnguyet-lunar-ziwei-bazi-numerology",
+        "title": "Nhat-Nguyet/nhatnguyet-lunar-ziwei-bazi-numerology",
+        "url": "https://github.com/Nhat-Nguyet/nhatnguyet-lunar-ziwei-bazi-numerology",
+        "description": "Lunisolar calendar, Zi Wei Dou Shu, BaZi, numerology, I Ching and feng shui for JavaScript and Python: astronomically accurate (NASA, IMCCE), country-aware (China, Korea, Japan, Vietnam and 7 more), results in English, Chinese and Vietnamese. MCP server for AI, 17,291 shared test vectors, open datas",
+        "stars": 26,
+        "language": "TypeScript",
+        "topics": [
+          "bazi",
+          "chinese-astrology",
+          "chinese-calendar",
+          "dataset",
+          "feng-shui",
+          "four-pillars",
+          "i-ching",
+          "korean-calendar"
+        ],
+        "created_at": "2026-11-19T03:07:16Z",
+        "score": 5.75,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "AlodiumProtocol/crm",
+        "title": "AlodiumProtocol/crm",
+        "url": "https://github.com/AlodiumProtocol/crm",
+        "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
+        "stars": 51,
+        "language": "TypeScript",
+        "topics": [],
+        "created_at": "2026-11-19T14:31:20Z",
+        "score": 5.7,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "Peteroooooooo/remote-control",
+        "title": "Peteroooooooo/remote-control",
+        "url": "https://github.com/Peteroooooooo/remote-control",
+        "description": "Single-exe Windows remote desktop, shell and AI Agent control over P2P.",
+        "stars": 23,
+        "language": "Rust",
+        "topics": [],
+        "created_at": "2026-11-18T04:39:16Z",
+        "score": 5.58,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "miya-tonya/night-ferry",
+        "title": "miya-tonya/night-ferry",
+        "url": "https://github.com/miya-tonya/night-ferry",
+        "description": "夜航船 Night Ferry — one short bedtime article a night, written by your AI. Writing tool, Wikimedia Commons picture pipeline, MCP server, and a reader page shaped like a ship's log.",
+        "stars": 18,
+        "language": "JavaScript",
+        "topics": [
+          "ai-companion",
+          "bedtime-stories",
+          "claude",
+          "mcp",
+          "reader",
+          "webgl",
+          "wikimedia-commons"
+        ],
+        "created_at": "2026-11-22T05:32:34Z",
+        "score": 5.25,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "eamonhou/eamon-claw",
+        "title": "eamonhou/eamon-claw",
+        "url": "https://github.com/eamonhou/eamon-claw",
+        "description": "eamon agent framework",
+        "stars": 18,
+        "language": "Go",
+        "topics": [],
+        "created_at": "2026-11-20T13:36:27Z",
+        "score": 5.25,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "arhen/nodwarden",
+        "title": "arhen/nodwarden",
+        "url": "https://github.com/arhen/nodwarden",
+        "description": "Approve AI agents' Bitwarden secret requests from your MacBook notch, with Touch ID.",
+        "stars": 26,
+        "language": "Rust",
+        "topics": [
+          "ai-agents",
+          "bitwarden",
+          "dynamic-island",
+          "macos",
+          "touch-id"
+        ],
+        "created_at": "2026-11-18T13:18:55Z",
+        "score": 4.75,
+        "signals": [
+          "new"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
