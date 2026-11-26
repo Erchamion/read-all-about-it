@@ -1,0 +1,1016 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T22:05:11+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+        "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+        "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+        "source": "huggingface",
+        "published": "2026-11-26T11:37:17+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+        "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+        "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+        "source": "huggingface",
+        "published": "2026-11-26T05:05:36+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      },
+      {
+        "id": "https://huggingface.co/blog/training-swarms",
+        "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+        "url": "https://huggingface.co/blog/training-swarms",
+        "source": "huggingface",
+        "published": "2026-11-26T00:00:00+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      }
+    ],
+    "github": [
+      {
+        "id": "nexu-io/opengame",
+        "title": "nexu-io/opengame",
+        "url": "https://github.com/nexu-io/opengame",
+        "description": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
+        "stars": 734,
+        "language": "TypeScript",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "ai-game-generator",
+          "claude-code",
+          "codex",
+          "deepseek",
+          "deepseek-harness",
+          "dsh"
+        ],
+        "created_at": "2026-11-25T10:35:45Z",
+        "score": 11.52,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "es-ine/mcp",
+        "title": "es-ine/mcp",
+        "url": "https://github.com/es-ine/mcp",
+        "description": "MCP server connecting AI assistants to the Spanish National Statistics Institute (INE) public API. Enables access to official demographic, economic and social statistics, making it easy to search, retrieve and analyze reliable data using natural language.",
+        "stars": 136,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-11-26T08:25:48Z",
+        "score": 8.1,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "yulongwu-x/BriefCheck",
+        "title": "yulongwu-x/BriefCheck",
+        "url": "https://github.com/yulongwu-x/BriefCheck",
+        "description": "Catch hallucinated diff citations in any AI PR review — zero-dependency Python CLI, MCP server, Agent Skill, live playground, and GitHub Action.",
+        "stars": 19,
+        "language": "Python",
+        "topics": [
+          "agent-skill",
+          "ai-code-review",
+          "claude-code",
+          "cli",
+          "code-review",
+          "codex",
+          "cursor",
+          "github"
+        ],
+        "created_at": "2026-11-22T10:48:53Z",
+        "score": 7.32,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "ankurmans/caldrin-search-oss",
+        "title": "ankurmans/caldrin-search-oss",
+        "url": "https://github.com/ankurmans/caldrin-search-oss",
+        "description": "SEO and AI-visibility platform with an MCP server. Self-host on Cloudflare with your own provider keys.",
+        "stars": 69,
+        "language": "TypeScript",
+        "topics": [
+          "aeo",
+          "ai-visibility",
+          "cloudflare-workers",
+          "mcp",
+          "rank-tracking",
+          "self-hosted",
+          "seo"
+        ],
+        "created_at": "2026-11-25T06:18:10Z",
+        "score": 7.13,
+        "signals": [
+          "new",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "duyunzhoudyz/dyz-plain-talk-decoder",
+        "title": "duyunzhoudyz/dyz-plain-talk-decoder",
+        "url": "https://github.com/duyunzhoudyz/dyz-plain-talk-decoder",
+        "description": "人话解码器：信息降噪与实质提炼助手。用 AI Agent 自动抓取、分类、祛魅与核查文章、通稿和视频，剥离废话与利益方滤镜，讲清事实、潜台词和建议。",
+        "stars": 68,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-11-24T15:18:47Z",
+        "score": 7.11,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "OpenSAE/EverResearch",
+        "title": "OpenSAE/EverResearch",
+        "url": "https://github.com/OpenSAE/EverResearch",
+        "description": "Give your AI agent the tools to organize, check, and reproduce research projects. Works with Claude Code, Codex, Cursor, Gemini CLI and more.",
+        "stars": 52,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-11-19T03:42:38Z",
+        "score": 6.73,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "agivanttechnologies/SlopSquatShield",
+        "title": "agivanttechnologies/SlopSquatShield",
+        "url": "https://github.com/agivanttechnologies/SlopSquatShield",
+        "description": "SlopSquatShield checks the packages that you or your AI coding agent install, and blocks names that don't exist or look like slopsquatting traps. It supports npm, PyPI and Maven, and it runs in your terminal, in AI agent hooks, on git commit and in your IDE.",
+        "stars": 50,
+        "language": "TypeScript",
+        "topics": [
+          "ai-coding",
+          "claude-code",
+          "cli-tool",
+          "coding-agents",
+          "dependency-security",
+          "extensions",
+          "hallucinated-packages",
+          "maven"
+        ],
+        "created_at": "2026-11-22T11:50:35Z",
+        "score": 6.67,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "clipy-recorder/clipy",
+        "title": "clipy-recorder/clipy",
+        "url": "https://github.com/clipy-recorder/clipy",
+        "description": "The AI-native screen recorder. Record your screen and talk; the people you share it with and your AI agents both get it.",
+        "stars": 40,
+        "language": "Rust",
+        "topics": [
+          "agent-readable",
+          "ai-agents",
+          "arec",
+          "claude-code",
+          "codex",
+          "cursor",
+          "local-first",
+          "macos"
+        ],
+        "created_at": "2026-11-22T16:08:49Z",
+        "score": 6.36,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "Monesgoda/AgntX-Hunter",
+        "title": "Monesgoda/AgntX-Hunter",
+        "url": "https://github.com/Monesgoda/AgntX-Hunter",
+        "description": "penetration-testing / Bug Hunting / Red team  agent framework for OpenCode — 17 scope-gated agents, evidence-first validation, mandatory human review.",
+        "stars": 38,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-11-26T14:22:37Z",
+        "score": 6.29,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "renthelautomations/app-launch-video",
+        "title": "renthelautomations/app-launch-video",
+        "url": "https://github.com/renthelautomations/app-launch-video",
+        "description": "Claude skill for Apple-keynote-style app launch films: real UI components in Remotion, spring-physics motion, synced spatial sound, storyboard + frame-level QA, 16:9/9:16/1:1 delivery.",
+        "stars": 18,
+        "language": "Python",
+        "topics": [
+          "app-marketing",
+          "claude-code",
+          "claude-skill",
+          "launch-video",
+          "motion-design",
+          "remotion",
+          "sound-design",
+          "video"
+        ],
+        "created_at": "2026-11-24T13:35:30Z",
+        "score": 5.25,
+        "signals": [
+          "new",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "davidalfasunarna/3d-engineering-video-claude-skills",
+        "title": "davidalfasunarna/3d-engineering-video-claude-skills",
+        "url": "https://github.com/davidalfasunarna/3d-engineering-video-claude-skills",
+        "description": "",
+        "stars": 30,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-11-23T11:38:12Z",
+        "score": 4.95,
+        "signals": [
+          "new"
+        ]
+      },
+      {
+        "id": "fgsdg7590-sys/-coregold-usdt-vcc-industry-ai-workflows-payment-readiness-guide",
+        "title": "fgsdg7590-sys/-coregold-usdt-vcc-industry-ai-workflows-payment-readiness-guide",
+        "url": "https://github.com/fgsdg7590-sys/-coregold-usdt-vcc-industry-ai-workflows-payment-readiness-guide",
+        "description": "Following November 2026 announcements around industry-specific agentic platforms like IBM and Microsoft's Imagine Enterprise, builders adapting vertical AI tools need straightforward payment setup for testing, extensions, and global services.",
+        "stars": 28,
+        "language": null,
+        "topics": [
+          "ai",
+          "api",
+          "apple",
+          "applepa",
+          "coregold",
+          "vcc"
+        ],
+        "created_at": "2026-11-24T10:18:11Z",
+        "score": 4.86,
+        "signals": [
+          "new"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "id": "2611.34132v1",
+        "title": "Agent-as-a-Verifier: From Scores to Evidence for General Verification",
+        "url": "https://arxiv.org/abs/2611.34132v1",
+        "authors": [
+          "Yuxuan Sun",
+          "Hao",
+          "Chen",
+          "Nagarajan Natarajan",
+          "Sushrut Karmalkar",
+          "Niranjani Prasad"
+        ],
+        "snippet": "Verification is increasingly critical across various inference and learning paradigms, such as test-time scaling, recursive intelligence and automated research, where feedback can improve efficiency and optimization. Common score-based verifiers, or discriminative reward models, predict a scalar reward for an output. While useful for filtering, rewarding, and ranking, such scores provide no explic",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-11-25T10:31:08+00:00",
+        "score": 6.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:tool use"
+        ]
+      },
+      {
+        "id": "2611.34635v1",
+        "title": "ZeroHero: Training Small Language Agents from Scratch",
+        "url": "https://arxiv.org/abs/2611.34635v1",
+        "authors": [
+          "Nikita Sorokin",
+          "Zoya Volovikova",
+          "Alexey Skrynnik",
+          "Aleksandr Panov"
+        ],
+        "snippet": "Large pretrained language models provide capable policies for interactive tasks, but how much model capacity is necessary for a specialized language agent? We introduce ZeroHero, a framework for training small language agents (SLAs) from scratch. In each environment, a large language model acts as the expert, and we collect its successful trajectories. We pretrain each SLA, which has fewer than 50",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-11-25T16:20:13+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:large language model",
+          "keyword:agent",
+          "keyword:reasoning",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2611.34575v1",
+        "title": "Sage-Med: Scaling Medical Multimodal Intelligence",
+        "url": "https://arxiv.org/abs/2611.34575v1",
+        "authors": [
+          "Sage-Med Team",
+          ":",
+          "Ming Hu",
+          "Cheng Tang",
+          "Wei Li",
+          "Rongbin Li"
+        ],
+        "snippet": "Establishing effective scaling laws for medical multimodal large language models (MLLMs) remains a persistent and fundamental challenge. Our systematic evaluation shows that existing medical MLLMs tend to underperform frontier general-purpose MLLMs across a range of medical tasks, while scaling model size primarily improves text capabilities rather than multimodal perception, and enabling reasonin",
+        "categories": [
+          "cs.CV",
+          "cs.AI"
+        ],
+        "published": "2026-11-25T15:39:45+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:benchmark",
+          "keyword:fine-tuning",
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2611.34529v1",
+        "title": "AliceAI-Foundation-80B-A3B-Base",
+        "url": "https://arxiv.org/abs/2611.34529v1",
+        "authors": [
+          "Nikolay Skachkov",
+          "Ekaterina Redina",
+          "Maksim Konoplev",
+          "Evgenii Uskov",
+          "Veronika Zykova",
+          "Ivan Tsarikov"
+        ],
+        "snippet": "We present AliceAI-Foundation-80B-A3B-Base, a mixture-of-experts language model with 80 billion total parameters and approximately 3 billion active parameters per token, trained from scratch at Yandex and released under the Apache 2.0 license. The model combines Kimi Delta Attention with full attention, uses Attention Residuals, and is trained with Muon. Training comprises general pretraining on 1",
+        "categories": [
+          "cs.CL",
+          "cs.LG"
+        ],
+        "published": "2026-11-25T15:14:56+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:reasoning",
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2611.34440v1",
+        "title": "vSFT: Learning to Verbally Tune Agents at Test Time",
+        "url": "https://arxiv.org/abs/2611.34440v1",
+        "authors": [
+          "Qishuai Wen",
+          "Rui Chen",
+          "Haiwen Li",
+          "Zhiyuan Huang",
+          "Qiwen Gu",
+          "Bingjie Gao"
+        ],
+        "snippet": "Large language model agents are increasingly improved via agentic reinforcement learning, which can be on-policy but suffers from expensive rollouts and sparse rewards, limiting its application at test time. In this paper, we present a verbally Supervised Fine-Tuning (vSFT) framework that enables the conjunction of dense feedback in natural language and weight updates at test time. Specifically, o",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "cs.LG"
+        ],
+        "published": "2026-11-25T14:22:22+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:large language model",
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2611.34400v1",
+        "title": "EvoLink-Bench: A Benchmark for Evaluating Self-Evolving Agents in Long-Horizon Interdependent Task Streams",
+        "url": "https://arxiv.org/abs/2611.34400v1",
+        "authors": [
+          "Wei Chen",
+          "Xiaodong Lu",
+          "Weihao Shen",
+          "Gongxun Li",
+          "Xingyu Guo",
+          "Qihang Sun"
+        ],
+        "snippet": "Large language model (LLM) agents are evolving from passive chatbots into autonomous systems that operate continuously in dynamic environments. Such agents need not only solve current tasks but also learn from past interactions to improve future performance. However, existing streaming benchmarks often rely on short task sequences or largely independent tasks, providing limited evidence of whether",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-11-25T14:00:22+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:agent",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2611.34303v1",
+        "title": "IRTIQA: Evolving in English, Evaluated in Urdu -- Does Agent Self-Evolution Transfer from English to Urdu and Code-Switched Input?",
+        "url": "https://arxiv.org/abs/2611.34303v1",
+        "authors": [
+          "Abdullah Hashmat",
+          "Danish Javed",
+          "Usman Naseem",
+          "Agha Ali Raza"
+        ],
+        "snippet": "As LLM agents increasingly learn from their own experience, the tasks they learn from and are evaluated on are almost always in English. We ask whether self-evolution transfers from English to Urdu, and release IRTIQA, a benchmark of aligned English, Urdu-translated, and Urdu code-switched variants of DROP, SNIPS, AppWorld, and SkillsBench, built with a matrix-language code-switching pipeline and ",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-11-25T12:56:41+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:agent",
+          "keyword:reasoning",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2611.34278v1",
+        "title": "Latent-in-the-Middle: On the Security of Cross-Model Latent Communication in Multi-Agent Systems",
+        "url": "https://arxiv.org/abs/2611.34278v1",
+        "authors": [
+          "Manit Baser",
+          "Vyoman Jain",
+          "Rachel Yeo Hui Min",
+          "Xianglin Yang",
+          "Meenatchi Sundaram Muthu Selva Annamalai",
+          "Dinil Mon Divakaran"
+        ],
+        "snippet": "As large language models increasingly collaborate in heterogeneous multi-agent systems, latent communication has emerged as an efficient alternative to exchanging natural-language messages. By sharing internal representations, agents can avoid repeatedly processing the same context, reducing communication overhead and prefill computation. One such mechanism is cross-model Key-Value (KV) cache tran",
+        "categories": [
+          "cs.CR",
+          "cs.AI"
+        ],
+        "published": "2026-11-25T12:35:33+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:benchmark",
+          "keyword:alignment",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2611.34188v1",
+        "title": "MINE: A Training-Free Defense against Indirect Prompt Injection via Mutual Information and Embedding Variance",
+        "url": "https://arxiv.org/abs/2611.34188v1",
+        "authors": [
+          "Truong Phan",
+          "Ngoc-Quan Pham",
+          "Dat Quoc Nguyen"
+        ],
+        "snippet": "Existing defenses against indirect prompt injection in retrieval-augmented generation (RAG) are inherently reactive: prompt-engineering methods are often overridden by the injected instructions, while supervised detectors must be retrained for each new attack style. We propose a different paradigm: defend by maximizing relevance, not by detecting attacks. Our method, MINE, is training-free and att",
+        "categories": [
+          "cs.CL",
+          "cs.AI"
+        ],
+        "published": "2026-11-25T11:16:43+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:benchmark",
+          "keyword:retrieval",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2611.34152v1",
+        "title": "Lost in the Grid: Where Multimodal LLMs Fail Between Seeing and Planning",
+        "url": "https://arxiv.org/abs/2611.34152v1",
+        "authors": [
+          "Luoxi Zhang",
+          "Tianyi Tan",
+          "Jiawei Liu",
+          "Xingyu Zeng",
+          "Min Yang",
+          "Shiwen Ni"
+        ],
+        "snippet": "Multimodal large language models (MLLMs) excel at static visual understanding and are increasingly applied to spatial planning, where a model interprets a visual layout and outputs an action sequence to reach a goal. Grid games are a common testbed for this ability because their rules are explicit and a solver can verify every move. Yet existing benchmarks mostly report end-to-end success rates, w",
+        "categories": [
+          "cs.CV",
+          "cs.AI"
+        ],
+        "published": "2026-11-25T10:46:43+00:00",
+        "score": 4.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:benchmark",
+          "keyword:fine-tuning",
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2611.34881v1",
+        "title": "Stranger Things: When Objects Appear Without Their Typical Neighbors",
+        "url": "https://arxiv.org/abs/2611.34881v1",
+        "authors": [
+          "Siddhartha Gairola",
+          "Jiahao Xie",
+          "Anna Kukleva",
+          "Francesco Locatello",
+          "Bernt Schiele"
+        ],
+        "snippet": "Visual context is a powerful cue for object recognition: scenes inform what, where, and at what scale objects are likely to appear. Yet over-reliance on context becomes a failure mode when models predict objects based on their typical neighbors rather than the objects' own visual features, which we call typicality bias. While extensively studied in the pre-Transformer era, it has often been assume",
+        "categories": [
+          "cs.CV",
+          "cs.LG"
+        ],
+        "published": "2026-11-25T18:39:28+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:benchmark",
+          "keyword:multimodal",
+          "keyword:transformer"
+        ]
+      },
+      {
+        "id": "2611.34864v1",
+        "title": "RePace: Reasoning about Demonstration Speedup for Faster Vision-Language-Action Policies",
+        "url": "https://arxiv.org/abs/2611.34864v1",
+        "authors": [
+          "Insup Lee",
+          "Hojin Jeon",
+          "Sunguk Shin",
+          "Seoungbin Bae",
+          "Taekwan Kim",
+          "Jinwoo Shin"
+        ],
+        "snippet": "Since vision-language-action (VLA) policies can inherit the slow pace of human demonstrations, accelerating these demonstrations before fine-tuning can lead to faster VLA policies without an additional speed-selection module at deployment. Several offline speedup methods have focused on identifying segments that require less precision and assigning predefined speedup factors to the segments. Howev",
+        "categories": [
+          "cs.RO",
+          "cs.AI"
+        ],
+        "published": "2026-11-25T18:30:43+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:fine-tuning",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2611.34825v1",
+        "title": "Routeability Before Routing: Routeability Audit Protocol (RAP) and RouteabilityBench for Audited LLM Model Selection",
+        "url": "https://arxiv.org/abs/2611.34825v1",
+        "authors": [
+          "Yihang Lu",
+          "Denica Kjorvezir",
+          "Ana Gjorgjevikj",
+          "Carola Doerr",
+          "Tome Eftimov"
+        ],
+        "snippet": "LLM routing aims to choose, for each prompt, which model in a portfolio is most likely to answer correctly. This only makes sense when the benchmark contains enough prompt-specific variation for different models to be best on different inputs. On coarse-scored LLM benchmarks, however, many models often tie for the best score, and the single best model may already leave little room for improvement.",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-11-25T18:08:01+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:benchmark",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2611.34813v1",
+        "title": "Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models",
+        "url": "https://arxiv.org/abs/2611.34813v1",
+        "authors": [
+          "Dezhi Luo",
+          "Fengyuan Yu",
+          "Haotian Zhang",
+          "Zehong Zhao",
+          "Ran Ji",
+          "Siyuan An"
+        ],
+        "snippet": "Video generation models are increasingly evaluated as visual reasoners: given a first frame and a natural-language prompt, can the model produce the video in which the specified task is carried out? The paradigm is considered advantageous because the reasoning is native to the visual medium, unfolding directly in the frames rather than through language or code. Whether this native route is in fact",
+        "categories": [
+          "cs.CV",
+          "cs.AI",
+          "cs.LG",
+          "cs.MM"
+        ],
+        "published": "2026-11-25T18:01:22+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:reasoning",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2611.34785v1",
+        "title": "PersonaFactory: Stylistic User Prompt Augmentation with Synthetic Persona Bank",
+        "url": "https://arxiv.org/abs/2611.34785v1",
+        "authors": [
+          "Bich Ngoc Doan",
+          "Hanna Yukhymenko",
+          "Imanol Schlag"
+        ],
+        "snippet": "Large language models increasingly replace real people in the AI development pipeline, as they are used to generate training dialogues at scale and to drive alignment and evaluation. However, out-of-the-box models produce monolingual and stylistically flat texts as synthetic user prompts, failing to replicate the real user-AI communication mechanics. We present PersonaFactory, an end-to-end pipeli",
+        "categories": [
+          "cs.CL",
+          "cs.AI",
+          "cs.LG"
+        ],
+        "published": "2026-11-25T17:42:31+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:alignment",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2611.34762v1",
+        "title": "TASK Memory: Beyond Text-Only Memory with Activation Steering and Knowledge Editing against Memory Hallucination",
+        "url": "https://arxiv.org/abs/2611.34762v1",
+        "authors": [
+          "Jinkun Zhao",
+          "Wenjun Wu"
+        ],
+        "snippet": "LLM agents increasingly rely on external memory, yet they still hallucinate about what they remember. Often the correct memory is retrieved and placed in the prompt, but the answer contradicts it or the memory is applied to the wrong question. We call these use-time memory hallucinations. Across five open models, we find that they arise from the conflict between parametric knowledge and external m",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-11-25T17:30:37+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:retrieval",
+          "keyword:prompt"
+        ]
+      },
+      {
+        "id": "2611.34751v1",
+        "title": "What Is a Theory Worth to an LLM Solver? Measuring, Inducing, and Merging Theories in Context",
+        "url": "https://arxiv.org/abs/2611.34751v1",
+        "authors": [
+          "Jun Gao",
+          "Shuchao Bi"
+        ],
+        "snippet": "Mathematicians solve problems faster when they know the right theory. We ask how much a stated theory is worth to a large language model (LLM) solver, and whether a model can write that theory itself. In a length-matched protocol, adding the right theory to the context of Qwen3-14B raises pass@1 on pattern waiting-time problems from 0.37 to 0.83 and cuts the median tokens of correct solutions from",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-11-25T17:25:56+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2611.34690v1",
+        "title": "PoVi: Agentic Poetry-to-Video Generation with Knowledge Grounding and Figurative Understanding",
+        "url": "https://arxiv.org/abs/2611.34690v1",
+        "authors": [
+          "Yuxia Zhu",
+          "Shiying Zhang",
+          "Lingzhuang Sun",
+          "Song Yang",
+          "Siheng Wu",
+          "Xinglong Xu"
+        ],
+        "snippet": "Poetry-to-video generation requires more than translating text into visual scenes. Poetic language is highly compressed, often depends on historical and cultural knowledge, and frequently conveys meaning through metaphor, imagery, and other non-literal expressions. We introduce PoVi, a benchmark and agentic framework for grounded poetry-to-video generation, evaluating semantic grounding, discourse",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-11-25T16:50:03+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agentic",
+          "keyword:benchmark",
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2611.34675v1",
+        "title": "RoboEvo$^2$: Recursive Robot Self-Improvement via Harness-Policy Co-Evolution",
+        "url": "https://arxiv.org/abs/2611.34675v1",
+        "authors": [
+          "Chenzhi Liu",
+          "Jiehong Lin",
+          "Wei Huang",
+          "Xuzhao Huang",
+          "Haoyuan Li",
+          "Yang Zhang"
+        ],
+        "snippet": "Robots should adapt to unfamiliar environments and acquire new skills through interaction, then execute those skills efficiently with practice. Vision-language-action policies provide efficient control, but often need additional human demonstrations to handle unfamiliar settings; reasoning agents can discover solutions using broad prior knowledge and robot-control APIs, but repeated deliberation a",
+        "categories": [
+          "cs.RO",
+          "cs.AI",
+          "cs.CV"
+        ],
+        "published": "2026-11-25T16:39:10+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:reasoning"
+        ]
+      },
+      {
+        "id": "2611.34603v1",
+        "title": "VisualMontage: Manipulating the Beliefs of Vision-Language Agents with Authentic Image Sequences",
+        "url": "https://arxiv.org/abs/2611.34603v1",
+        "authors": [
+          "Jinwei Hu",
+          "Lai Wei",
+          "Zhuoyun Li",
+          "Youcheng Sun",
+          "Yi Dong",
+          "Xiaowei Huang"
+        ],
+        "snippet": "As agents based on vision-language models (VLMs) increasingly interpret social-media content, errors in their analysis may lend credibility to rumors and amplify their spread. In this paper, we study the problem of visual cognitive collusion, in which coordinated posts combine authentic images and locally faithful captions to induce VLM agents to infer and accept attacker-chosen target claims thro",
+        "categories": [
+          "cs.CV",
+          "cs.AI",
+          "cs.MA",
+          "cs.SI"
+        ],
+        "published": "2026-11-25T15:57:55+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:reasoning",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2611.34341v1",
+        "title": "Learning from Unreliable Operator References: Claim-Level Rewards for Customer Support Agents",
+        "url": "https://arxiv.org/abs/2611.34341v1",
+        "authors": [
+          "Dmitrii Stoianov",
+          "Olga Tsymboi",
+          "Danil Taranets",
+          "Daniil Strizhakov",
+          "Ilya Buryak",
+          "Almaz Dautov"
+        ],
+        "snippet": "Even a correct operator reply can be an unreliable training target for a customer-support agent. About a quarter of the factual claims in these replies lacked full support in the agent's knowledge base and tool records. We treat operator replies as claims to verify rather than answers to imitate. Unverified claims guide revisions to the knowledge base and tools. Verified claims serve as coverage t",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-11-25T13:14:22+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:benchmark",
+          "keyword:fine-tuning"
+        ]
+      },
+      {
+        "id": "2611.34331v1",
+        "title": "Puzzling-Bench: Evaluating Language Models on 23,777 Human-Written Puzzles with Community-Verified Answers",
+        "url": "https://arxiv.org/abs/2611.34331v1",
+        "authors": [
+          "Abhinav Sharma",
+          "Li Li",
+          "Chien Van Nguyen",
+          "Sai Karthik Navuluru",
+          "Bo Ni",
+          "Xiangbo Gao"
+        ],
+        "snippet": "We introduce Puzzling-Bench, a benchmark of 23,777 puzzles with community-verified answers drawn from the Puzzling Stack Exchange archive (2014-2026): riddles, ciphers, logic grids, lateral-thinking problems, wordplay and recreational mathematics, a third of them with images. Every puzzle carries the answer accepted by its author, a short reference answer taken from it (LLM-extracted for the evalu",
+        "categories": [
+          "cs.CL",
+          "cs.AI",
+          "cs.LG"
+        ],
+        "published": "2026-11-25T13:10:49+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:benchmark",
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2611.34250v1",
+        "title": "MedSkill-E$^{2}$: Evaluating and Evolving Skills for Medical Agents",
+        "url": "https://arxiv.org/abs/2611.34250v1",
+        "authors": [
+          "Jingjing Hua",
+          "Shaocong Wei",
+          "Jianghan Shen",
+          "Junzhi Ning",
+          "Min Cen",
+          "Cheng Tang"
+        ],
+        "snippet": "Large language model (LLM) agents increasingly use skills to access domain knowledge and complete real-world tasks. We observe that even when a skill specifies the rules and procedures needed for a task, agents may fail to apply them effectively during autonomous execution, a phenomenon we call skill Enable But Underuse (EBU). This issue is particularly consequential in medical tasks, where overlo",
+        "categories": [
+          "cs.AI",
+          "cs.CL"
+        ],
+        "published": "2026-11-25T12:13:27+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:large language model",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2611.34249v1",
+        "title": "Navigent: A Geometry-Grounded Agentic Framework for Vision Language Navigation",
+        "url": "https://arxiv.org/abs/2611.34249v1",
+        "authors": [
+          "Xinyu Zhou",
+          "Weiren Cai",
+          "Yitong Chen",
+          "Shenghai Yuan",
+          "Zihang Mu",
+          "Boyu Ma"
+        ],
+        "snippet": "Vision-and-Language Navigation (VLN) with general-purpose multimodal large language models (MLLMs) offers a flexible alternative to task-specific navigation policies, while reliable long-horizon execution remains challenging. Agents must track navigation progress, detect discrepancies between commanded and actual motion, and recognize when movement has passed relevant landmarks or entrances. We pr",
+        "categories": [
+          "cs.AI"
+        ],
+        "published": "2026-11-25T12:12:31+00:00",
+        "score": 3.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:agentic",
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2611.34935v1",
+        "title": "Can image generation help visual reasoning? An empirical study",
+        "url": "https://arxiv.org/abs/2611.34935v1",
+        "authors": [
+          "Xueyang Yu",
+          "Yifan Jing",
+          "Taiming Lu",
+          "Linrong Cai",
+          "Zhipeng Cai",
+          "Yunyang Xiong"
+        ],
+        "snippet": "Language models think in words; then multimodal models might think in images. We test whether a generated helper improves the answer to a visual question. A model describes the helper it needs and then answers using the original and generated images together. Across 13 vision-language model and generator pairs, generation lowers mean accuracy by 3.7 percentage points, with declines on nine of ten ",
+        "categories": [
+          "cs.LG",
+          "cs.CL",
+          "cs.CV"
+        ],
+        "published": "2026-11-25T18:59:31+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:multimodal"
+        ]
+      },
+      {
+        "id": "2611.34930v1",
+        "title": "A gene informed benchmark for BioScoring of pathology foundation models",
+        "url": "https://arxiv.org/abs/2611.34930v1",
+        "authors": [
+          "Paul Vilars",
+          "Vincent Quoc-Huy Trinh",
+          "Maria Vakalopoulou",
+          "Dimitris Samaras",
+          "Stergios Christodoulidis",
+          "Mahdi S. Hosseini"
+        ],
+        "snippet": "Pathology foundation models are usually compared by their performance on downstream tasks such as classification and retrieval. While such benchmarks measure how useful a model is, they provide no insight into the biology it represents. We introduce BioScore, a benchmark that quantifies how well an image encoder captures cell identities, with spatial transcriptomics of the same tissue as the refer",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-11-25T18:59:13+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:benchmark",
+          "keyword:retrieval"
+        ]
+      },
+      {
+        "id": "2611.34920v1",
+        "title": "$μ$-Bench: Benchmarking Multi-User Task Completion in Shared Interaction Voice Agents",
+        "url": "https://arxiv.org/abs/2611.34920v1",
+        "authors": [
+          "Qihao Lin",
+          "Guanxu Chen",
+          "Shuhang Zheng",
+          "Xiaoya Lu",
+          "Jingyi Yang",
+          "Terumi Chiba"
+        ],
+        "snippet": "Voice agents in shared spaces must satisfy interdependent multi-user requests while upholding per-user authority, privacy, and task constraints. Existing evaluations offer limited coverage when participants react throughout a session. We introduce $μ$-Bench, a benchmark for joint task completion in closed-loop, full-duplex multi-user voice interaction. Simulated participants act from isolated prof",
+        "categories": [
+          "cs.CL",
+          "cs.AI"
+        ],
+        "published": "2026-11-25T18:58:42+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2611.34852v1",
+        "title": "DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents",
+        "url": "https://arxiv.org/abs/2611.34852v1",
+        "authors": [
+          "Han Huang",
+          "Yuchen Yan",
+          "Xingyu Wu",
+          "Yijun Li",
+          "Chao Deng",
+          "Jie Liu"
+        ],
+        "snippet": "Deep research agents gather information from multiple sources and synthesize it into reports on complex, open-ended questions. Existing benchmarks assess report quality along several dimensions, but lack a dedicated knowledge-centric evaluation of which research directions a report covers and how deeply it explores them. We introduce DRBench Pro, a benchmark that makes structured knowledge coverag",
+        "categories": [
+          "cs.CL",
+          "cs.AI"
+        ],
+        "published": "2026-11-25T18:25:30+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:agent",
+          "keyword:benchmark"
+        ]
+      },
+      {
+        "id": "2611.34848v1",
+        "title": "Put the World Back: Timestamps Matter in Time Series Reasoning",
+        "url": "https://arxiv.org/abs/2611.34848v1",
+        "authors": [
+          "Tingrui Huang",
+          "Yuanyuan Deng",
+          "Qingren Yao",
+          "Joaquin Vanschoren",
+          "Mykola Pechenizkiy",
+          "Songgaojun Deng"
+        ],
+        "snippet": "Large language models (LLMs) are increasingly applied to time series reasoning. However, current evaluations often give models events in chronological order and already matched to the time series. This makes it unclear whether models use timestamps to connect events with observations or simply take shortcuts. To expose this ambiguity, we reformulate time series reasoning from a world-to-series pro",
+        "categories": [
+          "cs.LG"
+        ],
+        "published": "2026-11-25T18:23:07+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:reasoning",
+          "keyword:alignment"
+        ]
+      },
+      {
+        "id": "2611.34823v1",
+        "title": "The Linguistic Knowledge Benchmark: Do Language Models Know the Foundations of Early-Grade Literacy?",
+        "url": "https://arxiv.org/abs/2611.34823v1",
+        "authors": [
+          "Maxime Lelièvre",
+          "Alasdair Mackintosh",
+          "Dominic Andrews",
+          "Tobias Murray",
+          "Moritz Boos",
+          "Oliver G. B. Garrod"
+        ],
+        "snippet": "Many languages of instruction in low- and middle-income countries (LMICs) are poorly represented in the data used to train language models. Before these models can support early-grade literacy in such languages, we need to know whether they hold the linguistic knowledge of each language that literacy teaching relies on. To test this, we present the Linguistic Knowledge Benchmark and the reproducib",
+        "categories": [
+          "cs.CL"
+        ],
+        "published": "2026-11-25T18:07:44+00:00",
+        "score": 2.0,
+        "signals": [
+          "keyword:llm",
+          "keyword:benchmark"
+        ]
+      }
+    ]
+  }
+}
