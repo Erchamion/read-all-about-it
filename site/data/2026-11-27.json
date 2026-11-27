@@ -1,0 +1,283 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T21:47:25+00:00",
+  "errors": [],
+  "categories": {
+    "announcements": [
+      {
+        "id": "https://huggingface.co/blog/video-trainium3",
+        "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+        "url": "https://huggingface.co/blog/video-trainium3",
+        "source": "huggingface",
+        "published": "2026-11-27T00:00:00+00:00",
+        "snippet": "",
+        "score": 1.0,
+        "signals": []
+      }
+    ],
+    "github": [
+      {
+        "id": "alvarez29985/claude-code-cli-windows-native-installer",
+        "title": "alvarez29985/claude-code-cli-windows-native-installer",
+        "url": "https://github.com/alvarez29985/claude-code-cli-windows-native-installer",
+        "description": "Claude Code CLI Windows Native Installer — Anthropic Agentic Terminal, MCP Server & Git",
+        "stars": 73,
+        "language": "Go",
+        "topics": [
+          "claude-bypass-windows",
+          "claude-bypass-x64",
+          "claude-code-cli-2026",
+          "claude-code-cli-cli",
+          "claude-code-cli-installer",
+          "claude-code-cli-windows-11",
+          "claude-context-window",
+          "claude-copilot"
+        ],
+        "created_at": "2026-11-27T18:55:57Z",
+        "score": 8.21,
+        "signals": [
+          "new",
+          "keyword:mcp",
+          "keyword:copilot"
+        ]
+      },
+      {
+        "id": "SamuelZ12/research-sources",
+        "title": "SamuelZ12/research-sources",
+        "url": "https://github.com/SamuelZ12/research-sources",
+        "description": "CLI for AI agents to read what web search misses on X, Reddit and more",
+        "stars": 94,
+        "language": "Python",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "claude-code",
+          "cli",
+          "hacker-news",
+          "json",
+          "linkedin",
+          "python"
+        ],
+        "created_at": "2026-11-20T19:03:35Z",
+        "score": 7.57,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "TalyxTerminal/TalyxTerminal",
+        "title": "TalyxTerminal/TalyxTerminal",
+        "url": "https://github.com/TalyxTerminal/TalyxTerminal",
+        "description": "A local, open financial terminal: charts, quant research and an AI agent, built from modules. Build limitless. Join our Discord: https://discord.gg/7GZ87RJ8CU",
+        "stars": 37,
+        "language": "Python",
+        "topics": [
+          "ai-agent",
+          "backtesting",
+          "charting",
+          "crypto",
+          "desktop-app",
+          "finance",
+          "mcp",
+          "python"
+        ],
+        "created_at": "2026-11-20T15:25:30Z",
+        "score": 7.25,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "Black-Ghost-Corp/Gaia-harden",
+        "title": "Black-Ghost-Corp/Gaia-harden",
+        "url": "https://github.com/Black-Ghost-Corp/Gaia-harden",
+        "description": "Harden a fresh Ubuntu/Debian server with one command: admin with SSH keys, locked-down SSH, ufw, fail2ban, security updates, kernel hardening, optional Docker/Caddy. Dry-run, idempotent, JSON report, AI-agent skill. Pure Bash.",
+        "stars": 36,
+        "language": "Shell",
+        "topics": [
+          "ai-agents",
+          "bash",
+          "debian",
+          "devops",
+          "docker",
+          "firewall",
+          "hardening",
+          "linux"
+        ],
+        "created_at": "2026-11-24T13:55:41Z",
+        "score": 7.21,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "jyjyxt/awesome-agent-extensions",
+        "title": "jyjyxt/awesome-agent-extensions",
+        "url": "https://github.com/jyjyxt/awesome-agent-extensions",
+        "description": "Curated cross-platform directory of Claude Code plugins, Agent Skills, MCP servers, subagents, and extension tools for AI coding workflows.",
+        "stars": 15,
+        "language": "JavaScript",
+        "topics": [
+          "agent-skills",
+          "agent-workflows",
+          "ai-agents",
+          "ai-coding",
+          "awesome-list",
+          "claude-code",
+          "claude-plugins",
+          "claude-skills"
+        ],
+        "created_at": "2026-11-26T02:41:42Z",
+        "score": 7.0,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:llm",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "panaversity/learn-mcp",
+        "title": "panaversity/learn-mcp",
+        "url": "https://github.com/panaversity/learn-mcp",
+        "description": "The CCDV-F Bootcamp Part I: build, deploy and sell multi-tenant remote MCP servers and MCP Apps for Claude and ChatGPT, step by step, on Cloudflare Workers, Neon and Better Auth. Hands-on CCDV-F and PCDV-F prep, and the companion to The AI Agent Factory book.",
+        "stars": 27,
+        "language": null,
+        "topics": [
+          "agent-skills",
+          "better-auth",
+          "bootcamp-project",
+          "chatgpt",
+          "claude",
+          "cloudflare",
+          "learning-by-doing",
+          "mcp"
+        ],
+        "created_at": "2026-11-25T04:27:45Z",
+        "score": 6.81,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:mcp"
+        ]
+      },
+      {
+        "id": "AlexanderDetkov/droid",
+        "title": "AlexanderDetkov/droid",
+        "url": "https://github.com/AlexanderDetkov/droid",
+        "description": "An AI agent that uses the apps on your Android phone for you: it brings together what they hold and gets the task done.",
+        "stars": 54,
+        "language": "Kotlin",
+        "topics": [
+          "ai-agent",
+          "android",
+          "claude-code",
+          "codex",
+          "jetpack-compose",
+          "kotlin",
+          "opencode"
+        ],
+        "created_at": "2026-11-20T18:54:29Z",
+        "score": 6.78,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "zds-xiaoxin/stardust",
+        "title": "zds-xiaoxin/stardust",
+        "url": "https://github.com/zds-xiaoxin/stardust",
+        "description": "星尘 Agent — 中文 AI Agent 桌面工作台 / Stardust Agent — a desktop workbench for AI coding agents",
+        "stars": 45,
+        "language": "TypeScript",
+        "topics": [
+          "acp",
+          "agent-client-protocol",
+          "ai-agents",
+          "ai-coding",
+          "apple-silicon",
+          "chinese-ui",
+          "claude-code",
+          "claude-code-gui"
+        ],
+        "created_at": "2026-11-25T12:17:04Z",
+        "score": 6.52,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "mibgb65-cloud/OmniMail-APP",
+        "title": "mibgb65-cloud/OmniMail-APP",
+        "url": "https://github.com/mibgb65-cloud/OmniMail-APP",
+        "description": "本地优先、零云端上传的轻量桌面邮件与 AI Agent 邮箱工作台（Go + Wails v3 + React）。原生适配 Linux.do、Meta Muse、WorkBuddy 及 15+ 主流邮局，内置免 Key 保真翻译与 BYOK AI。Local-first desktop mail & AI agent mailbox client.",
+        "stars": 38,
+        "language": "TypeScript",
+        "topics": [
+          "ai-email",
+          "desktop-app",
+          "email-client",
+          "golang",
+          "imap",
+          "local-first",
+          "privacy",
+          "react"
+        ],
+        "created_at": "2026-11-27T00:33:06Z",
+        "score": 6.29,
+        "signals": [
+          "new",
+          "keyword:agent"
+        ]
+      },
+      {
+        "id": "shoal-rat/whetstone",
+        "title": "shoal-rat/whetstone",
+        "url": "https://github.com/shoal-rat/whetstone",
+        "description": "Claude holds the bar, GPT holds the keyboard: a Claude skill that supervises GPT (Codex CLI) through very long builds: contracts, research-first craft, evidence checks, aesthetic direction.",
+        "stars": 15,
+        "language": "Python",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "claude",
+          "claude-code",
+          "code-review",
+          "codex",
+          "game-development",
+          "gpt"
+        ],
+        "created_at": "2026-11-24T14:23:14Z",
+        "score": 6.0,
+        "signals": [
+          "new",
+          "keyword:agent",
+          "keyword:skill"
+        ]
+      },
+      {
+        "id": "Data-Designer/AgentInputLab-toolkit",
+        "title": "Data-Designer/AgentInputLab-toolkit",
+        "url": "https://github.com/Data-Designer/AgentInputLab-toolkit",
+        "description": "AgentInputLab: task-aware input preparation and evaluation toolkit for LLM agents",
+        "stars": 30,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2026-11-23T06:46:27Z",
+        "score": 5.95,
+        "signals": [
+          "new",
+          "keyword:llm"
+        ]
+      }
+    ],
+    "research": []
+  }
+}
